@@ -1,0 +1,14 @@
+import fs from 'node:fs';import path from 'node:path';import crypto from 'node:crypto';import {fileURLToPath} from 'node:url';
+const base=path.dirname(fileURLToPath(import.meta.url)),release=process.argv[2];
+if(!/^[a-z0-9][a-z0-9._-]+$/.test(release||''))throw Error('Indica una versión preparada');
+const load=p=>JSON.parse(fs.readFileSync(p,'utf8').replace(/^\uFEFF/,''));
+const metadata=load(path.join(base,'build',`release-${release}.json`));
+const approval=load(path.join(base,'approvals',release+'.json'));
+for(const key of ['freshInstallVerified','updateVerified','serverReady','distributionRightsReviewed'])if(approval[key]!==true)throw Error('Falta aprobación: '+key);
+if(approval.release!==release)throw Error('La aprobación no corresponde a esta versión');
+if(metadata.localOnly||!metadata.channelUrl.startsWith('https://'))throw Error('No se puede promocionar una URL local o sin HTTPS');
+const manifestPath=path.join(base,'site/releases',release,'manifest.json'),bytes=fs.readFileSync(manifestPath);
+const pointer={schema:1,packId:'puchamon-origins',manifest:`../releases/${release}/manifest.json`,manifestSha256:crypto.createHash('sha256').update(bytes).digest('hex')};
+const dest=path.join(base,'site/channels/stable.json');fs.mkdirSync(path.dirname(dest),{recursive:true});
+fs.writeFileSync(dest+'.new',JSON.stringify(pointer,null,2)+'\n');fs.renameSync(dest+'.new',dest);
+console.log('Versión estable promocionada. Este script no sube archivos, no reinicia servidores ni modifica mundos.');

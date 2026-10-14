@@ -1,0 +1,5 @@
+{
+ "schemaVersion":1,"id":"puchamon_gate","version":"1.0.0","name":"Puchamon Compatibility Gate","environment":"*",
+ "entrypoints":{"main":["local.puchamon.gate.PackGate"],"client":["local.puchamon.gate.GateClient"]},
+ "license":"MIT","depends":{"minecraft":"1.21.1","fabricloader":">=0.19.5","fabric-api":"*","java":">=21"}
+}

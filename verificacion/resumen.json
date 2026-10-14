@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-14",
+  "release": "0.1.0-rc5",
+  "updaterTests": [
+    "Fresh install through real unsup; real child heap 6144 MiB; spaces/accent path",
+    "Update/removal only of tracked files; untracked mods preserved; deleted preferences not recreated",
+    "Graphics/audio/maps/skins/world survive byte-for-byte",
+    "Protected path rejected before updater/game",
+    "Bad download hash blocks launch; no false successful version marker",
+    "Retry returns to approved version after failed update",
+    "Manual opt-out preserved, actual child heap 4096 MiB",
+    "Truncated/interrupted transfer blocks launch; successful retry repairs it",
+    "Unavailable update service fails closed, without starting game"
+  ],
+  "realUnsup": true,
+  "freshFullPackFiles": 314,
+  "fullPackJarCount": 163,
+  "defaults": 1669,
+  "diagnosticHeapMiB": 6144,
+  "loginGate": [
+    {
+      "mode": "Missing",
+      "querySeen": true,
+      "rejected": true,
+      "message": "�\u0001\"Tu versión de Puchamon: Origins no es compatible. Cierra el juego y pulsa Jugar en la instancia con actualizador. No borres tus mapas ni tu partida.\""
+    },
+    {
+      "mode": "Wrong",
+      "querySeen": true,
+      "rejected": true,
+      "message": "�\u0001\"Tu versión de Puchamon: Origins no es compatible. Cierra el juego y pulsa Jugar en la instancia con actualizador. No borres tus mapas ni tu partida.\""
+    },
+    {
+      "mode": "Good",
+      "querySeen": true,
+      "rejected": false,
+      "loginSucceeded": true
+    }
+  ],
+  "enteredWorld": false,
+  "freemUiImportVerified": false,
+  "internetHosted": false,
+  "originalInstanceModified": false
+}

@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: local.puchamon.Launcher
+Class-Path: gson.jar
+

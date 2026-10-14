@@ -1,0 +1,13 @@
+build/
+cache/
+site/
+output/
+approvals/
+repositorio/
+runtime/*.jar
+.env
+.env.*
+*.key
+*.pem
+*.log
+.tgrep/
