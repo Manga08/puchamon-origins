@@ -1,0 +1,103 @@
+{
+  "schema": 1,
+  "next": 42,
+  "chapters": {
+    "Fútbol y fiestas": "7106000000000001",
+    "Imágenes y decoración personal": "7106000000000013",
+    "Seguridad y convivencia": "710600000000001C"
+  },
+  "quests": {
+    "7106000000000001::Footblock: empieza un partido": {
+      "id": "7106000000000002",
+      "taskId": "7106000000000003",
+      "rewards": [
+        "7106000000000004"
+      ]
+    },
+    "7106000000000001::Porterías y marcador, paso a paso": {
+      "id": "7106000000000005",
+      "taskId": "7106000000000006",
+      "rewards": [
+        "7106000000000007"
+      ]
+    },
+    "7106000000000001::Confeti: celebrar y recoger": {
+      "id": "7106000000000008",
+      "taskId": "7106000000000009",
+      "rewards": [
+        "710600000000000A"
+      ]
+    },
+    "7106000000000001::Beachparty: montar una zona de descanso": {
+      "id": "710600000000000B",
+      "taskId": "710600000000000C",
+      "rewards": [
+        "710600000000000D"
+      ]
+    },
+    "7106000000000001::Radio: música sin duplicaciones": {
+      "id": "710600000000000E",
+      "taskId": "710600000000000F",
+      "rewards": [
+        "7106000000000010"
+      ]
+    },
+    "7106000000000001::Convivencia durante eventos": {
+      "id": "7106000000000011",
+      "taskId": "7106000000000012",
+      "rewards": []
+    },
+    "7106000000000013::Immersive Paintings: tu primer cuadro": {
+      "id": "7106000000000014",
+      "taskId": "7106000000000015",
+      "rewards": [
+        "7106000000000016"
+      ]
+    },
+    "7106000000000013::Cuadros luminosos y grafitis": {
+      "id": "7106000000000017",
+      "taskId": "7106000000000018",
+      "rewards": [
+        "7106000000000019"
+      ]
+    },
+    "7106000000000013::Compartir imágenes con cuidado": {
+      "id": "710600000000001A",
+      "taskId": "710600000000001B",
+      "rewards": []
+    },
+    "710600000000001C::SecurityCraft: propiedad y herramientas": {
+      "id": "710600000000001D",
+      "taskId": "710600000000001E",
+      "rewards": [
+        "710600000000001F"
+      ]
+    },
+    "710600000000001C::Puerta con código: acceso sin quedar encerrado": {
+      "id": "7106000000000020",
+      "taskId": "7106000000000021",
+      "rewards": [
+        "7106000000000022"
+      ]
+    },
+    "710600000000001C::Contenedor protegido no es Lootr": {
+      "id": "7106000000000023",
+      "taskId": "7106000000000024",
+      "rewards": [
+        "7106000000000025"
+      ]
+    },
+    "710600000000001C::Minas: práctica solo en zona controlada": {
+      "id": "7106000000000026",
+      "taskId": "7106000000000027",
+      "rewards": [
+        "7106000000000028"
+      ]
+    },
+    "710600000000001C::Tu cuenta y tus regresos": {
+      "id": "7106000000000029",
+      "taskId": "710600000000002A",
+      "rewards": []
+    }
+  }
+}

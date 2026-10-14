@@ -1,0 +1,5 @@
+{
+ "schemaVersion":1,"id":"puchamon_safety","version":"1.0.0","name":"Puchamon Mine Safety","environment":"server","license":"MIT",
+ "entrypoints":{"main":["local.puchamon.safety.MineSafety"]},"mixins":["puchamon-safety.mixins.json"],
+ "depends":{"minecraft":"1.21.1","fabricloader":">=0.19.5","cobblemon":"1.7.3","securitycraft":"0.6.1","easyauth":"3.4.4","java":">=21"}
+}

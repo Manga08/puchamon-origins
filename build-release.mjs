@@ -32,6 +32,7 @@ const managed=[...fs.readdirSync(path.join(client,'mods'),{withFileTypes:true}).
 const gate=path.join(base,'runtime/puchamon-gate-1.0.0.jar');
 const files=[],index=[];
 function add(file,p){
+ if(/puchamon-local-qa|NO-DISTRIBUIR/i.test(p))throw Error('Diagnostic mod must never be distributed: '+p);
  if(!allowed(p))throw Error('Protected path: '+p);
  const bytes=fs.readFileSync(file),hash=sha(bytes);files.push({path:p,sha256:hash});
  if(p.endsWith('.jar')&&p.startsWith('mods/')){
@@ -82,7 +83,7 @@ write(path.join(seed,'mmc-pack.json'),JSON.stringify({formatVersion:1,components
 if(fs.existsSync(path.join(client,'icon.png')))fs.copyFileSync(path.join(client,'icon.png'),path.join(seed,'icon.png'));
 // Offline admin-side server payload: selected software only, never world/auth/operator data.
 const serverStage=path.join(base,'output',`Servidor-Puchamon-${release}`);
-for(const sub of ['mods','datapacks','config/ftbquests/quests'])for(const file of walk(path.join(server,sub))){const p=relative(server,file);if(sub==='mods'&&!/^mods\/[^/]+\.jar$/.test(p))continue;write(path.join(serverStage,p),fs.readFileSync(file));}
+for(const sub of ['mods','datapacks','config/ftbquests/quests'])for(const file of walk(path.join(server,sub))){const p=relative(server,file);if(sub==='mods'&&!/^mods\/[^/]+\.jar$/.test(p))continue;if(/puchamon-local-qa|NO-DISTRIBUIR/i.test(p))throw Error('Diagnostic mod must never be distributed: '+p);write(path.join(serverStage,p),fs.readFileSync(file));}
 write(path.join(serverStage,'mods/puchamon-gate-1.0.0.jar'),fs.readFileSync(gate));
 for(const p of shared)if(fs.existsSync(path.join(server,p)))write(path.join(serverStage,p),fs.readFileSync(path.join(server,p)));
 write(path.join(serverStage,'puchamon/release.json'),JSON.stringify({schema:1,packId:'puchamon-origins',release,compatibility},null,2));

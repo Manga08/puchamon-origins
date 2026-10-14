@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"puchamon_local_qa","version":"0.0.1","name":"LOCAL QA ONLY - do not distribute","environment":"server","entrypoints":{"main":["local.puchamon.qa.LocalQa"]},"depends":{"fabricloader":">=0.19.5","fabric-api":"*","minecraft":"1.21.1","puchamon_safety":"1.0.0"}}

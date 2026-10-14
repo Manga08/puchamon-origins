@@ -1,0 +1,40 @@
+{
+  "coverage": [
+    {
+      "namespace": "confetti_stuff",
+      "englishKeys": 8,
+      "translatedKeys": 8,
+      "nativeSpanishKeysPreserved": 0
+    },
+    {
+      "namespace": "beachparty",
+      "englishKeys": 183,
+      "translatedKeys": 183,
+      "nativeSpanishKeysPreserved": 0
+    },
+    {
+      "namespace": "immersive_paintings",
+      "englishKeys": 145,
+      "translatedKeys": 4,
+      "nativeSpanishKeysPreserved": 141
+    },
+    {
+      "namespace": "securitycraft",
+      "englishKeys": 1057,
+      "translatedKeys": 1057,
+      "nativeSpanishKeysPreserved": 0
+    },
+    {
+      "namespace": "essential_commands",
+      "englishKeys": 101,
+      "translatedKeys": 101,
+      "nativeSpanishKeysPreserved": 0
+    }
+  ],
+  "missingKeys": 0,
+  "placeholderChecks": "pass",
+  "nativeSpanishPreserved": [
+    "footblockultimate",
+    "immersive_paintings"
+  ]
+}

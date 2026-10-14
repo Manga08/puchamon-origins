@@ -1,0 +1,141 @@
+{
+  "passed": true,
+  "activeTables": 8774,
+  "tableResources": 8798,
+  "structureFiles": 5338,
+  "containersWithLootTable": 2291,
+  "uniqueReferencesChecked": 9785,
+  "containerTypes": [
+    {
+      "block": "beachparty:palm_cabinet",
+      "convertible": true,
+      "count": 1,
+      "intentionalTrapExclusion": false
+    },
+    {
+      "block": "carved_wood:crimson_chest",
+      "convertible": true,
+      "count": 1,
+      "intentionalTrapExclusion": false
+    },
+    {
+      "block": "carved_wood:dark_oak_barrel",
+      "convertible": true,
+      "count": 3,
+      "intentionalTrapExclusion": false
+    },
+    {
+      "block": "carved_wood:trapped_dark_oak_chest",
+      "convertible": true,
+      "count": 3,
+      "intentionalTrapExclusion": false
+    },
+    {
+      "block": "cobblefurnies:dark_oak_cabinet",
+      "convertible": true,
+      "count": 1,
+      "intentionalTrapExclusion": false
+    },
+    {
+      "block": "cobblemon:black_gilded_chest",
+      "convertible": true,
+      "count": 11,
+      "intentionalTrapExclusion": false
+    },
+    {
+      "block": "cobblemon:blue_gilded_chest",
+      "convertible": true,
+      "count": 9,
+      "intentionalTrapExclusion": false
+    },
+    {
+      "block": "cobblemon:gilded_chest",
+      "convertible": true,
+      "count": 24,
+      "intentionalTrapExclusion": false
+    },
+    {
+      "block": "cobblemon:green_gilded_chest",
+      "convertible": true,
+      "count": 2,
+      "intentionalTrapExclusion": false
+    },
+    {
+      "block": "cobblemon:pink_gilded_chest",
+      "convertible": true,
+      "count": 1,
+      "intentionalTrapExclusion": false
+    },
+    {
+      "block": "cobblemon:white_gilded_chest",
+      "convertible": true,
+      "count": 5,
+      "intentionalTrapExclusion": false
+    },
+    {
+      "block": "cobblemon:yellow_gilded_chest",
+      "convertible": true,
+      "count": 3,
+      "intentionalTrapExclusion": false
+    },
+    {
+      "block": "handcrafted:spruce_side_table",
+      "convertible": true,
+      "count": 1,
+      "intentionalTrapExclusion": false
+    },
+    {
+      "block": "minecraft:barrel",
+      "convertible": true,
+      "count": 522,
+      "intentionalTrapExclusion": false
+    },
+    {
+      "block": "minecraft:chest",
+      "convertible": true,
+      "count": 1504,
+      "intentionalTrapExclusion": false
+    },
+    {
+      "block": "minecraft:decorated_pot",
+      "convertible": true,
+      "count": 101,
+      "intentionalTrapExclusion": false
+    },
+    {
+      "block": "minecraft:dispenser",
+      "convertible": false,
+      "count": 30,
+      "intentionalTrapExclusion": true
+    },
+    {
+      "block": "minecraft:shulker_box",
+      "convertible": true,
+      "count": 12,
+      "intentionalTrapExclusion": false
+    },
+    {
+      "block": "minecraft:suspicious_gravel",
+      "convertible": true,
+      "count": 18,
+      "intentionalTrapExclusion": false
+    },
+    {
+      "block": "minecraft:suspicious_sand",
+      "convertible": true,
+      "count": 27,
+      "intentionalTrapExclusion": false
+    },
+    {
+      "block": "minecraft:trapped_chest",
+      "convertible": true,
+      "count": 12,
+      "intentionalTrapExclusion": false
+    }
+  ],
+  "errors": [],
+  "elapsedSeconds": 11.7649554,
+  "heavyReadsOffThread": true,
+  "registryBatchSize": 128,
+  "noWorldLootReset": true
+}

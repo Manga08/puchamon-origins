@@ -1,0 +1,1 @@
+{"required":true,"package":"local.puchamon.safety.mixin","compatibilityLevel":"JAVA_21","mixins":["BlockMineMixin","BettyMixin","ImsMixin"],"injectors":{"defaultRequire":1}}

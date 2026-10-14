@@ -1,15 +1,17 @@
 import net from 'node:net';import crypto from 'node:crypto';import zlib from 'node:zlib';import fs from 'node:fs';import path from 'node:path';import assert from 'node:assert/strict';import {fileURLToPath} from 'node:url';
 const base=path.dirname(fileURLToPath(import.meta.url)),release=process.argv[2]||'0.1.0-rc2';
+const targetPort=Number(process.env.PUCHAMON_TEST_PORT||25578);
+if(!Number.isInteger(targetPort)||![25578,25579].includes(targetPort))throw Error('Only isolated test ports allowed');
 const vi=n=>{const b=[];do{let v=n&127;n>>>=7;if(n)v|=128;b.push(v);}while(n);return Buffer.from(b);};
 function readVi(b,offset=0){let value=0;for(let i=0;i<5;i++){if(offset+i>=b.length)return null;const x=b[offset+i];value|=(x&127)<<(i*7);if(!(x&128))return {value,next:offset+i+1};}throw Error('VarInt too long');}
 const str=s=>Buffer.concat([vi(Buffer.byteLength(s)),Buffer.from(s)]);
 const frame=b=>Buffer.concat([vi(b.length),b]);
 async function attempt(mode){return new Promise((resolve,reject)=>{
- const socket=net.connect(25578,'127.0.0.1');let buffer=Buffer.alloc(0),compression=-1,querySeen=false,done=false;
+ const socket=net.connect(targetPort,'127.0.0.1');let buffer=Buffer.alloc(0),compression=-1,querySeen=false,done=false;
  const finish=result=>{if(done)return;done=true;socket.destroy();resolve(result);};socket.setTimeout(15000,()=>{socket.destroy();reject(Error('Gate timeout '+mode));});socket.on('error',reject);
  socket.on('connect',()=>{
   const name='Gate'+mode;const uuid=crypto.createHash('md5').update('OfflinePlayer:'+name).digest();uuid[6]=(uuid[6]&15)|48;uuid[8]=(uuid[8]&63)|128;
-  socket.write(frame(Buffer.concat([vi(0),vi(767),str('127.0.0.1'),Buffer.from([25578>>8,25578&255]),vi(2)])));
+  socket.write(frame(Buffer.concat([vi(0),vi(767),str('127.0.0.1'),Buffer.from([targetPort>>8,targetPort&255]),vi(2)])));
   socket.write(frame(Buffer.concat([vi(0),str(name),uuid])));
  });
  socket.on('data',data=>{

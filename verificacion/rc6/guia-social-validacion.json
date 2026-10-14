@@ -1,0 +1,21 @@
+{
+  "chapters": 18,
+  "quests": 229,
+  "rewarded": 198,
+  "informative": 31,
+  "addedQuests": 14,
+  "existingQuestsPreserved": 215,
+  "oldChapterFilesChanged": 0,
+  "manualRewards": 0,
+  "overlaps": 0,
+  "uniqueRewardBudget": {
+    "minecraft:white_concrete": 16,
+    "minecraft:paper": 8,
+    "minecraft:oak_planks": 12,
+    "minecraft:copper_ingot": 2,
+    "minecraft:white_wool": 4,
+    "minecraft:glow_ink_sac": 1,
+    "minecraft:iron_ingot": 6,
+    "minecraft:redstone": 4
+  }
+}

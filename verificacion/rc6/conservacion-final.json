@@ -1,0 +1,12 @@
+{
+  "checkedAt": "2026-10-14T18:27:33.2694630-05:00",
+  "distributedServerJars": 131,
+  "privateServerChanged": 0,
+  "privateServerFiles": 196,
+  "clientRootJars": 163,
+  "distributedClientJars": 164,
+  "beforeOriginalServerRestart": true,
+  "clientProtectedFiles": 33,
+  "clientChanged": 0,
+  "noQaOrDatabasesInServerPayload": true
+}

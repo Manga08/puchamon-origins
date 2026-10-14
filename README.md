@@ -2,6 +2,8 @@
 
 Estado: **implementado y probado localmente; no activado por internet**. Repositorio privado: https://github.com/Manga08/puchamon-origins . Base Minecraft 1.21.1, Fabric 0.19.5, Cobblemon 1.7.3. Esta herramienta no modifica Migajaland ni la instancia social jugada.
 
+Última candidata local: **0.1.0-rc6**, 164 JAR cliente, 320 archivos administrados y overlay de 131 JAR servidor. Pasaron instalación limpia completa y migración rc5→rc6 con preferencias de ensayo intactas, usando unsup real y un JVM diagnóstico. Sigue pendiente la importación visual por Freesm y la comprobación desde otro PC. El hosting se comprará después; no hay endpoint público ni se ha aprobado stable. El laboratorio social se actualizó mediante un procedimiento separado y respaldado; no se activa su gate mientras se pruebe con el cliente manual.
+
 ## Qué hace el jugador
 
 Cuando tengamos el endpoint privado HTTPS operativo: importar una instancia ZIP preparada en Freesm y pulsar **Jugar**. Freesm puede pedir confirmar el comando personalizado del paquete: revisar su origen y aceptar solo el ZIP entregado por el administrador. No se pide desactivar la seguridad del launcher.
