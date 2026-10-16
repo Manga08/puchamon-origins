@@ -3,8 +3,11 @@ import path from 'node:path';
 import crypto from 'node:crypto';
 import {fileURLToPath} from 'node:url';
 import {parseArgs} from 'node:util';
+import {applyProfile,PROFILES} from './performance-profiles.mjs';
+import {prepareApprovedUpdates} from './approved-updates.mjs';
 const base=path.dirname(fileURLToPath(import.meta.url)),project=process.env.PUCHAMON_PROJECT||path.dirname(base);
-const {values}=parseArgs({options:{release:{type:'string',default:'0.1.0-rc1'},'base-url':{type:'string',default:'http://127.0.0.1:8765/'},channel:{type:'string',default:'test'}}});
+const {values}=parseArgs({options:{release:{type:'string',default:'0.1.0-rc1'},'base-url':{type:'string',default:'http://127.0.0.1:8765/'},channel:{type:'string',default:'test'},profile:{type:'string',default:'balanced'},'approved-updates':{type:'string'}}});
+if(!(values.profile in PROFILES))throw Error('Profile must be balanced or ligero');
 const release=values.release,url=new URL(values['base-url']);
 if(!/^[a-z0-9][a-z0-9._-]+$/.test(release)||!['test','stable'].includes(values.channel))throw Error('Invalid release/channel');
 if(url.protocol!=='https:'&&!['localhost','127.0.0.1'].includes(url.hostname))throw Error('HTTPS required outside localhost');
@@ -26,7 +29,7 @@ for(const v of Object.values(load(path.join(base,'cache/modrinth-hashes.json')))
 const licenseReview=[];
 function blob(file){const b=fs.readFileSync(file),hash=sha(b),name=hash+path.extname(file),target=path.join(site,'blobs',name);if(!fs.existsSync(target))write(target,b);return {url:new URL('blobs/'+name,url).href,sha256:hash};}
 function origin(file){const b=fs.readFileSync(file),hash=sha(b);if(sources.has(hash))return {url:sources.get(hash),sha256:hash};licenseReview.push(relative(project,file));return blob(file);}
-const shared=['config/migaja-controls.properties','config/securitycraft-server.json','config/immersive_paintings/common_config.toml','config/global_packs.toml'];
+const shared=['config/migaja-controls.properties','config/securitycraft-server.json','config/immersive_paintings/common_config.toml','config/global_packs.toml','config/inventoryprofilesnext/integrationHints/puchamon-accessories.json'];
 function allowed(p){return /^mods\/[^/]+\.jar$/.test(p)||p.startsWith('datapacks/')||p.startsWith('config/ftbquests/quests/')||shared.includes(p);}
 const managed=[...fs.readdirSync(path.join(client,'mods'),{withFileTypes:true}).filter(e=>e.isFile()&&e.name.endsWith('.jar')).map(e=>path.join(client,'mods',e.name)),...walk(path.join(client,'datapacks')),...walk(path.join(client,'config/ftbquests/quests')),...shared.filter(p=>fs.existsSync(path.join(client,p))).map(p=>path.join(client,p))];
 const gate=path.join(base,'runtime/puchamon-gate-1.0.0.jar');
@@ -64,14 +67,22 @@ for(const [p,file] of defaultsMap){
 const keyDefaults=fs.readFileSync(path.join(client,'config/defaultoptions/keybindings.txt'),'utf8').split(/\r?\n/).filter(x=>/^key_[^:]+:key\.(keyboard|mouse)\./.test(x)).join('\n');
 const packSelection=fs.readFileSync(path.join(client,'config/defaultoptions/options.txt'),'utf8').split(/\r?\n/).find(x=>x.startsWith('resourcePacks:'))||'resourcePacks:[]';
 JSON.parse(packSelection.slice('resourcePacks:'.length));
-const options=`version:3955\nlang:es_es\nrenderDistance:8\nsimulationDistance:6\ngraphicsMode:0\nparticles:1\nnarrator:0\n${packSelection}\n${keyDefaults}\n`;
+const options=applyProfile(`version:3955\nlang:es_es\nnarrator:0\n${packSelection}\n${keyDefaults}\n`,values.profile);
+// DefaultOptions must agree with options.txt on first launch. Both remain initial-only.
+const defaultOptionsPath=defaultsMap.get('config/defaultoptions/options.txt');
+if(defaultOptionsPath){
+ const initial=path.join(base,'build/initial-defaultoptions.txt');write(initial,applyProfile(fs.readFileSync(defaultOptionsPath,'utf8'),values.profile));
+ const at=defaults.findIndex(x=>x.path==='config/defaultoptions/options.txt');if(at>=0)defaults.splice(at,1);
+ defaults.push({path:'config/defaultoptions/options.txt',...blob(initial)});
+}
 const optionsFile=path.join(base,'build/initial-options.txt');write(optionsFile,options);defaults.push({path:'options.txt',...blob(optionsFile)});
 // Upstream enables shaders: switch them OFF only for new installs, never change an existing player's choice.
 const irisFile=path.join(base,'build/initial-iris.properties');write(irisFile,'enableShaders=false\ndisableUpdateMessage=true\nshaderPack=COBBLEVERSE - Shaders\n');
 const irisDefault=defaults.findIndex(x=>x.path==='config/iris.properties');if(irisDefault>=0)defaults.splice(irisDefault,1);
 defaults.push({path:'config/iris.properties',...blob(irisFile)});
 const compatibility='puchamon-'+release;
-const manifest={schema:1,packId:'puchamon-origins',sequence:Date.now(),release,compatibility,minecraft:'1.21.1',fabric:'0.19.5',packwiz:'client/pack.toml',packwizSha256:sha(pack),indexSha256:sha(indexText),files,defaults};
+const approvedUpdates=prepareApprovedUpdates(values['approved-updates'],{blob,managedAllowed:allowed});
+const manifest={schema:1,packId:'puchamon-origins',sequence:Date.now(),release,compatibility,minecraft:'1.21.1',fabric:'0.19.5',packwiz:'client/pack.toml',packwizSha256:sha(pack),indexSha256:sha(indexText),files,defaults,approvedUpdates};
 const manifestBytes=JSON.stringify(manifest,null,2)+'\n';write(path.join(dest,'manifest.json'),manifestBytes);
 const channel={schema:1,packId:'puchamon-origins',manifest:`../releases/${release}/manifest.json`,manifestSha256:sha(manifestBytes)};
 const seed=path.join(base,'output',`Puchamon-Origins-${release}-${values.channel}`),game=path.join(seed,'minecraft');

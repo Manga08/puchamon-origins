@@ -16,7 +16,7 @@ import javax.swing.JOptionPane;
 public final class Launcher {
  static final Gson JSON=new GsonBuilder().setPrettyPrinting().create();
  static final HttpClient HTTP=HttpClient.newBuilder().connectTimeout(Duration.ofSeconds(15)).followRedirects(HttpClient.Redirect.NEVER).build();
- static final Set<String> SHARED=Set.of("config/migaja-controls.properties","config/securitycraft-server.json","config/immersive_paintings/common_config.toml","config/global_packs.toml");
+ static final Set<String> SHARED=Set.of("config/migaja-controls.properties","config/securitycraft-server.json","config/immersive_paintings/common_config.toml","config/global_packs.toml","config/inventoryprofilesnext/integrationHints/puchamon-accessories.json");
  static Path root;
  static boolean allowLocal;
  static PrintWriter log;
@@ -106,7 +106,8 @@ public final class Launcher {
    if(!consistent(files))throw new IOException("Faltan archivos o no coinciden sus hashes. No se abrirá una versión incompleta.");
    atomic(installed,bytes);
   }
-  // A version marker is written only after full consistency validation, never before unsup.
+  ApprovedUpdates.apply(manifest,manifestUri);
+  // A version marker is written only after full consistency and approved-patch validation.
   JsonObject marker=new JsonObject();marker.addProperty("schema",1);marker.addProperty("packId","puchamon-origins");marker.addProperty("release",version);marker.addProperty("compatibility",compatibility);
   atomic(root.resolve("puchamon/release.json"),JSON.toJson(marker).getBytes(java.nio.charset.StandardCharsets.UTF_8));
   return version;

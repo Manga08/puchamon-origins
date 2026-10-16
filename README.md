@@ -1,6 +1,22 @@
 # Puchamon: Origins — instalación y actualización
 
-Estado: **implementado y probado localmente; no activado por internet**. Repositorio privado: https://github.com/Manga08/puchamon-origins . Base Minecraft 1.21.1, Fabric 0.19.5, Cobblemon 1.7.3. Esta herramienta no modifica Migajaland ni la instancia social jugada.
+Estado al 16 de octubre: **repositorio público; distribución final todavía no publicada**. Repositorio: https://github.com/Manga08/puchamon-origins . Se convirtió el existente conservando sus dos commits, sin borrar el historial ni crear un duplicado privado. GitHub Pages será la dirección HTTPS del feed. Base Minecraft 1.21.1, Fabric 0.19.5, Cobblemon 1.7.3. Esta herramienta no modifica Migajaland ni la instancia social jugada.
+
+## Cambios de configuración solo por petición explícita
+
+El constructor admite `--approved-updates <plan.json>`. Es una lista exacta por release, no una sincronización de `config/**`. Cada entrada exige un ID único, destino, modo, archivo fuente y `administratorRequest` que registre el pedido del usuario. Ese campo documenta la decisión del administrador: no constituye una firma criptográfica ni demuestra por sí mismo quién aprobó el cambio.
+
+`replace` sustituye únicamente el archivo concreto aprobado (configuración o recurso seleccionado). `options-keys` modifica solo claves concretas de `options.txt`, conservando audio, gráficos y teclas no solicitados. No se admite reemplazar entero `options.txt`. Antes de escribir, se descargan y verifican los parches, se respalda lo anterior y se conserva un registro de aplicación. El parche se ejecuta una vez; retirar su entrada no elimina el archivo, y volver a arrancar no pisa ajustes posteriores del jugador. Un cambio posterior necesita otro ID. Cuentas, EasyAuth, skins personales, mundos y datos del mapa quedan fuera del alcance. La retirada de un archivo personal sería otra operación que requiere diseño/aprobación, no una consecuencia de quitarlo de la lista.
+
+No se añadieron configuraciones personales reales a ningún plan. Las pruebas con unsup real incluyen sustitución aprobada, cambio selectivo, conservación del resto, no repetición, retirada sin borrado y rechazo de hash incorrecto o ruta de autenticación. Los clientes antiguos necesitan el wrapper nuevo antes de recibir este tipo de manifiesto; el ZIP rc6 no lo contiene.
+
+Cada release conserva su compatibilidad propia y el servidor debe recibir el gate y marcador correspondientes. Una publicación no actualiza servidores ni expulsa mágicamente sesiones ya conectadas: se despliega en mantenimiento y las conexiones posteriores exigen la versión aprobada. No es un antitrampas contra clientes deliberadamente modificados.
+
+## Publicación con Pages
+
+Dirección prevista: `https://manga08.github.io/puchamon-origins/`. El sitio puede servir manifiestos y archivos públicos aprobados sin que los amigos tengan cuenta GitHub. El repositorio, sus fuentes y el sitio son públicos; nunca incluir secretos o respaldos privados.
+
+El conjunto local de blobs todavía requiere revisión de derechos y de ubicación de descarga: incluye archivos mayores de 100 MB que no deben confirmarse directamente en Git. No copiar `site/` a `docs/` a ciegas. Los mods y recursos deben usar sus fuentes originales cuando sea posible, y los archivos grandes requieren un mecanismo compatible. Pages preparado no significa que ya exista un canal final listo para amigos. `serve-private.mjs` se conserva como herramienta opcional histórica, no es el servicio público elegido.
 
 Última candidata local: **0.1.0-rc6**, 164 JAR cliente, 320 archivos administrados y overlay de 131 JAR servidor. Pasaron instalación limpia completa y migración rc5→rc6 con preferencias de ensayo intactas, usando unsup real y un JVM diagnóstico. Sigue pendiente la importación visual por Freesm y la comprobación desde otro PC. El hosting se comprará después; no hay endpoint público ni se ha aprobado stable. El laboratorio social se actualizó mediante un procedimiento separado y respaldado; no se activa su gate mientras se pruebe con el cliente manual.
 
@@ -23,7 +39,9 @@ El wrapper conserva stdin/stdout para el protocolo del launcher y no registra su
 
 ## Archivos protegidos
 
-Lista cerrada de archivos administrados: JAR directamente dentro de `mods`, datapacks, definiciones de FTB Quests y cuatro ajustes compartidos explícitos. Nada de `options.txt`, mapas/waypoints, skins/cachés, cuentas, capturas o partidas es un archivo administrado. Las preferencias se entregan únicamente como valores iniciales y no se sincronizan después.
+Lista cerrada de archivos administrados: JAR directamente dentro de `mods`, datapacks, definiciones de FTB Quests y cinco ajustes compartidos explícitos. El quinto es únicamente `config/inventoryprofilesnext/integrationHints/puchamon-accessories.json`, para evitar el solapamiento de sus botones en Accessories; no permite administrar toda la configuración de IPN. Nada de `options.txt`, mapas/waypoints, skins/cachés, cuentas, capturas o partidas es un archivo administrado. Las preferencias se entregan únicamente como valores iniciales y no se sincronizan después.
+
+Pulido local posterior a rc6: traducción cotidiana de IPN/libIPN, misión de bayas y hint de Accessories aplicados a la instancia manual. El wrapper de desarrollo fue recompilado y pasó regresión con unsup real conservando preferencias de IPN. El ZIP rc6 sigue inmutable y contiene el wrapper anterior; la próxima candidata debe empaquetar el nuevo wrapper antes de ofrecer el nuevo archivo administrado. No hay instalador rc7 publicado. Véase `../pulido-rc7/PULIDO-Y-RENDIMIENTO.md` para resultados y límites de las pruebas reales.
 
 Los JAR añadidos manualmente por un jugador no se eliminan silenciosamente. Si uno ocupa un nombre que necesita un archivo nuevo del pack y su contenido difiere, se bloquea el arranque con un aviso. No es soporte garantizado para mods ajenos ni un sistema antitrampas.
 
@@ -50,6 +68,12 @@ Por defecto escucha en localhost, detrás de un proxy HTTPS. También admite cer
 Una vez elegido el hosting: generar una clave de grupo, preparar el feed con su URL HTTPS, revisar licencias de los archivos sin origen externo directo, validar un import real de Freesm, preparar servidor y recién promover `stable`. No copiar el directorio `site` completo a un repositorio público sin esa revisión.
 
 ## Construir y probar (administrador)
+
+### Perfiles gráficos iniciales (desarrollo rc7)
+
+`build-release.mjs --profile balanced` entrega 8 chunks; `--profile ligero` entrega 6. Ambos usan simulación 6, gráficos rápidos, partículas reducidas, nubes apagadas y límite de 60 FPS. Son valores iniciales para una instalación nueva: **el actualizador no los impone sobre las preferencias existentes**. No cambian la selección de modelos Pokémon o skins. Los shaders continúan apagados en la configuración inicial de Iris.
+
+Para una instancia ya usada existe `../scripts/optimizacion/Aplicar-Perfil-Grafico.ps1`: recibe `-Minecraft <carpeta minecraft de la instancia> -Perfil ligero`. Sin `-Aplicar` solo muestra una vista previa; con esa opción exige el juego cerrado y respalda `options.txt` antes de cambiar únicamente siete ajustes gráficos. No modifica audio, controles, mapas, partidas ni paquetes de recursos. Si el jugador activó shaders, debe apagarlos en Iris por separado. Este perfil no cambia el máximo de RAM ni certifica un PC físico de 8 GB.
 
 Herramientas: PowerShell, Java 21/JDK, Node.js y una copia local validada del pack. `compilar.ps1` acepta `-Jdk`/`-Gson`; `compilar-gate.ps1` acepta `-Client`/`-Libraries`/`-Jdk`. Variables de construcción opcionales: `PUCHAMON_PROJECT`, `PUCHAMON_CLIENT`, `PUCHAMON_SERVER`, `PUCHAMON_JAVA`. Los valores por defecto corresponden al proyecto local actual.
 

@@ -2,6 +2,8 @@
 
 14 de octubre de 2026. Candidata local aplicada a la misma instancia social, **no publicación stable ni servidor público**. Migajaland permanece fuera del alcance. El usuario indicó que el hosting se comprará después; no se contrató alojamiento ni dominio.
 
+Actualización posterior de evidencia: el control de ventanas volvió a estar disponible. Se arrancó Minecraft desde Freesm, se entró al mundo local sin autenticar y se revisaron las tres subguías nuevas, mapa y skin local. También hubo ensayo individual, ordenación real y dos capturas nativas de fotogramas. Detalles y límites en `PRUEBA-VISUAL-rc6-2026-10-14.md`; esto no equivale a probar autenticación, dos jugadores o la importación del ZIP limpio.
+
 ## Implementado
 
 - 18 capítulos y 229 misiones: 198 premiadas y 31 informativas. Se conservan las 215 misiones anteriores y sus tareas/premios; no se cambian sus archivos de capítulo. Tres subguías nuevas: Fútbol y fiestas, Imágenes y decoración personal, Seguridad y convivencia. El nodo de bienvenida indica dónde abrirlas. 14 misiones nuevas, 11 premiadas; informativas sin premios. Sin bloqueo adicional en la ruta de gimnasios.
@@ -42,7 +44,7 @@ La distribución lleva 164 JAR cliente y el overlay 131 servidor (incluido gate;
 
 ## Pendientes reales antes de stable
 
-- Importación visual de ZIP y arranque del juego desde Freesm. El control nativo de Windows no está habilitado aquí; no se reintentó por otra vía el lanzamiento previamente bloqueado.
+- Importación visual del ZIP limpio. El arranque de la instancia existente desde Freesm ya se realizó en la prueba visual posterior; no se confunde con la importación del instalador.
 - PC físico de 8 GB, sesión prolongada y carga multijugador representativa: exploración, varios criaderos/pasturas, partidos, cuadros y partículas. No hay usuarios artificiales presentados como amigos reales.
 - Dos personas para voz desde redes distintas, skins/caras cercanas y lejanas, cambio de skin, PC Plus, muerte/reconexión y login lento, recompensas personales y accesos de SecurityCraft/Lootr. Instalación o metadatos correctos no certifican esas interacciones.
 - Comprar/configurar hosting con UDP, endpoint privado HTTPS, dirección real en instalador, límites y spawn final. Revisar derechos de los archivos alojados, desplegar gate/marker conjuntamente y solo entonces promover stable. No se subió el pack completo al GitHub privado ni se compartió un token GitHub con jugadores.
