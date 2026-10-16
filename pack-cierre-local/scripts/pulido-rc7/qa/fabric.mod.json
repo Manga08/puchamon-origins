@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"puchamon_perf_qa","version":"0.0.0-local-only","name":"NO DISTRIBUIR - Ensayo local de rendimiento","environment":"*","entrypoints":{"main":["local.puchamon.perf.PerfQa"]},"depends":{"fabricloader":">=0.19.5","minecraft":"1.21.1","cobblemon":"1.7.3","cobbreeding":"2.2.2"}}

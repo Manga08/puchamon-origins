@@ -30,7 +30,7 @@ const licenseReview=[];
 function blob(file){const b=fs.readFileSync(file),hash=sha(b),name=hash+path.extname(file),target=path.join(site,'blobs',name);if(!fs.existsSync(target))write(target,b);return {url:new URL('blobs/'+name,url).href,sha256:hash};}
 function origin(file){const b=fs.readFileSync(file),hash=sha(b);if(sources.has(hash))return {url:sources.get(hash),sha256:hash};licenseReview.push(relative(project,file));return blob(file);}
 const shared=['config/migaja-controls.properties','config/securitycraft-server.json','config/immersive_paintings/common_config.toml','config/global_packs.toml','config/inventoryprofilesnext/integrationHints/puchamon-accessories.json'];
-function allowed(p){return /^mods\/[^/]+\.jar$/.test(p)||p.startsWith('datapacks/')||p.startsWith('config/ftbquests/quests/')||shared.includes(p);}
+function allowed(p){return p==='puchamon/launcher-protocol-v2.json'||/^mods\/[^/]+\.jar$/.test(p)||p.startsWith('datapacks/')||p.startsWith('config/ftbquests/quests/')||shared.includes(p);}
 const managed=[...fs.readdirSync(path.join(client,'mods'),{withFileTypes:true}).filter(e=>e.isFile()&&e.name.endsWith('.jar')).map(e=>path.join(client,'mods',e.name)),...walk(path.join(client,'datapacks')),...walk(path.join(client,'config/ftbquests/quests')),...shared.filter(p=>fs.existsSync(path.join(client,p))).map(p=>path.join(client,p))];
 const gate=path.join(base,'runtime/puchamon-gate-1.0.0.jar');
 const files=[],index=[];
@@ -45,6 +45,8 @@ function add(file,p){
  }else{write(path.join(dest,'client',p),bytes);index.push({file:p,hash,metafile:false});}
 }
 for(const f of managed)add(f,relative(client,f));add(gate,'mods/puchamon-gate-1.0.0.jar');
+// Legacy wrappers reject this new exact managed path before unsup/game. They cannot silently skip approved patches.
+const protocolFile=path.join(base,'build/launcher-protocol-v2.json');write(protocolFile,JSON.stringify({schema:1,requiredLauncher:2})+'\n');add(protocolFile,'puchamon/launcher-protocol-v2.json');
 const indexText='hash-format = "sha256"\n'+index.map(e=>`\n[[files]]\nfile = ${JSON.stringify(e.file)}\nhash = "${e.hash}"\nmetafile = ${e.metafile}\n`).join('');
 write(path.join(dest,'client/index.toml'),indexText);
 const pack=`name = "Puchamon: Origins"\nauthor = "Puchamon"\nversion = "${release}"\npack-format = "packwiz:1.1.0"\n\n[index]\nfile = "index.toml"\nhash-format = "sha256"\nhash = "${sha(indexText)}"\n\n[versions]\nminecraft = "1.21.1"\nfabric = "0.19.5"\n`;

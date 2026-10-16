@@ -6,6 +6,7 @@ let active,broken=false;const responses=new Map(),results=[];
 const server=http.createServer((req,res)=>{let value=req.url==='/channel.json'?active:responses.get(req.url);if(!value){res.writeHead(404);res.end();return;}if(broken&&req.url.includes('artifact')){res.writeHead(200,{'Content-Length':99999});res.write('truncated');res.socket.destroy();return;}res.writeHead(200);res.end(value);});
 await new Promise(r=>server.listen(0,'127.0.0.1',r));const origin='http://127.0.0.1:'+server.address().port;
 function release(version,entries,defaults=[],approvedUpdates=[]){
+ entries={'puchamon/launcher-protocol-v2.json':'{"requiredLauncher":2}',...entries};
  const prefix='/releases/'+version;let index='hash-format = "sha256"\n';const files=[];
  for(const [p,data] of Object.entries(entries)){
   const content=Buffer.from(data);files.push({path:p,sha256:sha(content)});
@@ -21,6 +22,10 @@ function publish(manifest,prefix){const b=JSON.stringify(manifest);responses.set
 function setup(name){const game=path.join(test,name,'minecraft');for(const f of ['launch.jar','unsup.jar','gson.jar'])write(path.join(game,'puchamon',f),fs.readFileSync(path.join(runtime,f)));write(path.join(game,'puchamon/launcher.properties'),`packId=puchamon-origins\nchannelUrl=${origin}/channel.json\nminecraft=1.21.1\nfabric=0.19.5\nallowLocalHttp=true\nramMode=auto\nunsupSha256=${sha(fs.readFileSync(path.join(runtime,'unsup.jar')))}\n`);return game;}
 function run(game,args=['--memory']){return new Promise((resolve,reject)=>{const child=spawn(java,['-Xmx128m','-Djava.awt.headless=true','-jar','puchamon/launch.jar',java,'-Xmx8192m','-Xms1024m','-cp','puchamon/launch.jar;puchamon/gson.jar','local.puchamon.Probe',...args],{cwd:game,windowsHide:true});let output='';child.stdout.on('data',b=>output+=b);child.stderr.on('data',b=>output+=b);const timer=setTimeout(()=>{child.kill();reject(Error('Test timeout'));},120000);child.on('error',reject);child.on('exit',code=>{clearTimeout(timer);resolve({code,output});});});}
 try{
+ const legacy=path.join(base,'build/legacy-launcher-rc6.jar');
+ if(fs.existsSync(legacy)){
+  const oldGame=setup('old wrapper must fail');fs.copyFileSync(legacy,path.join(oldGame,'puchamon/launch.jar'));active=release('v2-required',{});const oldResult=await run(oldGame);assert.notEqual(oldResult.code,0);assert(!oldResult.output.includes('ACTUAL_MAX_MIB'));results.push('Actual immutable rc6 wrapper rejects protocol-v2 path before game; cannot silently skip new patch semantics');
+ }
  const game=setup('friend with spaces á');
  const sentinel={'options.txt':'MY GRAPHICS AND AUDIO','xaero/map.dat':'MAP','quickskin/skin.json':'MY SKIN','config/soundcontroller.json':'MY VOLUME','saves/world/level.dat':'MY WORLD','config/inventoryprofilesnext/inventoryprofiles.json':'MY IPN PREFERENCES','config/inventoryprofilesnext/integrationHints/personal.json':'MY OWN HINT'};
  for(const [p,b]of Object.entries(sentinel))write(path.join(game,p),b);

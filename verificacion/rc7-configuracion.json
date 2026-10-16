@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-16",
+  "passed": true,
+  "realUnsup": true,
+  "syntheticGameProcessOnly": true,
+  "scenarioCount": 15,
+  "checks": [
+    "Immutable rc6 wrapper rejects protocol-v2 manifest before starting the game",
+    "Clean installation and managed-file updates/removals",
+    "Graphics/audio/maps/skins/world/IPN preferences remain intact unless specifically requested",
+    "Explicit file replacement and selective options keys with prior backup",
+    "Patch applied once, no repeated preference reset",
+    "Withdrawing patch does not delete the configuration",
+    "Wrong hash, truncated download, unavailable service or authentication path blocks launch"
+  ],
+  "minecraftFromNewInstallerVerified": false,
+  "stablePublished": false
+}

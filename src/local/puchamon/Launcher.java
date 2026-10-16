@@ -143,7 +143,7 @@ public final class Launcher {
  }
  static boolean allowed(String path){
   if(path.contains("\\")||path.contains(":")||path.startsWith("/")||Arrays.asList(path.split("/",-1)).stream().anyMatch(x->x.isBlank()||x.equals(".")||x.equals("..")))return false;
-  return (path.startsWith("mods/")&&path.endsWith(".jar")&&path.indexOf('/',5)<0)||path.startsWith("datapacks/")||path.startsWith("config/ftbquests/quests/")||SHARED.contains(path)||path.matches("resourcepacks/Puchamon-[^/]+\\.zip");
+  return path.equals("puchamon/launcher-protocol-v2.json")||(path.startsWith("mods/")&&path.endsWith(".jar")&&path.indexOf('/',5)<0)||path.startsWith("datapacks/")||path.startsWith("config/ftbquests/quests/")||SHARED.contains(path)||path.matches("resourcepacks/Puchamon-[^/]+\\.zip");
  }
  static void identity(JsonObject object)throws IOException{if(object.get("schema").getAsInt()!=1||!"puchamon-origins".equals(object.get("packId").getAsString()))throw new IOException("Manifiesto de otro pack o formato incompatible.");}
  static void preflightConflicts(JsonObject previous,JsonArray files)throws Exception{
