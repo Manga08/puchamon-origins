@@ -1,0 +1,8 @@
+name = "respackopts-4.14.0+1.21.1.4.jar"
+filename = "respackopts-4.14.0+1.21.1.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TiF5QWZY/versions/y5eBSMkZ/respackopts-4.14.0%2B1.21.1.4.jar"
+hash-format = "sha256"
+hash = "8c38228c14841a01034e6371fada5754754a0abf13de843eea1e1d41dc8257f3"

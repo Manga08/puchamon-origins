@@ -14,7 +14,7 @@ final class ApprovedUpdates {
   JsonObject keys=Launcher.parse(patch);if(keys.size()==0)throw new IOException("El parche de opciones está vacío.");
   var values=new LinkedHashMap<String,String>();
   for(var e:keys.entrySet()){
-   if(!e.getKey().matches("[a-zA-Z0-9_.-]+")||!e.getValue().isJsonPrimitive())throw new IOException("Clave de opciones inválida.");
+   if(!e.getKey().matches("[a-zA-Z0-9_.-]+|key_[a-zA-Z0-9_. -]{1,160}")||!e.getValue().isJsonPrimitive())throw new IOException("Clave de opciones inválida.");
    String value=e.getValue().getAsString();if(value.contains("\n")||value.contains("\r"))throw new IOException("Valor de opciones inválido.");values.put(e.getKey(),value);
   }
   String text=new String(current,StandardCharsets.UTF_8),newline=text.contains("\r\n")?"\r\n":"\n";
@@ -35,13 +35,17 @@ final class ApprovedUpdates {
   for(JsonElement item:manifest.getAsJsonArray("approvedUpdates")){
    JsonObject f=item.getAsJsonObject();String p=f.get("path").getAsString(),id=f.get("id").getAsString(),mode=f.get("mode").getAsString(),hash=f.get("sha256").getAsString();
    if(!allowed(p)||Launcher.allowed(p)||!paths.add(p.toLowerCase(Locale.ROOT))||!id.matches("[a-zA-Z0-9._-]{1,100}")||ids.containsKey(id)||!hash.matches("[a-f0-9]{64}")||!f.has("administratorRequest")||f.get("administratorRequest").getAsString().isBlank())throw new IOException("Parche sin autorización explícita, ruta válida o separado de los archivos administrados.");
-   if(!mode.equals("replace")&&!mode.equals("options-keys"))throw new IOException("Modo de parche desconocido.");
-   if(p.equals("options.txt")!=mode.equals("options-keys"))throw new IOException("options.txt solo admite claves explícitas, nunca sustitución completa.");
+   if(!Set.of("replace","options-keys","xaero-player-heads").contains(mode))throw new IOException("Modo de parche desconocido.");
+   if(p.equals("options.txt")&&!mode.equals("options-keys"))throw new IOException("options.txt solo admite claves explícitas, nunca sustitución completa.");
+   if(mode.equals("options-keys")&&!Set.of("options.txt","config/defaultoptions/keybindings.txt").contains(p))throw new IOException("Destino de teclas no autorizado.");
+   if(mode.equals("xaero-player-heads")&&!Set.of("config/xaero/minimap/default_radar_categories_client.json","config/xaero/minimap/profiles/entity_radar_categories/cobbleverse.cfg.json").contains(p))throw new IOException("Destino de radar no autorizado.");
    String fingerprint=hash+"|"+p+"|"+mode;Path target=Launcher.safePath(p);ids.put(id,fingerprint);
    if(state.has(id)){if(!state.get(id).getAsString().equals(fingerprint))throw new IOException("Se reutilizó un ID de parche con otro contenido o destino.");continue;}
    byte[] payload=Launcher.fetch(Launcher.validUri(base.resolve(f.get("url").getAsString())),64*1024*1024);Launcher.verify(payload,hash);
    if(Files.exists(target)&&!Files.isRegularFile(target))throw new IOException("El destino de configuración no es un archivo.");
-   staged.put(target,mode.equals("options-keys")?mergeOptions(Files.exists(target)?Files.readAllBytes(target):new byte[0],payload):payload);
+   byte[] current=Files.exists(target)?Files.readAllBytes(target):new byte[0];
+   if(mode.equals("xaero-player-heads")&&current.length==0)continue;
+   staged.put(target,mode.equals("options-keys")?mergeOptions(current,payload):mode.equals("xaero-player-heads")?mergePlayerHeads(current,payload):payload);
   }
   if(staged.isEmpty())return;
   Path backup=Launcher.safePath("puchamon/backups/approved-"+manifest.get("release").getAsString()+"-"+System.currentTimeMillis());Files.createDirectories(backup);
@@ -55,5 +59,16 @@ final class ApprovedUpdates {
    for(var e:ids.entrySet())state.addProperty(e.getKey(),e.getValue());Launcher.atomic(statePath,Launcher.JSON.toJson(state).getBytes(StandardCharsets.UTF_8));
   }catch(Exception failure){for(Path target:applied){byte[] before=originals.get(target);try{if(before==null)Files.deleteIfExists(target);else Launcher.atomic(target,before);}catch(Exception rollback){failure.addSuppressed(rollback);}}throw failure;}
   Launcher.info("Ajustes expresamente aprobados aplicados: "+staged.size()+". Respaldo local conservado.");
+ }
+ static byte[] mergePlayerHeads(byte[] current,byte[] payload)throws IOException{
+  JsonObject approved=Launcher.parse(payload);Set<String> fields=Set.of("displayed","icons","names","alwaysDisplayNametags","heightBasedFade","heightLimit","iconScale");
+  if(approved.size()!=fields.size()||!approved.keySet().equals(fields))throw new IOException("Ajustes de cabezas no válidos.");
+  JsonObject root=Launcher.parse(current);mergePlayerNode(root,approved,false);
+  return Launcher.JSON.toJson(root).getBytes(StandardCharsets.UTF_8);
+ }
+ static void mergePlayerNode(JsonObject node,JsonObject approved,boolean inside){
+  inside=inside||(node.has("hardInclude")&&node.get("hardInclude").isJsonPrimitive()&&"players".equals(node.get("hardInclude").getAsString()));
+  if(inside){if(!node.has("settingOverrides"))node.add("settingOverrides",new JsonObject());var overrides=node.getAsJsonObject("settingOverrides");for(var e:approved.entrySet())overrides.add(e.getKey(),e.getValue().deepCopy());}
+  if(node.has("subCategories"))for(JsonElement item:node.getAsJsonArray("subCategories"))mergePlayerNode(item.getAsJsonObject(),approved,inside);
  }
 }

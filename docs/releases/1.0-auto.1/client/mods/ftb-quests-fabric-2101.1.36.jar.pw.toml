@@ -1,0 +1,8 @@
+name = "ftb-quests-fabric-2101.1.36.jar"
+filename = "ftb-quests-fabric-2101.1.36.jar"
+side = "client"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8885/16/ftb-quests-fabric-2101.1.36.jar"
+hash-format = "sha256"
+hash = "68df590b681255e11c52d1850d0dd02d3ad9a3c5d82fdb9e37312111a60ddefb"

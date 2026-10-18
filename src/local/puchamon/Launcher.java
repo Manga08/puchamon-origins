@@ -16,7 +16,7 @@ import javax.swing.JOptionPane;
 public final class Launcher {
  static final Gson JSON=new GsonBuilder().setPrettyPrinting().create();
  static final HttpClient HTTP=HttpClient.newBuilder().connectTimeout(Duration.ofSeconds(15)).followRedirects(HttpClient.Redirect.NEVER).build();
- static final Set<String> SHARED=Set.of("config/migaja-controls.properties","config/securitycraft-server.json","config/immersive_paintings/common_config.toml","config/global_packs.toml","config/inventoryprofilesnext/integrationHints/puchamon-accessories.json");
+ static final Set<String> SHARED=Set.of("config/migaja-controls.properties","config/securitycraft-server.json","config/immersive_paintings/common_config.toml","config/global_packs.toml","config/puchamon-language/puchamon-es.zip","config/inventoryprofilesnext/integrationHints/puchamon-accessories.json");
  static Path root;
  static boolean allowLocal;
  static PrintWriter log;
@@ -90,6 +90,7 @@ public final class Launcher {
   if(change){
    preflightConflicts(previous,files);
    backup(previous,version);
+   ArchiveFiles.install(manifest,files,manifestUri);
    URI pack=validUri(manifestUri.resolve(manifest.get("packwiz").getAsString()));
    byte[] packData=fetch(pack,1024*1024);verify(packData,manifest.get("packwizSha256").getAsString());
    byte[] indexData=fetch(validUri(pack.resolve("index.toml")),4*1024*1024);verify(indexData,manifest.get("indexSha256").getAsString());
@@ -104,6 +105,7 @@ public final class Launcher {
    redactLog(root.resolve("unsup.log"));redactLog(root.resolve("puchamon/logs/updater.log"));
    if(updater.exitValue()!=0)throw new IOException("La descarga no terminó correctamente. Vuelve a pulsar Jugar cuando tengas conexión.");
    if(!consistent(files))throw new IOException("Faltan archivos o no coinciden sus hashes. No se abrirá una versión incompleta.");
+   retireKnownFiles(previous,files,version);
    atomic(installed,bytes);
   }
   ApprovedUpdates.apply(manifest,manifestUri);
@@ -157,6 +159,20 @@ public final class Launcher {
   Path dest=root.resolve("puchamon/backups").resolve(name);Files.createDirectories(dest);
   for(JsonElement e:previous.getAsJsonArray("files")){String p=e.getAsJsonObject().get("path").getAsString();Path source=safePath(p);if(Files.isRegularFile(source)){Path target=dest.resolve(p);Files.createDirectories(target.getParent());Files.copy(source,target);if(!hash(source).equals(hash(target)))throw new IOException("No se pudo verificar el respaldo.");}}
   Files.copy(root.resolve("puchamon/installed-manifest.json"),dest.resolve("installed-manifest.json"));
+ }
+ static void retireKnownFiles(JsonObject previous,JsonArray files,String next)throws Exception{
+  if(previous==null)return;
+  Set<String> wanted=new HashSet<>();for(JsonElement e:files)wanted.add(e.getAsJsonObject().get("path").getAsString());
+  // Imported standalone snapshots have no unsup state. Retire only previously
+  // managed files, never an unknown mod or any preference/map/world.
+  for(JsonElement e:previous.getAsJsonArray("files")){
+   JsonObject old=e.getAsJsonObject();String p=old.get("path").getAsString();
+   if(wanted.contains(p))continue;
+   Path source=safePath(p);if(!Files.exists(source))continue;
+   if(!hash(source).equals(old.get("sha256").getAsString()))throw new IOException("Un archivo retirado fue modificado; se ha conservado: "+p);
+   Path target=safePath("puchamon/backups/retired-"+next+"-"+System.currentTimeMillis()+"/"+p);
+   Files.createDirectories(target.getParent());Files.move(source,target);
+  }
  }
  static boolean consistent(JsonArray files)throws Exception{for(JsonElement e:files){JsonObject f=e.getAsJsonObject();Path path=safePath(f.get("path").getAsString());if(!Files.isRegularFile(path)||!hash(path).equals(f.get("sha256").getAsString()))return false;}return true;}
  static Path safePath(String relative)throws IOException{

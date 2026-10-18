@@ -10,12 +10,14 @@ export function prepareApprovedUpdates(planPath,{blob,managedAllowed}){
  if(!Array.isArray(plan))throw Error('Approved updates must be an explicit array');
  const ids=new Set(),paths=new Set();return plan.map(entry=>{
   const {id,path:p,mode,source,administratorRequest}=entry;
-  if(!approvedPath(p)||managedAllowed(p)||!['replace','options-keys'].includes(mode)||!id?.match(/^[a-zA-Z0-9._-]{1,100}$/)||ids.has(id)||paths.has(p.toLowerCase())||typeof administratorRequest!=='string'||!administratorRequest.trim()||typeof source!=='string')throw Error('Invalid explicit patch request: '+(id??'unknown'));
-  if((p==='options.txt')!==(mode==='options-keys'))throw Error('options.txt requires selective keys');
+  if(!approvedPath(p)||managedAllowed(p)||!['replace','options-keys','xaero-player-heads'].includes(mode)||!id?.match(/^[a-zA-Z0-9._-]{1,100}$/)||ids.has(id)||paths.has(p.toLowerCase())||typeof administratorRequest!=='string'||!administratorRequest.trim()||typeof source!=='string')throw Error('Invalid explicit patch request: '+(id??'unknown'));
+  if(p==='options.txt'&&mode!=='options-keys')throw Error('options.txt requires selective keys');
+  if(mode==='options-keys'&&!['options.txt','config/defaultoptions/keybindings.txt'].includes(p))throw Error('Invalid selective key destination');
+  if(mode==='xaero-player-heads'&&!['config/xaero/minimap/default_radar_categories_client.json','config/xaero/minimap/profiles/entity_radar_categories/cobbleverse.cfg.json'].includes(p))throw Error('Invalid Xaero destination');
   ids.add(id);paths.add(p.toLowerCase());const file=path.resolve(path.dirname(planPath),source),bytes=fs.readFileSync(file);
   if(bytes.length>64*1024*1024)throw Error('Approved file exceeds 64 MiB');
   if(mode==='options-keys'){
-   const keys=JSON.parse(bytes.toString('utf8'));if(!keys||Array.isArray(keys)||typeof keys!=='object'||!Object.keys(keys).length||Object.entries(keys).some(([k,v])=>!k.match(/^[a-zA-Z0-9_.-]+$/)||!['string','number','boolean'].includes(typeof v)||/[\r\n]/.test(String(v))))throw Error('Invalid options keys');
+   const keys=JSON.parse(bytes.toString('utf8'));if(!keys||Array.isArray(keys)||typeof keys!=='object'||!Object.keys(keys).length||Object.entries(keys).some(([k,v])=>!k.match(/^(?:[a-zA-Z0-9_.-]+|key_[a-zA-Z0-9_. -]{1,160})$/)||!['string','number','boolean'].includes(typeof v)||/[\r\n]/.test(String(v))))throw Error('Invalid options keys');
   }
   // Prevent accidental public publication of common credential assignments. Never print their values.
   if(/\.json5?$|\.toml$|\.properties$|\.conf$|\.txt$|\.cfg$/i.test(p)){
