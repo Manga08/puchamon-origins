@@ -1,5 +1,9 @@
 # Puchamon: Origins — instalación y actualización
 
+## Estado vigente — 18 octubre 2026
+
+El canal automático está activo. La entrega nueva es `Puchamon-Origins-1.0-Automatico.zip`, con nombre interno **Puchamon: Origins 1.0**. Al pulsar Jugar comprueba `https://manga08.github.io/puchamon-origins/channels/stable.json`; no requiere BAT. Véase [estado, pruebas y migración inicial](AUTOMATICO-1.0.md). Las entregas autónomas anteriores no tenían actualizaciones por internet y necesitan una activación inicial. Las notas siguientes describen etapas históricas, no el estado actual.
+
 Estado al 16 de octubre: **repositorio público; distribución final todavía no publicada**. Repositorio: https://github.com/Manga08/puchamon-origins . Se convirtió el existente conservando sus dos commits, sin borrar el historial ni crear un duplicado privado. GitHub Pages será la dirección HTTPS del feed. Base Minecraft 1.21.1, Fabric 0.19.5, Cobblemon 1.7.3. Esta herramienta no modifica Migajaland ni la instancia social jugada.
 
 ## Cambios de configuración solo por petición explícita
