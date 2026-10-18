@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "valid": {
+      "trigger": "cobblemon:catch_pokemon",
+      "conditions": {
+        "count": 1,
+        "type": "ghost"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "valid"
+    ]
+  ]
+}

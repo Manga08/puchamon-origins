@@ -1,0 +1,8 @@
+name = "hardcorerevival-fabric-1.21.1-21.1.22.jar"
+filename = "hardcorerevival-fabric-1.21.1-21.1.22.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HqKoXaXz/versions/9oL7pIK2/hardcorerevival-fabric-1.21.1-21.1.22.jar"
+hash-format = "sha256"
+hash = "fede69ff411527edec7f5ead6bcb8b4b01889d9950a04a83acc821945a7c5c21"

@@ -1,0 +1,3098 @@
+{
+  "schema": 1,
+  "packId": "puchamon-origins",
+  "sequence": 1792360820603,
+  "release": "1.0-auto.4",
+  "compatibility": "puchamon-0.1.0-rc7.1-amigos",
+  "minecraft": "1.21.1",
+  "fabric": "0.19.5",
+  "packwiz": "client/pack.toml",
+  "packwizSha256": "24cc168abf321f13ce6ebe44b16dc2521c4d9f6590000f025da76e0156b9bd42",
+  "indexSha256": "fd63afdeeaf8530f7a501b6da67eeae91ae9b5367f31209ff3d535452638b638",
+  "files": [
+    {
+      "path": "config/ftbquests/quests/chapter_groups.snbt",
+      "sha256": "0c4eb089195609682070c32afee422ccbf9aac1b5f5d7bb5c675e8fc4827198f"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/2111000000000001.snbt",
+      "sha256": "a66385003374fadcf9154155fb47980eeee82564e123bb7b7c2b50d594d70107"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/2111000000000002.snbt",
+      "sha256": "08f8b1ffbf09c877419819d48e65dd1eb02fbe9c8babfa3eb5650edc08d54eee"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/2111000000000003.snbt",
+      "sha256": "f6f3852c1109a286f3765c76076ab3689428a0cfc85cc6dd6e976e55edfc4d84"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/2111000000000004.snbt",
+      "sha256": "3b3c29d0dbfea7f70fcf6b3484106768be46bb29369d874c7e0e3b150235cd2c"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/2111000000000005.snbt",
+      "sha256": "992c9beacbba9c2452b312d3718814fb89f9b305bfbd228ad6696aa1026a531d"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/2111000000000006.snbt",
+      "sha256": "192df18b0d686db01ca11e8d3f33f7cf85728bfc2ce4752fca51c843471f6e99"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/2111000000000007.snbt",
+      "sha256": "315984f7e1639cdd9c6d35d6593585638924d27b6da6a00e3405c119ab899af4"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/2111000000000008.snbt",
+      "sha256": "d827c79e05e9017f4cef653fd243c7bab67db8c863f43f8624f3c5a2c7dda4da"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/2111000000000009.snbt",
+      "sha256": "9f9270958ebc3ab357b8eb173034dfa06daecbbc8bfb224c86c82e18ce426a1e"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/211100000000000a.snbt",
+      "sha256": "d051d21d42ab6aecc675e7c84b130473b7184b8205d75439a0cdddb425e1bcdb"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/211100000000000b.snbt",
+      "sha256": "6838815f57d74e438e25e2e0a0d3bf995e70861a28cbcc6feea36b947d07c7dd"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/211100000000000c.snbt",
+      "sha256": "12d71d8a8ae6c8a3e6dfc14fd8a27fc89b74837823187eab3d2bb7e48e364d80"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/211100000000000d.snbt",
+      "sha256": "d2bf6245a0b672df32b2934fa76d351713ddd41e5901f17b720d30c6afb53adb"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/211100000000000e.snbt",
+      "sha256": "a6ec282b0209002795f17b6ba0caec7ba1cb3faa996704d46655e653c5b192c3"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/211100000000000f.snbt",
+      "sha256": "44b68a24e88f060b1695d5565da47753663f3fc4c2ed2b993f9005d52d1352a1"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/7106000000000001.snbt",
+      "sha256": "8785802d3b1d5304aa8d0732c1ad079f5b1057d25744a0b93ed52bb9ea770113"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/7106000000000013.snbt",
+      "sha256": "e04864576454774d3d515aaa53d678d4033f45695e48e8796e73b879e87191ce"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/710600000000001c.snbt",
+      "sha256": "de659f5ba7f3d3d4dc035f2244b28ed251463a1fa29bb9463b9780c137063035"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/7207000000000001.snbt",
+      "sha256": "b182f18e4e8fbd71f82f40417d3d354660831f65ebf841da1d553d895bde6a76"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/7207000000000002.snbt",
+      "sha256": "0a58191a71e6655eee1f1323cd3d0b2417350aef15edd886a32d9e4b0d06d70d"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/7207000000000003.snbt",
+      "sha256": "6204510b81a3d784e829c77e8fd02291e151de26aefa85f9a5fdec8a9e0f8d60"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/7818000000000001.snbt",
+      "sha256": "fad24be1352eea714ed85f965b663c896777921eafb5ad6c12be01875e7aa600"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/7818000000000010.snbt",
+      "sha256": "8cf71f66692dbb0c52867aa09f82dd32f171f60ab21cd61116a2191d6e1b8b68"
+    },
+    {
+      "path": "config/ftbquests/quests/data.snbt",
+      "sha256": "3b59fd69d8b2013c9b069c3550a2569ba27baa466cbdf1014cc7015952045abb"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/en_us.snbt",
+      "sha256": "024811d9709543d5d90d8a7945fd3825bcf2452e0c72b9ad25018c323f05a806"
+    },
+    {
+      "path": "config/ftbquests/quests/lang/es_es.snbt",
+      "sha256": "024811d9709543d5d90d8a7945fd3825bcf2452e0c72b9ad25018c323f05a806"
+    },
+    {
+      "path": "config/global_packs.toml",
+      "sha256": "739f8bda623ace67679483d86eda7d601b1e70ac6d97f8ae4e438fca33e96a07"
+    },
+    {
+      "path": "config/immersive_paintings/common_config.toml",
+      "sha256": "b9d0de0a05a59f3e1ba4373795711376dd19a166a0d53496884e46fc111c372a"
+    },
+    {
+      "path": "config/inventoryprofilesnext/integrationHints/puchamon-accessories.json",
+      "sha256": "181f65f26e54b39431a01f6fa8f258b8fa0579b3a6bfde2472bc605ea55d89ad"
+    },
+    {
+      "path": "config/migaja-controls.properties",
+      "sha256": "e47ada0b5fa356e4409d0c6761a969c7126e9bb5fa201da6bb4cd54a1c123073"
+    },
+    {
+      "path": "config/puchamon-language/puchamon-es.zip",
+      "sha256": "524241a44e848ec7ab69caefb2b908c49c895f1341dd6b652b39bfdc207f82d5"
+    },
+    {
+      "path": "config/securitycraft-server.json",
+      "sha256": "2cb8bc2b8acaa8f60f27f7ec8340f9222991c08e905aef0070d2361752bfd029"
+    },
+    {
+      "path": "datapacks/COBBLEVERSE - No Ender Dragon.zip",
+      "sha256": "f5cdae688e55951f36f22a4b13ec73f33da1ebb1368f55335d8b9d2cca8190af"
+    },
+    {
+      "path": "datapacks/COBBLEVERSE-DP-v31.zip",
+      "sha256": "24344c64d49cad1e4743276472f5598ed32d1c002f5ebb881b9e0cf7bc1a77c6"
+    },
+    {
+      "path": "datapacks/COBBLEVERSE-Loot-DP-v11.zip",
+      "sha256": "68b07910f68d032cb12902115938c321c326819d85d60cc64c9f42e08be11e99"
+    },
+    {
+      "path": "datapacks/COBBLEVERSE-RCT-DP-v20.zip",
+      "sha256": "54f0e8c1b061554bfba3de86dbcd9a6b39da4e8293e2b5141faa4254dc7ae400"
+    },
+    {
+      "path": "datapacks/extra/COBBLEVERSE-Hoenn-DP.zip",
+      "sha256": "68a1d6f49353eb75d970aaef03dbdba8eafe163d2259d45313c2430f8497817b"
+    },
+    {
+      "path": "datapacks/extra/COBBLEVERSE-Johto-DP.zip",
+      "sha256": "6ec080be3acd58bdc48740da122efcb21a639d839e6607d656cdb3192397d45a"
+    },
+    {
+      "path": "datapacks/extra/COBBLEVERSE-Sinnoh-DP.zip",
+      "sha256": "b2e93ad20f27e96af87f589b8a9653c2f8ce7ed661adf412ba002d0ffec6cc32"
+    },
+    {
+      "path": "datapacks/extra/Terralith-DP.zip",
+      "sha256": "d0f5b0f88152d494cb51c6c06f2b5e52617df9860b2f383d00c85338d81ab164"
+    },
+    {
+      "path": "datapacks/Migaja-Correcciones-1.7.42/data/lootr/tags/block/convert/barrels.json",
+      "sha256": "26523fdbcf0d158a559df192e22bbe73f772e631bbe36793ac57667f86c06838"
+    },
+    {
+      "path": "datapacks/Migaja-Correcciones-1.7.42/data/lootr/tags/block/convert/chests.json",
+      "sha256": "2433a8480e9e5ef3f2c8f49b15c6f3b916025037014d4e63134a22fdc3108375"
+    },
+    {
+      "path": "datapacks/Migaja-Correcciones-1.7.42/data/minecraft/loot_table/cobblemon/x_items.json",
+      "sha256": "dd130d192c2162261eeb79f3e270df70baf08f42b47bf86e942a210a9dfd7f09"
+    },
+    {
+      "path": "datapacks/Migaja-Correcciones-1.7.42/pack.mcmeta",
+      "sha256": "e858fe9b1223216cfa0d646698cb1c1b2c71b426b2bcbfba9f4db5b44b803617"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_bug.json",
+      "sha256": "5088a59b5acde05d3da6f8f5402851552489c57fd82b4a34ffe7c7576ea6bd53"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_dark.json",
+      "sha256": "9b038bdd57323b030aeac9d9d43e58b1a179181267cc1b68eae3a400df3a1c8b"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_dragon.json",
+      "sha256": "ca4a44bd2fa802b6b7bc9a3b0ad7512c821c6bf7eb85a87c2c4b8084fdce7aab"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_electric.json",
+      "sha256": "2459dafa75802690e4a544c8211a9a138995cb48c3f59007d3166ac977be8dcb"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_fairy.json",
+      "sha256": "d3fea48a4e93e30cc17c8f02f1be2e69ee11d8632cccab42765af936bdd4cff1"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_fighting.json",
+      "sha256": "80fc93b3e6f720dcf283cd4e07278935a1781b2a4930039f983affcd28c04650"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_fire.json",
+      "sha256": "524776fae2c7e9e58eddddb38f07ac09bd722015753408d14bacb0493f020b06"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_flying.json",
+      "sha256": "fcb5eedc5a5d47c36123ea61c0fd51abb0010f77f84f61de13662cdc9865ed6d"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_ghost.json",
+      "sha256": "feab60c8a462f065c7bfc8fa3ad43b932b74ccd9422d4be81168f3a2db66f78d"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_grass.json",
+      "sha256": "c7bc1e4fd3e012d4be68b5a6d611abc08735d8911df8e823d6bf588849f7588e"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_ground.json",
+      "sha256": "7e102d89208dd570dec895b31905eb847273b50b140dcbc54c4d56cc6423d101"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_ice.json",
+      "sha256": "9aa4ee13e341d7060c8cb624a5802a9ce24754133740b71595e3a6ddae7056b9"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_normal.json",
+      "sha256": "23f3035e8cd2890c12cee0251378ae3380717bdc6d144d76dd80623ed25a6696"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_poison.json",
+      "sha256": "195c9d1ad7cc756962d7ca54a85a93decfa05d35b83b364a73079e82e3b1117d"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_psychic.json",
+      "sha256": "fdd211df4331d23275b5cc48a23cc00b5d5a04f27da2fbbc1d12ff4b416789d4"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_rock.json",
+      "sha256": "e2ca74f9cabf958adb7ee48b25bbabce01dbf9407df89c15903ed2012dbb63c1"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_steel.json",
+      "sha256": "87ea650432beb937634fde6f5bfccb53889c8634b1cf2222f66addc6d6f9e7f2"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_water.json",
+      "sha256": "2e30c556fe0d5a5f7e5a35174d5e81ddffda6199190c217d09855b9e96d5a258"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/capturas_10.json",
+      "sha256": "0d60da4827f256be42292b8fbae3e32db14f5c7067131d425b3cbacc86d200f1"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/capturas_100.json",
+      "sha256": "376dd3601662cd4ac7e4a789a81a937eb52a2f561b7018a7fc0af47556b9ed2c"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/capturas_25.json",
+      "sha256": "f62c721f279fe9ddf57b32183965135ba783d73cdd1d937ea9386c62cf96eb2e"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/capturas_50.json",
+      "sha256": "53f50f90c70dcab0baffbb06c973bcd5317f23484afaef7ed749e2f9490c0e03"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/evoluciones_5.json",
+      "sha256": "18bbc0dd313aa0cb0b90dd207377eae3a92f865342e660961ce6ee505223ab2e"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_221100000000001d.json",
+      "sha256": "93d7089fc62f8b87fb44f11674a799f93d7322548a72cb8f64ed3cbcbf5f5c3b"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_2211000000000138.json",
+      "sha256": "1896952d92aee58a62f1b9273fd9636e710ddaceec0528606a38175596a49edb"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_221100000000013b.json",
+      "sha256": "8b3ae4bddd237ff961659226f8c0af4c93d2d08530a7321f271d2ca3703c439a"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_2211000000000146.json",
+      "sha256": "d4166f1adbdc7c4de277d13278acfb86f14d4e165a4f47cc046e2b0cf4c44cbc"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_2211000000000149.json",
+      "sha256": "01526c51f7a4844cf654f7dc176e82f95545b9ac8f5b58db02529a8d85a87a01"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_221100000000014c.json",
+      "sha256": "5274ebd0ac7a5f853d8ad42f8cf72230fe153b135f1e44e8336f4372b61da7fc"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_2211000000000152.json",
+      "sha256": "aea2f559f0d40fad6dd923114a5d1098871da03bb10b4aed0333e34e60026aa2"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_2211000000000155.json",
+      "sha256": "bb528259a2a013b222aafb62364c7b5676d30e954bbfeb980067135865ba5321"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_2211000000000158.json",
+      "sha256": "88a922b6ac9ba226d07aa25745706a36dc7a2ce5a606273c6c7b3649ca0a359c"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_221100000000015b.json",
+      "sha256": "0dd261020df8bb6179ecf8c58fbd9794137b9f912cc0f6a027a75f46a506434c"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_221100000000015e.json",
+      "sha256": "641a274b3e9576a98cfe23cc49f6f4fa9cf32a1e9d76a15b12004cb5ab11600a"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_2211000000000161.json",
+      "sha256": "972be32532709207ecc1676a329137df5ee7fe063f05e63a5fc17cf523905d24"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_2211000000000164.json",
+      "sha256": "e488d63b1132cf13b92261f094250420ee00a980657a57783d61cae799f06dd9"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_2211000000000167.json",
+      "sha256": "4325e345f630eba1b557fab1922e5a30733af7e7e437ba01e22cae2c66e5c981"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_221100000000016d.json",
+      "sha256": "6d75e727512fb928e302a98d59e2bcd39e185f02dfd8e6e8f9366cc345cf81f2"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_2211000000000170.json",
+      "sha256": "8596d3ec5d7577f5bdcdee4100f4428c898cbe8b7f44473f3ea38fa2b0bba9d9"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_22110000000001f2.json",
+      "sha256": "fb680cafce5b268b08df4735b51d51c38873979c67a1837b07b232ee9661fc1c"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_22110000000001f5.json",
+      "sha256": "d654e40cf240147cd806b54150450eb4164eb98574e00b9192dfa3080083e34d"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_22110000000001f8.json",
+      "sha256": "6b20a0a7c1f9b603f1d92d121dd5b1608c24e0f135d5a3ea708d8462d01d104f"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_22110000000001fb.json",
+      "sha256": "5d023e64a3b952b3b0ee10e3059ae0cbfde2762d63976e48fdb3c0c38a1a33e5"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_22110000000001fe.json",
+      "sha256": "5f08886ba43f9f1d6dbd0ad9e829632e710cc2df7006addb7c7a873e9f90af2a"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_2211000000000203.json",
+      "sha256": "1c786d15c4f12f6d8ee43b72bc95df20de8f141ff8840638ae6c9b98132c8020"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_2211000000000302.json",
+      "sha256": "898d18a9a9c0408998d47a51b8e6770c049e6d34539d0bfad47b8b02dd533f89"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_7106000000000002.json",
+      "sha256": "384f667ab5bd4d8c98114f9b8a4925f84471ea60921db56890855ece17119148"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_7106000000000005.json",
+      "sha256": "c3aae350fa8a1ae1cfc9a69f27e6f5185c41dc41881b4b7807a1fc06b9724f70"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_7106000000000008.json",
+      "sha256": "e2cf15aff1be59e50ee0bfac8a134da32a42246fce6aa4e173b45c9efcfebe60"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_710600000000000b.json",
+      "sha256": "aadce0981e856bdd00792bd62547d57d48dd5162f6ae65ef6a321fb127a72d76"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_710600000000000e.json",
+      "sha256": "0cfe19ab6947b0f565641970779ef29b2f1bf9bee08ec1ba8777bc1b15a86bce"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_7106000000000014.json",
+      "sha256": "02cc32671d03b5913f5b6be9ff24a381877684d58075bf44ac503c3831f49a9a"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_7106000000000017.json",
+      "sha256": "1ba8f8951e02de5b4eadb904ee89a2ef6823729e445665b10473f8e88430f0ac"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_710600000000001d.json",
+      "sha256": "ee5dfba65c7d08243c50acac87cc33f4a693f269d11b1839ef9b45c6f1368790"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_7106000000000020.json",
+      "sha256": "3fc570b467ddaf5d3309c829711ead9f3134df5175c8c0e53c21ea0e8a274add"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_7106000000000026.json",
+      "sha256": "b5aad38a7e1a50f40bcbdec576b3a887644c5d1e123efab8e46e8d6f39d41651"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_7307000000000054.json",
+      "sha256": "d1f3bf6be11be5d3eb8aff4f8421771b82b2dab85a43412356a3ff2031291b20"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_7307000000000059.json",
+      "sha256": "0ea07ae2ccf6ce27d351a8566af0ec11622e4646f743c763e4024d583dff5242"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_730700000000005e.json",
+      "sha256": "d87d61fb431ffc5b33030bd345d0bad411202812791a80205883f679c196486f"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_7307000000000063.json",
+      "sha256": "009c2ca579e30fef97768266013885b9955c0b642383471317dc00ffb7c2f4c0"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_7307000000000068.json",
+      "sha256": "56cebe332d4fa58daaa749e56730bf0d610730db22ca4682ac995f4aef927be7"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_730700000000006d.json",
+      "sha256": "793780a16c3b13747767cb9c862ab4479b9bd1eb8d6116cb76ff54bab81c3a64"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_7307000000000072.json",
+      "sha256": "1aab7c44df3f5332d58e26abffa72f72e056c3a5955e5a1811cfafbf60b68113"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_7307000000000077.json",
+      "sha256": "ea99d2713bd25d573018cb4650147fef2655e79c54b6c18ff2847b71f890ee69"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_730700000000007c.json",
+      "sha256": "0ab40086535c915e1fa14759275d8b02cccd8a7cc11d3fd90653300d0b8a0303"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_7307000000000081.json",
+      "sha256": "166f75e6a5b6b6cf5f7b8259d60a88d31d36718c30587a90b0c50563bb08176a"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_7307000000000086.json",
+      "sha256": "2ee9e5d0383e6551177aa5bdbd96eff35afb21474a883edde1df7e284016a985"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_arceus.json",
+      "sha256": "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_articuno.json",
+      "sha256": "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_celebi.json",
+      "sha256": "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_cresselia.json",
+      "sha256": "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_darkrai.json",
+      "sha256": "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_deoxys.json",
+      "sha256": "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_dialga.json",
+      "sha256": "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_giratina.json",
+      "sha256": "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_groudon.json",
+      "sha256": "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_heatran.json",
+      "sha256": "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_hooh.json",
+      "sha256": "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_jirachi.json",
+      "sha256": "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_kyogre.json",
+      "sha256": "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_latias.json",
+      "sha256": "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_latios.json",
+      "sha256": "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_lugia.json",
+      "sha256": "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_mew.json",
+      "sha256": "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_mewtwo.json",
+      "sha256": "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_moltres.json",
+      "sha256": "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_palkia.json",
+      "sha256": "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_rayquaza.json",
+      "sha256": "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_regice.json",
+      "sha256": "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_regirock.json",
+      "sha256": "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_registeel.json",
+      "sha256": "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_zapdos.json",
+      "sha256": "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/nivel_10.json",
+      "sha256": "a705f29d2712b0957f9570803a3e0f3074177e8f9ddd9fc4f81ade0f868c58d4"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/nivel_100.json",
+      "sha256": "6f5d65849b7fa800b48c3252746254a5b3c4bb70bf9bc464a11da1bb7706127d"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/nivel_20.json",
+      "sha256": "b627141e990f78e5e029fda4ffe7cf5546da23ef716ba3dc2f3d10c6ddffea84"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/nivel_30.json",
+      "sha256": "5f6ff39b19b7f618637ae53ee53c23385243f470abe3c4055262c4b2f065133e"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/nivel_50.json",
+      "sha256": "b8daf9cd62a53d38d86b0b285c57caa3eaaa0b1167f84a9a098f3f2cf686474d"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/nivel_75.json",
+      "sha256": "24989481a380e5bbed69a4bcaa9d81af2c5ec81efa375c721fcb6c890809fb24"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/npc_10.json",
+      "sha256": "c0a46d513c9f97bc7b688a9e26d84a150df24a70a5932859ebd3438755ae435b"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/pescar_pokemon.json",
+      "sha256": "22071f350880440a90dda568e4b919ef59571d26c2fd71af7449ec402d43f141"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_hoenn_adriano.json",
+      "sha256": "7e0c0427141c28da07b8523e287a56fcbcff82a0fa7166959640739d6528ced9"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_hoenn_alice.json",
+      "sha256": "c3334aeb15e14947b6ba9b255b77221a0aafeb64c03df82fdfcfbe4992a4a25c"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_hoenn_champion_rocco.json",
+      "sha256": "507bf3a697e45b47a8ec2c4700f4faccf0a0ccef3e3761463254b51542c470aa"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_hoenn_fiammetta.json",
+      "sha256": "a0a16e34de98ae36576e103dae27b56db45ca1b7c0d7d225c7640f2619b7c347"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_hoenn_league_drake.json",
+      "sha256": "32b64c139c530a02af7cb348cfa04b42f2e18a4049a8803da96bec536784f755"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_hoenn_league_ester.json",
+      "sha256": "2c36b95bca1af85c0c2b0ea919fe40758bd3e5d5ce9c373a68a44e7acfdc38dc"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_hoenn_league_fosco.json",
+      "sha256": "eeca560a059c72beceb3d1a0c892b1ddbf0f83adebea3f37378050d50dd9908d"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_hoenn_league_frida.json",
+      "sha256": "71b0c26dd17994bfb03e026a9c85ff647396aeb0728be1d6643a9ee9338697ee"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_hoenn_norman.json",
+      "sha256": "0a1447a55115586f6533d5021d25fae907bcb1da7d084d0f540b3c68bd6c5362"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_hoenn_petra.json",
+      "sha256": "abec096e3f83c0baaf18ba96802bedeb235dde14447724691884c73a8e4d8624"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_hoenn_rudi.json",
+      "sha256": "f11cc22446b5a722edf69791fac8a8afe5f24d766c178d5a2272dab63a934106"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_hoenn_tell.json",
+      "sha256": "463978b0dda1f5cdc1847620cf781b975a5ba58bc5aafea7decb3f5b3af3449a"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_hoenn_walter.json",
+      "sha256": "bea1c5b0480779499bb4a5d05c79deb0da779433435e6283fbe67787ea286a44"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_johto_alfredo.json",
+      "sha256": "f94435484e4430195cbe1bae37b0eb82b96bae1537ded813b1f3acb07e296412"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_johto_angelo.json",
+      "sha256": "c9f8f660f3ad8903995d348e045b1b078a072bdda8333c7ce7a1124d0b1b7e01"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_johto_champion_lance.json",
+      "sha256": "c32712e0e6c084eb878d297227af82f1b83ca41f90f53ab2b1c3da32391a01a5"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_johto_chiara.json",
+      "sha256": "02cd744d6982bf3028645bc660a1e417f0d91a5e1e671de4a2de1bb89184f9a9"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_johto_furio.json",
+      "sha256": "0c695f7ddd3c9d638a62c144ab4987cb0393926bd9acd1f7ca94b450f5c46a21"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_johto_jasmine.json",
+      "sha256": "bf86c0e6ede25c017d11282f9b1249a58db35855dc0d099407d88200485afc48"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_johto_league_bruno.json",
+      "sha256": "c9f85e6656c2b20839054d332cbe8b89cf25dbf099638aa5c0dee5f7216f948f"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_johto_league_karen.json",
+      "sha256": "634b7ae65bb73343c821f540b422542646bf57ecce9fe0b147cb4c7ac2609d88"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_johto_league_koga.json",
+      "sha256": "1669bdc0fcda7b45697c657b4e102af9dc62977a63185e8f46db2503b551087d"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_johto_league_pino.json",
+      "sha256": "0c6c8ff58517c3763a8967b7c54a5b3c48b86a2a7f33a149cd45c4c8c2e637d3"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_johto_raffaello.json",
+      "sha256": "912ad69bdc9b18fbd5f93bba054012e5dfad0ceb7e2eb0d00344ef3c83566f28"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_johto_sandra.json",
+      "sha256": "1819b630ff108e060f6f9d7db66f0a11604e64f8a6167249cbb84e8d07227b63"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_johto_valerio.json",
+      "sha256": "9f11b1db8f3533775e5e76f9f1f9d4ab7a12723b386b69f1be526f96298efa69"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_kanto_blaine.json",
+      "sha256": "3b3e8c2dffc04a188e61c615505e54d83134f45afebeb7e95a750e4a4417370a"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_kanto_brock.json",
+      "sha256": "3577700417910589e96aa3ae58907341a6a7d7902784642a64f17a53df6f4650"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_kanto_champion_blue.json",
+      "sha256": "60d9318aa28a724b56b4b91967c5381b76f1b5ebc7e40ad3eb042a000a4b5527"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_kanto_erika.json",
+      "sha256": "f9769a2bae20a0065e0858c186abfa005616ec0beaa078697681536820910895"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_kanto_giovanni.json",
+      "sha256": "595a1282ca5472b59bba6b0a88ddba951b610531feaeb3a6080aa7e2abf1ed54"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_kanto_koga.json",
+      "sha256": "b96d0e85b2b11fa7c4e938dcbab3ecf82256cfce2cd5da2720e11ff40873dda2"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_kanto_league_agatha.json",
+      "sha256": "fa152783a242be3fbf149b0d79893fea28f44b3253e9f707a4563bc3e96aef55"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_kanto_league_bruno.json",
+      "sha256": "23a4ba04621b2062264760ea77cd24cc1cc32538202d4aaf399fb637b4fdcfd8"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_kanto_league_lance.json",
+      "sha256": "9a485bc42b157210a526acb090b07e2de6806b7631dcfdaaa5dbf75eddd8aa62"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_kanto_league_lorelei.json",
+      "sha256": "572be2a2b33e422a890cb0377f1501c259fb9fb298f3f3f62b0c2c9c31312b49"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_kanto_ltsurge.json",
+      "sha256": "c65c54773ced0f3b78e7240fc8458beb19fdd798e5c58043540120d1a2cbd978"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_kanto_misty.json",
+      "sha256": "d4fd8580456956508dd4a0f47c992362f92305339e1b99e14dc88783b7fcf24c"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_kanto_sabrina.json",
+      "sha256": "722247a1e422a3e3d6a6b91f95d83d7f44cc0843d4d3b9bd48d9cb91c4403e81"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_sinnoh_bianca.json",
+      "sha256": "87d8bddb47d2c179d4d6410f67e7503067ae20eb09b9534db76f8809396b1ea3"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_sinnoh_champion_camilla.json",
+      "sha256": "1baa26aaf54a1aefd607dde2178a5054956f40cb15ff636c1bb933e642711130"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_sinnoh_corrado.json",
+      "sha256": "6623d1c9760987b87d477f3494f4f301c8f3504007562a3dd73b3422bf7defcd"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_sinnoh_fannie.json",
+      "sha256": "0a5e5a087948a31bbd33a07cce3659cd19663adae482ef7db025c14329d967a5"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_sinnoh_ferruccio.json",
+      "sha256": "1cb6432dace59290ab02a648299ecff976a456f2fce2e01f4c7e82002aad210a"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_sinnoh_gardenia.json",
+      "sha256": "4fc73f6f94b6178d77eecd096314bce95937742d81c6e6a4a16420b8e30b744d"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_sinnoh_league_aaron.json",
+      "sha256": "786bf43fa08fd77e2a9a570b393ce64c8159d38d2ff316ff5e9e7790be04b472"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_sinnoh_league_luciano.json",
+      "sha256": "d8c355d6fc9524ca88d195fd54c60cec8270f27a7d336400ac073eab5d08b54a"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_sinnoh_league_terrie.json",
+      "sha256": "337a04f458b73e80d84e748fe7efdb6511637f21db38a42eb529d8c75e079152"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_sinnoh_league_vulcano.json",
+      "sha256": "9083bf3255ce4ab4e708d42d98b9ad19f7dffc3d83db1f5de8dda725eca3983e"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_sinnoh_marzia.json",
+      "sha256": "b237511e89981de4c5cafaecb3d4fbefd8075f2b2465b760029b391863db9645"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_sinnoh_omar.json",
+      "sha256": "0ebdb481494e4a779e958f45a51740a039ad07678a7b810b54c12d7e7c37ddf2"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_sinnoh_pedro.json",
+      "sha256": "caf93589ac01f00433ee62fe809d9b37f2ca8a6c346a25b4fc5427f3ec62ca4c"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/victoria_npc.json",
+      "sha256": "01930bfde0c1f2bd6f349f3c4ae51782d7bf3c6d5ca51a2f8cbe9bd5582288a7"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/victoria_salvaje.json",
+      "sha256": "8826b1650003a588c6677ebc0303e96d0c77b2ebc20feddc646ec029fdc678df"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/victorias_10.json",
+      "sha256": "fead40656f30fa0557575d83068262155034beeae890f141b7207a41f24977a9"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/victorias_25.json",
+      "sha256": "d4dce454111d2b9604fad50bf7f058e92ec198cd25051dd73f12dd330d070c8d"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/victorias_50.json",
+      "sha256": "6367fe19e869b4af2bd6cb5d867ecc320af7d7ef370cb95cfd220400e5cd960f"
+    },
+    {
+      "path": "datapacks/Migaja-Guia-1.7.42/pack.mcmeta",
+      "sha256": "6279b287fd65a3b6c0b86d56a6eee022fb55c1a56da2edc2be560ea0f67ae37f"
+    },
+    {
+      "path": "datapacks/PokeCenterPCs-DP.zip",
+      "sha256": "e462e091ef376595c5b0efab2615fe0463b93b4c54e462cc841749a90ecefe31"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/bca/loot_table/general/attic.json",
+      "sha256": "6640540ad87f98800f319dc611956813070dab8c29947c32b5fc56a168399a9f"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/bca/loot_table/general/bedroom.json",
+      "sha256": "eb337a208bac11aac4beee2e8978600775950c9f2f9d67271e16a880ab6d4816"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/bca/loot_table/general/blacksmith.json",
+      "sha256": "9afc802de826e4c77732b863f3b1d82d56d2eaee9cb59c4eab6a9fa21d8b1859"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/bca/loot_table/general/easter_egg.json",
+      "sha256": "29c007bd4df17872bcbe1e3c4e1fbdf56271937390740a3f18e424318e3eddf4"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/bca/loot_table/general/kitchen.json",
+      "sha256": "1162a3906faa82670a862de49c0869f9f3608e02b2879da8ed045b71e86b5685"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/bca/loot_table/general/miner.json",
+      "sha256": "d2fc2377f74ce5cd7a12ad63d00ead74e2014ced0ef23edb6980abd2e23bb78e"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/bca/loot_table/general/pokecenter.json",
+      "sha256": "e42cd7e4a56750a2fde7994e9ff5678515435db7a8843e6143d4b442908f5894"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/bca/loot_table/general/sittingroom.json",
+      "sha256": "c25bc32c86b6150fc29f51332196cf0f8953ce83234750bee822ec4a0ae07747"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/bca/loot_table/general/workshop.json",
+      "sha256": "3072631b84e6cb490746e66c198e6e55b8ead3b5ae71e2a36ace9bc8af24ce20"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/beautify/loot_table/chests/botanist/botanist_chest_taiga.json",
+      "sha256": "d5af440169f59ecb91b556ac8ec60b9a630c01dd5803e9c546cc3eb1048031ec"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/injection/chests/igloo_chest.json",
+      "sha256": "2778b67323ceca1e9e8c15db750e6fbf20b58dd0ba721852488eb6b485dbf450"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/injection/chests/pillager_outpost.json",
+      "sha256": "2778b67323ceca1e9e8c15db750e6fbf20b58dd0ba721852488eb6b485dbf450"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/injection/chests/stronghold_corridor.json",
+      "sha256": "2778b67323ceca1e9e8c15db750e6fbf20b58dd0ba721852488eb6b485dbf450"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/injection/chests/village_house.json",
+      "sha256": "4c0f4e74941c31da6ab8a93a996bd75eca9b5094636e3076b593e398063668d7"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/injection/chests/woodland_mansion.json",
+      "sha256": "6ddb24ba9fe9a3dbb4a81996695441c550859c5edf44b27069093571b19ca65c"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/ruins/gilded_chests/base.json",
+      "sha256": "c4be559d808df5b6fd481fedff838adf05d9dfb23c5a3e4350c3ba14b5618a58"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/ruins/gilded_chests/ruins.json",
+      "sha256": "519511e99d59a0c50235c87282aee0ee6f55c8bed202cb751d29c257acf3f6c2"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/ruins/pots/ruins.json",
+      "sha256": "8bef64a2fba737c779d770a003ce3f12f9a51fa0dd4d6fca167b2d5fb46bae18"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/shipwreck_coves/fishing_boats/fishing_boat.json",
+      "sha256": "a6ab16f92799a8bdf8e6facb0d9e5982dfedbe0df8c839da2c7ecdaf095cbd2c"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/shipwreck_coves/gilded_chests/big_treasure.json",
+      "sha256": "6ef9d7220cad0a5b58966a31d6e66c53867082bfcf7f8e20cb4debed60c5de42"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/shipwreck_coves/gilded_chests/lesser_treasure.json",
+      "sha256": "16da98bd2ceac79becf956dcdc7724b66eeefd40336e8a02d479e3db43b75b0e"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/shipwreck_coves/spawners/extra_normal.json",
+      "sha256": "d8bea15bc6cdbf15e3a3b2efda1ee1d22ad7355786e8899b68f165cb93198c23"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/shipwreck_coves/spawners/extra_ominous.json",
+      "sha256": "2bf64c4d9a9638890335a301bc0021e68a4b45573a916eaeb087ef83185e01bd"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/shipwreck_coves/spawners/normal.json",
+      "sha256": "33a4ddb0211c99f53f5a966c40889b2203cf6888c64e752a197808b486749d27"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/shipwreck_coves/spawners/ominous.json",
+      "sha256": "06ea6d6d38e9e6840dbe9e7530ef670e1383aa0d03342dbda810949ce26adbda"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/villages/village_pokecenters.json",
+      "sha256": "6a76fbdae19b4afee4e2b52cd35280405ccc12a1f0feb32a689eb8cd1e9ad793"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobbleverse/loot_table/structures/eterna_building.json",
+      "sha256": "1d6689f3f0bc609abc1b2b244f03beb2cab5dca672700ceee8fb75c52a2334bd"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobbleverse/loot_table/structures/fullmoon_island_dream.json",
+      "sha256": "5413a49bba6226363ecd5d75baa3264a2c1f3aa90b612a89ab2824edc5f5a302"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobbleverse/loot_table/structures/fullmoon_island.json",
+      "sha256": "8f484158f59897ffdae97c493b0cf8ecfe59c8b6432bf614cf5366eb3b6aa592"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobbleverse/loot_table/structures/newmoon_island_nightmare.json",
+      "sha256": "04d40bf44d65a0be3da02ae77c1a71b38d664d417e85d36ffd5316107734416d"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobbleverse/loot_table/structures/newmoon_island.json",
+      "sha256": "872b761dc2f82a924db27a34c956600378a13dc666f723596a2ba21dd2cd1ed5"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobbleverse/loot_table/structures/regidrago_chamber.json",
+      "sha256": "c9a39e37524e805117142841b7228d805b66ff83b859f94b6b0fde2646f9a3b3"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobbleverse/loot_table/structures/regieleki_chamber.json",
+      "sha256": "82174cf3b95f5e2359e6465a05446ae91e8dfb85ab12b920962eac56cc79b864"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobbleverse/loot_table/structures/spear_pillar.json",
+      "sha256": "a38064acb235925d0bc916c5719e2acb87418475285dfd047c206d6d6a85b814"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobbleverse/loot_table/structures/team_galactic_generic.json",
+      "sha256": "d0422a7e74260bcc04d82753d28679d2d0bf159112b722496b29f01914e6b6fa"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobbleverse/loot_table/structures/team_galactic_hq.json",
+      "sha256": "1766b6c06e4ea61a521a9da83899c37217c880fb569f2af6625606e7dfc5e8ce"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobbleverse/loot_table/structures/wind_plant.json",
+      "sha256": "a3360168286952a2a5fc233436b33ba4fef9d6ea084f088559040c22eb4d7808"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/legendarymonuments/loot_table/chests/stark_mountain.json",
+      "sha256": "1dc0d20f05b15cca5fdb0e945415c749438dbfcd28f6324153e5ce778257b18f"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/legendarymonuments/loot_table/chests/turnback_cave_chest.json",
+      "sha256": "2561ada71e42bba6531f123a086fcc6a04e4b4427e23bb48db45091e3bf7643e"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/legendarymonuments/loot_table/chests/turnback_cave_vault.json",
+      "sha256": "a15ca4855bd4b06e077182c770c03807781d73643d3891808d151b8c50a139c1"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/lootr/loot_table/entity/item_frame_empty.json",
+      "sha256": "a9a1e800c2bf098414b32de038eafc42e4e9fa74986d4e3b0cc330bc7ae7cd71"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/mega_showdown/loot_table/archaeological_site/archaeological_site_chest.json",
+      "sha256": "80b4d9c051cb0a83026372cee14d4bd7a439ec64582b784c9ea75e9572d90d3b"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/mega_showdown/loot_table/chests/observatory_barrel_2.json",
+      "sha256": "c536aef10909ea415aa6d57a8d768b2eac667cbfb0e5a1b55a3a469ec84e7e33"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/mega_showdown/loot_table/chests/observatory_barrel.json",
+      "sha256": "51a0dd5cee379ebca8bf1cca345046b2da164c5807a4d3f86641169242f9cbaa"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/mega_showdown/loot_table/chests/observatory_chest.json",
+      "sha256": "7b3837344d4a5777222b8a78ef91971c41c263795b78702e2a1d81385a04bd24"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/mega_showdown/loot_table/chests/observatory_dome_chest.json",
+      "sha256": "9de796c320f49f6bc6e70a1ca79003acc1862afd8351a08af4851b3097238a11"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/mega_showdown/loot_table/wishing_weald/wishing_weald_chest.json",
+      "sha256": "80b4d9c051cb0a83026372cee14d4bd7a439ec64582b784c9ea75e9572d90d3b"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/abandoned_mineshaft.json",
+      "sha256": "27249ee9ace12f19dea9b74cbd284ffbbc20c4643b2da9e3e60a012daedc9e90"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/ancient_city_ice_box.json",
+      "sha256": "522bd2ac593b72cff5acf8796663437ce2c501b16b15b70f61b2bf8e7ccf8392"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/ancient_city.json",
+      "sha256": "3902cb26e9381e1f5ba6da11a17c0119fa3e5481dcdaf6f7b0aa20dc159c827d"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/bastion_bridge.json",
+      "sha256": "e5d0d309a8a5e0c22c4e94688776565f8d9055301c6c78fa5ab202ddb7662d7d"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/bastion_hoglin_stable.json",
+      "sha256": "df1678760b9197fffa3fb446e7caae68fd220af15b33d36830fc8fe856822122"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/bastion_other.json",
+      "sha256": "1ea6c4d766ba5eb71a1f57b3d8c906508ead73fff0c48587153d7efb0cc8617d"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/bastion_treasure.json",
+      "sha256": "db5dd2f420b0590dd403747cc74eff10818096acc49cf6904a202392975ac0a0"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/buried_treasure.json",
+      "sha256": "4c1d642576fe24217ab2c8dc13463ee71044df36d528907230735c39273dba87"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/desert_pyramid.json",
+      "sha256": "ff6eeb0465293e758661042c35957a95f0371c0f214f50cff48f182faf6838b9"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/end_city_treasure.json",
+      "sha256": "c6f47c417c9d1a172b4ec6111838761e982236c14dde889c24b678fc03d0896c"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/igloo_chest.json",
+      "sha256": "c0bc0163ecc2530ece2bcc977b24a87a1d4fdbda7a5fde6b81da857ab6114d9a"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/jungle_temple.json",
+      "sha256": "36f86bac7a82fae8e9ef6398661ad5e2c6c68f53d3ce421ac98f7bfc2a38307c"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/nether_bridge.json",
+      "sha256": "9e319685dcddfac9a88e631e0c1e882a3741ddf40357802de2282575f4e4fb3b"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/pillager_outpost.json",
+      "sha256": "ede63443893cb1d3b1be07a5a1aeb04c17b75afce70ee34e86bbc973f77cffb8"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/ruined_portal.json",
+      "sha256": "379bb90f85afaa71f28e13be5df961c81bd44e2183232b17d488fa964091d8f0"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/shipwreck_supply.json",
+      "sha256": "d52a9b723aa5e3cc0af28262720c98ef0d27192cdf729c62f353bc3f699f24d4"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/shipwreck_treasure.json",
+      "sha256": "b4a09937dcc0285c5578dea2e1549ebc2face02f8addefbb7c692c79dcb91539"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/simple_dungeon.json",
+      "sha256": "061e3f4a6dc74750e1bb812516f4072d92eaf7360691fb7944798c0c58ae7e46"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/stronghold_corridor.json",
+      "sha256": "ac75fbc4559ccf5a9c159195d9a2461bdee9b222aeaee36eb8331c883ecda1b0"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/stronghold_crossing.json",
+      "sha256": "94088935e7f46f86cd7a604187ada46db677cf804075ed8046275924cba67861"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/stronghold_library.json",
+      "sha256": "75579f4d28dcc30254450d38730e0758e93e7bc417282325f7c5011cba9915e8"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/trial_chambers/corridor.json",
+      "sha256": "ab2b707a1bb12f454967b53f4b6733eadeaeb1bdec1723c877cf9e9308e37472"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/trial_chambers/entrance.json",
+      "sha256": "83aee8f0a2a447576a046cc70fe76e31f5243ebc5b78ca1c6203ff33bd5dedaf"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/trial_chambers/intersection_barrel.json",
+      "sha256": "a7a1804a52eae78c6b2393b7002503b201b18f47dafbf9215dfb274904c49db6"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/trial_chambers/intersection.json",
+      "sha256": "aa3769e91ab79dd4fc85e781c682ebda86d141305ce3621c96e7bfcaba74566d"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/trial_chambers/reward_common.json",
+      "sha256": "a359059849f5d408c88e8d35feb75dc65e1e1f4b8aef02029f9ccd7836f50226"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/trial_chambers/reward_ominous_common.json",
+      "sha256": "fcf57f971a8914334f1d30060c20faa26b9c20516e5343c37982bb8bb6552ba8"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/trial_chambers/reward_ominous_rare.json",
+      "sha256": "811c83c03280306a8250a376d977d42ffced62b140977cd30d47a546c3ab3656"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/trial_chambers/reward_ominous_unique.json",
+      "sha256": "75ae3e65519f809aca604be612f821848332db796ea03d4537337fb63ffc04c3"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/trial_chambers/reward_ominous.json",
+      "sha256": "4379a35e09ad8bd9d61ba6c6b5bb23c782ea2c3a875e4f022527ac893697b7de"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/trial_chambers/reward_rare.json",
+      "sha256": "64213ae0758171e5d41c71daf7331da16702e65f9f4782094b4cc71c792d0c9a"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/trial_chambers/reward.json",
+      "sha256": "21e73f3539e4e25fc4f06578ea6512ae09e5ca570f2220fdbcf60140891986e6"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/trial_chambers/supply.json",
+      "sha256": "a2e1cfadbc28313f556adae8b93dd0a9d60151b69a81cc93a4ac47d340bfb2ea"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/underwater_ruin_big.json",
+      "sha256": "01ae741696a727f0f97d05e7d5731c26c051fac84a74a758e7622ee46be6fce2"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/underwater_ruin_small.json",
+      "sha256": "0ded7f055961c67e1f78a034e3ed40c886b644bc8b6a1e09a41883eb2a7f8079"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/village/village_armorer.json",
+      "sha256": "6bf958880c0b311d993b600447b2271022f7e1166bf58ffbeb14451b9fac64f0"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/village/village_butcher.json",
+      "sha256": "33392ee272e5a4b10b0f697912e539bf22b9569ef623c4df36a3b25f3c33a7cb"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/village/village_desert_house.json",
+      "sha256": "881189b476b662270d03a104a806740e60f4daf99cc8b42f72720b704c1c4cde"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/village/village_fletcher.json",
+      "sha256": "14f144506f11d8cb8861d3f40b308485da42676d87df9af7dc6319ae70bcdc7c"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/village/village_mason.json",
+      "sha256": "41ff30cf132cee6a4544a89ace3c7007c3e8bd3a2aeb50f2fdfca4e839f10ba4"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/village/village_savanna_house.json",
+      "sha256": "b1241ad00cd57da9b7d897acf3882ebbbfe1fde5b7e782d4db9d7984e29fe3b0"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/village/village_shepherd.json",
+      "sha256": "ac5287e4f04097a0492e2eec8af8e6fa67ae67688dbdd0f9ff4d37047ff18d64"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/village/village_snowy_house.json",
+      "sha256": "cbefad088c32e9208dca866fb2ff4ff914c46120d970fb323f6d6d8ae2ce7d51"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/village/village_taiga_house.json",
+      "sha256": "64ebedfc39dfe9602a27a8b3655ca3376d72081f85a7cba91c520ad085490190"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/village/village_temple.json",
+      "sha256": "2d02a7653940f0ab8b0018eb8a5eccbef221c0284d9feb7ebd6ab2f067a1f7b6"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/village/village_weaponsmith.json",
+      "sha256": "3729b100ee4b735b0f14bf5e7dc5c5df92441831d9976b4e610fea40da8d8516"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/woodland_mansion.json",
+      "sha256": "dff3781b5b4dec9508850cddaeb8b05ddaa072c1c809300c03e45df653c374df"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/mega_showdown/crystals.json",
+      "sha256": "6ff873731fe4203e502ce3522b9c9db2f982389925d8f722034e0551e87a53c2"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/mega_showdown/drives.json",
+      "sha256": "deb076ac3da3c704c54ce0672dbc4a6ae2adaac3bac72fad4e3f8f447601af7a"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/mega_showdown/memory.json",
+      "sha256": "719ba492502f363ccbfcb9799ecaf1cd5f0178ee9754e648e570c0f6373bb56d"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/pots/trial_chambers/corridor.json",
+      "sha256": "f183ee75aa24512d629dfb83c4f59289ed5c59311b584c1123e4e5025d9517e0"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/structures/wind_plant.json",
+      "sha256": "36f86bac7a82fae8e9ef6398661ad5e2c6c68f53d3ce421ac98f7bfc2a38307c"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/advanced/minecraft/cobblemon/ancient_pokeball.json",
+      "sha256": "5a2eab581b32e6705a3e9818a2a8e352ce1e4d85af6fdce0f9eea7ff264573e4"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/advanced/minecraft/cobblemon/ancient_special_pokeball.json",
+      "sha256": "a54a75b347aa68e33d648e927c4dcf974958e9c623e73750d996d936d9e58360"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/advanced/minecraft/cobblemon/boost_items.json",
+      "sha256": "128fe2f165f2d90be7b572f6b85b32641ffcc0d0389d45f2ef12615740890977"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/advanced/minecraft/cobblemon/mints.json",
+      "sha256": "9a156333891bbfbd3898cb3945af670cc0cabb0103a78135e47894ca00df1a7b"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/advanced/minecraft/cobblemon/rare_items.json",
+      "sha256": "8ca11ae5c3838ee1691e46e8b8d7a3765b7366bca0dec67d9e8533face98e553"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/advanced/minecraft/cobblemon/special_items.json",
+      "sha256": "82fdfb2cde4e1ab2848ad5a4323f878522ee76320edb7dba85040b77b152cc0f"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/advanced/minecraft/cobblemon/tms.json",
+      "sha256": "7779c57d220ba2aebf6e14220006f17d660aaa5de2eccf53471ee723c6d270d5"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/advanced/minecraft/cobblemon/vitamin.json",
+      "sha256": "e2ec67567a715372086c3e8b5fdec975d175648eff729cc0ddab730234d23347"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/advanced/minecraft/mega_showdown/crystals.json",
+      "sha256": "6ff873731fe4203e502ce3522b9c9db2f982389925d8f722034e0551e87a53c2"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/advanced/minecraft/mega_showdown/drives.json",
+      "sha256": "deb076ac3da3c704c54ce0672dbc4a6ae2adaac3bac72fad4e3f8f447601af7a"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/advanced/minecraft/mega_showdown/memory.json",
+      "sha256": "719ba492502f363ccbfcb9799ecaf1cd5f0178ee9754e648e570c0f6373bb56d"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/advanced/repurposed_structures/chests/lucky_pool.json",
+      "sha256": "b4ff0e2b10f932ec5027c19c6b32bc02866ca75f9715bad4aa350cba5711a8f9"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/ancient_balls.json",
+      "sha256": "a543355cc128fef0d8f58c3dcf40096fc7d2f13e89fb733761a47246b56f9461"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/axe.json",
+      "sha256": "bde932c8eb33ffee2fe0b8c2fe11aad651b353415125a6554b25854415768a70"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/battle_consumables.json",
+      "sha256": "d239fc65f5a8f590b85c141d73bc12b244a60e1bade95a53bb708ce353e66dd7"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/candies.json",
+      "sha256": "baa50702fc7e9358d2dedb2a6913eaa601696d50367813946fccf37733ce7233"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/cobblefood.json",
+      "sha256": "a49440d98117d5e0b4e1b7fefce28a061d0e2c8729b388b28a9fec77c56dffc2"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/evolution_items.json",
+      "sha256": "66e2957689fa4a1d1e2b9eb7671be78d79fde543a64f58a7ec45a2d0819fb967"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/evolution_stones.json",
+      "sha256": "32b81eec1a242722c663053de295977684da1e652eeed7b41923d0ff4657a426"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/food.json",
+      "sha256": "797da12b0d86f72bcc9e4db6b070f8678e127d2e69f0b0f81ab5505f3203f9ac"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/healing_herbs.json",
+      "sha256": "c1179717b988c4666ef9054c93732f3b8eb1c54fd82adf6951ef738716db0448"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/held_items.json",
+      "sha256": "d9dd8d297c2343eacb6d2a8c0320db81a5ab568dddde59ac790a023fc71ca822"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/hoe.json",
+      "sha256": "17f3dd5abc1fd5d901a097b5d933408b23801cdf2523190f444d1148b755b66e"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/ingots.json",
+      "sha256": "be6764f6ac0c7ecfcb85524322194f296f43456116de10a7e667328d849bba7e"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/medicinal_items.json",
+      "sha256": "3138a1b1b41d885e8a140c8017c95591ee00e508280254350a1480296b400bcb"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/minerals.json",
+      "sha256": "d04b95225f1ee589f39e35b75258db1db7cd5ad14ab8bfd42f478fd96c430b11"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/normal_balls.json",
+      "sha256": "501526466fb25025064d7f6a0f4833c4beaf4f6697c6a34aefb3530897316f7e"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/ore.json",
+      "sha256": "383e0fd26b6fcb80f6c20c754cf5d3230e2ddb185b43f9959f0b648d5a5dd777"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/pickaxe.json",
+      "sha256": "b08b5bd1ba3d7f78ef65f8b87a01464504635298bdcfc360e3fe6e8bfaefb409"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/relic_coins.json",
+      "sha256": "7bbdaeb2ccc03626c649fa2ab462f04acf3ad168b618678ce82ff9961d7481b5"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/shovel.json",
+      "sha256": "95ddb12bc3de55e29a36766a6b72f57c277414e9a74c65b5676adb6b4741384a"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/stat_boosters.json",
+      "sha256": "c634033d25363b3198a56ed7ba59db0d0e299ef0f3cb607ad0ba6be6f7bcf1c8"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/type_boosting_items.json",
+      "sha256": "8495061e6d445903335475e1a2844a330f58b634d2a49462f6c4ff9878793281"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/support_tables/combat.json",
+      "sha256": "59cf66bc297f2c5c68ab2f1cd09768baa7ff0cd9c01a7e9161e3d2dd8eb8d318"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/support_tables/evolution.json",
+      "sha256": "271d14a9d7ed8841ab3888e8dd3f613cb0e00294863178fb355b9cc5630f273c"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/support_tables/fridge.json",
+      "sha256": "acb5de92bd273d8a2c8089230bbf457b72fc58add54c9e1fd06c0e763a0760ef"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/support_tables/medicinal.json",
+      "sha256": "bf7351aca8c10fe9716470ec8cdb5169a1cb3356ffbac5f4636ebe3c4dd4d41a"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/support_tables/poke_balls.json",
+      "sha256": "9d9c70475bc20fe85fddc785f37eae7bc522b819759c58403e68f205c2defaa0"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/support_tables/poke_currency.json",
+      "sha256": "f4f5b830035a26b4190ac911c34f55b92cab497e24b9f45010b49f9e652d8898"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/support_tables/sittingroom.json",
+      "sha256": "1c62af46add9d478d7b4b0d2b3f391778fbee8d22f583c5327d1a6d632dc2ded"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/support_tables/terrain.json",
+      "sha256": "a240aad08a39ec26d3bd9e67d0b15057b6d5d678f612ec39a514f077d815e4d3"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/support_tables/tools.json",
+      "sha256": "d1e16b34fa7c72f53cc4b313f4d7b66a63af32c3b4da679bcf1048cc3d9027fc"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/cobblemon/sets/any_ancient_held_item.json",
+      "sha256": "5d6ce9aaacb021e281f243a3eba6b81db489e76a9909270ef425b7d23713ea2f"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/cobblemon/sets/any_evo_stone.json",
+      "sha256": "1424accce81caa9ad1b1e8fccdcbdf0ef4d6557c5c16a2d51217045d8b38c455"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/cobblemon/sets/any_exp_candy.json",
+      "sha256": "4e8589f84b1e36214595087a2bcda69389cf9ff8903f0d43593f19e026187e29"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/cobblemon/sets/any_natural_heal_item.json",
+      "sha256": "babd51ca0238897d41fa2d313b454ac5197665dec78a37db38241ce17c79fc07"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/minecraft/cobblemon/ancient_special_pokeball.json",
+      "sha256": "a54a75b347aa68e33d648e927c4dcf974958e9c623e73750d996d936d9e58360"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/minecraft/cobblemon/boost_items.json",
+      "sha256": "dda3960d3462c7f09d18cdf6a67bd0cde0bfbd676bf21e397566b7e15cda66f2"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/minecraft/cobblemon/evolutionary.json",
+      "sha256": "c4e1f3891fd47905f626d4dd93e6d5c6b53b1a0eaaf7f69518c83c36c808dd13"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/minecraft/cobblemon/healing_items.json",
+      "sha256": "c402670b0e87eccb28c6fc175aa6badc3cde574d745926b5786bb66dca3708a7"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/minecraft/cobblemon/rare_items.json",
+      "sha256": "8ca11ae5c3838ee1691e46e8b8d7a3765b7366bca0dec67d9e8533face98e553"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/minecraft/cobblemon/special_items.json",
+      "sha256": "d2cbf3ff6b534c2f33a62afa6ebdec4f5515c0471e566eba417a9c20363831fa"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/minecraft/cobblemon/special_pokeball.json",
+      "sha256": "dadc7ab337d4c6d122fc881235fa6d2405b482a4a03723bc67482402390099e7"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/minecraft/cobblemon/tms.json",
+      "sha256": "7779c57d220ba2aebf6e14220006f17d660aaa5de2eccf53471ee723c6d270d5"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/minecraft/cobblemon/vitamin.json",
+      "sha256": "e2ec67567a715372086c3e8b5fdec975d175648eff729cc0ddab730234d23347"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/repurposed_structures/chests/lucky_pool.json",
+      "sha256": "b4ff0e2b10f932ec5027c19c6b32bc02866ca75f9715bad4aa350cba5711a8f9"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/bca/item_groups/ability_items.json",
+      "sha256": "de86ac82de60cb2580884ee94cbb42e70ce2dd69ce863bb57123e0b29b78075a"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/bca/item_groups/candies.json",
+      "sha256": "baa50702fc7e9358d2dedb2a6913eaa601696d50367813946fccf37733ce7233"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/bca/item_groups/fossils.json",
+      "sha256": "f541c86af7df21d10f61aeb9c80c9d0db1e62e689634ca508e4027572edd6705"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/bca/support_tables/special_rare_items.json",
+      "sha256": "8c7c188e37edcbf4e7cadd6cfa3c0e58d1f2bb1d6ad3b9c2394a9d850dce05a8"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/cobblemon/sets/any_ancient_held_item.json",
+      "sha256": "5d6ce9aaacb021e281f243a3eba6b81db489e76a9909270ef425b7d23713ea2f"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/cobblemon/sets/any_evo_stone.json",
+      "sha256": "1424accce81caa9ad1b1e8fccdcbdf0ef4d6557c5c16a2d51217045d8b38c455"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/cobblemon/sets/any_exp_candy.json",
+      "sha256": "4e8589f84b1e36214595087a2bcda69389cf9ff8903f0d43593f19e026187e29"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/mega_showdown/sets/any_showdown_held_item.json",
+      "sha256": "332a687d63316e052c9ce9ef00b8773e8f19b027e26a2e33dc320b01681eb2ad"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/archaeology/desert_pyramid.json",
+      "sha256": "def72fe69391c387af5d960e85b2d5dea0050a7f862535bea0f020db1cd5f3a7"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/chests/buried_treasure.json",
+      "sha256": "7d8560ba233b02253edc12472f3d502e5b5cb277442a009947020961d5baf04d"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/chests/shipwreck_supply.json",
+      "sha256": "902dcd796a217e9673d49f406c8becf1fcb232536895d412ebc83bf034377b84"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/chests/simple_dungeon.json",
+      "sha256": "584bddf2e00543a0c60a846a954a51a7bce42fba007559e6b030ab2d03418b75"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/chests/trial_chambers/reward_common.json",
+      "sha256": "c16406b069d27963097f974df3c31964094da93cbd955d500d05c3582cdde859"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/chests/trial_chambers/reward_ominous_common.json",
+      "sha256": "f413a829f1477209f1b5aaa46ea9ba0e3b2bf1c449820214182400dd434f7dbe"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/chests/trial_chambers/reward_ominous_rare.json",
+      "sha256": "3e06297780f86ac8719ddd57d31ed0c0436092e9843095ea8b3c378083b0772a"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/chests/trial_chambers/reward_ominous_unique.json",
+      "sha256": "e8dfd4b85bc2245ea4a92a33a0c6743d6a9565ef0ab9d2526c9be627daa56536"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/chests/trial_chambers/reward_rare.json",
+      "sha256": "749d19f0447b5dae2d430582bca00d27f1501daac6658882a84b055693029ce5"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/chests/trial_chambers/reward_unique.json",
+      "sha256": "792e88bb699287866de92f0c5b67c0fa56db8e067402215061a07fc71be13a3b"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/chests/underwater_ruin_big.json",
+      "sha256": "7e51c05ac2f5ed3cbf5320c882635e85debd1fb031daf206f45fd6f55ac13d6e"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/chests/underwater_ruin_small.json",
+      "sha256": "b76f50dcd51bb1430dbb42c8e34ae1595eeb9f72c2d5a26f24489eca816bfdaa"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/cobblemon/ancient_pokeball.json",
+      "sha256": "5a2eab581b32e6705a3e9818a2a8e352ce1e4d85af6fdce0f9eea7ff264573e4"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/cobblemon/ancient_special_pokeball.json",
+      "sha256": "a54a75b347aa68e33d648e927c4dcf974958e9c623e73750d996d936d9e58360"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/cobblemon/boost_items.json",
+      "sha256": "dda3960d3462c7f09d18cdf6a67bd0cde0bfbd676bf21e397566b7e15cda66f2"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/cobblemon/evolutionary.json",
+      "sha256": "c4e1f3891fd47905f626d4dd93e6d5c6b53b1a0eaaf7f69518c83c36c808dd13"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/cobblemon/healing_items.json",
+      "sha256": "c402670b0e87eccb28c6fc175aa6badc3cde574d745926b5786bb66dca3708a7"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/cobblemon/mints.json",
+      "sha256": "9a156333891bbfbd3898cb3945af670cc0cabb0103a78135e47894ca00df1a7b"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/cobblemon/rare_items.json",
+      "sha256": "8ca11ae5c3838ee1691e46e8b8d7a3765b7366bca0dec67d9e8533face98e553"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/cobblemon/special_items.json",
+      "sha256": "d2cbf3ff6b534c2f33a62afa6ebdec4f5515c0471e566eba417a9c20363831fa"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/cobblemon/special_pokeball.json",
+      "sha256": "dadc7ab337d4c6d122fc881235fa6d2405b482a4a03723bc67482402390099e7"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/cobblemon/tms.json",
+      "sha256": "7779c57d220ba2aebf6e14220006f17d660aaa5de2eccf53471ee723c6d270d5"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/cobblemon/vitamin.json",
+      "sha256": "e2ec67567a715372086c3e8b5fdec975d175648eff729cc0ddab730234d23347"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/mega_showdown/crystals.json",
+      "sha256": "6ff873731fe4203e502ce3522b9c9db2f982389925d8f722034e0551e87a53c2"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/mega_showdown/drives.json",
+      "sha256": "deb076ac3da3c704c54ce0672dbc4a6ae2adaac3bac72fad4e3f8f447601af7a"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/mega_showdown/memory.json",
+      "sha256": "719ba492502f363ccbfcb9799ecaf1cd5f0178ee9754e648e570c0f6373bb56d"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/repurposed_structures/chests/lucky_pool.json",
+      "sha256": "b4ff0e2b10f932ec5027c19c6b32bc02866ca75f9715bad4aa350cba5711a8f9"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ancient_cities/end_spawner_box.json",
+      "sha256": "c926f3b56c684b56e956487e180c838e44997424dc5b4c1a87835cf92a488c33"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ancient_cities/end.json",
+      "sha256": "96f5b639cb37bc8c5722341de9a9d95352ae417fbd66bb74768523201c8d570c"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ancient_cities/nether_magma_box.json",
+      "sha256": "2cc82e6c0a54a91c81ce697043f66b315b8ea3f451d22d8e0adecc1ef005b0f7"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ancient_cities/nether.json",
+      "sha256": "49967eb89df10f9de6d216a28056e7b340893c452daace429cf4e99b3dbf7dfc"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ancient_cities/ocean_ice_box.json",
+      "sha256": "133520bf4c68e9c59abcdb8179406e39ea46e790d30e32e236044a0695a74dc4"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ancient_cities/ocean.json",
+      "sha256": "05e8c19d6e2a8dec7396ba9902ca14497d59870e1617c2d301f3ca47ceb0237f"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/bastions/underground/bridge.json",
+      "sha256": "4308450b3d7556298d3cfce4502fa8f0dfedf621933aa5b9a93907a6b6cdedd0"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/bastions/underground/other.json",
+      "sha256": "8261099d02a703231757d56244211bb660dfb4d1d7878567565b1e762a4151a9"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/bastions/underground/skeleton_horse_stable.json",
+      "sha256": "f3b61afb515f0cabe6b0f652b5389c99a53593fff05b69d941e5a0c77ce7e712"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/bastions/underground/treasure.json",
+      "sha256": "d9eaa39edfe44949e385191812eb7a999933474c51aa374463d4254313417312"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/cities/nether.json",
+      "sha256": "1d524835da76fbe964af5e1cb73873bef57506bf83c5f2f28b1c899bc6574f9e"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/cities/overworld.json",
+      "sha256": "f0052eed817f43dd97e3b45dc41d2587a6f7f3a4b091af6ddf91a11b34ccbd1b"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/dungeons/badlands.json",
+      "sha256": "5dc73c9b63b82d2624f11ebaaeb603d4d3f141350205410d1b41c750ab0d7431"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/dungeons/dark_forest.json",
+      "sha256": "fbb1edbb2ac4b2c68ad9ed80072c3f4caa615373d7803e474c7c3c5efc3b1578"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/dungeons/deep.json",
+      "sha256": "7492c3a3e40ba5345ad0a040e1b2b7925ed165a596b26e24bc82ce02aa9f874e"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/dungeons/desert.json",
+      "sha256": "d17a2d9c4313b447734295dc39713fa3587c58afa27ea4573c34e6ca060fc25a"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/dungeons/icy.json",
+      "sha256": "2a271b63e3a8470bef2827c60c33a14421e3ce2125b82f7f07b2dc3187e6383d"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/dungeons/jungle.json",
+      "sha256": "64a7d8084d330a4dc3afb2c79ba34b707a8c28ff608a71f17c9a3ec1863eaa18"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/dungeons/mushroom.json",
+      "sha256": "fd6568f23ab1c477dd5ce1ef653f78ad342ebefdaf28057b00802c44f13a0a7c"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/dungeons/nether.json",
+      "sha256": "b40ca18921d00edfd93350c89aaae3dcc48696891b1967e26a34f3562b2e5c60"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/dungeons/ocean.json",
+      "sha256": "c6b1f48479eb5eb1fb38ebaf767ad5bb8d75b9167051f7f3236cc7f9cf041b01"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/dungeons/snow.json",
+      "sha256": "9090eb019586671955499dd59638db142ef07d5c1b17231a492d2c85b7c1cff2"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/dungeons/swamp.json",
+      "sha256": "d4b09a25b93325d327d2c4c53455e7f1577d6bd95f730e6351cea493436b97fd"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/fortresses/jungle_center.json",
+      "sha256": "42bb5c16718987d80768bc26149194b7f88d571e2b3ce24c7ac327db157f4829"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/fortresses/jungle_hallway.json",
+      "sha256": "8224bde295176826aa82f70a6246030a593ff93ba2fa60a5ee01f9346d763f0f"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/fortresses/jungle_shrine.json",
+      "sha256": "3a5a558ff0ebdb1ae4d772980b73c99fe6f9aee1718fa3e33ba16aa8610ee9ee"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/igloos/grassy.json",
+      "sha256": "de298eff6d2c08b0fd89605b544736a392e8c784826c1f0edd9c7d3048ba0460"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/igloos/mangrove.json",
+      "sha256": "e9714e310802a4d91f4b50581e0775b7dca00ea05c880f2382f6e44761b3271f"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/igloos/mushroom.json",
+      "sha256": "29633d3dff93bf2665129e7643648681c184a779806dbd86a351400b5d4c10c6"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/igloos/stone.json",
+      "sha256": "0168823241ca531b2f3b0adee2b604f57a2d888bb7b3ecb986b130e293700b52"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/birch_storage.json",
+      "sha256": "9c6848efb29308f45f9b9f4b00c486520dbabdac13ac7ff02e15ac64a39ee8fa"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/birch.json",
+      "sha256": "ce3eaf1d4e9784a39df015e1cc52344bb04c4a123b1c723d9b1299c98648e019"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/desert_storage.json",
+      "sha256": "513745e57cd0bd1200d3640f01c82ce94676539ad08a72911444bf2f1dbc3a1d"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/desert.json",
+      "sha256": "8991026a7c621986b51d2747c27670bbecf45ed4f5483793c47298ed2b2b9fa0"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/jungle_storage.json",
+      "sha256": "25e447ba24a3c60ec997fc2ff46979e5e39f8839c7466bacff01f2df9dce389d"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/jungle.json",
+      "sha256": "4da6d11222fc06953e959de9fab820f05e0b546396b1cf820809205883caf448"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/mangrove_storage.json",
+      "sha256": "0075c7adef3838a3b35abab4774e31b6100a8b95dba930bea3d7dfa558fcc7dc"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/mangrove.json",
+      "sha256": "1e1e4ec17edf444c60b4123b883d682f992423726c63c1268a747217a24c7734"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/oak_storage.json",
+      "sha256": "e3cb8097d920248eaa9618319f08243a91e0547df7ecec3e85192ad228f62009"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/oak.json",
+      "sha256": "db0d9633e0dd5c89fc0e3a643a6b6ac91656df4aa2527e648e509d3bb7c3e1fa"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/savanna_storage.json",
+      "sha256": "a0b4672d76007182212951e654b338627a7f82ddac2c343a7d56ce2218cb6e7d"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/savanna.json",
+      "sha256": "8d9e6976351287466b2b4446718d8f7644b5a676458ed5c3aa38635922bd9a72"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/snowy_storage.json",
+      "sha256": "481d83b6afa0218864ac234bd276dceaefbaf53390af5b109837c3ce840e01d3"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/snowy.json",
+      "sha256": "228b6018ac46f08dc48c8a7c248b9514da1bb6e1487a523594753c075dd09f79"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/taiga_storage.json",
+      "sha256": "0adcbad552d6d31544c4ea8a953377156451157ccfdcf57b1483ba2dbc23cbb7"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/taiga.json",
+      "sha256": "e8b7e7872d3a929b41eaecadf43612135a032a6472356e6a004f6f86669ee475"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/basalt.json",
+      "sha256": "28a7375aee200a30e34a1b2e9050cebace40a037de6e3922c6547e5a711b0dc8"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/birch.json",
+      "sha256": "e196f2c6a702ca8c10c29ad88aaa4301af72475afe11d0b8caf0b48fa18804a6"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/crimson.json",
+      "sha256": "085d2d965a617b3e23a781db2c1b7a95d889a97b26746ca1fe339697eff6c7ef"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/dark_forest.json",
+      "sha256": "6fc799ef329fd4eff9b6e9e4115f6594a4f0475975896625da8b69bac6bb3347"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/desert.json",
+      "sha256": "eb2a7a1695da097c66b6e80b2f0c1d558891149f6816d956b62eb2d2bcdd49f4"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/end.json",
+      "sha256": "cff53c334ac08b3380560fbb01f0b511bf88c6ed9feabbf280fd78b51eb831e7"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/icy.json",
+      "sha256": "595f339c8f6c80029533d882e01dd72a9006db75c527a8802308f5f5444ed01d"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/jungle.json",
+      "sha256": "80284bd2d9ecce70c2ee6100366d8692bb8762b4852bc481e98240caeefcd41b"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/nether.json",
+      "sha256": "c5b081aba933fabc66b44e1379a6779c674a65736e0159111fd9a76c7c59743a"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/ocean.json",
+      "sha256": "e9be13d0fdfd88699607b11b2e2fccae9ac82f3e599f4f4ab6809d678bab4a16"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/savanna.json",
+      "sha256": "a43e1fb3edfed6e647e1539048ee5dc4b71dfd5d9722686495e54c046b1efd39"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/soul.json",
+      "sha256": "2ae129aa048b447727816c119c38573884d7b01ebc34e969b0ca8b246cfe7703"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/stone.json",
+      "sha256": "2b8506d572846a15c1ea975cf4320328d0a5840636ebbb0d61232483bbe33b57"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/swamp.json",
+      "sha256": "3631de78d339e3c89378741b1f8d7b22f7338ba5e4ab5f074d93d13d5e27a465"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/taiga.json",
+      "sha256": "e4a6661f82358f1d1f5bf68afeb52e196ba3d8226eb61925dc52546f5686f3c6"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/warped.json",
+      "sha256": "3ba281962bdc6598cb40917989c3af9164603189992fa0f65cf879351102f2dd"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/monuments/desert.json",
+      "sha256": "a6adc0eff85deca15dee6db44259b98ec57eaa8a1d92feced78202c4ea730cc3"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/monuments/icy.json",
+      "sha256": "a4671abbb4eed8c01a3811ac75aed14c1cb3c790d7356a9153755f79d6a88262"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/monuments/jungle.json",
+      "sha256": "c612e96cf11f4963c83db419bdbe721c4407b69f3dba8dbad0e36a13973fbef0"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/monuments/nether.json",
+      "sha256": "2b98031908d3d9f1bcd922fa99bf0690d99373cf7c3744c9a4d0e2d2c986c389"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/badlands.json",
+      "sha256": "53b45dc61a535e4fdd093f322b7e7126c1d4270206b5c27ebe818deb124d4eb4"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/basalt.json",
+      "sha256": "0d63197d32e5afbfdb2b68d665baa3cb062f03953b5aed0a2bea75e6f2a9e81a"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/birch.json",
+      "sha256": "daec833d50bb67824779daba3eb85fce75ad078e94ea44d352ff61f810a85a3b"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/crimson.json",
+      "sha256": "dda56a6cfcffdef4498341757ba933950abe7b5bfdaa32df83aae4fcc0881c7a"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/desert.json",
+      "sha256": "e97b3133f21098eb7f82cf24f12df8d2f0fe9c9507f2da012ec3257d2ee17f4a"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/giant_tree_taiga.json",
+      "sha256": "71de11735cde6fb6599dc933eefd03ad5960a2e9d0888386b296becb07a19371"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/icy.json",
+      "sha256": "5ffa4e194745fdbe48dad6c6f853cdbfd7aa0faa0f0c11294b980c91303f3d77"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/jungle.json",
+      "sha256": "dd5321d2fc274d73a7ae6eb1a84784b43102fceadf02d89b2570c2e63c841459"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/mangrove.json",
+      "sha256": "e1ed1895a27a058fb126907eb8a234f0abd0c68291759fd4f674a37541cd31fe"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/nether_brick.json",
+      "sha256": "5d38de70c866cb4cb290a71595896870c01913252fe2e93f1de598c090cb0f27"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/oak.json",
+      "sha256": "031e936444988a5d09cb8f5aaf40192b74bf35abf88348de6d8cc527a5b690ed"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/ocean.json",
+      "sha256": "80e67022fce9a3960ee23e98667f63e4abf548fdc5a610957ea0d332990b07a2"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/savanna.json",
+      "sha256": "1f7068b94fb17a6b35607e29f9e6a605d39cd12808ba9072c49f4b5630971e1d"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/snowy.json",
+      "sha256": "80ff28417f12bd2edba3b60cb254faebb175b97d001d9250e41e63047c6d83af"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/soul.json",
+      "sha256": "dc414457cdcd00d0202e3b8151466c61a0e20e6e28cbe9ee24e4ddb53d3ffd36"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/taiga.json",
+      "sha256": "b51b046e34049bc93e673a8c4c5dac36451016eadf055f8bfa66c205c60b3cb0"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/warped.json",
+      "sha256": "624c1a2dfcb833945f2449c06cb07ee5ef4241957e4085d0bfe6680806427e14"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/pyramids/dark_forest.json",
+      "sha256": "9ebcb7090ffabc6d341c698f6d3865962cef172a92bef9c6d973485e64b56987"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/pyramids/end.json",
+      "sha256": "13fc16bc3e1710f6abfb3baf3734bec81a63886f4558bcb71299a95140db144b"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/pyramids/flower_forest.json",
+      "sha256": "6e851f54b938489cace30a7e9e406603cf9922709475eb1f428a53766344b86f"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/pyramids/giant_tree_taiga.json",
+      "sha256": "1fec1f6c5b7d178c1e06279b538d015ed75e579d85b6bd9288f75ff739ff57ff"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/pyramids/icy.json",
+      "sha256": "33b8147f4f9c059bcfdc8d993bc0f07d0347caa10f89740f839b6699b3e242db"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/pyramids/jungle.json",
+      "sha256": "43e471c2876fbf76f0e886b456fed8ff162a9f17a1e648302a3830ed1457beee"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/pyramids/mushroom.json",
+      "sha256": "50b439d63b4e69826c8468fcbf557108eb02ea20af84fc777768e58a64f47bb5"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/pyramids/snowy.json",
+      "sha256": "367b19a163863f002d5ba44c8db9ca1c5d75c70a2b8d421c5a491105fcef47e2"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ruined_portals/end/large_portal.json",
+      "sha256": "cdc1313674350d890c7fb9cf671027e72dac2cbee0a65328b51265ddac96fdcd"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ruined_portals/end/small_portal.json",
+      "sha256": "f1e568e3a6fb4709b532e181577523fc27b89a2b9e9a510815bed83fc9115e9d"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ruins/land_cold/large.json",
+      "sha256": "fd454a737c95a08c7c4681bb3ff4c1d7995a4f702bbf06f6bd82e685c823288a"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ruins/land_cold/small.json",
+      "sha256": "b950fe70684725dcbbd006ba287cda816a678f8243ee432beb686bf6f6341c93"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ruins/land_hot/large.json",
+      "sha256": "5216b4f85a58875371e124226369dd4e5fbf2e5b2937eb6b0198a63ee065de13"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ruins/land_hot/small.json",
+      "sha256": "580c5d4c7a42dcb1c7040e59dd9ca82591ed2d097158624974a90936a32a6b9d"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ruins/land_icy/large.json",
+      "sha256": "cbaa004251aad35fec8bba5198c6c79a4a75e3f2064604b8cd7c8777ac4a8f90"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ruins/land_icy/small.json",
+      "sha256": "49c40494864895c303bbf489b342c8dcb828594ed50130c5c1c586c80a2692b1"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ruins/land_warm/large.json",
+      "sha256": "468e63e632ae49885933e9d572e49184d0906c75262abe4803e573928f342e6c"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ruins/land_warm/small.json",
+      "sha256": "9c4722f801b0c5700b31bbe5a4c6a7335259c32b9a8d086012ef96b6b5be4dc6"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ruins/nether.json",
+      "sha256": "ed4385a1494c6afb74a56027a1a2bc2bd2f9ae91f63f5de44970d37156a956a4"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/shipwrecks/crimson/map.json",
+      "sha256": "a53063bb736d6fa638278a511f2f8bce6b16c6d73cff03073c569d7e685b54ce"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/shipwrecks/crimson/treasure.json",
+      "sha256": "7f82e1774d945489c2d4da7ff6f488b88d30d7fa5fa6495606be628255861261"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/shipwrecks/end/map.json",
+      "sha256": "18c4b42b625808ccdd346b21680cbe29b8d67c22d4770c13c152f666b83791ae"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/shipwrecks/end/treasure.json",
+      "sha256": "063141689721f7c902cddff2707e74c61c724c1c54b1e12b1f2fd1938433c32d"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/shipwrecks/nether_bricks/treasure.json",
+      "sha256": "7eaade7f361241038c1ea312ae83576b03fe13fec98d9d671e60ed4513650aa3"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/shipwrecks/warped/map.json",
+      "sha256": "87a22eb711c9347b791c0d002221ecf69d43bbc0155e49c2badaf31f0bc744eb"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/shipwrecks/warped/treasure.json",
+      "sha256": "da427d50a7963981bd276e870692c61a537374da2587fe059cb0200269b30ea6"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/strongholds/nether_hallway.json",
+      "sha256": "61e9f14eb225613a0124da6e777ec5e20cdd3c8292fc3e43c45077fb83a19742"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/strongholds/nether_library.json",
+      "sha256": "6551fe9f9bd13caf61f0e13a28369e7084a238d63669899cf2c7da30921baf29"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/strongholds/nether_storage_room.json",
+      "sha256": "057d9010642d4792c818c0639cb93535f46341b0da666656bfe2e8a652e779d1"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/temples/basalt.json",
+      "sha256": "52c82cfa1036031fa47fa54d0024dd22aff15e5329d9788bce2caa0c44617209"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/temples/crimson.json",
+      "sha256": "7d2fa3d9a9f79b7477b7f70af8caa643ba8884fd5f799db01401169e9d85c3c3"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/temples/ocean.json",
+      "sha256": "a603efaeec2f71d8e7dbb96e2d8bdb06824de1f5527a9c41273f2e959f8a4140"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/temples/soul.json",
+      "sha256": "b905b347d4ba7b5beaf25b7a48f3c40fe9029455ad8144f7913cc5042a677465"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/temples/taiga.json",
+      "sha256": "83ae5cd7fa91d9b3a2cb93bfd658834aade98b070b06a343dbc0448b6dc5c383"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/temples/warped.json",
+      "sha256": "7f639d5198ed402e18c18f401d2d36548b71cf6e6cf1c8264e6c2c5d24c30ab7"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/temples/wasteland.json",
+      "sha256": "1443f7d7982cd4d5f4498afbf59c3193ef928599a76094ac2b1c9f35f29e461f"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/badlands_house.json",
+      "sha256": "ad8adcbbdef678af77f3e8da65e100f058cbe6504ce2e58c8ab5865211538fd2"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/bamboo_house.json",
+      "sha256": "1abbee0b89e77bf7d17c71846e3f367f831337f894ad0166c04a597a5c230f32"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/birch_house.json",
+      "sha256": "19fd9497b9aa94e7a6969c6113537a0957e81196a690ef8810a9014776454a0e"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/cherry_house.json",
+      "sha256": "b9214feb584a4ce3ca4e79b90f941c1b7d28d5d918bae156e1ce7c0381fb77bb"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/crimson_house.json",
+      "sha256": "6476d81c4669dc300506c119c380bcc446ccf33c1a264b847f888a592fe48407"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/crimson_weaponsmith.json",
+      "sha256": "7b3549948ce3b6152ffbc94066fecbf1ab926ade4a765f4ac3b29f32254ce795"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/dark_forest_house.json",
+      "sha256": "d678161cf37b5df0772105d59944c2a97fe4c2b586dc15003fb57e59aa5e527c"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/giant_taiga_house.json",
+      "sha256": "9bcf1c1df269c8e651b9a0c7b7c71ce98e534c529c12939a069596b2083f74a3"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/jungle_house.json",
+      "sha256": "7202ba7ac9c67668b572dfbb4d0738978394eab32399b948862c65e0f551cf30"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/mountains_house.json",
+      "sha256": "afc793a66291472b624a6c24ef47942570ebcd98c315d3de59d990b1955d8834"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/mushroom_house.json",
+      "sha256": "90f871cf1537be58cc6ee66848f11dd3bf4c7f72a56feb2db81b9a463525ef0d"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/oak_house.json",
+      "sha256": "5dd0ea35d53735182a48b8f2b1807078dc1550bdbcc992e8f0445a461866e2ce"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/ocean_house.json",
+      "sha256": "8e40937306a95e29ec77c0f653975332d0d19bd0eae99831109016115d876449"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/swamp_house.json",
+      "sha256": "285897d41910d9f4b4709b64865cb624877af4f53bb0507bce4dc2d2bbe34dda"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/warped_house.json",
+      "sha256": "a8820c7758692061044a3c8f6ff4d9c08b9fd6adf3e4c3160f4ebf78653fef40"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/warped_weaponsmith.json",
+      "sha256": "50c13270367f24f41c88fed5c524318fe9ee2ced3f4045c5346a331864f92d76"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/shulker_boxes/dungeons/end.json",
+      "sha256": "f648fc700963d152096e292998f2c88a5d7bea64f3c854115a4d8c0aba6751a4"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/shulker_boxes/outposts/end.json",
+      "sha256": "9339e566cb41527a28cd1cc5a1ebdcbe9d4f4da3f554b441a64ddfc981ae0147"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/shulker_boxes/strongholds/end_hallway.json",
+      "sha256": "1aadb8c09ceb070e597741d840a33db3fe728a11c5e317ed81df61b8446e9211"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/shulker_boxes/strongholds/end_library.json",
+      "sha256": "51ae09c24b1f89ed0cd01c1cc61be418744ffe381befc0e8588948b5888583c3"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/shulker_boxes/strongholds/end_storage_room.json",
+      "sha256": "a44c4ac3ec2e971b8d497bee3ddc04042c6a5da6dfdebb64742b68d14ea354c2"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/trapped_chests/pyramids/badlands.json",
+      "sha256": "a17f49c130c435c6d5a6f3e180dfd93ae217d442df5c1e8545d481c36043b0e6"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/trapped_chests/pyramids/end.json",
+      "sha256": "e27313106fa906ecfd5c81d80d93fce194e6bd2f7514db9b0cc481d5e2e7af4e"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/trapped_chests/pyramids/nether.json",
+      "sha256": "73f5ab21cbd7023eb0ddc5e89c7f6cb375e35c4cf76df4177301ab16ed4b6742"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/trapped_chests/pyramids/ocean.json",
+      "sha256": "f7183692e0b364609bd0cfaa97bc01ba08afd733495f7afff9521451cd7f14c8"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/trapped_chests/temples/warped.json",
+      "sha256": "f0b5b2370278ff94dac4067bc936918d138cc99da2259455b91ed47cc14a769c"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/sophisticatedbackpacks/loot_table/inject/chests/abandoned_mineshaft.json",
+      "sha256": "c89e47b24d795a2b1c8719f44cecdc75e50997d3057bb618ead10508325e4788"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/sophisticatedbackpacks/loot_table/inject/chests/desert_pyramid.json",
+      "sha256": "7bdb0e6e8061abed457a85d49d97422598d9251f339436ae641351e5c6139bf0"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/sophisticatedbackpacks/loot_table/inject/chests/nether_bridge.json",
+      "sha256": "86c15294771013b7b532be6fca5dc72f2380d336a21f55d4c8153bd341f8b673"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/sophisticatedbackpacks/loot_table/inject/chests/shipwreck_treasure.json",
+      "sha256": "4f87f4b9666547713267f6de64bde96b3f8481feb094de4b0b7ba24a869add61"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/sophisticatedbackpacks/loot_table/inject/chests/simple_dungeon.json",
+      "sha256": "f91667836515b61d6e438283e724037cc4f336d43c785296ddd74a5b32e66f32"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/data/sophisticatedbackpacks/loot_table/inject/chests/woodland_mansion.json",
+      "sha256": "cf7e90306a7b4c9e4748b311357e78476a2bb7082b9ce90472ab4ed529a69f39"
+    },
+    {
+      "path": "datapacks/Puchamon-Balance-Loot-1.0-r3/pack.mcmeta",
+      "sha256": "0cc07ada52c73d2ae88cc6650702949489fc81e6e6a806c8491118b4f70d17ed"
+    },
+    {
+      "path": "datapacks/Puchamon-Correcciones-Sociales/data/lootr/tags/block/convert/barrels.json",
+      "sha256": "b4e004d68d838598702ce07df35bfa17d8b0170616c1e8c32f5be14c179bc4e7"
+    },
+    {
+      "path": "datapacks/Puchamon-Correcciones-Sociales/pack.mcmeta",
+      "sha256": "e391d634b23a9dbd69327da99a65f4616b3e292b2a86c391c9fbc6e5a658df04"
+    },
+    {
+      "path": "datapacks/Puchamon-Guia-V2/data/cobbleverse/advancement/root.json",
+      "sha256": "9e5db538bf920413e35e4533700b114acc2b37517a2d6c742f3503ab783f04f9"
+    },
+    {
+      "path": "datapacks/Puchamon-Guia-V2/data/migaja_guia/advancement/fabricar_base_pokebelt.json",
+      "sha256": "f55c24cc8127ce1b267cc030e25e9c62ad769950888e4317365f405ff8904b02"
+    },
+    {
+      "path": "datapacks/Puchamon-Guia-V2/data/migaja_guia/advancement/fabricar_great_pokebelt.json",
+      "sha256": "3fe8421c73e4b0152ac7e1ce26604ee4ac88938d65c8283b67dc3c1e99143b1b"
+    },
+    {
+      "path": "datapacks/Puchamon-Guia-V2/data/migaja_guia/advancement/fabricar_ultra_pokebelt.json",
+      "sha256": "a2c74bb27f9da6a48ddbc2696b2b1576929129db70940834a79a60cecee3b0d1"
+    },
+    {
+      "path": "datapacks/Puchamon-Guia-V2/pack.mcmeta",
+      "sha256": "ac50dd9d05c1d28c1fad8254d2d2100bf73019e9800fe266598d1819e95dad36"
+    },
+    {
+      "path": "mods/1.21.1.SecurityCraft-fabric-V0.6.1.jar",
+      "sha256": "7ea8a8a37615c5a7eeb95a3db5b0ea71e566f147c7422f1e9898b051bf6375b1"
+    },
+    {
+      "path": "mods/accessories_compat_layer-fabric-0.1.12+1.21.1.jar",
+      "sha256": "c77c281616618ee51bb4f9bced4708be6d1baa690b3e8564a68d04df9f080980"
+    },
+    {
+      "path": "mods/accessories-fabric-1.1.0-beta.53+1.21.1.jar",
+      "sha256": "51e6f6d52cb2523199ad36e5bc04802230f86904c35ac3dbf36e59c86b2c30d1"
+    },
+    {
+      "path": "mods/advancementdisable-fabric-1.0.1+1.21.jar",
+      "sha256": "53e5c47d485b0a0dd417c2255523679a0b4bba059ae796cdab746112ad1440d6"
+    },
+    {
+      "path": "mods/AdvancementPlaques-1.21.1-fabric-1.6.8.jar",
+      "sha256": "dda6cc159edd450d05b9ff15832747b951dacd068c601018c219bca833ce5bef"
+    },
+    {
+      "path": "mods/appleskin-fabric-mc1.21-3.0.6.jar",
+      "sha256": "9a19cec1294b1bc708392a08e6926dcb85d7378ec5ad909a4b6fcb8bc3bfeaa2"
+    },
+    {
+      "path": "mods/architectury-13.0.8-fabric.jar",
+      "sha256": "10cbbb6f5f96a2f1853b0cc68428424cec8903409517b299ff02350756b6399d"
+    },
+    {
+      "path": "mods/athena-fabric-1.21.1-4.0.6.jar",
+      "sha256": "e17aad84c690ac4e46300a4180b3ae4077ffa4f526dbc82d117afbbff4ee83e4"
+    },
+    {
+      "path": "mods/BadOptimizations-2.4.1-1.21.1.jar",
+      "sha256": "22e2467892d3706f43d1cf2aa637785bb8601c20b0098a82ab956e6a8fc4d2ba"
+    },
+    {
+      "path": "mods/balm-fabric-1.21.1-21.0.63.jar",
+      "sha256": "4c3604961b74e9cbc91efb1a93daa2f4e55354a46afc93cb74f0de543fd86391"
+    },
+    {
+      "path": "mods/beautify-2.0.0+1.21.1.jar",
+      "sha256": "134da1a8e3841f0a14004e839bd1e0a9d091cc5769a82b0052cebda2804ac4fd"
+    },
+    {
+      "path": "mods/better-pokedex-scanner-1.0.0.jar",
+      "sha256": "aca37fa43fe9226cf99f75f194bf6cb9ec27d71dad1ae6c732d0791636231180"
+    },
+    {
+      "path": "mods/betterbeds-fabric-1.4.0.jar",
+      "sha256": "d707f5df1c45150eb18b3135380519e74dd9103673a71032ef3de2b9038424aa"
+    },
+    {
+      "path": "mods/BetterF1-Fabric-1.1+1.21.7.jar",
+      "sha256": "abfb3f37f130ae4dea89e282f1d0fc0e9c4b2235762745931329defb9387bbdf"
+    },
+    {
+      "path": "mods/BetterF3-11.0.3-Fabric-1.21.1.jar",
+      "sha256": "e0e4bb25fbe23b16b7574474ee9fde5cdc9757d05885bc43978f4ea5e8e258ad"
+    },
+    {
+      "path": "mods/BetterThirdPerson-Fabric-1.21-1.9.0.jar",
+      "sha256": "f9ec9dc6508b20d32a3c770ecc77641e8f87c98e298d58e2757a6ef14abbb457"
+    },
+    {
+      "path": "mods/biomereplacer-2.1-hippo-fabric.jar",
+      "sha256": "ec6eeda3d4d32d9740c3e6f24177db3fcfa06866f73e341c0ad4ea090d0055ac"
+    },
+    {
+      "path": "mods/blockus-2.9.18+1.21.1.jar",
+      "sha256": "f2db8c0e9c320326ddb490419d28027724439806e8e2fca1d55d20f57451b774"
+    },
+    {
+      "path": "mods/brb-1.10.0-rc5+1.21.jar",
+      "sha256": "7ddc4761bf5ca59c34703d9586e6edaf6c7a7a3939ed7cdb6c103ab9fec6707b"
+    },
+    {
+      "path": "mods/c2me-fabric-mc1.21.1-0.4.0-alpha.0.23.jar",
+      "sha256": "6a77c69140f3da10e20b25ee8a75da039c5835b73f9c7a03615fbd968b574e5e"
+    },
+    {
+      "path": "mods/capturexp-fabric-1.7.3-1.3.0.jar",
+      "sha256": "8f5ab9ce3ea2957f75033f3adc8a6195d303a96c3a8c1eebd1d5ee254bf88cf7"
+    },
+    {
+      "path": "mods/Carved Wood-fabric-1.21.1-1.9.7-B.jar",
+      "sha256": "90b0784cd66b656343ec4b42c9e5562e92175f15ed91404a03a39e386a23847c"
+    },
+    {
+      "path": "mods/catchindicator-fabric-1.7.0.jar",
+      "sha256": "bcebcfa5692f93de8d8aff33973510517a7434d48656c5ad167d33df841bc122"
+    },
+    {
+      "path": "mods/catchrate-display-fabric-2.9.2.jar",
+      "sha256": "b3ec664f058a20d2374228ec09f3a27859f7a78c3ad303ccda35c6f01ad20e5b"
+    },
+    {
+      "path": "mods/chat_heads-0.15.7-fabric-1.21.jar",
+      "sha256": "9ac63ac359ed20b416e6d4bd0d7b314a5688470232de1a30c894418cd0b3b788"
+    },
+    {
+      "path": "mods/chipped-fabric-1.21.1-4.0.2.jar",
+      "sha256": "1721c94365fd8d2d3c3fdcac7efbfd7e605daa7dfb8adc4c126c5bbde2820c79"
+    },
+    {
+      "path": "mods/cloth-config-15.0.140-fabric.jar",
+      "sha256": "33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f"
+    },
+    {
+      "path": "mods/cobblecuisine-2.0.1-1.7.rc1.jar",
+      "sha256": "081d9ba2ddaae3f9b3240c0b4d49b75c4f93ab2b6e9bbb7bb69a3bc05520e1d9"
+    },
+    {
+      "path": "mods/CobbleDollars-fabric-2.0.0+Beta-5.1+1.21.1.jar",
+      "sha256": "5d8690980ecc79b5f33005dd274d148d0b9b7713ff5e8223c7011aa8bb08401a"
+    },
+    {
+      "path": "mods/CobbleFurnies-fabric-1.2.jar",
+      "sha256": "c1230a58ca2369b973bfade68a0ffcac86ffcbf9dd2a845999ed8c5348bfef93"
+    },
+    {
+      "path": "mods/cobblemon-additions-4.1.6.jar",
+      "sha256": "c40eeee13943aa3b2ed532a25de5b55f5db4c76222e2a61c98d0bc35c028357d"
+    },
+    {
+      "path": "mods/cobblemon-battle-extras-fabric-1.13.45.jar",
+      "sha256": "099c3dafd5c7d29e8d91f954a9598565fdd07dac235bb9c49ab305d9af37f826"
+    },
+    {
+      "path": "mods/cobblemon-battle-positions-1.1.3.jar",
+      "sha256": "d76bbd753763dde4a552d1a86b8bc6ceee9abcb00fa1bd29b6c2e389079437ed"
+    },
+    {
+      "path": "mods/Cobblemon-fabric-1.7.3+1.21.1.jar",
+      "sha256": "f7c25955176badc444ad6211fc556514fedbdba776227f105fe899f8819d74e3"
+    },
+    {
+      "path": "mods/cobblemonpcplus-fabric-1.3.0+1.21.1.jar",
+      "sha256": "09caec3dae531ed8e9153cd668c3e22eb4143699b81434092a264aca082c3341"
+    },
+    {
+      "path": "mods/cobblemonraiddens-fabric-0.11.3+1.21.1.jar",
+      "sha256": "0a09f8ae544412e2f0f599a38b033928ec0a553ad53506c10bca3db734877c7b"
+    },
+    {
+      "path": "mods/cobblenav-fabric-2.3.3.jar",
+      "sha256": "e66eb486f5cfbeef2215910193eba0000c191bbf774fa59f3e0b955ce13cae45"
+    },
+    {
+      "path": "mods/CobbleverseBadges-1.3.jar",
+      "sha256": "d215d075d4ae80a4ed5e20cb5caf442bb3f3607d2a41dc134ebad035f6a8da77"
+    },
+    {
+      "path": "mods/Cobbreeding-fabric-2.2.2.jar",
+      "sha256": "6ef5d451535a5066ada4676d1782664f167cef9f0f7b8fcbc41471934a0a47db"
+    },
+    {
+      "path": "mods/comforts-fabric-9.0.5+1.21.1.jar",
+      "sha256": "73ff17028967a2e30731ea79aee2e18dd8e2d59a5dcd075facd6491cae1b2231"
+    },
+    {
+      "path": "mods/confetti_stuff-1.2.3+1.21.jar",
+      "sha256": "cef17c878e8bcc9b77c473d758fdfae55a088186318179cc06947c563ed94c0a"
+    },
+    {
+      "path": "mods/Confetti-1.3.3+1.21.jar",
+      "sha256": "c0066733f18fd26a6d767a7bd55501c121e30dea6eecb7d84d672a8583129bc3"
+    },
+    {
+      "path": "mods/configurable-3.5.2+1.21.1-fabric.jar",
+      "sha256": "70f7728d67ff8c420a53ef3c08ec73732517882317ab20a084b273773aa1e5e2"
+    },
+    {
+      "path": "mods/continuity-3.0.0+1.21.jar",
+      "sha256": "99fd46b834874d167ea2349a9a72947cbfa7192f927aa99bbeb4b0637aa208d4"
+    },
+    {
+      "path": "mods/Controlling-fabric-1.21.1-19.0.5.jar",
+      "sha256": "c0150c5bfbc77f27b92f24a5a9c2edc462eba8c8f912635757c5deb3a0a93f8d"
+    },
+    {
+      "path": "mods/customsplashscreen-2.2.0.jar",
+      "sha256": "142aacb23fc97e467ded7e279a72b00252018c43d12d803d928d07d4fe8d8678"
+    },
+    {
+      "path": "mods/Debugify-1.21.1+1.0.jar",
+      "sha256": "e61e83875190150337a2366d9374f04865654de7bdf83e6ab29d9915899f8d7a"
+    },
+    {
+      "path": "mods/defaultoptions-fabric-1.21.1-21.1.7.jar",
+      "sha256": "8fff8fad699028a6578c61df3d1690d6fb5abbdc9a7c436e94cc9f51138be790"
+    },
+    {
+      "path": "mods/emotecraft-for-MC1.21.1-2.4.12-fabric.jar",
+      "sha256": "633a77711f650dbf0bd071a43c086b7946d6e117b28ac1a414d038ea7b339f7c"
+    },
+    {
+      "path": "mods/entity_model_features-3.2.4-1.21-fabric.jar",
+      "sha256": "3c3f800b4bf911a158435c36dac0cf4176bec36d837c0696fdfae39d7ec5f976"
+    },
+    {
+      "path": "mods/entity_texture_features_1.21-fabric-7.1.jar",
+      "sha256": "d1b54ad6fd34eaf7187fb62556f2c5cacdc2ea3023a6217e3b2d823285aea148"
+    },
+    {
+      "path": "mods/entityculling-fabric-1.10.5-mc1.21.1.jar",
+      "sha256": "cfb5491f5ed9609784cf3d6a926bef046ca80cb74c7856e6134335d7d0ce839e"
+    },
+    {
+      "path": "mods/EuphoriaPatcher-1.9.3-r5.8.1-fabric.jar",
+      "sha256": "b42bd00c7ab6e044d21f845dedc58a4524e45643f3685bf1c2343098e74d662e"
+    },
+    {
+      "path": "mods/fabric-api-0.116.14+1.21.1.jar",
+      "sha256": "333f15bceb117a0ac41e3396eac9873fa6c325c31e746d679809f9a7a0228196"
+    },
+    {
+      "path": "mods/fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
+      "sha256": "34ccdacf13bb9351fe43ce61912c2e09b72364e43e787d36ba3d2d04dec75a52"
+    },
+    {
+      "path": "mods/fancymenu_fabric_3.9.8_MC_1.21.1.jar",
+      "sha256": "19e5faf15a769ba4841815fb2320f1efc9f97ddffbc24c95299b6480b50af201"
+    },
+    {
+      "path": "mods/ferritecore-7.0.3-fabric.jar",
+      "sha256": "98c3ab1d5aab8f14b5d082d3f1a467727fd335f02d124555c94339761c4c18f2"
+    },
+    {
+      "path": "mods/fightorflight-fabric-0.10.9.jar",
+      "sha256": "7eee034d17281b43324cbdcc41a3836b6c44a93798d40a608538ed12a72279c1"
+    },
+    {
+      "path": "mods/footblockultimate-fabric-0.0.12-ALPHA.jar",
+      "sha256": "1f13d055acd31cc8ad1d8d055272e343ec3bb11ab34e28c3651b1329400436e7"
+    },
+    {
+      "path": "mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+      "sha256": "2e3a8f0e3bda85a7d722720e7ce879cbd9d028d9395c6fc224d329b3c982d9b1"
+    },
+    {
+      "path": "mods/forgivingvoid-fabric-1.21.1-21.1.7.jar",
+      "sha256": "ee45266cc7c10b0a17d9a87b021a57fb8616529e4c33af0fff5a506de71960b1"
+    },
+    {
+      "path": "mods/ftb-library-fabric-2101.1.36.jar",
+      "sha256": "0344e19cd35c0bb6aa608343cc352c9733e400b946b52fd49beec2d7fc0406b6"
+    },
+    {
+      "path": "mods/ftb-quests-fabric-2101.1.36.jar",
+      "sha256": "68df590b681255e11c52d1850d0dd02d3ad9a3c5d82fdb9e37312111a60ddefb"
+    },
+    {
+      "path": "mods/ftb-teams-fabric-2101.1.11.jar",
+      "sha256": "39e34b438e0232a614a8cf1269fcff2705b85fde8b930a03d558bc66a03c7cf6"
+    },
+    {
+      "path": "mods/ftb-ultimine-fabric-2101.1.15.jar",
+      "sha256": "7fe31bbc7193a90b500feed23c7dd689d501ae9bba4668b4a0926cb022373523"
+    },
+    {
+      "path": "mods/fusion-1.2.12-fabric-mc1.21.jar",
+      "sha256": "904b53bd8e0aacf200c700997c7467bc0c66cca1fb4a17c9999afb8eb62942e8"
+    },
+    {
+      "path": "mods/fzzy_config-0.7.6+1.21.jar",
+      "sha256": "323dc065cc3aaeb7f908be7e5d31070a25d4188b433ed770a79700ef8f5e8f7d"
+    },
+    {
+      "path": "mods/geckolib-fabric-1.21.1-4.9.2.jar",
+      "sha256": "eac4cf55e1cb99b22cb91ea87c774d2a670c1711a80f4aff50e6ad56b6c58e7e"
+    },
+    {
+      "path": "mods/globalpacks-fabric-1.21.1-21.0.6.jar",
+      "sha256": "391d960afb1d8f0b63ccfb677970512d68642102b6928a4830ebcd6d3fdba2cc"
+    },
+    {
+      "path": "mods/handcrafted-fabric-1.21.1-4.0.3.jar",
+      "sha256": "9609c27e2eeaed4c633ade2d68ad980cfbed0442a10239846a67e9c62bc1b230"
+    },
+    {
+      "path": "mods/hardcorerevival-fabric-1.21.1-21.1.22.jar",
+      "sha256": "fede69ff411527edec7f5ead6bcb8b4b01889d9950a04a83acc821945a7c5c21"
+    },
+    {
+      "path": "mods/highlight-fabric-1.21-3.0.0.jar",
+      "sha256": "08932afc913f74e9676b9a59a87bdf817d959cf6d861a9269897778240f11df2"
+    },
+    {
+      "path": "mods/huge-structure-blocks-fabric-1.1.6.jar",
+      "sha256": "759071bd7b1db4367f232db35872ce6a30e8adee57a8543d0967d0b39b37819d"
+    },
+    {
+      "path": "mods/Iceberg-1.21.1-fabric-1.3.2.jar",
+      "sha256": "9214790af6fb75c19ef6b95e0e47999addf018e8c7a1630a5118c4252e6d8d36"
+    },
+    {
+      "path": "mods/ImmediatelyFast-Fabric-1.6.11+1.21.1.jar",
+      "sha256": "05a5f3c716ae631af3cc925c8144894368c632156f2d581dd8295cc223ea2f6d"
+    },
+    {
+      "path": "mods/immersive_melodies-fabric-0.8.0+1.21.1.jar",
+      "sha256": "d811350c2fc3d01a2cdb194a44de9e226c5a191e2c50f7e59e81fd31d052f7ac"
+    },
+    {
+      "path": "mods/immersive_paintings-fabric-1.21.1-0.7.9.jar",
+      "sha256": "234d06ba52d3bbb9195df6e4e77992676d8e7032897c84f53306897696901407"
+    },
+    {
+      "path": "mods/infinite-music-0.4.6.jar",
+      "sha256": "f90123fa679e170163f976819c851fc4bd6840d19cf95dde3ff8fe3682eed343"
+    },
+    {
+      "path": "mods/interactic-0.2.3+1.21.jar",
+      "sha256": "fad6a5321f0a69c70dcbe62c631166b6549b1d9656929c011e6c1d57b1dea0da"
+    },
+    {
+      "path": "mods/InventoryProfilesNext-fabric-1.21.1-2.2.6.jar",
+      "sha256": "b69ac6f98e99042d6edd755242bf76d35eea4342559d2b1d88160e556c629177"
+    },
+    {
+      "path": "mods/iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
+      "sha256": "0ceb694040b4628bf3fa02286cfe5f0db833195669ab07f8caa4001359763eff"
+    },
+    {
+      "path": "mods/Jade-1.21.1-Fabric-15.10.6.jar",
+      "sha256": "fb834cc77804a6f509690c54b4af56305ce7a7f3171f8616310710f0af1f673a"
+    },
+    {
+      "path": "mods/konkrete_fabric_1.9.9_MC_1.21.jar",
+      "sha256": "06e912f99d59bf81c0676f1db936150ad4443d5674f59b3c55604540ba620841"
+    },
+    {
+      "path": "mods/krypton-0.2.8.jar",
+      "sha256": "94f195819b24e5da64effdc9da15cdd84836cc75e8ff0fd098bab6bc2f49e3fe"
+    },
+    {
+      "path": "mods/LegendaryMonuments-Cobbleverse.jar",
+      "sha256": "34901d7c95bff58242384c44abc6acc50c2e06310b85f7e80bcd70f7c7e5b0b6"
+    },
+    {
+      "path": "mods/lenientdeath-1.2.5+1.21.1.jar",
+      "sha256": "117175de6d7a8cc9cf36d48fd55a8460183dd30f4d25c0e7230ba8fe470f79b4"
+    },
+    {
+      "path": "mods/letsdo-beachparty-fabric-2.1.5.jar",
+      "sha256": "36d85456d2df3d563698258a982fcfeb24e3660160b00f1dc846120ca9ffab0d"
+    },
+    {
+      "path": "mods/libIPN-fabric-1.21.1-6.6.3.jar",
+      "sha256": "e26e788c5c3542353c0c45fba231e9208a01b182d890815c22df40a1946b903e"
+    },
+    {
+      "path": "mods/libjf-3.17.5.jar",
+      "sha256": "93789892f45d03bec95894ab644f9f909868e84f1a0755a61bdf22ae378629f5"
+    },
+    {
+      "path": "mods/lithium-fabric-0.15.4+mc1.21.1.jar",
+      "sha256": "92329d98c57f5a22091a0adb509fdb1d60113a5602c708b799b13134bad13baa"
+    },
+    {
+      "path": "mods/lootr-fabric-1.21.1-1.11.38.127.jar",
+      "sha256": "2b33fa73a28c14f0983459c165e8c7b491cd1d798c947b967207f66194fb531d"
+    },
+    {
+      "path": "mods/Luckys-Cozyhome-Refurnished-1.1.20.jar",
+      "sha256": "0915e3e54c12fe40622cab94005418d32cbde011fa9c2d7c27756eb7d5313a66"
+    },
+    {
+      "path": "mods/LumyMon-0.6.6.jar",
+      "sha256": "00ad0ddb4bbac26b6f1b83ad80255008be98ab72056d89de3eb9107b01d7eefb"
+    },
+    {
+      "path": "mods/LumyREI-1.1.3.jar",
+      "sha256": "e6ac62bb3a858af78948397b0310efb281b911f4cda31392c989c9cdaf9ed4b1"
+    },
+    {
+      "path": "mods/mcw-bridges-3.1.2-mc1.21.1fabric.jar",
+      "sha256": "0ee00ccd82865e987ca4c0f1a57614c288385b93aa7daac8c81c5eb359934279"
+    },
+    {
+      "path": "mods/mcw-doors-1.1.5-mc1.21.1fabric.jar",
+      "sha256": "36b12175ad87cefcbde35b187b9a1c5ce9e1af1471edf6c5064ebd1a8c868ef1"
+    },
+    {
+      "path": "mods/mcw-lights-1.1.5-mc1.21.1fabric.jar",
+      "sha256": "a5743a24da303ec6ef259dc3d53e4f0eb2bfccbb3ecc3f223dbeb1714e457f32"
+    },
+    {
+      "path": "mods/mcw-mcwfences-1.2.1-mc1.21.1fabric.jar",
+      "sha256": "32408564efb67ed8b02023365d19a31e80c859dbfc0e977790eb12e3a6095cba"
+    },
+    {
+      "path": "mods/mcw-mcwstairs-1.0.2-mc1.21.1fabric.jar",
+      "sha256": "a6243c53256ad7d0813ba9e1003ca8ed5480f5354efcea0c0e8e5cbcb0fa2267"
+    },
+    {
+      "path": "mods/mcw-mcwwindows-2.4.2-mc1.21.1fabric.jar",
+      "sha256": "c887517505ec2568839475d625967ea2277f190f238043d1caa3f7562ff8f77d"
+    },
+    {
+      "path": "mods/mcw-paths-1.1.2-mc1.21.1fabric.jar",
+      "sha256": "f382b057bc62d5ef324021cbcd372f47ee068aa4930e0e14da6863df33081455"
+    },
+    {
+      "path": "mods/mcw-roofs-2.3.2-mc1.21.1fabric.jar",
+      "sha256": "f0b181de6c35f36897ea18c92181409f0ccab604ceb4c34c9a2e126ec638bbc3"
+    },
+    {
+      "path": "mods/mcw-trapdoors-1.1.5-mc1.21.1fabric.jar",
+      "sha256": "b32ff007aa60c90a1293d52fd3f58b04e97b3c783034376ce830fd5b7359f001"
+    },
+    {
+      "path": "mods/mega_showdown-fabric-1.8.4+1.7.3+1.21.1.jar",
+      "sha256": "0cf4568128805816a8d6f3cbab08374b2e0261784c3d6e8c091c602f79bebf51"
+    },
+    {
+      "path": "mods/melody_fabric_1.0.10_MC_1.21.jar",
+      "sha256": "223ab859b9cc246d8d6e5cec5e734f97be3aac545de6cda7743750262428ed83"
+    },
+    {
+      "path": "mods/midnightlib-1.7.5-fabric+1.21.1.jar",
+      "sha256": "b75155a638d15df61922bb635e2c5aae6102897ccaa1e226060a7f5ff4218091"
+    },
+    {
+      "path": "mods/migaja-controls-1.0.0-prueba.jar",
+      "sha256": "d4bd6335c37ac81ce90a9cc6c1cafebdd45f56cce6cdac3f15f0d215949045ce"
+    },
+    {
+      "path": "mods/migaja-skin-bridge-1.0.3.jar",
+      "sha256": "31cc21ab851b5e0e6f14011eca278d6b94f7893bd33af27f4c50a4f24fadec5e"
+    },
+    {
+      "path": "mods/moar-concrete-1.3.1.jar",
+      "sha256": "0e6e7b95b55ca13a50233743ba008a5285f4abf4cca7642bda40b27145f4f43f"
+    },
+    {
+      "path": "mods/MobsBeGone-0.0.7.jar",
+      "sha256": "ad45c9c1bfe8c018d372f9fb6eb3e95507d6252b6cb4204478d04653d9634e98"
+    },
+    {
+      "path": "mods/modernfix-fabric-5.25.1+mc1.21.1.jar",
+      "sha256": "3ce5a9ce75066961b7fa5382692bb1387cc3536cc984b064ab7d70b97f3c674c"
+    },
+    {
+      "path": "mods/modmenu-11.0.4.jar",
+      "sha256": "a88e0d67c82b0434cbf56776c482587c275ed660f635d33f53ba485dfa30dcc3"
+    },
+    {
+      "path": "mods/moonlight-1.21.1-3.7.2-fabric.jar",
+      "sha256": "780c322348c5a414eafa7b537e2512076ea9117271372162bfa4cb186008a1b7"
+    },
+    {
+      "path": "mods/MoreCobblemonTweaks-fabric-1.3.3.jar",
+      "sha256": "8adee1d12c9dd86626e5472d6e1bbcb70b08ed62fea5bdd09db9180cc8411cae"
+    },
+    {
+      "path": "mods/moreculling-fabric-1.21.1-1.0.8.jar",
+      "sha256": "19c7e65794511ab21eed63cab9e2efbf43a29fd2ea20234b23f92cb71c6a2aa2"
+    },
+    {
+      "path": "mods/MouseTweaks-fabric-mc1.21-2.26.jar",
+      "sha256": "3e9fa4800fafef616fbf1545d62f5898f55c83fbd4126ce2b48b5e0077243fc0"
+    },
+    {
+      "path": "mods/musicnotification-fabric-3.0.0+mc1.21.1.jar",
+      "sha256": "747b2527aa373a76e9d378ad1059369400c66fb50fb3ab22a409ac6d8154a614"
+    },
+    {
+      "path": "mods/neruina-3.3.3+1.21.1-fabric.jar",
+      "sha256": "a3a49320128920256b43857e5254e5cd2a481417da61d0999a249aceb6125b20"
+    },
+    {
+      "path": "mods/nethermap-4.0.0-1.21.1.jar",
+      "sha256": "5d5243434984d64c904d21397530f2c7817105ca091bf409aa23f3842b9f3634"
+    },
+    {
+      "path": "mods/netherportalfix-fabric-1.21.1-21.1.3.jar",
+      "sha256": "c6589e3a95ee6dbced2442682caeec53789999bc6a2883f9919e039b1bee98c6"
+    },
+    {
+      "path": "mods/NoChatRestrictions-Fabric-MC1.21.11-v1.0.0.jar",
+      "sha256": "bc8b10f71e17822ca274936e487104e6572f60e8969b81bfe23f30fc11300a94"
+    },
+    {
+      "path": "mods/notenoughanimations-fabric-1.12.4-mc1.21.1.jar",
+      "sha256": "12e3bded47f6669030edf57b615e77de8d080f38d0313dd892c6d18833fc39fd"
+    },
+    {
+      "path": "mods/notenoughcrashes-fabric-4.4.9+1.21.1.jar",
+      "sha256": "1a3a0ec9e7bb60f9c15938ca4287beaf5e49e81183ac273d1a02d734aa327a74"
+    },
+    {
+      "path": "mods/Only Bottle Caps-1.3.0.jar",
+      "sha256": "f18d5ddfaa0a77d0ef68b9db470a41095522878e25b1cc2a5282e747c784f09d"
+    },
+    {
+      "path": "mods/owo-lib-0.12.15.4+1.21.jar",
+      "sha256": "825180ce17bc012fb450653b14df9f32479dcdd073fc3f133bb47462f5a63cec"
+    },
+    {
+      "path": "mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+      "sha256": "2979a8a3f44e5d5df4f9f6315d18c220f3debf736bb8a2c2740acdfb13bd820f"
+    },
+    {
+      "path": "mods/paginatedadvancements-2.5.1.jar",
+      "sha256": "776d8006401781bc036199acc9ba80f7dce6c3bcebbbfa260a774add750c4d2d"
+    },
+    {
+      "path": "mods/particle_core-0.3.3+1.21.jar",
+      "sha256": "e7cfef3eb16d5b73c00915a5f2b820d66555c23d13e0636125d7b07384a443e4"
+    },
+    {
+      "path": "mods/particlerain-4.0.0-beta.10+1.21.1-fabric.jar",
+      "sha256": "49bf60c5b95ea954efa51c63609f0a4668230e12f870f0eb6bdb63d207a22dc8"
+    },
+    {
+      "path": "mods/particular-1.21.1-Fabric-1.5.5.jar",
+      "sha256": "47d724637888227d18e4bc49a11f67b50f0e39d21f4d494cf92215be96f8873c"
+    },
+    {
+      "path": "mods/pastureLoot-1.0.5+1.21.1.jar",
+      "sha256": "48a705eb70a3f129d64af565ff79cfe164d0e59fe2bbc20a903024d0cc844b8f"
+    },
+    {
+      "path": "mods/Ping-Wheel-1.12.2-fabric-1.21.1.jar",
+      "sha256": "9ba63ca5f33c86d0ce3aec2b04fafcc2fbcb8e705e46a7be20ff66382331c3e3"
+    },
+    {
+      "path": "mods/Platform-fabric-1.21.1-1.3.3.jar",
+      "sha256": "52f49993d4440d266fa3a077090e8091983cd1bda5942f176ae75f3e9e350779"
+    },
+    {
+      "path": "mods/playerxp-fabric-1.0.9+1.21.1.jar",
+      "sha256": "22133f464ea4442b481d0bc814ab928b0473890a86bf36fa90884ed660e3edf9"
+    },
+    {
+      "path": "mods/pokebelt-0.1.3.jar",
+      "sha256": "168e7fc22db90f4e4fce080b076e697b23b9ddbb6754031da0fa54e8a9e82ff9"
+    },
+    {
+      "path": "mods/pokeblocks-1.4.0-1.21.1.jar",
+      "sha256": "c113f9e61a7bef35c3bacc57651a7508f3f07c20218b51eade31766899f1176d"
+    },
+    {
+      "path": "mods/polymorph-fabric-1.1.0+1.21.1.jar",
+      "sha256": "bc47b33c864b463167998680c296f513e6d06b42de6db03db0f274ae1f2ee671"
+    },
+    {
+      "path": "mods/puchamon-gate-1.0.0.jar",
+      "sha256": "0e1635d88beb2e94d7a3f0758434c05010a43c0898337388377ab634697a1244"
+    },
+    {
+      "path": "mods/puchamon-onboarding-1.0.0.jar",
+      "sha256": "e4e524f7060105963c18504d3c3aa6be15630d2bef6e30b4bc293fc23b83b77f"
+    },
+    {
+      "path": "mods/puchamon-quest-guard-1.0.0.jar",
+      "sha256": "140c3b662ba54839903832f8075c92214f3bd36ea393228b6dfc41b5c3e61e1b"
+    },
+    {
+      "path": "mods/puchamon-radar-1.0.0.jar",
+      "sha256": "61908748f08a7d6cc43617ae170630d93672e69eb2236058ff1c68e49408181e"
+    },
+    {
+      "path": "mods/puchamon-translations-1.0.1.jar",
+      "sha256": "33c4fa476a04443432ebe69c7c55876193a04361ab2eddbfd548ac8ff4a85d34"
+    },
+    {
+      "path": "mods/puchamon-ui-labels-1.0.0.jar",
+      "sha256": "21d4dde212510b8f15c9d6b030cdd8e588fe15dfd89d05381645b45668a39d89"
+    },
+    {
+      "path": "mods/puchamon-ui-polish-1.0.0.jar",
+      "sha256": "f8c853464e27c43544b615329c3068b9e5f86f6920e7ba7c564524324bdb88d1"
+    },
+    {
+      "path": "mods/puzzleslib-v21.1.64-mc1.21.1+fabric.jar",
+      "sha256": "e4dd33e2aaff78cc3fd7b873ccce0fede9d853b7659f1c0ca016c6fe1fd0348d"
+    },
+    {
+      "path": "mods/Quick Skin - Fabric - 1.21.1-3.1.1.jar",
+      "sha256": "d0ed50b7990b790b2e558f3037302161787e42ffa6072163861a0f162d59fc78"
+    },
+    {
+      "path": "mods/rctapi-fabric-1.21.1-0.15.2-beta.jar",
+      "sha256": "e5bd96b1b74aad41588acc078e7385ca72f66a862aae47adda3d55b44c1d5ba8"
+    },
+    {
+      "path": "mods/rctmod-fabric-1.21.1-0.18.1-beta.jar",
+      "sha256": "92951d3be475a0433f8ef508439730723e2e901dd1e3b2509c29205031d4eb51"
+    },
+    {
+      "path": "mods/rechiseled-1.2.4-fabric-mc1.21.jar",
+      "sha256": "621eb411d88470508a1f1ad6797e569510ca8a63e650728e615b8a65c377b773"
+    },
+    {
+      "path": "mods/reeses-sodium-options-fabric-2.2.3+mc1.21.1.jar",
+      "sha256": "6f5a2964656552da24e015b6f6e03d4baac8cfed919978785e94920f3fd0f568"
+    },
+    {
+      "path": "mods/repurposed_structures-7.5.21+1.21.1-fabric.jar",
+      "sha256": "c3a6ab373dce927c57ce79d14c1ebc9ef4f49d58abcaf9e4caa89a38aab08b8c"
+    },
+    {
+      "path": "mods/resourcefullib-fabric-1.21-3.0.12.jar",
+      "sha256": "93064c5aff85bf5e6385470f311fd1c7de172f58b02fefb1d2920db76f8cd8b5"
+    },
+    {
+      "path": "mods/ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar",
+      "sha256": "5db1e3d3f07947ceb893ccd823a7660f62f8f794e2bf9a5b721a3c3d32dcbc59"
+    },
+    {
+      "path": "mods/respackopts-4.14.0+1.21.1.4.jar",
+      "sha256": "8c38228c14841a01034e6371fada5754754a0abf13de843eea1e1d41dc8257f3"
+    },
+    {
+      "path": "mods/RoughlyEnoughItems-16.0.799-fabric.jar",
+      "sha256": "098c840780940010f2ba48cb758b77c1b991e69ab3fbec8725af099351653c9d"
+    },
+    {
+      "path": "mods/SafePastures-1.1.1+1.21.1.jar",
+      "sha256": "41d1c286db3e02a3249346a5efda6f95799ab895aa40c03a87cdcd81a95e4b45"
+    },
+    {
+      "path": "mods/ScalableLux-0.1.0.1+fabric.d0d58ab-all.jar",
+      "sha256": "f32ed8d825c7af90b14ab9f7bbe1293818bcf411fea104ae20d18ecde30f8387"
+    },
+    {
+      "path": "mods/Searchables-fabric-1.21.1-1.0.2.jar",
+      "sha256": "0b58a40a41db4a4af4ef84475b0ea330be3b18fdcac2eca68ede46d9f4df3d76"
+    },
+    {
+      "path": "mods/skinlayers3d-fabric-1.11.3-mc1.21.1.jar",
+      "sha256": "f22d1ad04cfa0f7fa686bda88637bbc8f41421acb28af9f3c6b38a42559016f2"
+    },
+    {
+      "path": "mods/sodium-fabric-0.8.12+mc1.21.1.jar",
+      "sha256": "9ad11a616d1ca759867de8a5bbafcde5ab50b68dbd674110c7b90aeea251b793"
+    },
+    {
+      "path": "mods/sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar",
+      "sha256": "2c099bfd5dc02ace6e73ffd9259940b0597cd4da7216a53a2c60c6732900d6aa"
+    },
+    {
+      "path": "mods/sophisticatedcore-1.21.1-1.2.9.21.168.jar",
+      "sha256": "3c71a04d5b03cdf9d9fe50e71849fdf11291dd1fab149621e35688ef6e516054"
+    },
+    {
+      "path": "mods/sophisticatedstorage-1.21.1-1.3.7.9.139.jar",
+      "sha256": "0dbaf1ff069c33a8c4738518d983d1cab0cdca6871a6c7b7dc5727c531eca215"
+    },
+    {
+      "path": "mods/sound-physics-remastered-fabric-1.21.1-1.5.1.jar",
+      "sha256": "8884ded0f53f97a6cb2fca9ef035947af8c3376a406e0bdaa8309bfe87801799"
+    },
+    {
+      "path": "mods/soundcontroller-1.2.3-mc1.20.5.jar",
+      "sha256": "31619a26ea7b712c5c8fa22aa730b1c957179ff023adc270a955d151cb991254"
+    },
+    {
+      "path": "mods/soundsbegone-fabric-1.5.2+mc1.21.jar",
+      "sha256": "88a0dd266a5639e89c33c9320685c57d482641738f9bc5b6e6800c3c34b80b32"
+    },
+    {
+      "path": "mods/StackDeobfuscatorFabric-1.4.3+08e71cc.jar",
+      "sha256": "335627367b8212c17e58978866874ede8d0d9a159053fbb38e56123fff83d0f9"
+    },
+    {
+      "path": "mods/Stoneworks-v21.1.0-1.21.1-Fabric.jar",
+      "sha256": "461fa8d46e14c72e08bd0a263f2578beff810c5860ce1a313fb189a79d69f0b3"
+    },
+    {
+      "path": "mods/supermartijn642configlib-1.1.8-fabric-mc1.21.jar",
+      "sha256": "63a29f2acf4be2c5ca89a81a046c1100111ad2865d9638f638e27ca161e7211c"
+    },
+    {
+      "path": "mods/supermartijn642corelib-1.1.21-fabric-mc1.21.jar",
+      "sha256": "462756caa1efeff760a752a29136d59d40c5ad6047603472785f65a44d1da6e3"
+    },
+    {
+      "path": "mods/supplementaries-1.21.1-4.0.2-fabric.jar",
+      "sha256": "ba03c34c2533e5bff3803b3134d73c82abba337d62de55e33479ec20f3dc5272"
+    },
+    {
+      "path": "mods/timcore-fabric-1.7.3-1.32.0.jar",
+      "sha256": "8daaf896de6bc2ee0c097ff24659d248d800a31d7a8373c93a9790d2afb48d1d"
+    },
+    {
+      "path": "mods/tmcraft-1.4.18+1.7.3.jar",
+      "sha256": "4f98cd4a19750878bc41e940ff6c0abb759f3b861487a0830d5823b499fe5529"
+    },
+    {
+      "path": "mods/toms_storage_fabric-1.21-2.3.0.jar",
+      "sha256": "fad39f7ed0ac20ab0345aeb7dbe1be0b2732fa11fd333b6874629e925c45d5d1"
+    },
+    {
+      "path": "mods/tooltipfix-1.1.1-1.20.jar",
+      "sha256": "50c6c45d16c62b0d9a832692b7f6250d5561f0b28bf7729d8ab25fe1162c90d2"
+    },
+    {
+      "path": "mods/trashslot-fabric-1.21.1-21.1.11.jar",
+      "sha256": "28b1ed22a2968e9d1b2760ef8dfeb2a95ab89036d13968182f4d8c326e3763fd"
+    },
+    {
+      "path": "mods/trinkets-3.10.0.jar",
+      "sha256": "349fd2aa8930b232050ee5304db55e4ef738b017971afe7c84acd589a95fda2f"
+    },
+    {
+      "path": "mods/VanillaBackport-fabric-1.21.1-1.1.7.10.jar",
+      "sha256": "6aba8f56fd71b9b5b724812b22f14d11a71e9ca0bf7e84b52b4c8b91736e0734"
+    },
+    {
+      "path": "mods/villagerconfig-fabric-4.5.4+1.21.1.jar",
+      "sha256": "627483b71a24679d51321c618fa6c8abe8df64cf770b001b319412677adab49b"
+    },
+    {
+      "path": "mods/voicechat-fabric-1.21.1-2.6.22.jar",
+      "sha256": "972a01592f670aa57f2dc2e3587a656b798106037468c61e4bfb49eba7d6ae36"
+    },
+    {
+      "path": "mods/waystones-fabric-1.21.1-21.1.37.jar",
+      "sha256": "1cef833ec178bc6ea92a221b8a75bc6637e9e4d38d23f3963610fd772f1b2f95"
+    },
+    {
+      "path": "mods/xaerominimap-fabric-1.21.1-26.6.0.jar",
+      "sha256": "86bdc4282a73ed55e6a4903a7ba65940a6aed20404f7ab7c96f8d94078accd1b"
+    },
+    {
+      "path": "mods/xaeroworldmap-fabric-1.21.1-1.47.0.jar",
+      "sha256": "3e8211e02681f8bc17e1a066b3fcffddfa969cff03f48a5400016f587ba5f8f2"
+    },
+    {
+      "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+      "sha256": "6ab420b7d1326fc9851b96a8967504bd644da421ed6438ceb9a9d9c993a408b1"
+    },
+    {
+      "path": "mods/zamega-fabric-1.7.3.jar",
+      "sha256": "0d134591a9db9834f5f2bffdce4bd4cd0976a1b7879aa7f52ce064c38199cfaa"
+    },
+    {
+      "path": "mods/zfastnoise-1.0.13+1.21.jar",
+      "sha256": "da1b8702dfbdbea125aca0c0b1b3da5f8c3eb483977dff6482f32178fd007684"
+    },
+    {
+      "path": "mods/zoomify-2.15.2+1.21.1.jar",
+      "sha256": "6c317987df28922e227ab3ac4e39090460d99b965bcb9c8da8f9a4493b705d00"
+    },
+    {
+      "path": "puchamon/launcher-protocol-v2.json",
+      "sha256": "af0c12de50d1cbf91009230831d27423479f3c4c5df98d8c6ed99b038ecee8ce"
+    }
+  ],
+  "defaults": [],
+  "approvedUpdates": [
+    {
+      "id": "comodidad-u-20261018",
+      "path": "options.txt",
+      "mode": "options-keys",
+      "administratorRequest": "User requested Pokebelt U, revival and player faces/names, preserving maps, waypoints, skins and unrelated preferences.",
+      "url": "approved/comodidad-u-20261018.txt",
+      "sha256": "5a85998ad41f9632f94e6d02e16b516903a2f9115bf9325241239f6a6cfa0a59"
+    },
+    {
+      "id": "comodidad-default-u-20261018",
+      "path": "config/defaultoptions/keybindings.txt",
+      "mode": "options-keys",
+      "administratorRequest": "User requested Pokebelt U, revival and player faces/names, preserving maps, waypoints, skins and unrelated preferences.",
+      "url": "approved/comodidad-default-u-20261018.txt",
+      "sha256": "5a85998ad41f9632f94e6d02e16b516903a2f9115bf9325241239f6a6cfa0a59"
+    },
+    {
+      "id": "comodidad-pokebelt-20261018",
+      "path": "config/pokebelt.json",
+      "mode": "replace",
+      "administratorRequest": "User requested Pokebelt U, revival and player faces/names, preserving maps, waypoints, skins and unrelated preferences.",
+      "url": "approved/comodidad-pokebelt-20261018.json",
+      "sha256": "0d4df967aad0d2e742c3752e0e43ffcacf66355b4eb986c4069186afeb68be4b"
+    },
+    {
+      "id": "comodidad-hardcorerevival-common-20261018",
+      "path": "config/hardcorerevival-common.toml",
+      "mode": "replace",
+      "administratorRequest": "User requested Pokebelt U, revival and player faces/names, preserving maps, waypoints, skins and unrelated preferences.",
+      "url": "approved/comodidad-hardcorerevival-common-20261018.toml",
+      "sha256": "fdf7a4037af16bc392c906ba82c0cf83a65cfda909fa05de72ce2d2de7469700"
+    },
+    {
+      "id": "comodidad-heads-default-20261018",
+      "path": "config/xaero/minimap/default_radar_categories_client.json",
+      "mode": "xaero-player-heads",
+      "administratorRequest": "User requested Pokebelt U, revival and player faces/names, preserving maps, waypoints, skins and unrelated preferences.",
+      "url": "approved/comodidad-heads-default-20261018.json",
+      "sha256": "c4507515c05298ec2f00e08a2a9ef5c83893c7803546f26926e78ed0871f590a"
+    },
+    {
+      "id": "comodidad-heads-profile-20261018",
+      "path": "config/xaero/minimap/profiles/entity_radar_categories/cobbleverse.cfg.json",
+      "mode": "xaero-player-heads",
+      "administratorRequest": "User requested Pokebelt U, revival and player faces/names, preserving maps, waypoints, skins and unrelated preferences.",
+      "url": "approved/comodidad-heads-profile-20261018.json",
+      "sha256": "c4507515c05298ec2f00e08a2a9ef5c83893c7803546f26926e78ed0871f590a"
+    },
+    {
+      "id": "services-tab-voice-20261018",
+      "path": "options.txt",
+      "mode": "options-keys",
+      "administratorRequest": "User explicitly requested fixing Tab player list and V voice chat without resetting other preferences.",
+      "url": "approved/services-tab-voice-20261018.txt",
+      "sha256": "8fd037977f1b3157c30fcafa11eb7c46b128ae29b56c84015e03540ae5a3b0f2"
+    },
+    {
+      "id": "services-default-tab-voice-20261018",
+      "path": "config/defaultoptions/keybindings.txt",
+      "mode": "options-keys",
+      "administratorRequest": "User explicitly requested fixing Tab player list and V voice chat without resetting other preferences.",
+      "url": "approved/services-default-tab-voice-20261018.txt",
+      "sha256": "8fd037977f1b3157c30fcafa11eb7c46b128ae29b56c84015e03540ae5a3b0f2"
+    }
+  ],
+  "archives": [
+    {
+      "entries": [
+        {
+          "path": "datapacks/COBBLEVERSE - No Ender Dragon.zip",
+          "entry": "overrides/datapacks/COBBLEVERSE - No Ender Dragon.zip",
+          "sha256": "f5cdae688e55951f36f22a4b13ec73f33da1ebb1368f55335d8b9d2cca8190af"
+        },
+        {
+          "path": "datapacks/COBBLEVERSE-DP-v31.zip",
+          "entry": "overrides/datapacks/COBBLEVERSE-DP-v31.zip",
+          "sha256": "24344c64d49cad1e4743276472f5598ed32d1c002f5ebb881b9e0cf7bc1a77c6"
+        },
+        {
+          "path": "datapacks/COBBLEVERSE-Loot-DP-v11.zip",
+          "entry": "overrides/datapacks/COBBLEVERSE-Loot-DP-v11.zip",
+          "sha256": "68b07910f68d032cb12902115938c321c326819d85d60cc64c9f42e08be11e99"
+        },
+        {
+          "path": "datapacks/COBBLEVERSE-RCT-DP-v20.zip",
+          "entry": "overrides/datapacks/COBBLEVERSE-RCT-DP-v20.zip",
+          "sha256": "54f0e8c1b061554bfba3de86dbcd9a6b39da4e8293e2b5141faa4254dc7ae400"
+        },
+        {
+          "path": "datapacks/extra/COBBLEVERSE-Hoenn-DP.zip",
+          "entry": "overrides/datapacks/extra/COBBLEVERSE-Hoenn-DP.zip",
+          "sha256": "68a1d6f49353eb75d970aaef03dbdba8eafe163d2259d45313c2430f8497817b"
+        },
+        {
+          "path": "datapacks/extra/COBBLEVERSE-Johto-DP.zip",
+          "entry": "overrides/datapacks/extra/COBBLEVERSE-Johto-DP.zip",
+          "sha256": "6ec080be3acd58bdc48740da122efcb21a639d839e6607d656cdb3192397d45a"
+        },
+        {
+          "path": "datapacks/extra/COBBLEVERSE-Sinnoh-DP.zip",
+          "entry": "overrides/datapacks/extra/COBBLEVERSE-Sinnoh-DP.zip",
+          "sha256": "b2e93ad20f27e96af87f589b8a9653c2f8ce7ed661adf412ba002d0ffec6cc32"
+        },
+        {
+          "path": "datapacks/extra/Terralith-DP.zip",
+          "entry": "overrides/datapacks/extra/Terralith-DP.zip",
+          "sha256": "d0f5b0f88152d494cb51c6c06f2b5e52617df9860b2f383d00c85338d81ab164"
+        },
+        {
+          "path": "mods/cobblemon-battle-positions-1.1.3.jar",
+          "entry": "overrides/mods/cobblemon-battle-positions-1.1.3.jar",
+          "sha256": "d76bbd753763dde4a552d1a86b8bc6ceee9abcb00fa1bd29b6c2e389079437ed"
+        }
+      ],
+      "sha256": "dcaf01062c7c387e0ed07209aab993e2e3b27111e778f5832c52558d28bccd88",
+      "url": "https://cdn.modrinth.com/data/Jkb29YJU/versions/4SKGla61/COBBLEVERSE%201.7.42.mrpack"
+    }
+  ]
+}
