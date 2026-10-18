@@ -1,0 +1,359 @@
+{
+  "filename": "7207000000000002",
+  "id": "7207000000000002",
+  "group": "6111000000000001",
+  "icon": {
+    "id": "minecraft:compass"
+  },
+  "order_index": 2,
+  "default_quest_shape": "rsquare",
+  "default_hide_dependency_lines": false,
+  "default_min_width": 200,
+  "quests": [
+    {
+      "id": "7307000000000027",
+      "tasks": [
+        {
+          "id": "7407000000000028",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "shape": "gear",
+      "icon": {
+        "id": "minecraft:compass"
+      },
+      "rewards": [],
+      "x": 0,
+      "y": 0,
+      "size": 1
+    },
+    {
+      "id": "7307000000000029",
+      "tasks": [
+        {
+          "id": "740700000000002A",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "shape": "gear",
+      "icon": {
+        "id": "cobblemon:potion"
+      },
+      "rewards": [],
+      "x": 4,
+      "y": 0,
+      "size": 1
+    },
+    {
+      "id": "730700000000002B",
+      "tasks": [
+        {
+          "id": "740700000000002C",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "shape": "gear",
+      "icon": {
+        "id": "minecraft:iron_sword"
+      },
+      "rewards": [],
+      "x": 8,
+      "y": 0,
+      "size": 1
+    },
+    {
+      "id": "730700000000002D",
+      "tasks": [
+        {
+          "id": "740700000000002E",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "shape": "gear",
+      "icon": {
+        "id": "cobblemon:poke_ball"
+      },
+      "rewards": [],
+      "x": 0,
+      "y": 3,
+      "size": 1
+    },
+    {
+      "id": "730700000000002F",
+      "tasks": [
+        {
+          "id": "7407000000000030",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "shape": "gear",
+      "icon": {
+        "id": "cobblemon:great_ball"
+      },
+      "rewards": [],
+      "x": 4,
+      "y": 3,
+      "size": 1
+    },
+    {
+      "id": "7307000000000031",
+      "tasks": [
+        {
+          "id": "7407000000000032",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "shape": "gear",
+      "icon": {
+        "id": "cobblemon:pc"
+      },
+      "rewards": [],
+      "x": 8,
+      "y": 3,
+      "size": 1
+    },
+    {
+      "id": "7307000000000033",
+      "tasks": [
+        {
+          "id": "7407000000000034",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "shape": "gear",
+      "icon": {
+        "id": "cobblemon:link_cable"
+      },
+      "rewards": [],
+      "x": 0,
+      "y": 6,
+      "size": 1
+    },
+    {
+      "id": "7307000000000035",
+      "tasks": [
+        {
+          "id": "7407000000000036",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "shape": "gear",
+      "icon": {
+        "id": "minecraft:experience_bottle"
+      },
+      "rewards": [],
+      "x": 4,
+      "y": 6,
+      "size": 1
+    },
+    {
+      "id": "7307000000000037",
+      "tasks": [
+        {
+          "id": "7407000000000038",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "shape": "gear",
+      "icon": {
+        "id": "minecraft:filled_map"
+      },
+      "rewards": [],
+      "x": 8,
+      "y": 6,
+      "size": 1
+    },
+    {
+      "id": "7307000000000039",
+      "tasks": [
+        {
+          "id": "740700000000003A",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "shape": "gear",
+      "icon": {
+        "id": "minecraft:bread"
+      },
+      "rewards": [],
+      "x": 0,
+      "y": 9,
+      "size": 1
+    },
+    {
+      "id": "730700000000003B",
+      "tasks": [
+        {
+          "id": "740700000000003C",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "shape": "gear",
+      "icon": {
+        "id": "cobblemon:pasture"
+      },
+      "rewards": [],
+      "x": 4,
+      "y": 9,
+      "size": 1
+    },
+    {
+      "id": "730700000000003D",
+      "tasks": [
+        {
+          "id": "740700000000003E",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "shape": "gear",
+      "icon": {
+        "id": "minecraft:chest"
+      },
+      "rewards": [],
+      "x": 8,
+      "y": 9,
+      "size": 1
+    },
+    {
+      "id": "730700000000003F",
+      "tasks": [
+        {
+          "id": "7407000000000040",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "shape": "gear",
+      "icon": {
+        "id": "minecraft:red_bed"
+      },
+      "rewards": [],
+      "x": 0,
+      "y": 12,
+      "size": 1
+    },
+    {
+      "id": "7307000000000041",
+      "tasks": [
+        {
+          "id": "7407000000000042",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "shape": "gear",
+      "icon": {
+        "id": "minecraft:white_wool"
+      },
+      "rewards": [],
+      "x": 4,
+      "y": 12,
+      "size": 1
+    },
+    {
+      "id": "7307000000000043",
+      "tasks": [
+        {
+          "id": "7407000000000044",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "shape": "gear",
+      "icon": {
+        "id": "minecraft:player_head"
+      },
+      "rewards": [],
+      "x": 8,
+      "y": 12,
+      "size": 1
+    },
+    {
+      "id": "7307000000000045",
+      "tasks": [
+        {
+          "id": "7407000000000046",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "shape": "gear",
+      "icon": {
+        "id": "minecraft:note_block"
+      },
+      "rewards": [],
+      "x": 0,
+      "y": 15,
+      "size": 1
+    },
+    {
+      "id": "7307000000000047",
+      "tasks": [
+        {
+          "id": "7407000000000048",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "shape": "gear",
+      "icon": {
+        "id": "minecraft:crafting_table"
+      },
+      "rewards": [],
+      "x": 4,
+      "y": 15,
+      "size": 1
+    },
+    {
+      "id": "7307000000000049",
+      "tasks": [
+        {
+          "id": "740700000000004A",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "shape": "gear",
+      "icon": {
+        "id": "minecraft:redstone"
+      },
+      "rewards": [],
+      "x": 8,
+      "y": 15,
+      "size": 1
+    },
+    {
+      "id": "730700000000004B",
+      "tasks": [
+        {
+          "id": "740700000000004C",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "shape": "gear",
+      "icon": {
+        "id": "minecraft:knowledge_book"
+      },
+      "rewards": [],
+      "x": 0,
+      "y": 18,
+      "size": 1
+    }
+  ],
+  "quest_links": [],
+  "images": [],
+  "autofocus_id": "7307000000000027"
+}

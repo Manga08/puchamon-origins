@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "champion_defeated": {
+      "conditions": {
+        "trainer_ids": [
+          "johto_champion_lance"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "champion_defeated"
+    ]
+  ]
+}
