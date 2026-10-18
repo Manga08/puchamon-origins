@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "valid": {
+      "trigger": "cobblemon:catch_pokemon",
+      "conditions": {
+        "count": 10
+      }
+    }
+  },
+  "requirements": [
+    [
+      "valid"
+    ]
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "receta_0": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "securitycraft:universal_block_reinforcer_lvl1"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "receta_0"
+    ]
+  ]
+}

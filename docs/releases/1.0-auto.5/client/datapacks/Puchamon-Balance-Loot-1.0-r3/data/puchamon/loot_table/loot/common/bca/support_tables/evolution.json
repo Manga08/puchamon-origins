@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "puchamon:loot/common/bca/item_groups/evolution_items",
+          "weight": 1
+        },
+        {
+          "type": "loot_table",
+          "value": "puchamon:loot/common/bca/item_groups/evolution_stones",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "minecraft:air",
+          "weight": 2
+        }
+      ]
+    }
+  ]
+}

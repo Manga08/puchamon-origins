@@ -1,0 +1,8 @@
+name = "rctmod-fabric-1.21.1-0.18.1-beta.jar"
+filename = "rctmod-fabric-1.21.1-0.18.1-beta.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lRwTUnD7/versions/gQx1F1dx/rctmod-fabric-1.21.1-0.18.1-beta.jar"
+hash-format = "sha256"
+hash = "92951d3be475a0433f8ef508439730723e2e901dd1e3b2509c29205031d4eb51"
