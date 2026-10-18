@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "valid": {
+      "trigger": "cobblemon:reel_in_pokemon",
+      "conditions": {
+        "species": "any"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "valid"
+    ]
+  ]
+}

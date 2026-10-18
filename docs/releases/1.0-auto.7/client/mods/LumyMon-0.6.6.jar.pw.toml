@@ -1,0 +1,8 @@
+name = "LumyMon-0.6.6.jar"
+filename = "LumyMon-0.6.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QAX8WiBc/versions/SSS3twZY/LumyMon-0.6.6.jar"
+hash-format = "sha256"
+hash = "00ad0ddb4bbac26b6f1b83ad80255008be98ab72056d89de3eb9107b01d7eefb"

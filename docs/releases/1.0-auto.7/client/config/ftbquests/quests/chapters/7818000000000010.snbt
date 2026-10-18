@@ -1,0 +1,121 @@
+{
+  "filename": "7818000000000010",
+  "id": "7818000000000010",
+  "group": "6111000000000001",
+  "icon": {
+    "id": "minecraft:totem_of_undying"
+  },
+  "order_index": 4,
+  "default_quest_shape": "rsquare",
+  "default_min_width": 200,
+  "quests": [
+    {
+      "id": "7918000000000014",
+      "tasks": [
+        {
+          "id": "7918000000000015",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "icon": {
+        "id": "minecraft:totem_of_undying"
+      },
+      "rewards": [],
+      "x": 0,
+      "y": 0,
+      "size": 1,
+      "shape": "gear"
+    },
+    {
+      "id": "7918000000000016",
+      "tasks": [
+        {
+          "id": "7918000000000017",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "icon": {
+        "id": "minecraft:golden_apple"
+      },
+      "rewards": [],
+      "x": 4,
+      "y": 0,
+      "size": 1,
+      "shape": "gear"
+    },
+    {
+      "id": "7918000000000018",
+      "tasks": [
+        {
+          "id": "7918000000000019",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "icon": {
+        "id": "minecraft:compass"
+      },
+      "rewards": [],
+      "x": 8,
+      "y": 0,
+      "size": 1,
+      "shape": "gear"
+    },
+    {
+      "id": "791800000000001A",
+      "tasks": [
+        {
+          "id": "791800000000001B",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "icon": {
+        "id": "minecraft:bread"
+      },
+      "rewards": [],
+      "x": 0,
+      "y": 3,
+      "size": 1,
+      "shape": "gear"
+    },
+    {
+      "id": "791800000000001C",
+      "tasks": [
+        {
+          "id": "791800000000001D",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "icon": {
+        "id": "minecraft:lava_bucket"
+      },
+      "rewards": [],
+      "x": 4,
+      "y": 3,
+      "size": 1,
+      "shape": "gear"
+    },
+    {
+      "id": "791800000000001E",
+      "tasks": [
+        {
+          "id": "791800000000001F",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "icon": {
+        "id": "minecraft:shield"
+      },
+      "rewards": [],
+      "x": 8,
+      "y": 3,
+      "size": 1,
+      "shape": "gear"
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "autofocus_id": "221100000000025C",
+  "default_hide_dependency_lines": false,
+  "default_min_width": 220,
+  "default_quest_shape": "rsquare",
+  "filename": "211100000000000d",
+  "group": "6111000000000003",
+  "icon": {
+    "id": "cobblemon:relic_coin"
+  },
+  "id": "211100000000000D",
+  "images": [],
+  "order_index": 2,
+  "quest_links": [],
+  "quests": [
+    {
+      "dependencies": [
+        "2211000000000272"
+      ],
+      "icon": {
+        "id": "cobblemon:display_case"
+      },
+      "id": "221100000000025C",
+      "optional": true,
+      "rewards": [
+        {
+          "id": "411100000000025E",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:great_ball",
+            "count": 1
+          },
+          "count": 4,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "size": 1,
+      "tasks": [
+        {
+          "consume_items": false,
+          "id": "311100000000025D",
+          "item": {
+            "count": 1,
+            "id": "cobblemon:display_case"
+          },
+          "type": "item"
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "repeatable": false
+    },
+    {
+      "icon": {
+        "id": "minecraft:knowledge_book"
+      },
+      "id": "221100000000025F",
+      "optional": true,
+      "shape": "gear",
+      "size": 0.85,
+      "tasks": [
+        {
+          "id": "3111000000000260",
+          "type": "checkmark"
+        }
+      ],
+      "x": 4,
+      "y": 3,
+      "rewards": []
+    },
+    {
+      "icon": {
+        "id": "cobblemon:relic_coin"
+      },
+      "id": "2211000000000261",
+      "optional": true,
+      "rewards": [
+        {
+          "id": "4111000000000263",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:great_ball",
+            "count": 1
+          },
+          "count": 4,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "size": 1,
+      "tasks": [
+        {
+          "consume_items": false,
+          "id": "3111000000000262",
+          "item": {
+            "count": 1,
+            "id": "cobblemon:relic_coin"
+          },
+          "type": "item"
+        }
+      ],
+      "x": 0,
+      "y": 6,
+      "repeatable": false
+    },
+    {
+      "icon": {
+        "id": "cobblenav:pokenav_item_red"
+      },
+      "id": "2211000000000264",
+      "optional": true,
+      "rewards": [
+        {
+          "id": "4111000000000266",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:great_ball",
+            "count": 1
+          },
+          "count": 8,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "size": 1,
+      "tasks": [
+        {
+          "consume_items": false,
+          "id": "3111000000000265",
+          "item": {
+            "count": 1,
+            "id": "cobblenav:pokenav_item_red"
+          },
+          "type": "item"
+        }
+      ],
+      "x": 0,
+      "y": 9,
+      "repeatable": false
+    },
+    {
+      "icon": {
+        "id": "cobblenav:pokefinder_item_red"
+      },
+      "id": "2211000000000267",
+      "optional": true,
+      "rewards": [
+        {
+          "id": "4111000000000269",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:great_ball",
+            "count": 1
+          },
+          "count": 12,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "size": 1,
+      "tasks": [
+        {
+          "consume_items": false,
+          "id": "3111000000000268",
+          "item": {
+            "count": 1,
+            "id": "cobblenav:pokefinder_item_red"
+          },
+          "type": "item"
+        }
+      ],
+      "x": 0,
+      "y": 12,
+      "repeatable": false
+    },
+    {
+      "icon": {
+        "id": "cobblemon:campfire_pot_black"
+      },
+      "id": "221100000000026A",
+      "optional": true,
+      "rewards": [
+        {
+          "id": "411100000000026C",
+          "type": "item",
+          "item": {
+            "id": "minecraft:glass_bottle",
+            "count": 1
+          },
+          "count": 16,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "size": 1,
+      "tasks": [
+        {
+          "advancement": "cobblemon:place_campfire_pot",
+          "criterion": "",
+          "id": "311100000000026B",
+          "type": "advancement"
+        }
+      ],
+      "x": 0,
+      "y": 15,
+      "repeatable": false
+    },
+    {
+      "icon": {
+        "id": "cobblemon:fire_stone"
+      },
+      "id": "221100000000026D",
+      "optional": true,
+      "rewards": [
+        {
+          "auto": "disabled",
+          "count": 2,
+          "id": "411100000000026F",
+          "item": {
+            "count": 1,
+            "id": "cobblemon:great_ball"
+          },
+          "team_reward": false,
+          "type": "item"
+        }
+      ],
+      "size": 1,
+      "tasks": [
+        {
+          "consume_items": false,
+          "id": "311100000000026E",
+          "item": {
+            "count": 1,
+            "id": "cobblemon:fire_stone"
+          },
+          "type": "item"
+        }
+      ],
+      "x": 0,
+      "y": 18,
+      "repeatable": false
+    },
+    {
+      "icon": {
+        "id": "minecraft:knowledge_book"
+      },
+      "id": "2211000000000270",
+      "optional": true,
+      "shape": "gear",
+      "size": 0.85,
+      "tasks": [
+        {
+          "id": "3111000000000271",
+          "type": "checkmark"
+        }
+      ],
+      "x": 4,
+      "y": 21,
+      "rewards": []
+    },
+    {
+      "id": "73070000000000EF",
+      "tasks": [
+        {
+          "id": "74070000000000F0",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "shape": "gear",
+      "icon": {
+        "id": "minecraft:knowledge_book"
+      },
+      "rewards": [],
+      "x": 0,
+      "y": 25,
+      "size": 1
+    },
+    {
+      "id": "73070000000000F1",
+      "tasks": [
+        {
+          "id": "74070000000000F2",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "shape": "gear",
+      "icon": {
+        "id": "minecraft:knowledge_book"
+      },
+      "rewards": [],
+      "x": 4,
+      "y": 25,
+      "size": 1
+    }
+  ]
+}

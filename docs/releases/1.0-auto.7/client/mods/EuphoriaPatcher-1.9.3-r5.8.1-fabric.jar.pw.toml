@@ -1,0 +1,8 @@
+name = "EuphoriaPatcher-1.9.3-r5.8.1-fabric.jar"
+filename = "EuphoriaPatcher-1.9.3-r5.8.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4H6sumDB/versions/7GNWrkGL/EuphoriaPatcher-1.9.3-r5.8.1-fabric.jar"
+hash-format = "sha256"
+hash = "b42bd00c7ab6e044d21f845dedc58a4524e45643f3685bf1c2343098e74d662e"

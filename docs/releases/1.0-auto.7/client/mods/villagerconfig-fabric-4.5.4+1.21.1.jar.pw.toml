@@ -1,0 +1,8 @@
+name = "villagerconfig-fabric-4.5.4+1.21.1.jar"
+filename = "villagerconfig-fabric-4.5.4+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OClpEDe3/versions/sb4XIWwK/villagerconfig-fabric-4.5.4%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "627483b71a24679d51321c618fa6c8abe8df64cf770b001b319412677adab49b"
