@@ -1,0 +1,117 @@
+{
+  "autofocus_id": "7106000000000014",
+  "default_hide_dependency_lines": false,
+  "default_min_width": 240,
+  "default_quest_shape": "rsquare",
+  "filename": "7106000000000013",
+  "group": "6111000000000003",
+  "icon": {
+    "id": "immersive_paintings:painting"
+  },
+  "id": "7106000000000013",
+  "images": [],
+  "order_index": 4,
+  "quest_links": [],
+  "quests": [
+    {
+      "icon": {
+        "id": "immersive_paintings:painting"
+      },
+      "id": "7106000000000014",
+      "optional": true,
+      "rewards": [
+        {
+          "id": "7106000000000016",
+          "type": "item",
+          "item": {
+            "id": "minecraft:white_wool",
+            "count": 1
+          },
+          "count": 16,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "7106000000000015",
+          "type": "advancement",
+          "advancement": "migaja_guia:fabricar_7106000000000014",
+          "criterion": ""
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "repeatable": false
+    },
+    {
+      "dependencies": [
+        "7106000000000014"
+      ],
+      "icon": {
+        "id": "immersive_paintings:glow_painting"
+      },
+      "id": "7106000000000017",
+      "optional": true,
+      "rewards": [
+        {
+          "id": "7106000000000019",
+          "type": "item",
+          "item": {
+            "id": "minecraft:glow_ink_sac",
+            "count": 1
+          },
+          "count": 4,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "7106000000000018",
+          "type": "advancement",
+          "advancement": "migaja_guia:fabricar_7106000000000017",
+          "criterion": ""
+        }
+      ],
+      "x": 0,
+      "y": 3,
+      "repeatable": false
+    },
+    {
+      "icon": {
+        "id": "minecraft:knowledge_book"
+      },
+      "id": "710600000000001A",
+      "optional": true,
+      "shape": "gear",
+      "tasks": [
+        {
+          "id": "710600000000001B",
+          "type": "checkmark"
+        }
+      ],
+      "x": 4,
+      "y": 0,
+      "rewards": []
+    },
+    {
+      "id": "7307000000000103",
+      "tasks": [
+        {
+          "id": "7407000000000104",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "shape": "gear",
+      "icon": {
+        "id": "minecraft:knowledge_book"
+      },
+      "rewards": [],
+      "x": 0,
+      "y": 7,
+      "size": 1
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+name = "particlerain-4.0.0-beta.10+1.21.1-fabric.jar"
+filename = "particlerain-4.0.0-beta.10+1.21.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nrikgvxm/versions/ddaOLHgq/particlerain-4.0.0-beta.10%2B1.21.1-fabric.jar"
+hash-format = "sha256"
+hash = "49bf60c5b95ea954efa51c63609f0a4668230e12f870f0eb6bdb63d207a22dc8"

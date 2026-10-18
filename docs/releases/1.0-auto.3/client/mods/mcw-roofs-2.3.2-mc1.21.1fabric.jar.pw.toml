@@ -1,0 +1,8 @@
+name = "mcw-roofs-2.3.2-mc1.21.1fabric.jar"
+filename = "mcw-roofs-2.3.2-mc1.21.1fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/B8jaH3P1/versions/BgPUaaiV/mcw-roofs-2.3.2-mc1.21.1fabric.jar"
+hash-format = "sha256"
+hash = "f0b181de6c35f36897ea18c92181409f0ccab604ceb4c34c9a2e126ec638bbc3"

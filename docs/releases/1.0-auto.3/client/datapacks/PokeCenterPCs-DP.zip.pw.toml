@@ -1,0 +1,8 @@
+name = "PokeCenterPCs-DP.zip"
+filename = "PokeCenterPCs-DP.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uVBAvWbW/versions/xclC5R0W/PokeCenter_PCs_1.1.zip"
+hash-format = "sha256"
+hash = "e462e091ef376595c5b0efab2615fe0463b93b4c54e462cc841749a90ecefe31"

@@ -1,0 +1,8 @@
+name = "puchamon-ui-polish-1.0.0.jar"
+filename = "puchamon-ui-polish-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://manga08.github.io/puchamon-origins/releases/1.0-auto.1/blobs/f8c853464e27c43544b615329c3068b9e5f86f6920e7ba7c564524324bdb88d1.jar"
+hash-format = "sha256"
+hash = "f8c853464e27c43544b615329c3068b9e5f86f6920e7ba7c564524324bdb88d1"

@@ -1,0 +1,8 @@
+name = "CobbleFurnies-fabric-1.2.jar"
+filename = "CobbleFurnies-fabric-1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AXY1OO9m/versions/54k31lEX/CobbleFurnies-fabric-1.2.jar"
+hash-format = "sha256"
+hash = "c1230a58ca2369b973bfade68a0ffcac86ffcbf9dd2a845999ed8c5348bfef93"
