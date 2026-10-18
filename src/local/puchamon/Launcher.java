@@ -34,7 +34,8 @@ public final class Launcher {
    try(var channel=FileChannel.open(root.resolve("puchamon/launch.lock"),StandardOpenOption.CREATE,StandardOpenOption.WRITE)){
     FileLock lock=channel.tryLock();if(lock==null)throw new IOException("Puchamon ya está abierto o actualizándose.");
     try{
-     String release=update(args[0],settings);
+     UpdateWindow.open();String release;
+     try{release=update(args[0],settings);}finally{UpdateWindow.close();}
      int memory=memoryLimit(settings,totalMemoryMiB());
      var command=new ArrayList<String>();command.add(args[0]);
      command.add("-Xms512m");command.add("-Xmx"+memory+"m");
@@ -195,5 +196,5 @@ public final class Launcher {
  static void atomic(Path path,byte[] data)throws IOException{Files.createDirectories(path.getParent());Path tmp=path.resolveSibling(path.getFileName()+".tmp");Files.write(tmp,data);try{Files.move(tmp,path,StandardCopyOption.ATOMIC_MOVE,StandardCopyOption.REPLACE_EXISTING);}catch(AtomicMoveNotSupportedException e){if(Files.exists(path))Files.copy(path,path.resolveSibling(path.getFileName()+".bak"),StandardCopyOption.REPLACE_EXISTING);Files.move(tmp,path,StandardCopyOption.REPLACE_EXISTING);}}
  static String safeMessage(Exception error){return error instanceof IOException?error.getMessage():"Error de validación; revisa la instalación y el registro.";}
  static void redactLog(Path path)throws IOException{if(Files.isRegularFile(path)&&Files.size(path)<16*1024*1024){String text=new String(Files.readAllBytes(path),java.nio.charset.StandardCharsets.ISO_8859_1);String clean=text.replaceAll("/[0-9a-fA-F]{64}/","/[clave-oculta]/");if(!text.equals(clean))atomic(path,clean.getBytes(java.nio.charset.StandardCharsets.ISO_8859_1));}}
- static void info(String value){String line="[Puchamon] "+value;System.out.println(line);if(log!=null)log.println(java.time.Instant.now()+" "+line);}
+ static void info(String value){String line="[Puchamon] "+value;System.out.println(line);UpdateWindow.message(value);if(log!=null)log.println(java.time.Instant.now()+" "+line);}
 }
