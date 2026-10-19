@@ -1,0 +1,149 @@
+{
+  "autofocus_id": "221100000000008A",
+  "default_hide_dependency_lines": false,
+  "default_min_width": 220,
+  "default_quest_shape": "rsquare",
+  "filename": "2111000000000004",
+  "group": "6111000000000004",
+  "icon": {
+    "id": "rctmod:trainer_card"
+  },
+  "id": "2111000000000004",
+  "images": [],
+  "order_index": 0,
+  "quest_links": [
+    {
+      "id": "5111000000000277",
+      "linked_quest": "221100000000008D",
+      "x": 0,
+      "y": 3
+    },
+    {
+      "id": "5111000000000278",
+      "linked_quest": "2211000000000090",
+      "x": 0,
+      "y": 6
+    },
+    {
+      "id": "5111000000000279",
+      "linked_quest": "2211000000000093",
+      "x": 0,
+      "y": 9
+    },
+    {
+      "id": "511100000000027A",
+      "linked_quest": "2211000000000096",
+      "x": 0,
+      "y": 12
+    },
+    {
+      "id": "511100000000027B",
+      "linked_quest": "2211000000000099",
+      "x": 0,
+      "y": 15
+    },
+    {
+      "id": "511100000000027C",
+      "linked_quest": "221100000000009C",
+      "x": 0,
+      "y": 18
+    },
+    {
+      "id": "511100000000027D",
+      "linked_quest": "221100000000009F",
+      "x": 0,
+      "y": 21
+    },
+    {
+      "id": "511100000000027E",
+      "linked_quest": "22110000000000A2",
+      "x": 0,
+      "y": 24
+    },
+    {
+      "id": "511100000000027F",
+      "linked_quest": "22110000000000A5",
+      "x": 0,
+      "y": 27
+    },
+    {
+      "id": "5111000000000280",
+      "linked_quest": "22110000000000A8",
+      "x": 0,
+      "y": 30
+    },
+    {
+      "id": "5111000000000281",
+      "linked_quest": "22110000000000AB",
+      "x": 0,
+      "y": 33
+    },
+    {
+      "id": "5111000000000282",
+      "linked_quest": "22110000000000AE",
+      "x": 0,
+      "y": 36
+    },
+    {
+      "id": "5111000000000283",
+      "linked_quest": "22110000000000B2",
+      "x": 0,
+      "y": 39
+    }
+  ],
+  "quests": [
+    {
+      "icon": {
+        "id": "minecraft:knowledge_book"
+      },
+      "id": "221100000000008A",
+      "optional": true,
+      "shape": "gear",
+      "tasks": [
+        {
+          "id": "311100000000008B",
+          "type": "checkmark"
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "rewards": []
+    },
+    {
+      "id": "73070000000000C5",
+      "tasks": [
+        {
+          "id": "74070000000000C6",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "shape": "gear",
+      "icon": {
+        "id": "minecraft:knowledge_book"
+      },
+      "rewards": [],
+      "x": 0,
+      "y": 43,
+      "size": 1
+    },
+    {
+      "id": "73070000000000C7",
+      "tasks": [
+        {
+          "id": "74070000000000C8",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "shape": "gear",
+      "icon": {
+        "id": "minecraft:knowledge_book"
+      },
+      "rewards": [],
+      "x": 4,
+      "y": 43,
+      "size": 1
+    }
+  ]
+}

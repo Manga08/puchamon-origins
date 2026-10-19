@@ -1,0 +1,8 @@
+name = "migaja-skin-bridge-1.0.4.jar"
+filename = "migaja-skin-bridge-1.0.4.jar"
+side = "client"
+
+[download]
+url = "https://manga08.github.io/puchamon-origins/releases/1.0-auto.8/blobs/ad3ee2d24a5f1821828383a7d3f56b7d5862c0b2bebc90d57ee0cdb26e6c4588.jar"
+hash-format = "sha256"
+hash = "ad3ee2d24a5f1821828383a7d3f56b7d5862c0b2bebc90d57ee0cdb26e6c4588"

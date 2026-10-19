@@ -1,0 +1,8 @@
+name = "lootr-fabric-1.21.1-1.11.38.127.jar"
+filename = "lootr-fabric-1.21.1-1.11.38.127.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EltpO5cN/versions/nar56EsW/lootr-fabric-1.21.1-1.11.38.127.jar"
+hash-format = "sha256"
+hash = "2b33fa73a28c14f0983459c165e8c7b491cd1d798c947b967207f66194fb531d"

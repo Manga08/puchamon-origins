@@ -1,0 +1,8 @@
+name = "migaja-controls-1.0.0-prueba.jar"
+filename = "migaja-controls-1.0.0-prueba.jar"
+side = "client"
+
+[download]
+url = "https://manga08.github.io/puchamon-origins/releases/1.0-auto.1/blobs/d4bd6335c37ac81ce90a9cc6c1cafebdd45f56cce6cdac3f15f0d215949045ce.jar"
+hash-format = "sha256"
+hash = "d4bd6335c37ac81ce90a9cc6c1cafebdd45f56cce6cdac3f15f0d215949045ce"

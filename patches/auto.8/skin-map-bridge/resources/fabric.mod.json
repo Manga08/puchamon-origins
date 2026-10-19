@@ -1,0 +1,8 @@
+{
+ "schemaVersion":1,"id":"migaja_skin_bridge","version":"1.0.4","name":"Migaja Skin / Map Bridge",
+ "description":"Quick Skin autenticado y cabezas en Xaero; no reemplaza datos personales.","environment":"*",
+ "entrypoints":{"main":["local.migaja.skins.SkinBridge"],"client":["local.migaja.skins.SkinClient"]},
+ "mixins":[{"config":"migaja-skins-server.mixins.json","environment":"server"},{"config":"migaja-skins-client.mixins.json","environment":"client"}],
+ "depends":{"minecraft":"1.21.1","fabricloader":">=0.18.4","java":">=21","fabric-api":"*","quickskin":"3.1.1"},
+ "suggests":{"easyauth":"3.4.4","xaerominimap":"26.6.0","xaeroworldmap":"1.47.0"}
+}
