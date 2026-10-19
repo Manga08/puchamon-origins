@@ -1,0 +1,1 @@
+{"required":true,"minVersion":"0.8","package":"local.puchamon.friends.mixin","compatibilityLevel":"JAVA_21","mixins":["TeleportAskMixin"],"injectors":{"defaultRequire":1}}

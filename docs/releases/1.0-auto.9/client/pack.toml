@@ -1,0 +1,11 @@
+name = "Puchamon: Origins"
+author = "Puchamon"
+version = "1.0-auto.9"
+pack-format = "packwiz:1.1.0"
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d6bd33a6ab47edba69c28355ff3eba54dd2973ccc608f8ec58ba64441d71de1f"
+[versions]
+minecraft = "1.21.1"
+fabric = "0.19.5"

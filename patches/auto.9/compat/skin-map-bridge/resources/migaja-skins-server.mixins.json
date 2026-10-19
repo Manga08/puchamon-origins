@@ -1,0 +1,1 @@
+{"required":true,"package":"local.migaja.skins.mixin","compatibilityLevel":"JAVA_21","mixins":["AuthPacketMixin"],"injectors":{"defaultRequire":1}}

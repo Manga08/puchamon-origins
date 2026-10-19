@@ -1,0 +1,277 @@
+{
+  "autofocus_id": "22110000000001F2",
+  "default_hide_dependency_lines": false,
+  "default_min_width": 220,
+  "default_quest_shape": "rsquare",
+  "filename": "211100000000000a",
+  "group": "6111000000000003",
+  "icon": {
+    "id": "minecraft:chest"
+  },
+  "id": "211100000000000A",
+  "images": [],
+  "order_index": 1,
+  "quest_links": [],
+  "quests": [
+    {
+      "dependencies": [
+        "221100000000000B"
+      ],
+      "icon": {
+        "id": "sophisticatedbackpacks:iron_backpack"
+      },
+      "id": "22110000000001F2",
+      "optional": true,
+      "rewards": [
+        {
+          "id": "41110000000001F4",
+          "type": "item",
+          "item": {
+            "id": "minecraft:torch",
+            "count": 1
+          },
+          "count": 32,
+          "team_reward": false,
+          "auto": "disabled"
+        },
+        {
+          "id": "7507000000000092",
+          "type": "item",
+          "item": {
+            "id": "minecraft:bread",
+            "count": 1
+          },
+          "count": 12,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "size": 1,
+      "tasks": [
+        {
+          "id": "31110000000001F3",
+          "type": "advancement",
+          "advancement": "migaja_guia:fabricar_22110000000001f2",
+          "criterion": ""
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "repeatable": false
+    },
+    {
+      "icon": {
+        "id": "toms_storage:inventory_connector"
+      },
+      "id": "22110000000001F5",
+      "optional": true,
+      "rewards": [
+        {
+          "id": "41110000000001F7",
+          "type": "item",
+          "item": {
+            "id": "minecraft:redstone",
+            "count": 1
+          },
+          "count": 16,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "size": 1,
+      "tasks": [
+        {
+          "id": "31110000000001F6",
+          "type": "advancement",
+          "advancement": "migaja_guia:fabricar_22110000000001f5",
+          "criterion": ""
+        }
+      ],
+      "x": 0,
+      "y": 3,
+      "repeatable": false
+    },
+    {
+      "icon": {
+        "id": "minecraft:compass"
+      },
+      "id": "22110000000001F8",
+      "optional": true,
+      "rewards": [
+        {
+          "id": "41110000000001FA",
+          "type": "item",
+          "item": {
+            "id": "minecraft:bread",
+            "count": 1
+          },
+          "count": 12,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "size": 1,
+      "tasks": [
+        {
+          "id": "31110000000001F9",
+          "type": "advancement",
+          "advancement": "migaja_guia:fabricar_22110000000001f8",
+          "criterion": ""
+        }
+      ],
+      "x": 0,
+      "y": 6,
+      "repeatable": false
+    },
+    {
+      "icon": {
+        "id": "minecraft:iron_pickaxe"
+      },
+      "id": "22110000000001FB",
+      "optional": true,
+      "rewards": [
+        {
+          "auto": "disabled",
+          "count": 12,
+          "id": "41110000000001FD",
+          "item": {
+            "count": 1,
+            "id": "minecraft:torch"
+          },
+          "team_reward": false,
+          "type": "item"
+        }
+      ],
+      "size": 1,
+      "tasks": [
+        {
+          "id": "31110000000001FC",
+          "type": "advancement",
+          "advancement": "migaja_guia:fabricar_22110000000001fb",
+          "criterion": ""
+        }
+      ],
+      "x": 0,
+      "y": 9,
+      "repeatable": false
+    },
+    {
+      "icon": {
+        "id": "minecraft:oak_slab"
+      },
+      "id": "22110000000001FE",
+      "optional": true,
+      "rewards": [
+        {
+          "id": "4111000000000200",
+          "type": "item",
+          "item": {
+            "id": "minecraft:bread",
+            "count": 1
+          },
+          "count": 8,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "size": 1,
+      "tasks": [
+        {
+          "id": "31110000000001FF",
+          "type": "advancement",
+          "advancement": "migaja_guia:fabricar_22110000000001fe",
+          "criterion": ""
+        }
+      ],
+      "x": 0,
+      "y": 12,
+      "repeatable": false
+    },
+    {
+      "icon": {
+        "id": "minecraft:knowledge_book"
+      },
+      "id": "2211000000000201",
+      "optional": true,
+      "shape": "gear",
+      "size": 0.85,
+      "tasks": [
+        {
+          "id": "3111000000000202",
+          "type": "checkmark"
+        }
+      ],
+      "x": 4,
+      "y": 15,
+      "rewards": []
+    },
+    {
+      "icon": {
+        "id": "immersive_melodies:flute"
+      },
+      "id": "2211000000000203",
+      "optional": true,
+      "rewards": [
+        {
+          "id": "4111000000000205",
+          "type": "item",
+          "item": {
+            "id": "minecraft:iron_ingot",
+            "count": 1
+          },
+          "count": 4,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "size": 1,
+      "tasks": [
+        {
+          "id": "3111000000000204",
+          "type": "advancement",
+          "advancement": "migaja_guia:fabricar_2211000000000203",
+          "criterion": ""
+        }
+      ],
+      "x": 0,
+      "y": 18,
+      "repeatable": false
+    },
+    {
+      "id": "73070000000000E3",
+      "tasks": [
+        {
+          "id": "74070000000000E4",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "shape": "gear",
+      "icon": {
+        "id": "minecraft:knowledge_book"
+      },
+      "rewards": [],
+      "x": 0,
+      "y": 22,
+      "size": 1
+    },
+    {
+      "id": "73070000000000E5",
+      "tasks": [
+        {
+          "id": "74070000000000E6",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "shape": "gear",
+      "icon": {
+        "id": "minecraft:knowledge_book"
+      },
+      "rewards": [],
+      "x": 4,
+      "y": 22,
+      "size": 1
+    }
+  ]
+}

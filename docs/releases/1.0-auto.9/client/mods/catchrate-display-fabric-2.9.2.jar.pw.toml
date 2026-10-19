@@ -1,0 +1,8 @@
+name = "catchrate-display-fabric-2.9.2.jar"
+filename = "catchrate-display-fabric-2.9.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vADO40xp/versions/UU6xTHX0/catchrate-display-fabric-2.9.2.jar"
+hash-format = "sha256"
+hash = "b3ec664f058a20d2374228ec09f3a27859f7a78c3ad303ccda35c6f01ad20e5b"

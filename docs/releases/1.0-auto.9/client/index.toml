@@ -1,0 +1,3658 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "0c4eb089195609682070c32afee422ccbf9aac1b5f5d7bb5c675e8fc4827198f"
+metafile = false
+
+[[files]]
+file = "config/ftbquests/quests/chapters/2111000000000001.snbt"
+hash = "a66385003374fadcf9154155fb47980eeee82564e123bb7b7c2b50d594d70107"
+metafile = false
+
+[[files]]
+file = "config/ftbquests/quests/chapters/2111000000000002.snbt"
+hash = "08f8b1ffbf09c877419819d48e65dd1eb02fbe9c8babfa3eb5650edc08d54eee"
+metafile = false
+
+[[files]]
+file = "config/ftbquests/quests/chapters/2111000000000003.snbt"
+hash = "f6f3852c1109a286f3765c76076ab3689428a0cfc85cc6dd6e976e55edfc4d84"
+metafile = false
+
+[[files]]
+file = "config/ftbquests/quests/chapters/2111000000000004.snbt"
+hash = "3b3c29d0dbfea7f70fcf6b3484106768be46bb29369d874c7e0e3b150235cd2c"
+metafile = false
+
+[[files]]
+file = "config/ftbquests/quests/chapters/2111000000000005.snbt"
+hash = "992c9beacbba9c2452b312d3718814fb89f9b305bfbd228ad6696aa1026a531d"
+metafile = false
+
+[[files]]
+file = "config/ftbquests/quests/chapters/2111000000000006.snbt"
+hash = "192df18b0d686db01ca11e8d3f33f7cf85728bfc2ce4752fca51c843471f6e99"
+metafile = false
+
+[[files]]
+file = "config/ftbquests/quests/chapters/2111000000000007.snbt"
+hash = "315984f7e1639cdd9c6d35d6593585638924d27b6da6a00e3405c119ab899af4"
+metafile = false
+
+[[files]]
+file = "config/ftbquests/quests/chapters/2111000000000008.snbt"
+hash = "d827c79e05e9017f4cef653fd243c7bab67db8c863f43f8624f3c5a2c7dda4da"
+metafile = false
+
+[[files]]
+file = "config/ftbquests/quests/chapters/2111000000000009.snbt"
+hash = "9f9270958ebc3ab357b8eb173034dfa06daecbbc8bfb224c86c82e18ce426a1e"
+metafile = false
+
+[[files]]
+file = "config/ftbquests/quests/chapters/211100000000000a.snbt"
+hash = "d051d21d42ab6aecc675e7c84b130473b7184b8205d75439a0cdddb425e1bcdb"
+metafile = false
+
+[[files]]
+file = "config/ftbquests/quests/chapters/211100000000000b.snbt"
+hash = "6838815f57d74e438e25e2e0a0d3bf995e70861a28cbcc6feea36b947d07c7dd"
+metafile = false
+
+[[files]]
+file = "config/ftbquests/quests/chapters/211100000000000c.snbt"
+hash = "12d71d8a8ae6c8a3e6dfc14fd8a27fc89b74837823187eab3d2bb7e48e364d80"
+metafile = false
+
+[[files]]
+file = "config/ftbquests/quests/chapters/211100000000000d.snbt"
+hash = "d2bf6245a0b672df32b2934fa76d351713ddd41e5901f17b720d30c6afb53adb"
+metafile = false
+
+[[files]]
+file = "config/ftbquests/quests/chapters/211100000000000e.snbt"
+hash = "a6ec282b0209002795f17b6ba0caec7ba1cb3faa996704d46655e653c5b192c3"
+metafile = false
+
+[[files]]
+file = "config/ftbquests/quests/chapters/211100000000000f.snbt"
+hash = "44b68a24e88f060b1695d5565da47753663f3fc4c2ed2b993f9005d52d1352a1"
+metafile = false
+
+[[files]]
+file = "config/ftbquests/quests/chapters/7106000000000001.snbt"
+hash = "8785802d3b1d5304aa8d0732c1ad079f5b1057d25744a0b93ed52bb9ea770113"
+metafile = false
+
+[[files]]
+file = "config/ftbquests/quests/chapters/7106000000000013.snbt"
+hash = "e04864576454774d3d515aaa53d678d4033f45695e48e8796e73b879e87191ce"
+metafile = false
+
+[[files]]
+file = "config/ftbquests/quests/chapters/710600000000001c.snbt"
+hash = "de659f5ba7f3d3d4dc035f2244b28ed251463a1fa29bb9463b9780c137063035"
+metafile = false
+
+[[files]]
+file = "config/ftbquests/quests/chapters/7207000000000001.snbt"
+hash = "b182f18e4e8fbd71f82f40417d3d354660831f65ebf841da1d553d895bde6a76"
+metafile = false
+
+[[files]]
+file = "config/ftbquests/quests/chapters/7207000000000002.snbt"
+hash = "0a58191a71e6655eee1f1323cd3d0b2417350aef15edd886a32d9e4b0d06d70d"
+metafile = false
+
+[[files]]
+file = "config/ftbquests/quests/chapters/7207000000000003.snbt"
+hash = "6204510b81a3d784e829c77e8fd02291e151de26aefa85f9a5fdec8a9e0f8d60"
+metafile = false
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "3b59fd69d8b2013c9b069c3550a2569ba27baa466cbdf1014cc7015952045abb"
+metafile = false
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us.snbt"
+hash = "406e29920ee91eb8b78a81577b25067703855fb87bf4b3e95ce5d557fdce49d9"
+metafile = false
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es.snbt"
+hash = "406e29920ee91eb8b78a81577b25067703855fb87bf4b3e95ce5d557fdce49d9"
+metafile = false
+
+[[files]]
+file = "config/global_packs.toml"
+hash = "739f8bda623ace67679483d86eda7d601b1e70ac6d97f8ae4e438fca33e96a07"
+metafile = false
+
+[[files]]
+file = "config/immersive_paintings/common_config.toml"
+hash = "b9d0de0a05a59f3e1ba4373795711376dd19a166a0d53496884e46fc111c372a"
+metafile = false
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/puchamon-accessories.json"
+hash = "181f65f26e54b39431a01f6fa8f258b8fa0579b3a6bfde2472bc605ea55d89ad"
+metafile = false
+
+[[files]]
+file = "config/migaja-controls.properties"
+hash = "e47ada0b5fa356e4409d0c6761a969c7126e9bb5fa201da6bb4cd54a1c123073"
+metafile = false
+
+[[files]]
+file = "config/puchamon-language/puchamon-es.zip"
+hash = "c1490c97a9d39d555f6a8f409c592b0552194ec40c750daca6ef7f948b10d4a6"
+metafile = false
+
+[[files]]
+file = "config/securitycraft-server.json"
+hash = "2cb8bc2b8acaa8f60f27f7ec8340f9222991c08e905aef0070d2361752bfd029"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Correcciones-1.7.42/data/lootr/tags/block/convert/barrels.json"
+hash = "26523fdbcf0d158a559df192e22bbe73f772e631bbe36793ac57667f86c06838"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Correcciones-1.7.42/data/lootr/tags/block/convert/chests.json"
+hash = "2433a8480e9e5ef3f2c8f49b15c6f3b916025037014d4e63134a22fdc3108375"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Correcciones-1.7.42/data/minecraft/loot_table/cobblemon/x_items.json"
+hash = "dd130d192c2162261eeb79f3e270df70baf08f42b47bf86e942a210a9dfd7f09"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Correcciones-1.7.42/pack.mcmeta"
+hash = "e858fe9b1223216cfa0d646698cb1c1b2c71b426b2bcbfba9f4db5b44b803617"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_bug.json"
+hash = "5088a59b5acde05d3da6f8f5402851552489c57fd82b4a34ffe7c7576ea6bd53"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_dark.json"
+hash = "9b038bdd57323b030aeac9d9d43e58b1a179181267cc1b68eae3a400df3a1c8b"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_dragon.json"
+hash = "ca4a44bd2fa802b6b7bc9a3b0ad7512c821c6bf7eb85a87c2c4b8084fdce7aab"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_electric.json"
+hash = "2459dafa75802690e4a544c8211a9a138995cb48c3f59007d3166ac977be8dcb"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_fairy.json"
+hash = "d3fea48a4e93e30cc17c8f02f1be2e69ee11d8632cccab42765af936bdd4cff1"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_fighting.json"
+hash = "80fc93b3e6f720dcf283cd4e07278935a1781b2a4930039f983affcd28c04650"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_fire.json"
+hash = "524776fae2c7e9e58eddddb38f07ac09bd722015753408d14bacb0493f020b06"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_flying.json"
+hash = "fcb5eedc5a5d47c36123ea61c0fd51abb0010f77f84f61de13662cdc9865ed6d"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_ghost.json"
+hash = "feab60c8a462f065c7bfc8fa3ad43b932b74ccd9422d4be81168f3a2db66f78d"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_grass.json"
+hash = "c7bc1e4fd3e012d4be68b5a6d611abc08735d8911df8e823d6bf588849f7588e"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_ground.json"
+hash = "7e102d89208dd570dec895b31905eb847273b50b140dcbc54c4d56cc6423d101"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_ice.json"
+hash = "9aa4ee13e341d7060c8cb624a5802a9ce24754133740b71595e3a6ddae7056b9"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_normal.json"
+hash = "23f3035e8cd2890c12cee0251378ae3380717bdc6d144d76dd80623ed25a6696"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_poison.json"
+hash = "195c9d1ad7cc756962d7ca54a85a93decfa05d35b83b364a73079e82e3b1117d"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_psychic.json"
+hash = "fdd211df4331d23275b5cc48a23cc00b5d5a04f27da2fbbc1d12ff4b416789d4"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_rock.json"
+hash = "e2ca74f9cabf958adb7ee48b25bbabce01dbf9407df89c15903ed2012dbb63c1"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_steel.json"
+hash = "87ea650432beb937634fde6f5bfccb53889c8634b1cf2222f66addc6d6f9e7f2"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/captura_water.json"
+hash = "2e30c556fe0d5a5f7e5a35174d5e81ddffda6199190c217d09855b9e96d5a258"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/capturas_10.json"
+hash = "0d60da4827f256be42292b8fbae3e32db14f5c7067131d425b3cbacc86d200f1"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/capturas_100.json"
+hash = "376dd3601662cd4ac7e4a789a81a937eb52a2f561b7018a7fc0af47556b9ed2c"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/capturas_25.json"
+hash = "f62c721f279fe9ddf57b32183965135ba783d73cdd1d937ea9386c62cf96eb2e"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/capturas_50.json"
+hash = "53f50f90c70dcab0baffbb06c973bcd5317f23484afaef7ed749e2f9490c0e03"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/evoluciones_5.json"
+hash = "18bbc0dd313aa0cb0b90dd207377eae3a92f865342e660961ce6ee505223ab2e"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_221100000000001d.json"
+hash = "93d7089fc62f8b87fb44f11674a799f93d7322548a72cb8f64ed3cbcbf5f5c3b"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_2211000000000138.json"
+hash = "1896952d92aee58a62f1b9273fd9636e710ddaceec0528606a38175596a49edb"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_221100000000013b.json"
+hash = "8b3ae4bddd237ff961659226f8c0af4c93d2d08530a7321f271d2ca3703c439a"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_2211000000000146.json"
+hash = "d4166f1adbdc7c4de277d13278acfb86f14d4e165a4f47cc046e2b0cf4c44cbc"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_2211000000000149.json"
+hash = "01526c51f7a4844cf654f7dc176e82f95545b9ac8f5b58db02529a8d85a87a01"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_221100000000014c.json"
+hash = "5274ebd0ac7a5f853d8ad42f8cf72230fe153b135f1e44e8336f4372b61da7fc"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_2211000000000152.json"
+hash = "aea2f559f0d40fad6dd923114a5d1098871da03bb10b4aed0333e34e60026aa2"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_2211000000000155.json"
+hash = "bb528259a2a013b222aafb62364c7b5676d30e954bbfeb980067135865ba5321"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_2211000000000158.json"
+hash = "88a922b6ac9ba226d07aa25745706a36dc7a2ce5a606273c6c7b3649ca0a359c"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_221100000000015b.json"
+hash = "0dd261020df8bb6179ecf8c58fbd9794137b9f912cc0f6a027a75f46a506434c"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_221100000000015e.json"
+hash = "641a274b3e9576a98cfe23cc49f6f4fa9cf32a1e9d76a15b12004cb5ab11600a"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_2211000000000161.json"
+hash = "972be32532709207ecc1676a329137df5ee7fe063f05e63a5fc17cf523905d24"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_2211000000000164.json"
+hash = "e488d63b1132cf13b92261f094250420ee00a980657a57783d61cae799f06dd9"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_2211000000000167.json"
+hash = "4325e345f630eba1b557fab1922e5a30733af7e7e437ba01e22cae2c66e5c981"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_221100000000016d.json"
+hash = "6d75e727512fb928e302a98d59e2bcd39e185f02dfd8e6e8f9366cc345cf81f2"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_2211000000000170.json"
+hash = "8596d3ec5d7577f5bdcdee4100f4428c898cbe8b7f44473f3ea38fa2b0bba9d9"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_22110000000001f2.json"
+hash = "fb680cafce5b268b08df4735b51d51c38873979c67a1837b07b232ee9661fc1c"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_22110000000001f5.json"
+hash = "d654e40cf240147cd806b54150450eb4164eb98574e00b9192dfa3080083e34d"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_22110000000001f8.json"
+hash = "6b20a0a7c1f9b603f1d92d121dd5b1608c24e0f135d5a3ea708d8462d01d104f"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_22110000000001fb.json"
+hash = "5d023e64a3b952b3b0ee10e3059ae0cbfde2762d63976e48fdb3c0c38a1a33e5"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_22110000000001fe.json"
+hash = "5f08886ba43f9f1d6dbd0ad9e829632e710cc2df7006addb7c7a873e9f90af2a"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_2211000000000203.json"
+hash = "1c786d15c4f12f6d8ee43b72bc95df20de8f141ff8840638ae6c9b98132c8020"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_2211000000000302.json"
+hash = "898d18a9a9c0408998d47a51b8e6770c049e6d34539d0bfad47b8b02dd533f89"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_7106000000000002.json"
+hash = "384f667ab5bd4d8c98114f9b8a4925f84471ea60921db56890855ece17119148"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_7106000000000005.json"
+hash = "c3aae350fa8a1ae1cfc9a69f27e6f5185c41dc41881b4b7807a1fc06b9724f70"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_7106000000000008.json"
+hash = "e2cf15aff1be59e50ee0bfac8a134da32a42246fce6aa4e173b45c9efcfebe60"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_710600000000000b.json"
+hash = "aadce0981e856bdd00792bd62547d57d48dd5162f6ae65ef6a321fb127a72d76"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_710600000000000e.json"
+hash = "0cfe19ab6947b0f565641970779ef29b2f1bf9bee08ec1ba8777bc1b15a86bce"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_7106000000000014.json"
+hash = "02cc32671d03b5913f5b6be9ff24a381877684d58075bf44ac503c3831f49a9a"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_7106000000000017.json"
+hash = "1ba8f8951e02de5b4eadb904ee89a2ef6823729e445665b10473f8e88430f0ac"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_710600000000001d.json"
+hash = "ee5dfba65c7d08243c50acac87cc33f4a693f269d11b1839ef9b45c6f1368790"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_7106000000000020.json"
+hash = "3fc570b467ddaf5d3309c829711ead9f3134df5175c8c0e53c21ea0e8a274add"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_7106000000000026.json"
+hash = "b5aad38a7e1a50f40bcbdec576b3a887644c5d1e123efab8e46e8d6f39d41651"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_7307000000000054.json"
+hash = "d1f3bf6be11be5d3eb8aff4f8421771b82b2dab85a43412356a3ff2031291b20"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_7307000000000059.json"
+hash = "0ea07ae2ccf6ce27d351a8566af0ec11622e4646f743c763e4024d583dff5242"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_730700000000005e.json"
+hash = "d87d61fb431ffc5b33030bd345d0bad411202812791a80205883f679c196486f"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_7307000000000063.json"
+hash = "009c2ca579e30fef97768266013885b9955c0b642383471317dc00ffb7c2f4c0"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_7307000000000068.json"
+hash = "56cebe332d4fa58daaa749e56730bf0d610730db22ca4682ac995f4aef927be7"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_730700000000006d.json"
+hash = "793780a16c3b13747767cb9c862ab4479b9bd1eb8d6116cb76ff54bab81c3a64"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_7307000000000072.json"
+hash = "1aab7c44df3f5332d58e26abffa72f72e056c3a5955e5a1811cfafbf60b68113"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_7307000000000077.json"
+hash = "ea99d2713bd25d573018cb4650147fef2655e79c54b6c18ff2847b71f890ee69"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_730700000000007c.json"
+hash = "0ab40086535c915e1fa14759275d8b02cccd8a7cc11d3fd90653300d0b8a0303"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_7307000000000081.json"
+hash = "166f75e6a5b6b6cf5f7b8259d60a88d31d36718c30587a90b0c50563bb08176a"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/fabricar_7307000000000086.json"
+hash = "2ee9e5d0383e6551177aa5bdbd96eff35afb21474a883edde1df7e284016a985"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_arceus.json"
+hash = "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_articuno.json"
+hash = "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_celebi.json"
+hash = "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_cresselia.json"
+hash = "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_darkrai.json"
+hash = "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_deoxys.json"
+hash = "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_dialga.json"
+hash = "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_giratina.json"
+hash = "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_groudon.json"
+hash = "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_heatran.json"
+hash = "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_hooh.json"
+hash = "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_jirachi.json"
+hash = "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_kyogre.json"
+hash = "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_latias.json"
+hash = "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_latios.json"
+hash = "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_lugia.json"
+hash = "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_mew.json"
+hash = "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_mewtwo.json"
+hash = "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_moltres.json"
+hash = "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_palkia.json"
+hash = "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_rayquaza.json"
+hash = "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_regice.json"
+hash = "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_regirock.json"
+hash = "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_registeel.json"
+hash = "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/legendario_zapdos.json"
+hash = "7ef38da0f1c9371c9fb4bd1098fe8ac511679afd6c1985d17554da4ad2e52e3b"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/nivel_10.json"
+hash = "a705f29d2712b0957f9570803a3e0f3074177e8f9ddd9fc4f81ade0f868c58d4"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/nivel_100.json"
+hash = "6f5d65849b7fa800b48c3252746254a5b3c4bb70bf9bc464a11da1bb7706127d"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/nivel_20.json"
+hash = "b627141e990f78e5e029fda4ffe7cf5546da23ef716ba3dc2f3d10c6ddffea84"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/nivel_30.json"
+hash = "5f6ff39b19b7f618637ae53ee53c23385243f470abe3c4055262c4b2f065133e"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/nivel_50.json"
+hash = "b8daf9cd62a53d38d86b0b285c57caa3eaaa0b1167f84a9a098f3f2cf686474d"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/nivel_75.json"
+hash = "24989481a380e5bbed69a4bcaa9d81af2c5ec81efa375c721fcb6c890809fb24"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/npc_10.json"
+hash = "c0a46d513c9f97bc7b688a9e26d84a150df24a70a5932859ebd3438755ae435b"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/pescar_pokemon.json"
+hash = "22071f350880440a90dda568e4b919ef59571d26c2fd71af7449ec402d43f141"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_hoenn_adriano.json"
+hash = "7e0c0427141c28da07b8523e287a56fcbcff82a0fa7166959640739d6528ced9"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_hoenn_alice.json"
+hash = "c3334aeb15e14947b6ba9b255b77221a0aafeb64c03df82fdfcfbe4992a4a25c"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_hoenn_champion_rocco.json"
+hash = "507bf3a697e45b47a8ec2c4700f4faccf0a0ccef3e3761463254b51542c470aa"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_hoenn_fiammetta.json"
+hash = "a0a16e34de98ae36576e103dae27b56db45ca1b7c0d7d225c7640f2619b7c347"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_hoenn_league_drake.json"
+hash = "32b64c139c530a02af7cb348cfa04b42f2e18a4049a8803da96bec536784f755"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_hoenn_league_ester.json"
+hash = "2c36b95bca1af85c0c2b0ea919fe40758bd3e5d5ce9c373a68a44e7acfdc38dc"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_hoenn_league_fosco.json"
+hash = "eeca560a059c72beceb3d1a0c892b1ddbf0f83adebea3f37378050d50dd9908d"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_hoenn_league_frida.json"
+hash = "71b0c26dd17994bfb03e026a9c85ff647396aeb0728be1d6643a9ee9338697ee"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_hoenn_norman.json"
+hash = "0a1447a55115586f6533d5021d25fae907bcb1da7d084d0f540b3c68bd6c5362"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_hoenn_petra.json"
+hash = "abec096e3f83c0baaf18ba96802bedeb235dde14447724691884c73a8e4d8624"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_hoenn_rudi.json"
+hash = "f11cc22446b5a722edf69791fac8a8afe5f24d766c178d5a2272dab63a934106"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_hoenn_tell.json"
+hash = "463978b0dda1f5cdc1847620cf781b975a5ba58bc5aafea7decb3f5b3af3449a"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_hoenn_walter.json"
+hash = "bea1c5b0480779499bb4a5d05c79deb0da779433435e6283fbe67787ea286a44"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_johto_alfredo.json"
+hash = "f94435484e4430195cbe1bae37b0eb82b96bae1537ded813b1f3acb07e296412"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_johto_angelo.json"
+hash = "c9f8f660f3ad8903995d348e045b1b078a072bdda8333c7ce7a1124d0b1b7e01"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_johto_champion_lance.json"
+hash = "c32712e0e6c084eb878d297227af82f1b83ca41f90f53ab2b1c3da32391a01a5"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_johto_chiara.json"
+hash = "02cd744d6982bf3028645bc660a1e417f0d91a5e1e671de4a2de1bb89184f9a9"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_johto_furio.json"
+hash = "0c695f7ddd3c9d638a62c144ab4987cb0393926bd9acd1f7ca94b450f5c46a21"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_johto_jasmine.json"
+hash = "bf86c0e6ede25c017d11282f9b1249a58db35855dc0d099407d88200485afc48"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_johto_league_bruno.json"
+hash = "c9f85e6656c2b20839054d332cbe8b89cf25dbf099638aa5c0dee5f7216f948f"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_johto_league_karen.json"
+hash = "634b7ae65bb73343c821f540b422542646bf57ecce9fe0b147cb4c7ac2609d88"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_johto_league_koga.json"
+hash = "1669bdc0fcda7b45697c657b4e102af9dc62977a63185e8f46db2503b551087d"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_johto_league_pino.json"
+hash = "0c6c8ff58517c3763a8967b7c54a5b3c48b86a2a7f33a149cd45c4c8c2e637d3"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_johto_raffaello.json"
+hash = "912ad69bdc9b18fbd5f93bba054012e5dfad0ceb7e2eb0d00344ef3c83566f28"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_johto_sandra.json"
+hash = "1819b630ff108e060f6f9d7db66f0a11604e64f8a6167249cbb84e8d07227b63"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_johto_valerio.json"
+hash = "9f11b1db8f3533775e5e76f9f1f9d4ab7a12723b386b69f1be526f96298efa69"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_kanto_blaine.json"
+hash = "3b3e8c2dffc04a188e61c615505e54d83134f45afebeb7e95a750e4a4417370a"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_kanto_brock.json"
+hash = "3577700417910589e96aa3ae58907341a6a7d7902784642a64f17a53df6f4650"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_kanto_champion_blue.json"
+hash = "60d9318aa28a724b56b4b91967c5381b76f1b5ebc7e40ad3eb042a000a4b5527"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_kanto_erika.json"
+hash = "f9769a2bae20a0065e0858c186abfa005616ec0beaa078697681536820910895"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_kanto_giovanni.json"
+hash = "595a1282ca5472b59bba6b0a88ddba951b610531feaeb3a6080aa7e2abf1ed54"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_kanto_koga.json"
+hash = "b96d0e85b2b11fa7c4e938dcbab3ecf82256cfce2cd5da2720e11ff40873dda2"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_kanto_league_agatha.json"
+hash = "fa152783a242be3fbf149b0d79893fea28f44b3253e9f707a4563bc3e96aef55"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_kanto_league_bruno.json"
+hash = "23a4ba04621b2062264760ea77cd24cc1cc32538202d4aaf399fb637b4fdcfd8"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_kanto_league_lance.json"
+hash = "9a485bc42b157210a526acb090b07e2de6806b7631dcfdaaa5dbf75eddd8aa62"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_kanto_league_lorelei.json"
+hash = "572be2a2b33e422a890cb0377f1501c259fb9fb298f3f3f62b0c2c9c31312b49"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_kanto_ltsurge.json"
+hash = "c65c54773ced0f3b78e7240fc8458beb19fdd798e5c58043540120d1a2cbd978"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_kanto_misty.json"
+hash = "d4fd8580456956508dd4a0f47c992362f92305339e1b99e14dc88783b7fcf24c"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_kanto_sabrina.json"
+hash = "722247a1e422a3e3d6a6b91f95d83d7f44cc0843d4d3b9bd48d9cb91c4403e81"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_sinnoh_bianca.json"
+hash = "87d8bddb47d2c179d4d6410f67e7503067ae20eb09b9534db76f8809396b1ea3"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_sinnoh_champion_camilla.json"
+hash = "1baa26aaf54a1aefd607dde2178a5054956f40cb15ff636c1bb933e642711130"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_sinnoh_corrado.json"
+hash = "6623d1c9760987b87d477f3494f4f301c8f3504007562a3dd73b3422bf7defcd"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_sinnoh_fannie.json"
+hash = "0a5e5a087948a31bbd33a07cce3659cd19663adae482ef7db025c14329d967a5"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_sinnoh_ferruccio.json"
+hash = "1cb6432dace59290ab02a648299ecff976a456f2fce2e01f4c7e82002aad210a"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_sinnoh_gardenia.json"
+hash = "4fc73f6f94b6178d77eecd096314bce95937742d81c6e6a4a16420b8e30b744d"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_sinnoh_league_aaron.json"
+hash = "786bf43fa08fd77e2a9a570b393ce64c8159d38d2ff316ff5e9e7790be04b472"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_sinnoh_league_luciano.json"
+hash = "d8c355d6fc9524ca88d195fd54c60cec8270f27a7d336400ac073eab5d08b54a"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_sinnoh_league_terrie.json"
+hash = "337a04f458b73e80d84e748fe7efdb6511637f21db38a42eb529d8c75e079152"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_sinnoh_league_vulcano.json"
+hash = "9083bf3255ce4ab4e708d42d98b9ad19f7dffc3d83db1f5de8dda725eca3983e"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_sinnoh_marzia.json"
+hash = "b237511e89981de4c5cafaecb3d4fbefd8075f2b2465b760029b391863db9645"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_sinnoh_omar.json"
+hash = "0ebdb481494e4a779e958f45a51740a039ad07678a7b810b54c12d7e7c37ddf2"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/trainer_sinnoh_pedro.json"
+hash = "caf93589ac01f00433ee62fe809d9b37f2ca8a6c346a25b4fc5427f3ec62ca4c"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/victoria_npc.json"
+hash = "01930bfde0c1f2bd6f349f3c4ae51782d7bf3c6d5ca51a2f8cbe9bd5582288a7"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/victoria_salvaje.json"
+hash = "8826b1650003a588c6677ebc0303e96d0c77b2ebc20feddc646ec029fdc678df"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/victorias_10.json"
+hash = "fead40656f30fa0557575d83068262155034beeae890f141b7207a41f24977a9"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/victorias_25.json"
+hash = "d4dce454111d2b9604fad50bf7f058e92ec198cd25051dd73f12dd330d070c8d"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/data/migaja_guia/advancement/victorias_50.json"
+hash = "6367fe19e869b4af2bd6cb5d867ecc320af7d7ef370cb95cfd220400e5cd960f"
+metafile = false
+
+[[files]]
+file = "datapacks/Migaja-Guia-1.7.42/pack.mcmeta"
+hash = "6279b287fd65a3b6c0b86d56a6eee022fb55c1a56da2edc2be560ea0f67ae37f"
+metafile = false
+
+[[files]]
+file = "datapacks/PokeCenterPCs-DP.zip.pw.toml"
+hash = "7ccd9a7f937e32cc37232c29354101fa734d3072595ed49a597a67d7f29da09b"
+metafile = true
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/bca/loot_table/general/attic.json"
+hash = "6640540ad87f98800f319dc611956813070dab8c29947c32b5fc56a168399a9f"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/bca/loot_table/general/bedroom.json"
+hash = "eb337a208bac11aac4beee2e8978600775950c9f2f9d67271e16a880ab6d4816"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/bca/loot_table/general/blacksmith.json"
+hash = "9afc802de826e4c77732b863f3b1d82d56d2eaee9cb59c4eab6a9fa21d8b1859"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/bca/loot_table/general/easter_egg.json"
+hash = "29c007bd4df17872bcbe1e3c4e1fbdf56271937390740a3f18e424318e3eddf4"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/bca/loot_table/general/kitchen.json"
+hash = "1162a3906faa82670a862de49c0869f9f3608e02b2879da8ed045b71e86b5685"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/bca/loot_table/general/miner.json"
+hash = "d2fc2377f74ce5cd7a12ad63d00ead74e2014ced0ef23edb6980abd2e23bb78e"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/bca/loot_table/general/pokecenter.json"
+hash = "e42cd7e4a56750a2fde7994e9ff5678515435db7a8843e6143d4b442908f5894"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/bca/loot_table/general/sittingroom.json"
+hash = "c25bc32c86b6150fc29f51332196cf0f8953ce83234750bee822ec4a0ae07747"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/bca/loot_table/general/workshop.json"
+hash = "3072631b84e6cb490746e66c198e6e55b8ead3b5ae71e2a36ace9bc8af24ce20"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/beautify/loot_table/chests/botanist/botanist_chest_taiga.json"
+hash = "d5af440169f59ecb91b556ac8ec60b9a630c01dd5803e9c546cc3eb1048031ec"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/injection/chests/igloo_chest.json"
+hash = "2778b67323ceca1e9e8c15db750e6fbf20b58dd0ba721852488eb6b485dbf450"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/injection/chests/pillager_outpost.json"
+hash = "2778b67323ceca1e9e8c15db750e6fbf20b58dd0ba721852488eb6b485dbf450"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/injection/chests/stronghold_corridor.json"
+hash = "2778b67323ceca1e9e8c15db750e6fbf20b58dd0ba721852488eb6b485dbf450"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/injection/chests/village_house.json"
+hash = "4c0f4e74941c31da6ab8a93a996bd75eca9b5094636e3076b593e398063668d7"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/injection/chests/woodland_mansion.json"
+hash = "6ddb24ba9fe9a3dbb4a81996695441c550859c5edf44b27069093571b19ca65c"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/ruins/gilded_chests/base.json"
+hash = "c4be559d808df5b6fd481fedff838adf05d9dfb23c5a3e4350c3ba14b5618a58"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/ruins/gilded_chests/ruins.json"
+hash = "519511e99d59a0c50235c87282aee0ee6f55c8bed202cb751d29c257acf3f6c2"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/ruins/pots/ruins.json"
+hash = "8bef64a2fba737c779d770a003ce3f12f9a51fa0dd4d6fca167b2d5fb46bae18"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/shipwreck_coves/fishing_boats/fishing_boat.json"
+hash = "a6ab16f92799a8bdf8e6facb0d9e5982dfedbe0df8c839da2c7ecdaf095cbd2c"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/shipwreck_coves/gilded_chests/big_treasure.json"
+hash = "6ef9d7220cad0a5b58966a31d6e66c53867082bfcf7f8e20cb4debed60c5de42"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/shipwreck_coves/gilded_chests/lesser_treasure.json"
+hash = "16da98bd2ceac79becf956dcdc7724b66eeefd40336e8a02d479e3db43b75b0e"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/shipwreck_coves/spawners/extra_normal.json"
+hash = "d8bea15bc6cdbf15e3a3b2efda1ee1d22ad7355786e8899b68f165cb93198c23"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/shipwreck_coves/spawners/extra_ominous.json"
+hash = "2bf64c4d9a9638890335a301bc0021e68a4b45573a916eaeb087ef83185e01bd"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/shipwreck_coves/spawners/normal.json"
+hash = "33a4ddb0211c99f53f5a966c40889b2203cf6888c64e752a197808b486749d27"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/shipwreck_coves/spawners/ominous.json"
+hash = "06ea6d6d38e9e6840dbe9e7530ef670e1383aa0d03342dbda810949ce26adbda"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobblemon/loot_table/villages/village_pokecenters.json"
+hash = "6a76fbdae19b4afee4e2b52cd35280405ccc12a1f0feb32a689eb8cd1e9ad793"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobbleverse/loot_table/structures/eterna_building.json"
+hash = "1d6689f3f0bc609abc1b2b244f03beb2cab5dca672700ceee8fb75c52a2334bd"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobbleverse/loot_table/structures/fullmoon_island_dream.json"
+hash = "5413a49bba6226363ecd5d75baa3264a2c1f3aa90b612a89ab2824edc5f5a302"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobbleverse/loot_table/structures/fullmoon_island.json"
+hash = "8f484158f59897ffdae97c493b0cf8ecfe59c8b6432bf614cf5366eb3b6aa592"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobbleverse/loot_table/structures/newmoon_island_nightmare.json"
+hash = "04d40bf44d65a0be3da02ae77c1a71b38d664d417e85d36ffd5316107734416d"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobbleverse/loot_table/structures/newmoon_island.json"
+hash = "872b761dc2f82a924db27a34c956600378a13dc666f723596a2ba21dd2cd1ed5"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobbleverse/loot_table/structures/regidrago_chamber.json"
+hash = "c9a39e37524e805117142841b7228d805b66ff83b859f94b6b0fde2646f9a3b3"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobbleverse/loot_table/structures/regieleki_chamber.json"
+hash = "82174cf3b95f5e2359e6465a05446ae91e8dfb85ab12b920962eac56cc79b864"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobbleverse/loot_table/structures/spear_pillar.json"
+hash = "a38064acb235925d0bc916c5719e2acb87418475285dfd047c206d6d6a85b814"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobbleverse/loot_table/structures/team_galactic_generic.json"
+hash = "d0422a7e74260bcc04d82753d28679d2d0bf159112b722496b29f01914e6b6fa"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobbleverse/loot_table/structures/team_galactic_hq.json"
+hash = "1766b6c06e4ea61a521a9da83899c37217c880fb569f2af6625606e7dfc5e8ce"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/cobbleverse/loot_table/structures/wind_plant.json"
+hash = "a3360168286952a2a5fc233436b33ba4fef9d6ea084f088559040c22eb4d7808"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/legendarymonuments/loot_table/chests/stark_mountain.json"
+hash = "1dc0d20f05b15cca5fdb0e945415c749438dbfcd28f6324153e5ce778257b18f"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/legendarymonuments/loot_table/chests/turnback_cave_chest.json"
+hash = "2561ada71e42bba6531f123a086fcc6a04e4b4427e23bb48db45091e3bf7643e"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/legendarymonuments/loot_table/chests/turnback_cave_vault.json"
+hash = "a15ca4855bd4b06e077182c770c03807781d73643d3891808d151b8c50a139c1"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/lootr/loot_table/entity/item_frame_empty.json"
+hash = "a9a1e800c2bf098414b32de038eafc42e4e9fa74986d4e3b0cc330bc7ae7cd71"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/mega_showdown/loot_table/archaeological_site/archaeological_site_chest.json"
+hash = "80b4d9c051cb0a83026372cee14d4bd7a439ec64582b784c9ea75e9572d90d3b"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/mega_showdown/loot_table/chests/observatory_barrel_2.json"
+hash = "c536aef10909ea415aa6d57a8d768b2eac667cbfb0e5a1b55a3a469ec84e7e33"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/mega_showdown/loot_table/chests/observatory_barrel.json"
+hash = "51a0dd5cee379ebca8bf1cca345046b2da164c5807a4d3f86641169242f9cbaa"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/mega_showdown/loot_table/chests/observatory_chest.json"
+hash = "7b3837344d4a5777222b8a78ef91971c41c263795b78702e2a1d81385a04bd24"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/mega_showdown/loot_table/chests/observatory_dome_chest.json"
+hash = "9de796c320f49f6bc6e70a1ca79003acc1862afd8351a08af4851b3097238a11"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/mega_showdown/loot_table/wishing_weald/wishing_weald_chest.json"
+hash = "80b4d9c051cb0a83026372cee14d4bd7a439ec64582b784c9ea75e9572d90d3b"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/abandoned_mineshaft.json"
+hash = "27249ee9ace12f19dea9b74cbd284ffbbc20c4643b2da9e3e60a012daedc9e90"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/ancient_city_ice_box.json"
+hash = "522bd2ac593b72cff5acf8796663437ce2c501b16b15b70f61b2bf8e7ccf8392"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/ancient_city.json"
+hash = "3902cb26e9381e1f5ba6da11a17c0119fa3e5481dcdaf6f7b0aa20dc159c827d"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/bastion_bridge.json"
+hash = "e5d0d309a8a5e0c22c4e94688776565f8d9055301c6c78fa5ab202ddb7662d7d"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/bastion_hoglin_stable.json"
+hash = "df1678760b9197fffa3fb446e7caae68fd220af15b33d36830fc8fe856822122"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/bastion_other.json"
+hash = "1ea6c4d766ba5eb71a1f57b3d8c906508ead73fff0c48587153d7efb0cc8617d"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/bastion_treasure.json"
+hash = "db5dd2f420b0590dd403747cc74eff10818096acc49cf6904a202392975ac0a0"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/buried_treasure.json"
+hash = "4c1d642576fe24217ab2c8dc13463ee71044df36d528907230735c39273dba87"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/desert_pyramid.json"
+hash = "ff6eeb0465293e758661042c35957a95f0371c0f214f50cff48f182faf6838b9"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/end_city_treasure.json"
+hash = "c6f47c417c9d1a172b4ec6111838761e982236c14dde889c24b678fc03d0896c"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/igloo_chest.json"
+hash = "c0bc0163ecc2530ece2bcc977b24a87a1d4fdbda7a5fde6b81da857ab6114d9a"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/jungle_temple.json"
+hash = "36f86bac7a82fae8e9ef6398661ad5e2c6c68f53d3ce421ac98f7bfc2a38307c"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/nether_bridge.json"
+hash = "9e319685dcddfac9a88e631e0c1e882a3741ddf40357802de2282575f4e4fb3b"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/pillager_outpost.json"
+hash = "ede63443893cb1d3b1be07a5a1aeb04c17b75afce70ee34e86bbc973f77cffb8"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/ruined_portal.json"
+hash = "379bb90f85afaa71f28e13be5df961c81bd44e2183232b17d488fa964091d8f0"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/shipwreck_supply.json"
+hash = "d52a9b723aa5e3cc0af28262720c98ef0d27192cdf729c62f353bc3f699f24d4"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/shipwreck_treasure.json"
+hash = "b4a09937dcc0285c5578dea2e1549ebc2face02f8addefbb7c692c79dcb91539"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/simple_dungeon.json"
+hash = "061e3f4a6dc74750e1bb812516f4072d92eaf7360691fb7944798c0c58ae7e46"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/stronghold_corridor.json"
+hash = "ac75fbc4559ccf5a9c159195d9a2461bdee9b222aeaee36eb8331c883ecda1b0"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/stronghold_crossing.json"
+hash = "94088935e7f46f86cd7a604187ada46db677cf804075ed8046275924cba67861"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/stronghold_library.json"
+hash = "75579f4d28dcc30254450d38730e0758e93e7bc417282325f7c5011cba9915e8"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/trial_chambers/corridor.json"
+hash = "ab2b707a1bb12f454967b53f4b6733eadeaeb1bdec1723c877cf9e9308e37472"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/trial_chambers/entrance.json"
+hash = "83aee8f0a2a447576a046cc70fe76e31f5243ebc5b78ca1c6203ff33bd5dedaf"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/trial_chambers/intersection_barrel.json"
+hash = "a7a1804a52eae78c6b2393b7002503b201b18f47dafbf9215dfb274904c49db6"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/trial_chambers/intersection.json"
+hash = "aa3769e91ab79dd4fc85e781c682ebda86d141305ce3621c96e7bfcaba74566d"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/trial_chambers/reward_common.json"
+hash = "a359059849f5d408c88e8d35feb75dc65e1e1f4b8aef02029f9ccd7836f50226"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/trial_chambers/reward_ominous_common.json"
+hash = "fcf57f971a8914334f1d30060c20faa26b9c20516e5343c37982bb8bb6552ba8"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/trial_chambers/reward_ominous_rare.json"
+hash = "811c83c03280306a8250a376d977d42ffced62b140977cd30d47a546c3ab3656"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/trial_chambers/reward_ominous_unique.json"
+hash = "75ae3e65519f809aca604be612f821848332db796ea03d4537337fb63ffc04c3"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/trial_chambers/reward_ominous.json"
+hash = "4379a35e09ad8bd9d61ba6c6b5bb23c782ea2c3a875e4f022527ac893697b7de"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/trial_chambers/reward_rare.json"
+hash = "64213ae0758171e5d41c71daf7331da16702e65f9f4782094b4cc71c792d0c9a"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/trial_chambers/reward.json"
+hash = "21e73f3539e4e25fc4f06578ea6512ae09e5ca570f2220fdbcf60140891986e6"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/trial_chambers/supply.json"
+hash = "a2e1cfadbc28313f556adae8b93dd0a9d60151b69a81cc93a4ac47d340bfb2ea"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/underwater_ruin_big.json"
+hash = "01ae741696a727f0f97d05e7d5731c26c051fac84a74a758e7622ee46be6fce2"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/underwater_ruin_small.json"
+hash = "0ded7f055961c67e1f78a034e3ed40c886b644bc8b6a1e09a41883eb2a7f8079"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/village/village_armorer.json"
+hash = "6bf958880c0b311d993b600447b2271022f7e1166bf58ffbeb14451b9fac64f0"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/village/village_butcher.json"
+hash = "33392ee272e5a4b10b0f697912e539bf22b9569ef623c4df36a3b25f3c33a7cb"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/village/village_desert_house.json"
+hash = "881189b476b662270d03a104a806740e60f4daf99cc8b42f72720b704c1c4cde"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/village/village_fletcher.json"
+hash = "14f144506f11d8cb8861d3f40b308485da42676d87df9af7dc6319ae70bcdc7c"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/village/village_mason.json"
+hash = "41ff30cf132cee6a4544a89ace3c7007c3e8bd3a2aeb50f2fdfca4e839f10ba4"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/village/village_savanna_house.json"
+hash = "b1241ad00cd57da9b7d897acf3882ebbbfe1fde5b7e782d4db9d7984e29fe3b0"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/village/village_shepherd.json"
+hash = "ac5287e4f04097a0492e2eec8af8e6fa67ae67688dbdd0f9ff4d37047ff18d64"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/village/village_snowy_house.json"
+hash = "cbefad088c32e9208dca866fb2ff4ff914c46120d970fb323f6d6d8ae2ce7d51"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/village/village_taiga_house.json"
+hash = "64ebedfc39dfe9602a27a8b3655ca3376d72081f85a7cba91c520ad085490190"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/village/village_temple.json"
+hash = "2d02a7653940f0ab8b0018eb8a5eccbef221c0284d9feb7ebd6ab2f067a1f7b6"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/village/village_weaponsmith.json"
+hash = "3729b100ee4b735b0f14bf5e7dc5c5df92441831d9976b4e610fea40da8d8516"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/chests/woodland_mansion.json"
+hash = "dff3781b5b4dec9508850cddaeb8b05ddaa072c1c809300c03e45df653c374df"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/mega_showdown/crystals.json"
+hash = "6ff873731fe4203e502ce3522b9c9db2f982389925d8f722034e0551e87a53c2"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/mega_showdown/drives.json"
+hash = "deb076ac3da3c704c54ce0672dbc4a6ae2adaac3bac72fad4e3f8f447601af7a"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/mega_showdown/memory.json"
+hash = "719ba492502f363ccbfcb9799ecaf1cd5f0178ee9754e648e570c0f6373bb56d"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/pots/trial_chambers/corridor.json"
+hash = "f183ee75aa24512d629dfb83c4f59289ed5c59311b584c1123e4e5025d9517e0"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/minecraft/loot_table/structures/wind_plant.json"
+hash = "36f86bac7a82fae8e9ef6398661ad5e2c6c68f53d3ce421ac98f7bfc2a38307c"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/advanced/minecraft/cobblemon/ancient_pokeball.json"
+hash = "5a2eab581b32e6705a3e9818a2a8e352ce1e4d85af6fdce0f9eea7ff264573e4"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/advanced/minecraft/cobblemon/ancient_special_pokeball.json"
+hash = "a54a75b347aa68e33d648e927c4dcf974958e9c623e73750d996d936d9e58360"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/advanced/minecraft/cobblemon/boost_items.json"
+hash = "128fe2f165f2d90be7b572f6b85b32641ffcc0d0389d45f2ef12615740890977"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/advanced/minecraft/cobblemon/mints.json"
+hash = "9a156333891bbfbd3898cb3945af670cc0cabb0103a78135e47894ca00df1a7b"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/advanced/minecraft/cobblemon/rare_items.json"
+hash = "8ca11ae5c3838ee1691e46e8b8d7a3765b7366bca0dec67d9e8533face98e553"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/advanced/minecraft/cobblemon/special_items.json"
+hash = "82fdfb2cde4e1ab2848ad5a4323f878522ee76320edb7dba85040b77b152cc0f"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/advanced/minecraft/cobblemon/tms.json"
+hash = "7779c57d220ba2aebf6e14220006f17d660aaa5de2eccf53471ee723c6d270d5"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/advanced/minecraft/cobblemon/vitamin.json"
+hash = "e2ec67567a715372086c3e8b5fdec975d175648eff729cc0ddab730234d23347"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/advanced/minecraft/mega_showdown/crystals.json"
+hash = "6ff873731fe4203e502ce3522b9c9db2f982389925d8f722034e0551e87a53c2"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/advanced/minecraft/mega_showdown/drives.json"
+hash = "deb076ac3da3c704c54ce0672dbc4a6ae2adaac3bac72fad4e3f8f447601af7a"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/advanced/minecraft/mega_showdown/memory.json"
+hash = "719ba492502f363ccbfcb9799ecaf1cd5f0178ee9754e648e570c0f6373bb56d"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/advanced/repurposed_structures/chests/lucky_pool.json"
+hash = "b4ff0e2b10f932ec5027c19c6b32bc02866ca75f9715bad4aa350cba5711a8f9"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/ancient_balls.json"
+hash = "a543355cc128fef0d8f58c3dcf40096fc7d2f13e89fb733761a47246b56f9461"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/axe.json"
+hash = "bde932c8eb33ffee2fe0b8c2fe11aad651b353415125a6554b25854415768a70"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/battle_consumables.json"
+hash = "d239fc65f5a8f590b85c141d73bc12b244a60e1bade95a53bb708ce353e66dd7"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/candies.json"
+hash = "baa50702fc7e9358d2dedb2a6913eaa601696d50367813946fccf37733ce7233"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/cobblefood.json"
+hash = "a49440d98117d5e0b4e1b7fefce28a061d0e2c8729b388b28a9fec77c56dffc2"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/evolution_items.json"
+hash = "66e2957689fa4a1d1e2b9eb7671be78d79fde543a64f58a7ec45a2d0819fb967"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/evolution_stones.json"
+hash = "32b81eec1a242722c663053de295977684da1e652eeed7b41923d0ff4657a426"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/food.json"
+hash = "797da12b0d86f72bcc9e4db6b070f8678e127d2e69f0b0f81ab5505f3203f9ac"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/healing_herbs.json"
+hash = "c1179717b988c4666ef9054c93732f3b8eb1c54fd82adf6951ef738716db0448"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/held_items.json"
+hash = "d9dd8d297c2343eacb6d2a8c0320db81a5ab568dddde59ac790a023fc71ca822"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/hoe.json"
+hash = "17f3dd5abc1fd5d901a097b5d933408b23801cdf2523190f444d1148b755b66e"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/ingots.json"
+hash = "be6764f6ac0c7ecfcb85524322194f296f43456116de10a7e667328d849bba7e"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/medicinal_items.json"
+hash = "3138a1b1b41d885e8a140c8017c95591ee00e508280254350a1480296b400bcb"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/minerals.json"
+hash = "d04b95225f1ee589f39e35b75258db1db7cd5ad14ab8bfd42f478fd96c430b11"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/normal_balls.json"
+hash = "501526466fb25025064d7f6a0f4833c4beaf4f6697c6a34aefb3530897316f7e"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/ore.json"
+hash = "383e0fd26b6fcb80f6c20c754cf5d3230e2ddb185b43f9959f0b648d5a5dd777"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/pickaxe.json"
+hash = "b08b5bd1ba3d7f78ef65f8b87a01464504635298bdcfc360e3fe6e8bfaefb409"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/relic_coins.json"
+hash = "7bbdaeb2ccc03626c649fa2ab462f04acf3ad168b618678ce82ff9961d7481b5"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/shovel.json"
+hash = "95ddb12bc3de55e29a36766a6b72f57c277414e9a74c65b5676adb6b4741384a"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/stat_boosters.json"
+hash = "c634033d25363b3198a56ed7ba59db0d0e299ef0f3cb607ad0ba6be6f7bcf1c8"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/item_groups/type_boosting_items.json"
+hash = "8495061e6d445903335475e1a2844a330f58b634d2a49462f6c4ff9878793281"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/support_tables/combat.json"
+hash = "59cf66bc297f2c5c68ab2f1cd09768baa7ff0cd9c01a7e9161e3d2dd8eb8d318"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/support_tables/evolution.json"
+hash = "271d14a9d7ed8841ab3888e8dd3f613cb0e00294863178fb355b9cc5630f273c"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/support_tables/fridge.json"
+hash = "acb5de92bd273d8a2c8089230bbf457b72fc58add54c9e1fd06c0e763a0760ef"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/support_tables/medicinal.json"
+hash = "bf7351aca8c10fe9716470ec8cdb5169a1cb3356ffbac5f4636ebe3c4dd4d41a"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/support_tables/poke_balls.json"
+hash = "9d9c70475bc20fe85fddc785f37eae7bc522b819759c58403e68f205c2defaa0"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/support_tables/poke_currency.json"
+hash = "f4f5b830035a26b4190ac911c34f55b92cab497e24b9f45010b49f9e652d8898"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/support_tables/sittingroom.json"
+hash = "1c62af46add9d478d7b4b0d2b3f391778fbee8d22f583c5327d1a6d632dc2ded"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/support_tables/terrain.json"
+hash = "a240aad08a39ec26d3bd9e67d0b15057b6d5d678f612ec39a514f077d815e4d3"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/bca/support_tables/tools.json"
+hash = "d1e16b34fa7c72f53cc4b313f4d7b66a63af32c3b4da679bcf1048cc3d9027fc"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/cobblemon/sets/any_ancient_held_item.json"
+hash = "5d6ce9aaacb021e281f243a3eba6b81db489e76a9909270ef425b7d23713ea2f"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/cobblemon/sets/any_evo_stone.json"
+hash = "1424accce81caa9ad1b1e8fccdcbdf0ef4d6557c5c16a2d51217045d8b38c455"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/cobblemon/sets/any_exp_candy.json"
+hash = "4e8589f84b1e36214595087a2bcda69389cf9ff8903f0d43593f19e026187e29"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/cobblemon/sets/any_natural_heal_item.json"
+hash = "babd51ca0238897d41fa2d313b454ac5197665dec78a37db38241ce17c79fc07"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/minecraft/cobblemon/ancient_special_pokeball.json"
+hash = "a54a75b347aa68e33d648e927c4dcf974958e9c623e73750d996d936d9e58360"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/minecraft/cobblemon/boost_items.json"
+hash = "dda3960d3462c7f09d18cdf6a67bd0cde0bfbd676bf21e397566b7e15cda66f2"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/minecraft/cobblemon/evolutionary.json"
+hash = "c4e1f3891fd47905f626d4dd93e6d5c6b53b1a0eaaf7f69518c83c36c808dd13"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/minecraft/cobblemon/healing_items.json"
+hash = "c402670b0e87eccb28c6fc175aa6badc3cde574d745926b5786bb66dca3708a7"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/minecraft/cobblemon/rare_items.json"
+hash = "8ca11ae5c3838ee1691e46e8b8d7a3765b7366bca0dec67d9e8533face98e553"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/minecraft/cobblemon/special_items.json"
+hash = "d2cbf3ff6b534c2f33a62afa6ebdec4f5515c0471e566eba417a9c20363831fa"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/minecraft/cobblemon/special_pokeball.json"
+hash = "dadc7ab337d4c6d122fc881235fa6d2405b482a4a03723bc67482402390099e7"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/minecraft/cobblemon/tms.json"
+hash = "7779c57d220ba2aebf6e14220006f17d660aaa5de2eccf53471ee723c6d270d5"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/minecraft/cobblemon/vitamin.json"
+hash = "e2ec67567a715372086c3e8b5fdec975d175648eff729cc0ddab730234d23347"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/common/repurposed_structures/chests/lucky_pool.json"
+hash = "b4ff0e2b10f932ec5027c19c6b32bc02866ca75f9715bad4aa350cba5711a8f9"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/bca/item_groups/ability_items.json"
+hash = "de86ac82de60cb2580884ee94cbb42e70ce2dd69ce863bb57123e0b29b78075a"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/bca/item_groups/candies.json"
+hash = "baa50702fc7e9358d2dedb2a6913eaa601696d50367813946fccf37733ce7233"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/bca/item_groups/fossils.json"
+hash = "f541c86af7df21d10f61aeb9c80c9d0db1e62e689634ca508e4027572edd6705"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/bca/support_tables/special_rare_items.json"
+hash = "8c7c188e37edcbf4e7cadd6cfa3c0e58d1f2bb1d6ad3b9c2394a9d850dce05a8"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/cobblemon/sets/any_ancient_held_item.json"
+hash = "5d6ce9aaacb021e281f243a3eba6b81db489e76a9909270ef425b7d23713ea2f"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/cobblemon/sets/any_evo_stone.json"
+hash = "1424accce81caa9ad1b1e8fccdcbdf0ef4d6557c5c16a2d51217045d8b38c455"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/cobblemon/sets/any_exp_candy.json"
+hash = "4e8589f84b1e36214595087a2bcda69389cf9ff8903f0d43593f19e026187e29"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/mega_showdown/sets/any_showdown_held_item.json"
+hash = "332a687d63316e052c9ce9ef00b8773e8f19b027e26a2e33dc320b01681eb2ad"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/archaeology/desert_pyramid.json"
+hash = "def72fe69391c387af5d960e85b2d5dea0050a7f862535bea0f020db1cd5f3a7"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/chests/buried_treasure.json"
+hash = "7d8560ba233b02253edc12472f3d502e5b5cb277442a009947020961d5baf04d"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/chests/shipwreck_supply.json"
+hash = "902dcd796a217e9673d49f406c8becf1fcb232536895d412ebc83bf034377b84"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/chests/simple_dungeon.json"
+hash = "584bddf2e00543a0c60a846a954a51a7bce42fba007559e6b030ab2d03418b75"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/chests/trial_chambers/reward_common.json"
+hash = "c16406b069d27963097f974df3c31964094da93cbd955d500d05c3582cdde859"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/chests/trial_chambers/reward_ominous_common.json"
+hash = "f413a829f1477209f1b5aaa46ea9ba0e3b2bf1c449820214182400dd434f7dbe"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/chests/trial_chambers/reward_ominous_rare.json"
+hash = "3e06297780f86ac8719ddd57d31ed0c0436092e9843095ea8b3c378083b0772a"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/chests/trial_chambers/reward_ominous_unique.json"
+hash = "e8dfd4b85bc2245ea4a92a33a0c6743d6a9565ef0ab9d2526c9be627daa56536"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/chests/trial_chambers/reward_rare.json"
+hash = "749d19f0447b5dae2d430582bca00d27f1501daac6658882a84b055693029ce5"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/chests/trial_chambers/reward_unique.json"
+hash = "792e88bb699287866de92f0c5b67c0fa56db8e067402215061a07fc71be13a3b"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/chests/underwater_ruin_big.json"
+hash = "7e51c05ac2f5ed3cbf5320c882635e85debd1fb031daf206f45fd6f55ac13d6e"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/chests/underwater_ruin_small.json"
+hash = "b76f50dcd51bb1430dbb42c8e34ae1595eeb9f72c2d5a26f24489eca816bfdaa"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/cobblemon/ancient_pokeball.json"
+hash = "5a2eab581b32e6705a3e9818a2a8e352ce1e4d85af6fdce0f9eea7ff264573e4"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/cobblemon/ancient_special_pokeball.json"
+hash = "a54a75b347aa68e33d648e927c4dcf974958e9c623e73750d996d936d9e58360"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/cobblemon/boost_items.json"
+hash = "dda3960d3462c7f09d18cdf6a67bd0cde0bfbd676bf21e397566b7e15cda66f2"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/cobblemon/evolutionary.json"
+hash = "c4e1f3891fd47905f626d4dd93e6d5c6b53b1a0eaaf7f69518c83c36c808dd13"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/cobblemon/healing_items.json"
+hash = "c402670b0e87eccb28c6fc175aa6badc3cde574d745926b5786bb66dca3708a7"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/cobblemon/mints.json"
+hash = "9a156333891bbfbd3898cb3945af670cc0cabb0103a78135e47894ca00df1a7b"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/cobblemon/rare_items.json"
+hash = "8ca11ae5c3838ee1691e46e8b8d7a3765b7366bca0dec67d9e8533face98e553"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/cobblemon/special_items.json"
+hash = "d2cbf3ff6b534c2f33a62afa6ebdec4f5515c0471e566eba417a9c20363831fa"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/cobblemon/special_pokeball.json"
+hash = "dadc7ab337d4c6d122fc881235fa6d2405b482a4a03723bc67482402390099e7"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/cobblemon/tms.json"
+hash = "7779c57d220ba2aebf6e14220006f17d660aaa5de2eccf53471ee723c6d270d5"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/cobblemon/vitamin.json"
+hash = "e2ec67567a715372086c3e8b5fdec975d175648eff729cc0ddab730234d23347"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/mega_showdown/crystals.json"
+hash = "6ff873731fe4203e502ce3522b9c9db2f982389925d8f722034e0551e87a53c2"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/mega_showdown/drives.json"
+hash = "deb076ac3da3c704c54ce0672dbc4a6ae2adaac3bac72fad4e3f8f447601af7a"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/minecraft/mega_showdown/memory.json"
+hash = "719ba492502f363ccbfcb9799ecaf1cd5f0178ee9754e648e570c0f6373bb56d"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/puchamon/loot_table/loot/medium/repurposed_structures/chests/lucky_pool.json"
+hash = "b4ff0e2b10f932ec5027c19c6b32bc02866ca75f9715bad4aa350cba5711a8f9"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ancient_cities/end_spawner_box.json"
+hash = "c926f3b56c684b56e956487e180c838e44997424dc5b4c1a87835cf92a488c33"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ancient_cities/end.json"
+hash = "96f5b639cb37bc8c5722341de9a9d95352ae417fbd66bb74768523201c8d570c"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ancient_cities/nether_magma_box.json"
+hash = "2cc82e6c0a54a91c81ce697043f66b315b8ea3f451d22d8e0adecc1ef005b0f7"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ancient_cities/nether.json"
+hash = "49967eb89df10f9de6d216a28056e7b340893c452daace429cf4e99b3dbf7dfc"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ancient_cities/ocean_ice_box.json"
+hash = "133520bf4c68e9c59abcdb8179406e39ea46e790d30e32e236044a0695a74dc4"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ancient_cities/ocean.json"
+hash = "05e8c19d6e2a8dec7396ba9902ca14497d59870e1617c2d301f3ca47ceb0237f"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/bastions/underground/bridge.json"
+hash = "4308450b3d7556298d3cfce4502fa8f0dfedf621933aa5b9a93907a6b6cdedd0"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/bastions/underground/other.json"
+hash = "8261099d02a703231757d56244211bb660dfb4d1d7878567565b1e762a4151a9"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/bastions/underground/skeleton_horse_stable.json"
+hash = "f3b61afb515f0cabe6b0f652b5389c99a53593fff05b69d941e5a0c77ce7e712"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/bastions/underground/treasure.json"
+hash = "d9eaa39edfe44949e385191812eb7a999933474c51aa374463d4254313417312"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/cities/nether.json"
+hash = "1d524835da76fbe964af5e1cb73873bef57506bf83c5f2f28b1c899bc6574f9e"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/cities/overworld.json"
+hash = "f0052eed817f43dd97e3b45dc41d2587a6f7f3a4b091af6ddf91a11b34ccbd1b"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/dungeons/badlands.json"
+hash = "5dc73c9b63b82d2624f11ebaaeb603d4d3f141350205410d1b41c750ab0d7431"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/dungeons/dark_forest.json"
+hash = "fbb1edbb2ac4b2c68ad9ed80072c3f4caa615373d7803e474c7c3c5efc3b1578"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/dungeons/deep.json"
+hash = "7492c3a3e40ba5345ad0a040e1b2b7925ed165a596b26e24bc82ce02aa9f874e"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/dungeons/desert.json"
+hash = "d17a2d9c4313b447734295dc39713fa3587c58afa27ea4573c34e6ca060fc25a"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/dungeons/icy.json"
+hash = "2a271b63e3a8470bef2827c60c33a14421e3ce2125b82f7f07b2dc3187e6383d"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/dungeons/jungle.json"
+hash = "64a7d8084d330a4dc3afb2c79ba34b707a8c28ff608a71f17c9a3ec1863eaa18"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/dungeons/mushroom.json"
+hash = "fd6568f23ab1c477dd5ce1ef653f78ad342ebefdaf28057b00802c44f13a0a7c"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/dungeons/nether.json"
+hash = "b40ca18921d00edfd93350c89aaae3dcc48696891b1967e26a34f3562b2e5c60"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/dungeons/ocean.json"
+hash = "c6b1f48479eb5eb1fb38ebaf767ad5bb8d75b9167051f7f3236cc7f9cf041b01"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/dungeons/snow.json"
+hash = "9090eb019586671955499dd59638db142ef07d5c1b17231a492d2c85b7c1cff2"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/dungeons/swamp.json"
+hash = "d4b09a25b93325d327d2c4c53455e7f1577d6bd95f730e6351cea493436b97fd"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/fortresses/jungle_center.json"
+hash = "42bb5c16718987d80768bc26149194b7f88d571e2b3ce24c7ac327db157f4829"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/fortresses/jungle_hallway.json"
+hash = "8224bde295176826aa82f70a6246030a593ff93ba2fa60a5ee01f9346d763f0f"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/fortresses/jungle_shrine.json"
+hash = "3a5a558ff0ebdb1ae4d772980b73c99fe6f9aee1718fa3e33ba16aa8610ee9ee"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/igloos/grassy.json"
+hash = "de298eff6d2c08b0fd89605b544736a392e8c784826c1f0edd9c7d3048ba0460"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/igloos/mangrove.json"
+hash = "e9714e310802a4d91f4b50581e0775b7dca00ea05c880f2382f6e44761b3271f"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/igloos/mushroom.json"
+hash = "29633d3dff93bf2665129e7643648681c184a779806dbd86a351400b5d4c10c6"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/igloos/stone.json"
+hash = "0168823241ca531b2f3b0adee2b604f57a2d888bb7b3ecb986b130e293700b52"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/birch_storage.json"
+hash = "9c6848efb29308f45f9b9f4b00c486520dbabdac13ac7ff02e15ac64a39ee8fa"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/birch.json"
+hash = "ce3eaf1d4e9784a39df015e1cc52344bb04c4a123b1c723d9b1299c98648e019"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/desert_storage.json"
+hash = "513745e57cd0bd1200d3640f01c82ce94676539ad08a72911444bf2f1dbc3a1d"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/desert.json"
+hash = "8991026a7c621986b51d2747c27670bbecf45ed4f5483793c47298ed2b2b9fa0"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/jungle_storage.json"
+hash = "25e447ba24a3c60ec997fc2ff46979e5e39f8839c7466bacff01f2df9dce389d"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/jungle.json"
+hash = "4da6d11222fc06953e959de9fab820f05e0b546396b1cf820809205883caf448"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/mangrove_storage.json"
+hash = "0075c7adef3838a3b35abab4774e31b6100a8b95dba930bea3d7dfa558fcc7dc"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/mangrove.json"
+hash = "1e1e4ec17edf444c60b4123b883d682f992423726c63c1268a747217a24c7734"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/oak_storage.json"
+hash = "e3cb8097d920248eaa9618319f08243a91e0547df7ecec3e85192ad228f62009"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/oak.json"
+hash = "db0d9633e0dd5c89fc0e3a643a6b6ac91656df4aa2527e648e509d3bb7c3e1fa"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/savanna_storage.json"
+hash = "a0b4672d76007182212951e654b338627a7f82ddac2c343a7d56ce2218cb6e7d"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/savanna.json"
+hash = "8d9e6976351287466b2b4446718d8f7644b5a676458ed5c3aa38635922bd9a72"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/snowy_storage.json"
+hash = "481d83b6afa0218864ac234bd276dceaefbaf53390af5b109837c3ce840e01d3"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/snowy.json"
+hash = "228b6018ac46f08dc48c8a7c248b9514da1bb6e1487a523594753c075dd09f79"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/taiga_storage.json"
+hash = "0adcbad552d6d31544c4ea8a953377156451157ccfdcf57b1483ba2dbc23cbb7"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mansions/taiga.json"
+hash = "e8b7e7872d3a929b41eaecadf43612135a032a6472356e6a004f6f86669ee475"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/basalt.json"
+hash = "28a7375aee200a30e34a1b2e9050cebace40a037de6e3922c6547e5a711b0dc8"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/birch.json"
+hash = "e196f2c6a702ca8c10c29ad88aaa4301af72475afe11d0b8caf0b48fa18804a6"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/crimson.json"
+hash = "085d2d965a617b3e23a781db2c1b7a95d889a97b26746ca1fe339697eff6c7ef"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/dark_forest.json"
+hash = "6fc799ef329fd4eff9b6e9e4115f6594a4f0475975896625da8b69bac6bb3347"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/desert.json"
+hash = "eb2a7a1695da097c66b6e80b2f0c1d558891149f6816d956b62eb2d2bcdd49f4"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/end.json"
+hash = "cff53c334ac08b3380560fbb01f0b511bf88c6ed9feabbf280fd78b51eb831e7"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/icy.json"
+hash = "595f339c8f6c80029533d882e01dd72a9006db75c527a8802308f5f5444ed01d"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/jungle.json"
+hash = "80284bd2d9ecce70c2ee6100366d8692bb8762b4852bc481e98240caeefcd41b"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/nether.json"
+hash = "c5b081aba933fabc66b44e1379a6779c674a65736e0159111fd9a76c7c59743a"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/ocean.json"
+hash = "e9be13d0fdfd88699607b11b2e2fccae9ac82f3e599f4f4ab6809d678bab4a16"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/savanna.json"
+hash = "a43e1fb3edfed6e647e1539048ee5dc4b71dfd5d9722686495e54c046b1efd39"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/soul.json"
+hash = "2ae129aa048b447727816c119c38573884d7b01ebc34e969b0ca8b246cfe7703"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/stone.json"
+hash = "2b8506d572846a15c1ea975cf4320328d0a5840636ebbb0d61232483bbe33b57"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/swamp.json"
+hash = "3631de78d339e3c89378741b1f8d7b22f7338ba5e4ab5f074d93d13d5e27a465"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/taiga.json"
+hash = "e4a6661f82358f1d1f5bf68afeb52e196ba3d8226eb61925dc52546f5686f3c6"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/mineshafts/warped.json"
+hash = "3ba281962bdc6598cb40917989c3af9164603189992fa0f65cf879351102f2dd"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/monuments/desert.json"
+hash = "a6adc0eff85deca15dee6db44259b98ec57eaa8a1d92feced78202c4ea730cc3"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/monuments/icy.json"
+hash = "a4671abbb4eed8c01a3811ac75aed14c1cb3c790d7356a9153755f79d6a88262"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/monuments/jungle.json"
+hash = "c612e96cf11f4963c83db419bdbe721c4407b69f3dba8dbad0e36a13973fbef0"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/monuments/nether.json"
+hash = "2b98031908d3d9f1bcd922fa99bf0690d99373cf7c3744c9a4d0e2d2c986c389"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/badlands.json"
+hash = "53b45dc61a535e4fdd093f322b7e7126c1d4270206b5c27ebe818deb124d4eb4"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/basalt.json"
+hash = "0d63197d32e5afbfdb2b68d665baa3cb062f03953b5aed0a2bea75e6f2a9e81a"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/birch.json"
+hash = "daec833d50bb67824779daba3eb85fce75ad078e94ea44d352ff61f810a85a3b"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/crimson.json"
+hash = "dda56a6cfcffdef4498341757ba933950abe7b5bfdaa32df83aae4fcc0881c7a"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/desert.json"
+hash = "e97b3133f21098eb7f82cf24f12df8d2f0fe9c9507f2da012ec3257d2ee17f4a"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/giant_tree_taiga.json"
+hash = "71de11735cde6fb6599dc933eefd03ad5960a2e9d0888386b296becb07a19371"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/icy.json"
+hash = "5ffa4e194745fdbe48dad6c6f853cdbfd7aa0faa0f0c11294b980c91303f3d77"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/jungle.json"
+hash = "dd5321d2fc274d73a7ae6eb1a84784b43102fceadf02d89b2570c2e63c841459"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/mangrove.json"
+hash = "e1ed1895a27a058fb126907eb8a234f0abd0c68291759fd4f674a37541cd31fe"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/nether_brick.json"
+hash = "5d38de70c866cb4cb290a71595896870c01913252fe2e93f1de598c090cb0f27"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/oak.json"
+hash = "031e936444988a5d09cb8f5aaf40192b74bf35abf88348de6d8cc527a5b690ed"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/ocean.json"
+hash = "80e67022fce9a3960ee23e98667f63e4abf548fdc5a610957ea0d332990b07a2"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/savanna.json"
+hash = "1f7068b94fb17a6b35607e29f9e6a605d39cd12808ba9072c49f4b5630971e1d"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/snowy.json"
+hash = "80ff28417f12bd2edba3b60cb254faebb175b97d001d9250e41e63047c6d83af"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/soul.json"
+hash = "dc414457cdcd00d0202e3b8151466c61a0e20e6e28cbe9ee24e4ddb53d3ffd36"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/taiga.json"
+hash = "b51b046e34049bc93e673a8c4c5dac36451016eadf055f8bfa66c205c60b3cb0"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/outposts/warped.json"
+hash = "624c1a2dfcb833945f2449c06cb07ee5ef4241957e4085d0bfe6680806427e14"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/pyramids/dark_forest.json"
+hash = "9ebcb7090ffabc6d341c698f6d3865962cef172a92bef9c6d973485e64b56987"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/pyramids/end.json"
+hash = "13fc16bc3e1710f6abfb3baf3734bec81a63886f4558bcb71299a95140db144b"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/pyramids/flower_forest.json"
+hash = "6e851f54b938489cace30a7e9e406603cf9922709475eb1f428a53766344b86f"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/pyramids/giant_tree_taiga.json"
+hash = "1fec1f6c5b7d178c1e06279b538d015ed75e579d85b6bd9288f75ff739ff57ff"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/pyramids/icy.json"
+hash = "33b8147f4f9c059bcfdc8d993bc0f07d0347caa10f89740f839b6699b3e242db"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/pyramids/jungle.json"
+hash = "43e471c2876fbf76f0e886b456fed8ff162a9f17a1e648302a3830ed1457beee"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/pyramids/mushroom.json"
+hash = "50b439d63b4e69826c8468fcbf557108eb02ea20af84fc777768e58a64f47bb5"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/pyramids/snowy.json"
+hash = "367b19a163863f002d5ba44c8db9ca1c5d75c70a2b8d421c5a491105fcef47e2"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ruined_portals/end/large_portal.json"
+hash = "cdc1313674350d890c7fb9cf671027e72dac2cbee0a65328b51265ddac96fdcd"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ruined_portals/end/small_portal.json"
+hash = "f1e568e3a6fb4709b532e181577523fc27b89a2b9e9a510815bed83fc9115e9d"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ruins/land_cold/large.json"
+hash = "fd454a737c95a08c7c4681bb3ff4c1d7995a4f702bbf06f6bd82e685c823288a"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ruins/land_cold/small.json"
+hash = "b950fe70684725dcbbd006ba287cda816a678f8243ee432beb686bf6f6341c93"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ruins/land_hot/large.json"
+hash = "5216b4f85a58875371e124226369dd4e5fbf2e5b2937eb6b0198a63ee065de13"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ruins/land_hot/small.json"
+hash = "580c5d4c7a42dcb1c7040e59dd9ca82591ed2d097158624974a90936a32a6b9d"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ruins/land_icy/large.json"
+hash = "cbaa004251aad35fec8bba5198c6c79a4a75e3f2064604b8cd7c8777ac4a8f90"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ruins/land_icy/small.json"
+hash = "49c40494864895c303bbf489b342c8dcb828594ed50130c5c1c586c80a2692b1"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ruins/land_warm/large.json"
+hash = "468e63e632ae49885933e9d572e49184d0906c75262abe4803e573928f342e6c"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ruins/land_warm/small.json"
+hash = "9c4722f801b0c5700b31bbe5a4c6a7335259c32b9a8d086012ef96b6b5be4dc6"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/ruins/nether.json"
+hash = "ed4385a1494c6afb74a56027a1a2bc2bd2f9ae91f63f5de44970d37156a956a4"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/shipwrecks/crimson/map.json"
+hash = "a53063bb736d6fa638278a511f2f8bce6b16c6d73cff03073c569d7e685b54ce"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/shipwrecks/crimson/treasure.json"
+hash = "7f82e1774d945489c2d4da7ff6f488b88d30d7fa5fa6495606be628255861261"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/shipwrecks/end/map.json"
+hash = "18c4b42b625808ccdd346b21680cbe29b8d67c22d4770c13c152f666b83791ae"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/shipwrecks/end/treasure.json"
+hash = "063141689721f7c902cddff2707e74c61c724c1c54b1e12b1f2fd1938433c32d"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/shipwrecks/nether_bricks/treasure.json"
+hash = "7eaade7f361241038c1ea312ae83576b03fe13fec98d9d671e60ed4513650aa3"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/shipwrecks/warped/map.json"
+hash = "87a22eb711c9347b791c0d002221ecf69d43bbc0155e49c2badaf31f0bc744eb"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/shipwrecks/warped/treasure.json"
+hash = "da427d50a7963981bd276e870692c61a537374da2587fe059cb0200269b30ea6"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/strongholds/nether_hallway.json"
+hash = "61e9f14eb225613a0124da6e777ec5e20cdd3c8292fc3e43c45077fb83a19742"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/strongholds/nether_library.json"
+hash = "6551fe9f9bd13caf61f0e13a28369e7084a238d63669899cf2c7da30921baf29"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/strongholds/nether_storage_room.json"
+hash = "057d9010642d4792c818c0639cb93535f46341b0da666656bfe2e8a652e779d1"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/temples/basalt.json"
+hash = "52c82cfa1036031fa47fa54d0024dd22aff15e5329d9788bce2caa0c44617209"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/temples/crimson.json"
+hash = "7d2fa3d9a9f79b7477b7f70af8caa643ba8884fd5f799db01401169e9d85c3c3"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/temples/ocean.json"
+hash = "a603efaeec2f71d8e7dbb96e2d8bdb06824de1f5527a9c41273f2e959f8a4140"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/temples/soul.json"
+hash = "b905b347d4ba7b5beaf25b7a48f3c40fe9029455ad8144f7913cc5042a677465"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/temples/taiga.json"
+hash = "83ae5cd7fa91d9b3a2cb93bfd658834aade98b070b06a343dbc0448b6dc5c383"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/temples/warped.json"
+hash = "7f639d5198ed402e18c18f401d2d36548b71cf6e6cf1c8264e6c2c5d24c30ab7"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/temples/wasteland.json"
+hash = "1443f7d7982cd4d5f4498afbf59c3193ef928599a76094ac2b1c9f35f29e461f"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/badlands_house.json"
+hash = "ad8adcbbdef678af77f3e8da65e100f058cbe6504ce2e58c8ab5865211538fd2"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/bamboo_house.json"
+hash = "1abbee0b89e77bf7d17c71846e3f367f831337f894ad0166c04a597a5c230f32"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/birch_house.json"
+hash = "19fd9497b9aa94e7a6969c6113537a0957e81196a690ef8810a9014776454a0e"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/cherry_house.json"
+hash = "b9214feb584a4ce3ca4e79b90f941c1b7d28d5d918bae156e1ce7c0381fb77bb"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/crimson_house.json"
+hash = "6476d81c4669dc300506c119c380bcc446ccf33c1a264b847f888a592fe48407"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/crimson_weaponsmith.json"
+hash = "7b3549948ce3b6152ffbc94066fecbf1ab926ade4a765f4ac3b29f32254ce795"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/dark_forest_house.json"
+hash = "d678161cf37b5df0772105d59944c2a97fe4c2b586dc15003fb57e59aa5e527c"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/giant_taiga_house.json"
+hash = "9bcf1c1df269c8e651b9a0c7b7c71ce98e534c529c12939a069596b2083f74a3"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/jungle_house.json"
+hash = "7202ba7ac9c67668b572dfbb4d0738978394eab32399b948862c65e0f551cf30"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/mountains_house.json"
+hash = "afc793a66291472b624a6c24ef47942570ebcd98c315d3de59d990b1955d8834"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/mushroom_house.json"
+hash = "90f871cf1537be58cc6ee66848f11dd3bf4c7f72a56feb2db81b9a463525ef0d"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/oak_house.json"
+hash = "5dd0ea35d53735182a48b8f2b1807078dc1550bdbcc992e8f0445a461866e2ce"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/ocean_house.json"
+hash = "8e40937306a95e29ec77c0f653975332d0d19bd0eae99831109016115d876449"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/swamp_house.json"
+hash = "285897d41910d9f4b4709b64865cb624877af4f53bb0507bce4dc2d2bbe34dda"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/warped_house.json"
+hash = "a8820c7758692061044a3c8f6ff4d9c08b9fd6adf3e4c3160f4ebf78653fef40"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/chests/villages/warped_weaponsmith.json"
+hash = "50c13270367f24f41c88fed5c524318fe9ee2ced3f4045c5346a331864f92d76"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/shulker_boxes/dungeons/end.json"
+hash = "f648fc700963d152096e292998f2c88a5d7bea64f3c854115a4d8c0aba6751a4"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/shulker_boxes/outposts/end.json"
+hash = "9339e566cb41527a28cd1cc5a1ebdcbe9d4f4da3f554b441a64ddfc981ae0147"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/shulker_boxes/strongholds/end_hallway.json"
+hash = "1aadb8c09ceb070e597741d840a33db3fe728a11c5e317ed81df61b8446e9211"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/shulker_boxes/strongholds/end_library.json"
+hash = "51ae09c24b1f89ed0cd01c1cc61be418744ffe381befc0e8588948b5888583c3"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/shulker_boxes/strongholds/end_storage_room.json"
+hash = "a44c4ac3ec2e971b8d497bee3ddc04042c6a5da6dfdebb64742b68d14ea354c2"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/trapped_chests/pyramids/badlands.json"
+hash = "a17f49c130c435c6d5a6f3e180dfd93ae217d442df5c1e8545d481c36043b0e6"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/trapped_chests/pyramids/end.json"
+hash = "e27313106fa906ecfd5c81d80d93fce194e6bd2f7514db9b0cc481d5e2e7af4e"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/trapped_chests/pyramids/nether.json"
+hash = "73f5ab21cbd7023eb0ddc5e89c7f6cb375e35c4cf76df4177301ab16ed4b6742"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/trapped_chests/pyramids/ocean.json"
+hash = "f7183692e0b364609bd0cfaa97bc01ba08afd733495f7afff9521451cd7f14c8"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/repurposed_structures/loot_table/trapped_chests/temples/warped.json"
+hash = "f0b5b2370278ff94dac4067bc936918d138cc99da2259455b91ed47cc14a769c"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/sophisticatedbackpacks/loot_table/inject/chests/abandoned_mineshaft.json"
+hash = "c89e47b24d795a2b1c8719f44cecdc75e50997d3057bb618ead10508325e4788"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/sophisticatedbackpacks/loot_table/inject/chests/desert_pyramid.json"
+hash = "7bdb0e6e8061abed457a85d49d97422598d9251f339436ae641351e5c6139bf0"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/sophisticatedbackpacks/loot_table/inject/chests/nether_bridge.json"
+hash = "86c15294771013b7b532be6fca5dc72f2380d336a21f55d4c8153bd341f8b673"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/sophisticatedbackpacks/loot_table/inject/chests/shipwreck_treasure.json"
+hash = "4f87f4b9666547713267f6de64bde96b3f8481feb094de4b0b7ba24a869add61"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/sophisticatedbackpacks/loot_table/inject/chests/simple_dungeon.json"
+hash = "f91667836515b61d6e438283e724037cc4f336d43c785296ddd74a5b32e66f32"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/data/sophisticatedbackpacks/loot_table/inject/chests/woodland_mansion.json"
+hash = "cf7e90306a7b4c9e4748b311357e78476a2bb7082b9ce90472ab4ed529a69f39"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Balance-Loot-1.0-r3/pack.mcmeta"
+hash = "0cc07ada52c73d2ae88cc6650702949489fc81e6e6a806c8491118b4f70d17ed"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Correcciones-Sociales/data/lootr/tags/block/convert/barrels.json"
+hash = "b4e004d68d838598702ce07df35bfa17d8b0170616c1e8c32f5be14c179bc4e7"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Correcciones-Sociales/pack.mcmeta"
+hash = "e391d634b23a9dbd69327da99a65f4616b3e292b2a86c391c9fbc6e5a658df04"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Guia-V2/data/cobbleverse/advancement/root.json"
+hash = "9e5db538bf920413e35e4533700b114acc2b37517a2d6c742f3503ab783f04f9"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Guia-V2/pack.mcmeta"
+hash = "ac50dd9d05c1d28c1fad8254d2d2100bf73019e9800fe266598d1819e95dad36"
+metafile = false
+
+[[files]]
+file = "mods/1.21.1.SecurityCraft-fabric-V0.6.1.jar.pw.toml"
+hash = "91ebf0b7963170f5f3a2390559871d7dbebf0d43466fe6608322af8a762b8494"
+metafile = true
+
+[[files]]
+file = "mods/accessories_compat_layer-fabric-0.1.12+1.21.1.jar.pw.toml"
+hash = "5ee8f68d2672fd385a646c2a9ea5a5aca70360e637541dcb4510718db03a8496"
+metafile = true
+
+[[files]]
+file = "mods/accessories-fabric-1.1.0-beta.53+1.21.1.jar.pw.toml"
+hash = "ee14ad7ac7ddf5a254208f9c9b089230f143f2701d83b313bb80c4d6e226227d"
+metafile = true
+
+[[files]]
+file = "mods/advancementdisable-fabric-1.0.1+1.21.jar.pw.toml"
+hash = "d78828cb1f1b7c9ac0d7aaf7e234243a6a730b3d94a04e780c39c3644fbd63bf"
+metafile = true
+
+[[files]]
+file = "mods/AdvancementPlaques-1.21.1-fabric-1.6.8.jar.pw.toml"
+hash = "90dc51e710bda472e6f007fc334083c8a74a5892a60d2561c774e9f2ff5644a0"
+metafile = true
+
+[[files]]
+file = "mods/appleskin-fabric-mc1.21-3.0.6.jar.pw.toml"
+hash = "3c1ccb21269faa1520d06894bce215a0fccc9b4b2f75a625fd85daf32dd1db00"
+metafile = true
+
+[[files]]
+file = "mods/architectury-13.0.8-fabric.jar.pw.toml"
+hash = "51905f976dd002e5566e67227c45bf48ebaf115202a082cbc1f9c71077587d03"
+metafile = true
+
+[[files]]
+file = "mods/athena-fabric-1.21.1-4.0.6.jar.pw.toml"
+hash = "f7ced7949a5c5288adfb959e26bba1f4c893665a8e52facc8bd3db70cd9a487f"
+metafile = true
+
+[[files]]
+file = "mods/BadOptimizations-2.4.1-1.21.1.jar.pw.toml"
+hash = "1dcd7bc1f9873f0205dcbca83007b2ba24baecf202c2a6a0781a4df6e2332304"
+metafile = true
+
+[[files]]
+file = "mods/balm-fabric-1.21.1-21.0.63.jar.pw.toml"
+hash = "910e493cd3af1a6791a064d0b3fb58e6d03b0e6738b215b3cf8711c153845f63"
+metafile = true
+
+[[files]]
+file = "mods/beautify-2.0.0+1.21.1.jar.pw.toml"
+hash = "38cdc24ca2f43c00804094d479b96fbda74d5b4ab6a49a76e4360a58a49cca60"
+metafile = true
+
+[[files]]
+file = "mods/better-pokedex-scanner-1.0.0.jar.pw.toml"
+hash = "5e34d10b9d38ee0688c30ec1693cb69d58e5e02f5ba3d1c964a3418a3c5f3fc8"
+metafile = true
+
+[[files]]
+file = "mods/betterbeds-fabric-1.4.0.jar.pw.toml"
+hash = "c539f160ac5c4c8c1f2d7b579480df621ebc0ce7261cdce948dc1338f297cc2b"
+metafile = true
+
+[[files]]
+file = "mods/BetterF1-Fabric-1.1+1.21.7.jar.pw.toml"
+hash = "47f7aa910ae79d682bcc758fc6433cd5472f41b01decb071e15322bd838b861a"
+metafile = true
+
+[[files]]
+file = "mods/BetterF3-11.0.3-Fabric-1.21.1.jar.pw.toml"
+hash = "1862737f4bf9af67b6e7a1597d32bf23391332fe8f201f2ea83955bde43a7261"
+metafile = true
+
+[[files]]
+file = "mods/BetterThirdPerson-Fabric-1.21-1.9.0.jar.pw.toml"
+hash = "3afee81657dad1f8ee567fc19ed43c1b14568eedec546df931f23699ca93d765"
+metafile = true
+
+[[files]]
+file = "mods/biomereplacer-2.1-hippo-fabric.jar.pw.toml"
+hash = "8ce5c935cedce0497e08964fb35c1adc1d812da4d8a1886a56c0ea75be551484"
+metafile = true
+
+[[files]]
+file = "mods/blockus-2.9.18+1.21.1.jar.pw.toml"
+hash = "f8e8e9efc3c3db96c0852e36cc78ddb335c023e7bf351f9f5be45aada9f680eb"
+metafile = true
+
+[[files]]
+file = "mods/brb-1.10.0-rc5+1.21.jar.pw.toml"
+hash = "40dfa5c29676ea7cd1880d4bc1e60647ded11f224baa1b65dc5841d74d5f31f4"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric-mc1.21.1-0.4.0-alpha.0.23.jar.pw.toml"
+hash = "4b66359508ba87f83b9d43b3c438ab47e49607486f06d7890e432f276dc6ddf8"
+metafile = true
+
+[[files]]
+file = "mods/capturexp-fabric-1.7.3-1.3.0.jar.pw.toml"
+hash = "ab2524fb2e07cdfa04df38d66b0b5a85aafdc71b82503782285ba486568cfcab"
+metafile = true
+
+[[files]]
+file = "mods/Carved Wood-fabric-1.21.1-1.9.7-B.jar.pw.toml"
+hash = "522ca1b23cc14de3d484fb747593f53ce03c14be4b71299c1ebc1a7ff2916501"
+metafile = true
+
+[[files]]
+file = "mods/catchindicator-fabric-1.7.0.jar.pw.toml"
+hash = "72146c0914668b6d3f5054423698dccf0c29ed629a151df7c634e7d5899e3523"
+metafile = true
+
+[[files]]
+file = "mods/catchrate-display-fabric-2.9.2.jar.pw.toml"
+hash = "3a4595eecb3560aa2b53340aa244785e8910fff9f86509dd840d600b7ec0bf87"
+metafile = true
+
+[[files]]
+file = "mods/chat_heads-0.15.7-fabric-1.21.jar.pw.toml"
+hash = "aba852a44348935640ff764f753fa4c4e6a6875b9c84607aef8a56b7f7c01182"
+metafile = true
+
+[[files]]
+file = "mods/chipped-fabric-1.21.1-4.0.2.jar.pw.toml"
+hash = "459ab91a86e71e5a2088b85fe32127bcd4492f4f316536b87d61f8d6d7859d56"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config-15.0.140-fabric.jar.pw.toml"
+hash = "f7d1bf124fd4df8c823a882eaaa87927b58921a849e480824545bc495ba09089"
+metafile = true
+
+[[files]]
+file = "mods/cobblecuisine-2.0.1-1.7.rc1.jar.pw.toml"
+hash = "4a768840eee3e78f6afbc350e8d4c0ca1a8b1a64fd58c520fc87f8feec2b6f5c"
+metafile = true
+
+[[files]]
+file = "mods/CobbleDollars-fabric-2.0.0+Beta-5.1+1.21.1.jar.pw.toml"
+hash = "4893f858e5f9f508b3194bd9c047a41406537dd0fce65a9189e73edb50e47915"
+metafile = true
+
+[[files]]
+file = "mods/CobbleFurnies-fabric-1.2.jar.pw.toml"
+hash = "d72e9090a6d0087ae49d19639269958e9a32e06f28c7fc69aaf547647e6b0072"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-additions-4.1.6.jar.pw.toml"
+hash = "224911191a30ae734681b2952c599f3c26025c8322a50f043914ba37cf5fcde7"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-battle-extras-fabric-1.13.45.jar.pw.toml"
+hash = "8261e5fc63670e37b718191abc52448422eb76f48ccad857a902f6b930946818"
+metafile = true
+
+[[files]]
+file = "mods/Cobblemon-fabric-1.7.3+1.21.1.jar.pw.toml"
+hash = "522ea5c1e0ce0fbaa5d42c494eaf9ffd361ca7ebba73a45c191a7ba2f780e008"
+metafile = true
+
+[[files]]
+file = "mods/cobblemonpcplus-fabric-1.3.0+1.21.1.jar.pw.toml"
+hash = "05ef83ed916f25518b274ddbe4879a5c347d0faa269f6d4519aac2d16cdf10c3"
+metafile = true
+
+[[files]]
+file = "mods/cobblemonraiddens-fabric-0.11.3+1.21.1.jar.pw.toml"
+hash = "522fcba016186565ed64a3cd7493fddd3b87a74a58096112a5afa351d3eb4eb9"
+metafile = true
+
+[[files]]
+file = "mods/cobblenav-fabric-2.3.3.jar.pw.toml"
+hash = "0849fe74f7597b46104dbbe1342c1ff1ae2f5aedab452fa0b40042244a63ba29"
+metafile = true
+
+[[files]]
+file = "mods/CobbleverseBadges-1.3.jar.pw.toml"
+hash = "12bd55367135258309c35e2695a9ea1b3a2c8d189e304b53e3a94e33ced1ac0a"
+metafile = true
+
+[[files]]
+file = "mods/Cobbreeding-fabric-2.2.2.jar.pw.toml"
+hash = "b8cbc19a226ff275b6b773d31cdce6182231db5655ae379c3f83253c14d5cd13"
+metafile = true
+
+[[files]]
+file = "mods/comforts-fabric-9.0.5+1.21.1.jar.pw.toml"
+hash = "9fdff06fcc95f244c5634f3fae4bdd23582fa44db8bd0be768c3df201eb99a40"
+metafile = true
+
+[[files]]
+file = "mods/confetti_stuff-1.2.3+1.21.jar.pw.toml"
+hash = "b8cf2b012a684415233aaba685230b352884fcb90ce7418dd2971e99393f7ef7"
+metafile = true
+
+[[files]]
+file = "mods/Confetti-1.3.3+1.21.jar.pw.toml"
+hash = "18e56463abd5be7b1cd5838d7d587bd68aba022c74630030dabc99ff3188e9b8"
+metafile = true
+
+[[files]]
+file = "mods/configurable-3.5.2+1.21.1-fabric.jar.pw.toml"
+hash = "8d92bfef941095602d1b8f73a19f63fd61743b410c65909a164dc03e838599a4"
+metafile = true
+
+[[files]]
+file = "mods/continuity-3.0.0+1.21.jar.pw.toml"
+hash = "bbc751e61bafe6537b8a621327f1ca6ac42ae04f36436e5cc4434afd90e77713"
+metafile = true
+
+[[files]]
+file = "mods/Controlling-fabric-1.21.1-19.0.5.jar.pw.toml"
+hash = "33a94a9c5da567c63b7605fd949f7d1abc2cbfa504b0ff08227d4bd4d695a44f"
+metafile = true
+
+[[files]]
+file = "mods/customsplashscreen-2.2.0.jar.pw.toml"
+hash = "211a7477c5db3ef685e2dd7973207be32d6bdb89886f46868f2b898e2d0f18f6"
+metafile = true
+
+[[files]]
+file = "mods/Debugify-1.21.1+1.0.jar.pw.toml"
+hash = "6553bbfb83a7abcdb3e36820925142557922705c58b5195ee6d405619d779111"
+metafile = true
+
+[[files]]
+file = "mods/defaultoptions-fabric-1.21.1-21.1.7.jar.pw.toml"
+hash = "f0e7ea1da2533728f42c05ea30d0a618803ae964dab77be1c3fb1784e99079da"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft-for-MC1.21.1-2.4.12-fabric.jar.pw.toml"
+hash = "f65cdc1a043418395a8890acef0c5834de28376537cd8d2c1b96e0973e85007f"
+metafile = true
+
+[[files]]
+file = "mods/entity_model_features-3.2.4-1.21-fabric.jar.pw.toml"
+hash = "70699fcc66e912dc244a007f33c01d2c92eadc013ba05949e9ea40c6dfa19ca9"
+metafile = true
+
+[[files]]
+file = "mods/entity_texture_features_1.21-fabric-7.1.jar.pw.toml"
+hash = "dbdf14b2938801276fe3d5d429f6ede393a9d2c23451f316e05a33c3c9b8030c"
+metafile = true
+
+[[files]]
+file = "mods/entityculling-fabric-1.10.5-mc1.21.1.jar.pw.toml"
+hash = "86403936401cad519956bf6637d37c2e9a0eb91922fa76f6fad8998c3667c9ef"
+metafile = true
+
+[[files]]
+file = "mods/EuphoriaPatcher-1.9.3-r5.8.1-fabric.jar.pw.toml"
+hash = "7f821e404ed084ff60a777ee920c0cc24e23f6507120e87cfdae6ba3a323de32"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api-0.116.14+1.21.1.jar.pw.toml"
+hash = "3815280d683889ab5b6c2d449e9f3b36317a4d0bb742d3d29424b7f671bd5807"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar.pw.toml"
+hash = "3b9da19d1bf5bafd81a90308c1f207b2292091998c38161d4910c26c0cc29347"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu_fabric_3.9.8_MC_1.21.1.jar.pw.toml"
+hash = "4df0b00a9a0e04e57cd11fa9ca8bba62b15c1b9199c3a8e842efbcce20e78534"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-7.0.3-fabric.jar.pw.toml"
+hash = "06a39e21e3f47a7afbeea3ed5f2e0e0ae41bcfdd16fdf8ba62a1698fd7d0bdd1"
+metafile = true
+
+[[files]]
+file = "mods/fightorflight-fabric-0.10.9.jar.pw.toml"
+hash = "33cbbeb51b304942db005cfc7c68cc634f83b94608e6a71cd8e66ea31aa27cef"
+metafile = true
+
+[[files]]
+file = "mods/footblockultimate-fabric-0.0.12-ALPHA.jar.pw.toml"
+hash = "174f2b233cb749ebcd04bae347fac320b782682f0eb3dbb483dee6d68b37980e"
+metafile = true
+
+[[files]]
+file = "mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar.pw.toml"
+hash = "96b38e1deca8f9cfa3fa7c6682de7dae7c9cecd4109625f7a7f6d7e5e5e7600d"
+metafile = true
+
+[[files]]
+file = "mods/forgivingvoid-fabric-1.21.1-21.1.7.jar.pw.toml"
+hash = "cdc54df85445c1539ae51237788ff9819f21a3c5ffe7b1572e7b6ce381eed237"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric-2101.1.36.jar.pw.toml"
+hash = "cefc242a8f797b02d6c6292cd5edbd5d53da6656148f933713b3d38f1bbaafcd"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-fabric-2101.1.36.jar.pw.toml"
+hash = "a04d9cdaca370c1b25a92b3bfdef2ae52321f6f2dd04c3613bbf15bf3e13e055"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-fabric-2101.1.11.jar.pw.toml"
+hash = "5abe15c2b0f8582a8910e656f76e5bcd5ba020a479e41c9c03468be9c982d8b0"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-fabric-2101.1.15.jar.pw.toml"
+hash = "e3927a6eccf35991076265822272d8a45b40fee3b9855b06f316d661976f838e"
+metafile = true
+
+[[files]]
+file = "mods/fusion-1.2.12-fabric-mc1.21.jar.pw.toml"
+hash = "f2e2c8e9b0a1d1432a81d41eb3eee6d14369aec86547eb2adc4e7b4faf73dd8d"
+metafile = true
+
+[[files]]
+file = "mods/fzzy_config-0.7.6+1.21.jar.pw.toml"
+hash = "4d44068ca24919396cd507e73898f9c2a15b92c1d9f24a1006d76720c7a00ef8"
+metafile = true
+
+[[files]]
+file = "mods/geckolib-fabric-1.21.1-4.9.2.jar.pw.toml"
+hash = "76eeec4e8b9bb5c1a853d3306f53f1f08902c6f45c9a724eb826ba4107ba3f02"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks-fabric-1.21.1-21.0.6.jar.pw.toml"
+hash = "954d81a73b76d1c383b16b3c9f3897084f7647bdf0b3fb9cdd0feff52c3f4908"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted-fabric-1.21.1-4.0.3.jar.pw.toml"
+hash = "cc5d8af1e2063203b82e43507270d77faf2b7e50db1057837edb61606fe4539d"
+metafile = true
+[[files]]
+file = "mods/highlight-fabric-1.21-3.0.0.jar.pw.toml"
+hash = "8cb7e69be7b2711db13fc388400249466b207d28f3b8c79f4594e09fbaeb6f07"
+metafile = true
+
+[[files]]
+file = "mods/huge-structure-blocks-fabric-1.1.6.jar.pw.toml"
+hash = "e366538fa36293f85e81a097321aefb42901df8688217e12febff53f5325f88a"
+metafile = true
+
+[[files]]
+file = "mods/Iceberg-1.21.1-fabric-1.3.2.jar.pw.toml"
+hash = "2015c022ed3cc28c0165c7308367cff5e502111a81e20cf646085c62490a3e13"
+metafile = true
+
+[[files]]
+file = "mods/ImmediatelyFast-Fabric-1.6.11+1.21.1.jar.pw.toml"
+hash = "b342009908b1c33d5b241f2043ae694c671334fec0cf069d37f644f3b701082a"
+metafile = true
+
+[[files]]
+file = "mods/immersive_melodies-fabric-0.8.0+1.21.1.jar.pw.toml"
+hash = "7181308ce29c2d857ac749a89f30398576a63920a549935f86f856d882a7cb9d"
+metafile = true
+
+[[files]]
+file = "mods/immersive_paintings-fabric-1.21.1-0.7.9.jar.pw.toml"
+hash = "d246a45d58831eb9d86a7969b5dec66eba3e32f12becda5b1eecee5a60f3fd14"
+metafile = true
+
+[[files]]
+file = "mods/infinite-music-0.4.6.jar.pw.toml"
+hash = "e8b6dc0853f9e3d0dba7220e0465548df5581736b4b00db2021aff374123dee7"
+metafile = true
+
+[[files]]
+file = "mods/interactic-0.2.3+1.21.jar.pw.toml"
+hash = "78c7e70d18d2ae3a78c994487c63bd0abca56028dee411fb7209264bf8c0a8bd"
+metafile = true
+
+[[files]]
+file = "mods/InventoryProfilesNext-fabric-1.21.1-2.2.6.jar.pw.toml"
+hash = "147c7d180b6a0f0ff4bd8e8f74a98611526a57343f66e85303f9d012d36cfeff"
+metafile = true
+
+[[files]]
+file = "mods/iris-fabric-1.8.14-beta.1+mc1.21.1.jar.pw.toml"
+hash = "47c3ea40f26931f9cda9053817140d1c7931a9bb0f67f09419c1418c95ee02f7"
+metafile = true
+
+[[files]]
+file = "mods/Jade-1.21.1-Fabric-15.10.6.jar.pw.toml"
+hash = "6c8c892af03818ad2b14e4dbdf455f8209dc88f4e2e2f60923926bae86c537be"
+metafile = true
+
+[[files]]
+file = "mods/konkrete_fabric_1.9.9_MC_1.21.jar.pw.toml"
+hash = "ecce3bc8bd5428399c7683755a3128780a88390ba4bd6fba9894a0ed8c747f2d"
+metafile = true
+
+[[files]]
+file = "mods/krypton-0.2.8.jar.pw.toml"
+hash = "cb6ebc8c8377dcc31843331ede4963d84c0604f9ac5d565de2a22b6b3d739842"
+metafile = true
+
+[[files]]
+file = "mods/LegendaryMonuments-Cobbleverse.jar.pw.toml"
+hash = "cf43f73a1347ff6c756d5e5fafe38c5ad991108fedfc068d4659ee219b6a9417"
+metafile = true
+[[files]]
+file = "mods/letsdo-beachparty-fabric-2.1.5.jar.pw.toml"
+hash = "540d9121f2affb7a2e9b9f51b134a3cd9c5db41326005a5cd67295c1c48a2aa1"
+metafile = true
+
+[[files]]
+file = "mods/libIPN-fabric-1.21.1-6.6.3.jar.pw.toml"
+hash = "1e49e35ba3b7e5528605a8d4a3bd94393033029ef8269ca43fb449deec7f8e2e"
+metafile = true
+
+[[files]]
+file = "mods/libjf-3.17.5.jar.pw.toml"
+hash = "5aacb9fa7db1ac2d3917a6e5d4d21d7536d9e7db5e9e9a46385dd11d29bcbb06"
+metafile = true
+
+[[files]]
+file = "mods/lithium-fabric-0.15.4+mc1.21.1.jar.pw.toml"
+hash = "4dcad759973dc64ea4dad3cdf0938049a3fda732f1ac76e6120fe63b42047cfa"
+metafile = true
+
+[[files]]
+file = "mods/lootr-fabric-1.21.1-1.11.38.127.jar.pw.toml"
+hash = "1826cbeb571c5065659a1a37388149a00f545ca7c9d84197c1da0a4a76c68fb2"
+metafile = true
+
+[[files]]
+file = "mods/Luckys-Cozyhome-Refurnished-1.1.20.jar.pw.toml"
+hash = "e9681d696351882db10cb4cd12b50d312d680ed2b2c13ab63cab1c9832c69587"
+metafile = true
+
+[[files]]
+file = "mods/LumyMon-0.6.6.jar.pw.toml"
+hash = "5b61980b45f9a1bca058f44c5ced557d8dc74748f5816275d103afd5c511d938"
+metafile = true
+
+[[files]]
+file = "mods/LumyREI-1.1.3.jar.pw.toml"
+hash = "1b380ba58e658b99c2835b80c4ef8cc6973e7d14baecb182a5de2afc330b405d"
+metafile = true
+
+[[files]]
+file = "mods/mcw-bridges-3.1.2-mc1.21.1fabric.jar.pw.toml"
+hash = "7fd1fdb42cb755beed1d3886ef0cc022f7f5d3b3e245445fa42b247a9775af80"
+metafile = true
+
+[[files]]
+file = "mods/mcw-doors-1.1.5-mc1.21.1fabric.jar.pw.toml"
+hash = "5c9a9f990d1dcfe2d038f261825fd4e794aa0a95984ae1d7b79fdc47586e131e"
+metafile = true
+
+[[files]]
+file = "mods/mcw-lights-1.1.5-mc1.21.1fabric.jar.pw.toml"
+hash = "22116d3d9edc7ca7695f45d116e9e332f0d2ea076536b1ae21469e86d7d4e37a"
+metafile = true
+
+[[files]]
+file = "mods/mcw-mcwfences-1.2.1-mc1.21.1fabric.jar.pw.toml"
+hash = "4bdfe2b3c4cf9562a6bddbe83f6ba3148709f02443bc430328b48f8e3ec219f5"
+metafile = true
+
+[[files]]
+file = "mods/mcw-mcwstairs-1.0.2-mc1.21.1fabric.jar.pw.toml"
+hash = "5b6416b3a34ef895a6f7da72d64dc2a90310ea9c326ac239134931f76fdf34c4"
+metafile = true
+
+[[files]]
+file = "mods/mcw-mcwwindows-2.4.2-mc1.21.1fabric.jar.pw.toml"
+hash = "8bdd6b71624b4807765bdc5a30c0de43d9f79e074e5a89eb6c823a58efa063e0"
+metafile = true
+
+[[files]]
+file = "mods/mcw-paths-1.1.2-mc1.21.1fabric.jar.pw.toml"
+hash = "f759716b10ceac7df8a0fc8869e8582aa53fca2c61259e17c7477bb6359872ed"
+metafile = true
+
+[[files]]
+file = "mods/mcw-roofs-2.3.2-mc1.21.1fabric.jar.pw.toml"
+hash = "a9e6faac2361679534af790bdc6fe7202acd3c808c7fc218d8fe0fc4df2394b8"
+metafile = true
+
+[[files]]
+file = "mods/mcw-trapdoors-1.1.5-mc1.21.1fabric.jar.pw.toml"
+hash = "ad815db6fff6317f02e5c49f1782ad1c2072d9ba2a8257ab448c8708bf2b5c17"
+metafile = true
+
+[[files]]
+file = "mods/mega_showdown-fabric-1.8.4+1.7.3+1.21.1.jar.pw.toml"
+hash = "c3371f4b40858c4e3241dd59f91a702262eeef3abc5e46b52ccf1bf339ae8e60"
+metafile = true
+
+[[files]]
+file = "mods/melody_fabric_1.0.10_MC_1.21.jar.pw.toml"
+hash = "70656eb3cba100bb7420b7f1b0e2688dfa75fbbbaf32009af1515891453cd35a"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib-1.7.5-fabric+1.21.1.jar.pw.toml"
+hash = "79b42fff247dc37cb2de57ec946bc216932e09a7f8622a6962587eeddb7406a2"
+metafile = true
+
+[[files]]
+file = "mods/migaja-controls-1.0.0-prueba.jar.pw.toml"
+hash = "4234a1446a27cbee6c8c6a3621bf1f2fd283933f17671f55157c604625eca71f"
+metafile = true
+[[files]]
+file = "mods/moar-concrete-1.3.1.jar.pw.toml"
+hash = "559caf2ea5899cf39417150ed9b1d93c622e542720d2bee4129ca6d97260ef9f"
+metafile = true
+
+[[files]]
+file = "mods/MobsBeGone-0.0.7.jar.pw.toml"
+hash = "6bdd9a84a72064ffc5db063351d9d4505cef20aee8fe25d84997780a3885f2cd"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-fabric-5.25.1+mc1.21.1.jar.pw.toml"
+hash = "716c590a657388222bba3f563ed0b220137dc91cf02726a822268f82ecb89d64"
+metafile = true
+
+[[files]]
+file = "mods/modmenu-11.0.4.jar.pw.toml"
+hash = "093bb9d1479db10f473b532eed8ad20437fa99fe762ae890932a183886abe22c"
+metafile = true
+
+[[files]]
+file = "mods/moonlight-1.21.1-3.7.2-fabric.jar.pw.toml"
+hash = "4ab4fdddf208b97945eb60a908d6f384e6996d011bc12325b826119eae921d36"
+metafile = true
+
+[[files]]
+file = "mods/MoreCobblemonTweaks-fabric-1.3.3.jar.pw.toml"
+hash = "73bfa97bdd05085a00522c0b5bed8e781511781664f3c92aedead9526809b0f0"
+metafile = true
+
+[[files]]
+file = "mods/moreculling-fabric-1.21.1-1.0.8.jar.pw.toml"
+hash = "a522f911a916d6b0c649bcc734fefffe9c17b8205e9ccefc179468ac87dc653a"
+metafile = true
+
+[[files]]
+file = "mods/MouseTweaks-fabric-mc1.21-2.26.jar.pw.toml"
+hash = "d3185358bede51b6338d771efc8739dfe6d3d20f5f3be802a2e5ac5990c9259a"
+metafile = true
+
+[[files]]
+file = "mods/musicnotification-fabric-3.0.0+mc1.21.1.jar.pw.toml"
+hash = "02a9b1273ee8b71847157cf7fe38a6e2279e876d506f3a8023e25f8738b9c32e"
+metafile = true
+
+[[files]]
+file = "mods/neruina-3.3.3+1.21.1-fabric.jar.pw.toml"
+hash = "5ea89e26050aa3492546fa71bff066107f59987a2cd6e540eb428e9e3c2420a3"
+metafile = true
+
+[[files]]
+file = "mods/nethermap-4.0.0-1.21.1.jar.pw.toml"
+hash = "b168ae6eff4e9feac66ab6e7ab1c09dcf5fb5f982de79dbe6e41f8b4e6b73a24"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix-fabric-1.21.1-21.1.3.jar.pw.toml"
+hash = "c6d94b0854c1986d3cdef458b504f32a56a411804aeac79e44c4b8b9acad3194"
+metafile = true
+
+[[files]]
+file = "mods/NoChatRestrictions-Fabric-MC1.21.11-v1.0.0.jar.pw.toml"
+hash = "bff149605ef501e4212b1f4134425dc91685fe8e85f37bc26fdaf5c8191fb3f8"
+metafile = true
+
+[[files]]
+file = "mods/notenoughanimations-fabric-1.12.4-mc1.21.1.jar.pw.toml"
+hash = "b9a85ceaa8b53582035689eef4544887c0cfff9606487af02c613dec489be43b"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes-fabric-4.4.9+1.21.1.jar.pw.toml"
+hash = "5e79d0605949d9b21ae313c13d66f7f66e9aa2947a5f7ccd1eb3420b3cb298de"
+metafile = true
+
+[[files]]
+file = "mods/Only Bottle Caps-1.3.0.jar.pw.toml"
+hash = "a26f5f2ac229bce730808a67dd9bb31e0560990734ce537631b850b1eec5cea7"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib-0.12.15.4+1.21.jar.pw.toml"
+hash = "97ae7cc5b903399a2d320102655197685f4eac69e3897e9748de6aa457c49e57"
+metafile = true
+
+[[files]]
+file = "mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar.pw.toml"
+hash = "c643991bb663765d16595da1113ca174aebef6cda19e9c26379017395418c2af"
+metafile = true
+
+[[files]]
+file = "mods/paginatedadvancements-2.5.1.jar.pw.toml"
+hash = "8cca66ae8c2ec4b17f35f9cae6d4741e90667e37f035de0482278b4761748f50"
+metafile = true
+
+[[files]]
+file = "mods/particle_core-0.3.3+1.21.jar.pw.toml"
+hash = "1157d62e9e41f94c337538638ad1527d0e6534322c64c9ea3e6176e23287a070"
+metafile = true
+
+[[files]]
+file = "mods/particlerain-4.0.0-beta.10+1.21.1-fabric.jar.pw.toml"
+hash = "50cfcafeb0381d9d167dfab777c6761cfc7989d5db44cb7be7d2a31ae735684c"
+metafile = true
+
+[[files]]
+file = "mods/particular-1.21.1-Fabric-1.5.5.jar.pw.toml"
+hash = "fac42956405d7fb21cc67c7f3ea29f4f442e00b7a1ea340239aa5967fb351f0e"
+metafile = true
+
+[[files]]
+file = "mods/pastureLoot-1.0.5+1.21.1.jar.pw.toml"
+hash = "93c385d9caca478923a7fcddf445f57eb8490b193eaaf6579c1c402dc93cb34f"
+metafile = true
+
+[[files]]
+file = "mods/Ping-Wheel-1.12.2-fabric-1.21.1.jar.pw.toml"
+hash = "751463b5b78bf8ba82163b6155a696fc55b509fe484969176cf5dec425c008fd"
+metafile = true
+
+[[files]]
+file = "mods/Platform-fabric-1.21.1-1.3.3.jar.pw.toml"
+hash = "71f29086829bbd4222fe544dafe7fb1884fd7cb8f22cc133b8111e85f2d0f507"
+metafile = true
+
+[[files]]
+file = "mods/playerxp-fabric-1.0.9+1.21.1.jar.pw.toml"
+hash = "06aa1ec17528c9d98970efb1face7df029dcd44a32431fb6b857f050688a1768"
+metafile = true
+
+[[files]]
+file = "mods/pokebelt-0.1.3.jar.pw.toml"
+hash = "7c13e055c91f3fb44f92361daafabc0a32c44d3f8705b74ed891e137277ae9d5"
+metafile = true
+
+[[files]]
+file = "mods/pokeblocks-1.4.0-1.21.1.jar.pw.toml"
+hash = "a8b6468b867561fde36718c5efecf66519e73bb4e3f3fbca35480da0aa307b1d"
+metafile = true
+
+[[files]]
+file = "mods/polymorph-fabric-1.1.0+1.21.1.jar.pw.toml"
+hash = "10ed0dd9b9ca8de8fa709158f4f917eef47596a2da5f736bb453c5041ef792b4"
+metafile = true
+
+[[files]]
+file = "mods/puchamon-gate-1.0.0.jar.pw.toml"
+hash = "d098a4b5f005b96297e166ae830364ec98d0da9d39a0dee608fa2407686c4cdc"
+metafile = true
+
+[[files]]
+file = "mods/puchamon-onboarding-1.0.0.jar.pw.toml"
+hash = "97ea7d78476ebfe8a8b42ef4a691eaae1c234d6ec5c8d6d241402558a3ccc2c2"
+metafile = true
+
+[[files]]
+file = "mods/puchamon-quest-guard-1.0.0.jar.pw.toml"
+hash = "22e9f953f571907d9148ae57a8df04391ea0791dcfc87c16118acbcafffd877d"
+metafile = true
+
+[[files]]
+file = "mods/puchamon-radar-1.0.0.jar.pw.toml"
+hash = "500197f38708864d0157fc883972ebef55d31871359adc5c3628581d17f64de0"
+metafile = true
+
+[[files]]
+file = "mods/puchamon-translations-1.0.1.jar.pw.toml"
+hash = "d522d46661b7f7c5ece829789dc232fc8559fccb2edc2087977b70aa5ab4835a"
+metafile = true
+
+[[files]]
+file = "mods/puchamon-ui-labels-1.0.0.jar.pw.toml"
+hash = "d799061988927b89c0ee09c6298bb0348015d98e455e645f87aa1d3bb2e66357"
+metafile = true
+
+[[files]]
+file = "mods/puchamon-ui-polish-1.0.0.jar.pw.toml"
+hash = "50a039df8c54b6f9dac7ab82826cd2c04b3cecac1729aaf29c9afc67094de565"
+metafile = true
+
+[[files]]
+file = "mods/puzzleslib-v21.1.64-mc1.21.1+fabric.jar.pw.toml"
+hash = "2709846274e3f0973dba8cf310052781a1f3041c726d3f853222a0ea90cd92cf"
+metafile = true
+
+[[files]]
+file = "mods/Quick Skin - Fabric - 1.21.1-3.1.1.jar.pw.toml"
+hash = "4317c0df07864f34cfae6ab182f5fbde4ab47be2f2d184a20af0c4a5f8f98129"
+metafile = true
+
+[[files]]
+file = "mods/rctapi-fabric-1.21.1-0.15.2-beta.jar.pw.toml"
+hash = "6e7201d3a64d6270b1abfe64de6b50e719e6e5611968aecc4bf28859b8d45f4c"
+metafile = true
+
+[[files]]
+file = "mods/rctmod-fabric-1.21.1-0.18.1-beta.jar.pw.toml"
+hash = "ce6671d9ff4add14edbc44b4bcda9a7176df952029d6f23d8f5a5d15a151d6b4"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled-1.2.4-fabric-mc1.21.jar.pw.toml"
+hash = "a241ba714ee381667a028b0838a8c36895f09d0d2424dcacf400b9e9c920cdb2"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options-fabric-2.2.3+mc1.21.1.jar.pw.toml"
+hash = "70ee762f6c8e55adeb7e27f164cc26c24ed3641683053f8eaee3ae2ab02cb185"
+metafile = true
+
+[[files]]
+file = "mods/repurposed_structures-7.5.21+1.21.1-fabric.jar.pw.toml"
+hash = "de94c9b61775ffa21678eecdf28b3959983851cf04017b185233567b2eac3c59"
+metafile = true
+
+[[files]]
+file = "mods/resourcefullib-fabric-1.21-3.0.12.jar.pw.toml"
+hash = "891ca58800f3ab20e16521667bc76ce51108ca49d7bb74b64062d207b2b27491"
+metafile = true
+
+[[files]]
+file = "mods/ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar.pw.toml"
+hash = "4424665821ae897981caca61b92935c746a09d647f88c37179a4ea28f332ef89"
+metafile = true
+
+[[files]]
+file = "mods/respackopts-4.14.0+1.21.1.4.jar.pw.toml"
+hash = "464b512e2444ea52d41f7e152d18a2a7d154867a871081a78364a7442ec90e3a"
+metafile = true
+
+[[files]]
+file = "mods/RoughlyEnoughItems-16.0.799-fabric.jar.pw.toml"
+hash = "6f6496b1bf66278d981eb3b18643f3bbdb98123d0b98fb9f3e4131ee1c447713"
+metafile = true
+
+[[files]]
+file = "mods/SafePastures-1.1.1+1.21.1.jar.pw.toml"
+hash = "2023872550f469f7301c63c22fc8f9bbee05a32072dbcec9a8425499cac69d16"
+metafile = true
+
+[[files]]
+file = "mods/ScalableLux-0.1.0.1+fabric.d0d58ab-all.jar.pw.toml"
+hash = "4f7b7dfb25a07eadc6d2790383b67effa90d10c950ba105701bcdebbbbafb62c"
+metafile = true
+
+[[files]]
+file = "mods/Searchables-fabric-1.21.1-1.0.2.jar.pw.toml"
+hash = "519357b86cd23dcb035df2fd0d1a0db3716f38c26556d143c7d81e3a1f67eb35"
+metafile = true
+
+[[files]]
+file = "mods/skinlayers3d-fabric-1.11.3-mc1.21.1.jar.pw.toml"
+hash = "178890b5a9f5155d89910a72f2b9b56058996ef09b3494449480f0b3f6a1bdfa"
+metafile = true
+
+[[files]]
+file = "mods/sodium-fabric-0.8.12+mc1.21.1.jar.pw.toml"
+hash = "9bc50e15af375df724d539baea5e973151793c6a6e23a59af55cd5fff667b01d"
+metafile = true
+
+[[files]]
+file = "mods/sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar.pw.toml"
+hash = "5b9070ef30923a7ea372c60ecbf8e0e7eab86aa92f286fe01136fef6df378671"
+metafile = true
+
+[[files]]
+file = "mods/sophisticatedcore-1.21.1-1.2.9.21.168.jar.pw.toml"
+hash = "02baaf9dc7db63c16015bca979e9ec952ef7ad80d45b32d6920a4c6d6f1c2131"
+metafile = true
+
+[[files]]
+file = "mods/sophisticatedstorage-1.21.1-1.3.7.9.139.jar.pw.toml"
+hash = "52b2b903919dddc1cb897e15dd3373b0be9677cadf5c089ccf48f1f7686a362b"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered-fabric-1.21.1-1.5.1.jar.pw.toml"
+hash = "f6d6d906a661d275c156782f8b14c8e263aeb09c12a7d44805d1519f50db9296"
+metafile = true
+
+[[files]]
+file = "mods/soundcontroller-1.2.3-mc1.20.5.jar.pw.toml"
+hash = "9c10fd702c226bcd1e33b85a11b6f478c3dbadad4f716b86767d66914977d255"
+metafile = true
+
+[[files]]
+file = "mods/soundsbegone-fabric-1.5.2+mc1.21.jar.pw.toml"
+hash = "dbbf3313683813a45058bc72856ced448e53090fce1266c002516192ebdb3385"
+metafile = true
+
+[[files]]
+file = "mods/StackDeobfuscatorFabric-1.4.3+08e71cc.jar.pw.toml"
+hash = "fd93defa1bb3c345c930ecafc2577f0622ec239716e125ac085e7a8ee07c3ab0"
+metafile = true
+
+[[files]]
+file = "mods/Stoneworks-v21.1.0-1.21.1-Fabric.jar.pw.toml"
+hash = "464516733863310971ab572195e43fd9862ed619eb68168b07a9fe51528e8d9f"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642configlib-1.1.8-fabric-mc1.21.jar.pw.toml"
+hash = "3acc69f94e9e35b466c23cd2ced14b92e86fa1d7664c2c947bfacad18571a3d9"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642corelib-1.1.21-fabric-mc1.21.jar.pw.toml"
+hash = "2446b8d8a67151e345df738b7acd2ae052a6a5a4f54880054ffb0e1b830ce9db"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries-1.21.1-4.0.2-fabric.jar.pw.toml"
+hash = "0c38e2f671810a85a04646863c56219b4c8e8e76f23735c2b54cf02d6b0dfc3b"
+metafile = true
+
+[[files]]
+file = "mods/timcore-fabric-1.7.3-1.32.0.jar.pw.toml"
+hash = "6ea66f7fb2936de79d4fe51657763da9ced66739e524be039eec193c14e1c8dc"
+metafile = true
+
+[[files]]
+file = "mods/tmcraft-1.4.18+1.7.3.jar.pw.toml"
+hash = "fb7cc004c3992382d6dedf8f49fd1aa392a3f412846c0ea80f88cc697c562762"
+metafile = true
+
+[[files]]
+file = "mods/toms_storage_fabric-1.21-2.3.0.jar.pw.toml"
+hash = "af38181004b7f4aaa487eff7484e64fd114662c754a4440a9ca8d3f7fb8c64bf"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix-1.1.1-1.20.jar.pw.toml"
+hash = "7bb655cdbf93e794d5c5e9f50730abf40631c4fe8c388e9ceee22d060f72167e"
+metafile = true
+
+[[files]]
+file = "mods/trashslot-fabric-1.21.1-21.1.11.jar.pw.toml"
+hash = "e48d98a08ad67503682aa5c7bd9c734e1b795b3f5ff60bfce8d54ae168066775"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-3.10.0.jar.pw.toml"
+hash = "d8c44ab60536bc394fbe097dde9455f51211a85ccfd052f28a33e7b6014c0ffb"
+metafile = true
+
+[[files]]
+file = "mods/VanillaBackport-fabric-1.21.1-1.1.7.10.jar.pw.toml"
+hash = "bdc3cecf03e30d0bf926bd3c1c6d9dba1c0ceb14bb01f58e141770b8b91f505b"
+metafile = true
+
+[[files]]
+file = "mods/villagerconfig-fabric-4.5.4+1.21.1.jar.pw.toml"
+hash = "169e0d48838b618b7944bb2e886ac7c32020fa5abb816a8429d99a909ff9b3be"
+metafile = true
+
+[[files]]
+file = "mods/voicechat-fabric-1.21.1-2.6.22.jar.pw.toml"
+hash = "e27f5b0f333e07b2b200e0c1c130a33be22ce9657d21044a8534ef8bd5eb95d5"
+metafile = true
+
+[[files]]
+file = "mods/waystones-fabric-1.21.1-21.1.37.jar.pw.toml"
+hash = "d79c924c1e18c277154a3230653332060555e784e589930dff5ae07d46c0eb27"
+metafile = true
+
+[[files]]
+file = "mods/xaerominimap-fabric-1.21.1-26.6.0.jar.pw.toml"
+hash = "1047be3d828aebdaac2eecbd9c2e5c1e0aaaf0602d7ed02eff75358df24b2692"
+metafile = true
+
+[[files]]
+file = "mods/xaeroworldmap-fabric-1.21.1-1.47.0.jar.pw.toml"
+hash = "0d15e28e99ceec5bee0698f09dcd3d8510aeeb3722ffdf140be8de4c482b7aca"
+metafile = true
+
+[[files]]
+file = "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar.pw.toml"
+hash = "c86805b603720b84d72109ffbd0c69800e780d41167588b00d8395ccb70f180d"
+metafile = true
+
+[[files]]
+file = "mods/zamega-fabric-1.7.3.jar.pw.toml"
+hash = "30f4da5fa37cc6ed15e9c42f1ec444ea346e77fd293c302ae2dd409e49e629e3"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise-1.0.13+1.21.jar.pw.toml"
+hash = "0bcc0c7d2e7947b19554e844e52ecf73bd29d181901b4f2dd16e773ab7d08576"
+metafile = true
+
+[[files]]
+file = "mods/zoomify-2.15.2+1.21.1.jar.pw.toml"
+hash = "967c82ac9cf8eec70e727f121b2f006f0b379dc1c92d9474456f1d904361fded"
+metafile = true
+
+[[files]]
+file = "puchamon/launcher-protocol-v2.json"
+hash = "af0c12de50d1cbf91009230831d27423479f3c4c5df98d8c6ed99b038ecee8ce"
+metafile = false
+
+[[files]]
+file = "config/ftbquests/quests/chapters/7818000000000001.snbt"
+hash = "fad24be1352eea714ed85f965b663c896777921eafb5ad6c12be01875e7aa600"
+metafile = false
+
+[[files]]
+file = "config/ftbquests/quests/chapters/7818000000000010.snbt"
+hash = "d463cdf135c675032409fd3a864bb577da389e58432674faf6d8bed53b0ad745"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Guia-V2/data/migaja_guia/advancement/fabricar_base_pokebelt.json"
+hash = "f55c24cc8127ce1b267cc030e25e9c62ad769950888e4317365f405ff8904b02"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Guia-V2/data/migaja_guia/advancement/fabricar_great_pokebelt.json"
+hash = "3fe8421c73e4b0152ac7e1ce26604ee4ac88938d65c8283b67dc3c1e99143b1b"
+metafile = false
+
+[[files]]
+file = "datapacks/Puchamon-Guia-V2/data/migaja_guia/advancement/fabricar_ultra_pokebelt.json"
+hash = "a2c74bb27f9da6a48ddbc2696b2b1576929129db70940834a79a60cecee3b0d1"
+metafile = false
+
+[[files]]
+file = "mods/youre-in-grave-danger-fabric-2.4.18.jar.pw.toml"
+hash = "417f496f570fa35569d6e75f9cb3743b1239a2f6d337e42a3c01e379f50ecdd0"
+metafile = true
+
+[[files]]
+file = "mods/migaja-skin-bridge-1.0.5.jar.pw.toml"
+hash = "e1cab0c5dbbea25687451e75bfc12bd019dbd158afd5d4fb886a1a8ad3638ff2"
+metafile = true
+
+[[files]]
+file = "config/yigd.json"
+hash = "a4d8813226d9753bf3cf7a2c33a9a0ae9134be801b6bc0ebda1efd2427acbfa7"
+metafile = false

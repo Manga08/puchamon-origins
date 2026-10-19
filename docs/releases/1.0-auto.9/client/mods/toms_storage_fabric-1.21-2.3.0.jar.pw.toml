@@ -1,0 +1,8 @@
+name = "toms_storage_fabric-1.21-2.3.0.jar"
+filename = "toms_storage_fabric-1.21-2.3.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XZNI4Cpy/versions/GwLz79tK/toms_storage_fabric-1.21-2.3.0.jar"
+hash-format = "sha256"
+hash = "fad39f7ed0ac20ab0345aeb7dbe1be0b2732fa11fd333b6874629e925c45d5d1"

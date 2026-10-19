@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"puchamon_friends","version":"1.0.2","name":"Puchamon Friends","environment":"server","entrypoints":{"main":["local.puchamon.friends.Friends"]},"mixins":["puchamon-friends.mixins.json"],"depends":{"minecraft":"1.21.1","fabricloader":">=0.16.5","fabric-api":"*","essential_commands":"0.35.2-mc1.21","easyauth":"3.4.4"}}

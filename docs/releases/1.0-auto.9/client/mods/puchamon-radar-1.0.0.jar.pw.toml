@@ -1,0 +1,8 @@
+name = "puchamon-radar-1.0.0.jar"
+filename = "puchamon-radar-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://manga08.github.io/puchamon-origins/releases/1.0-auto.1/blobs/61908748f08a7d6cc43617ae170630d93672e69eb2236058ff1c68e49408181e.jar"
+hash-format = "sha256"
+hash = "61908748f08a7d6cc43617ae170630d93672e69eb2236058ff1c68e49408181e"

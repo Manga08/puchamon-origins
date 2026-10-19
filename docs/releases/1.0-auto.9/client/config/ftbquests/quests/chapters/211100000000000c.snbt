@@ -1,0 +1,1307 @@
+{
+  "autofocus_id": "2211000000000308",
+  "default_hide_dependency_lines": false,
+  "default_min_width": 220,
+  "default_quest_shape": "rsquare",
+  "filename": "211100000000000c",
+  "group": "6111000000000002",
+  "icon": {
+    "id": "cobblemon:ancient_origin_ball"
+  },
+  "id": "211100000000000C",
+  "images": [],
+  "order_index": 6,
+  "quest_links": [],
+  "quests": [
+    {
+      "dependencies": [
+        "221100000000001A"
+      ],
+      "icon": {
+        "id": "minecraft:ender_eye"
+      },
+      "id": "2211000000000308",
+      "optional": true,
+      "shape": "gear",
+      "tasks": [
+        {
+          "id": "3111000000000309",
+          "type": "checkmark"
+        }
+      ],
+      "x": 4,
+      "y": 0,
+      "rewards": []
+    },
+    {
+      "icon": {
+        "id": "cobblemon:ultra_ball"
+      },
+      "id": "2211000000000211",
+      "rewards": [
+        {
+          "id": "4111000000000213",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:ultra_ball",
+            "count": 1
+          },
+          "count": 10,
+          "team_reward": false,
+          "auto": "disabled"
+        },
+        {
+          "id": "7507000000000094",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:max_revive",
+            "count": 1
+          },
+          "count": 2,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "advancement": "migaja_guia:legendario_mew",
+          "criterion": "",
+          "id": "3111000000000212",
+          "type": "advancement"
+        }
+      ],
+      "x": 0,
+      "y": 4,
+      "repeatable": false
+    },
+    {
+      "icon": {
+        "id": "cobblemon:ultra_ball"
+      },
+      "id": "2211000000000214",
+      "rewards": [
+        {
+          "id": "4111000000000216",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:ultra_ball",
+            "count": 1
+          },
+          "count": 12,
+          "team_reward": false,
+          "auto": "disabled"
+        },
+        {
+          "id": "7507000000000095",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:max_revive",
+            "count": 1
+          },
+          "count": 3,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "advancement": "migaja_guia:legendario_mewtwo",
+          "criterion": "",
+          "id": "3111000000000215",
+          "type": "advancement"
+        }
+      ],
+      "x": 0,
+      "y": 7,
+      "repeatable": false
+    },
+    {
+      "icon": {
+        "id": "cobblemon:ultra_ball"
+      },
+      "id": "2211000000000217",
+      "rewards": [
+        {
+          "id": "4111000000000219",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:ultra_ball",
+            "count": 1
+          },
+          "count": 8,
+          "team_reward": false,
+          "auto": "disabled"
+        },
+        {
+          "id": "7507000000000096",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:max_revive",
+            "count": 1
+          },
+          "count": 1,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "advancement": "migaja_guia:legendario_articuno",
+          "criterion": "",
+          "id": "3111000000000218",
+          "type": "advancement"
+        }
+      ],
+      "x": 0,
+      "y": 10,
+      "repeatable": false
+    },
+    {
+      "icon": {
+        "id": "cobblemon:ultra_ball"
+      },
+      "id": "221100000000021A",
+      "rewards": [
+        {
+          "id": "411100000000021C",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:ultra_ball",
+            "count": 1
+          },
+          "count": 8,
+          "team_reward": false,
+          "auto": "disabled"
+        },
+        {
+          "id": "7507000000000097",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:max_revive",
+            "count": 1
+          },
+          "count": 1,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "advancement": "migaja_guia:legendario_zapdos",
+          "criterion": "",
+          "id": "311100000000021B",
+          "type": "advancement"
+        }
+      ],
+      "x": 0,
+      "y": 13,
+      "repeatable": false
+    },
+    {
+      "icon": {
+        "id": "cobblemon:ultra_ball"
+      },
+      "id": "221100000000021D",
+      "rewards": [
+        {
+          "id": "411100000000021F",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:ultra_ball",
+            "count": 1
+          },
+          "count": 8,
+          "team_reward": false,
+          "auto": "disabled"
+        },
+        {
+          "id": "7507000000000098",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:max_revive",
+            "count": 1
+          },
+          "count": 1,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "advancement": "migaja_guia:legendario_moltres",
+          "criterion": "",
+          "id": "311100000000021E",
+          "type": "advancement"
+        }
+      ],
+      "x": 0,
+      "y": 16,
+      "repeatable": false
+    },
+    {
+      "icon": {
+        "id": "cobblemon:ultra_ball"
+      },
+      "id": "2211000000000220",
+      "rewards": [
+        {
+          "id": "4111000000000222",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:ultra_ball",
+            "count": 1
+          },
+          "count": 10,
+          "team_reward": false,
+          "auto": "disabled"
+        },
+        {
+          "id": "7507000000000099",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:max_revive",
+            "count": 1
+          },
+          "count": 2,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "advancement": "migaja_guia:legendario_hooh",
+          "criterion": "",
+          "id": "3111000000000221",
+          "type": "advancement"
+        }
+      ],
+      "x": 4,
+      "y": 4,
+      "repeatable": false
+    },
+    {
+      "icon": {
+        "id": "cobblemon:ultra_ball"
+      },
+      "id": "2211000000000223",
+      "rewards": [
+        {
+          "id": "4111000000000225",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:ultra_ball",
+            "count": 1
+          },
+          "count": 10,
+          "team_reward": false,
+          "auto": "disabled"
+        },
+        {
+          "id": "750700000000009A",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:max_revive",
+            "count": 1
+          },
+          "count": 2,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "advancement": "migaja_guia:legendario_lugia",
+          "criterion": "",
+          "id": "3111000000000224",
+          "type": "advancement"
+        }
+      ],
+      "x": 4,
+      "y": 7,
+      "repeatable": false
+    },
+    {
+      "icon": {
+        "id": "cobblemon:ultra_ball"
+      },
+      "id": "2211000000000226",
+      "rewards": [
+        {
+          "id": "4111000000000228",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:ultra_ball",
+            "count": 1
+          },
+          "count": 10,
+          "team_reward": false,
+          "auto": "disabled"
+        },
+        {
+          "id": "750700000000009B",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:max_revive",
+            "count": 1
+          },
+          "count": 2,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "advancement": "migaja_guia:legendario_celebi",
+          "criterion": "",
+          "id": "3111000000000227",
+          "type": "advancement"
+        }
+      ],
+      "x": 4,
+      "y": 10,
+      "repeatable": false
+    },
+    {
+      "dependencies": [
+        "221100000000030A"
+      ],
+      "icon": {
+        "id": "cobblemon:ultra_ball"
+      },
+      "id": "2211000000000229",
+      "rewards": [
+        {
+          "id": "411100000000022B",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:ultra_ball",
+            "count": 1
+          },
+          "count": 12,
+          "team_reward": false,
+          "auto": "disabled"
+        },
+        {
+          "id": "750700000000009C",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:max_revive",
+            "count": 1
+          },
+          "count": 3,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "advancement": "migaja_guia:legendario_kyogre",
+          "criterion": "",
+          "id": "311100000000022A",
+          "type": "advancement"
+        }
+      ],
+      "x": 8,
+      "y": 7,
+      "repeatable": false
+    },
+    {
+      "dependencies": [
+        "221100000000030D"
+      ],
+      "icon": {
+        "id": "cobblemon:ultra_ball"
+      },
+      "id": "221100000000022C",
+      "rewards": [
+        {
+          "id": "411100000000022E",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:ultra_ball",
+            "count": 1
+          },
+          "count": 12,
+          "team_reward": false,
+          "auto": "disabled"
+        },
+        {
+          "id": "750700000000009D",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:max_revive",
+            "count": 1
+          },
+          "count": 3,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "advancement": "migaja_guia:legendario_groudon",
+          "criterion": "",
+          "id": "311100000000022D",
+          "type": "advancement"
+        }
+      ],
+      "x": 8,
+      "y": 13,
+      "repeatable": false
+    },
+    {
+      "dependencies": [
+        "2211000000000310"
+      ],
+      "icon": {
+        "id": "cobblemon:ultra_ball"
+      },
+      "id": "221100000000022F",
+      "rewards": [
+        {
+          "id": "4111000000000231",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:ultra_ball",
+            "count": 1
+          },
+          "count": 12,
+          "team_reward": false,
+          "auto": "disabled"
+        },
+        {
+          "id": "750700000000009E",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:max_revive",
+            "count": 1
+          },
+          "count": 3,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "advancement": "migaja_guia:legendario_rayquaza",
+          "criterion": "",
+          "id": "3111000000000230",
+          "type": "advancement"
+        }
+      ],
+      "x": 8,
+      "y": 19,
+      "repeatable": false
+    },
+    {
+      "icon": {
+        "id": "cobblemon:ultra_ball"
+      },
+      "id": "2211000000000232",
+      "rewards": [
+        {
+          "id": "4111000000000234",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:ultra_ball",
+            "count": 1
+          },
+          "count": 8,
+          "team_reward": false,
+          "auto": "disabled"
+        },
+        {
+          "id": "750700000000009F",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:max_revive",
+            "count": 1
+          },
+          "count": 1,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "advancement": "migaja_guia:legendario_latias",
+          "criterion": "",
+          "id": "3111000000000233",
+          "type": "advancement"
+        }
+      ],
+      "x": 8,
+      "y": 22,
+      "repeatable": false
+    },
+    {
+      "icon": {
+        "id": "cobblemon:ultra_ball"
+      },
+      "id": "2211000000000235",
+      "rewards": [
+        {
+          "id": "4111000000000237",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:ultra_ball",
+            "count": 1
+          },
+          "count": 8,
+          "team_reward": false,
+          "auto": "disabled"
+        },
+        {
+          "id": "75070000000000A0",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:max_revive",
+            "count": 1
+          },
+          "count": 1,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "advancement": "migaja_guia:legendario_latios",
+          "criterion": "",
+          "id": "3111000000000236",
+          "type": "advancement"
+        }
+      ],
+      "x": 8,
+      "y": 25,
+      "repeatable": false
+    },
+    {
+      "icon": {
+        "id": "cobblemon:ultra_ball"
+      },
+      "id": "2211000000000238",
+      "rewards": [
+        {
+          "id": "411100000000023A",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:ultra_ball",
+            "count": 1
+          },
+          "count": 10,
+          "team_reward": false,
+          "auto": "disabled"
+        },
+        {
+          "id": "75070000000000A1",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:max_revive",
+            "count": 1
+          },
+          "count": 2,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "advancement": "migaja_guia:legendario_jirachi",
+          "criterion": "",
+          "id": "3111000000000239",
+          "type": "advancement"
+        }
+      ],
+      "x": 8,
+      "y": 28,
+      "repeatable": false
+    },
+    {
+      "icon": {
+        "id": "cobblemon:ultra_ball"
+      },
+      "id": "221100000000023B",
+      "rewards": [
+        {
+          "id": "411100000000023D",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:ultra_ball",
+            "count": 1
+          },
+          "count": 10,
+          "team_reward": false,
+          "auto": "disabled"
+        },
+        {
+          "id": "75070000000000A2",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:max_revive",
+            "count": 1
+          },
+          "count": 2,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "advancement": "migaja_guia:legendario_deoxys",
+          "criterion": "",
+          "id": "311100000000023C",
+          "type": "advancement"
+        }
+      ],
+      "x": 8,
+      "y": 31,
+      "repeatable": false
+    },
+    {
+      "icon": {
+        "id": "cobblemon:ultra_ball"
+      },
+      "id": "221100000000023E",
+      "rewards": [
+        {
+          "id": "4111000000000240",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:ultra_ball",
+            "count": 1
+          },
+          "count": 8,
+          "team_reward": false,
+          "auto": "disabled"
+        },
+        {
+          "id": "75070000000000A3",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:max_revive",
+            "count": 1
+          },
+          "count": 1,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "advancement": "migaja_guia:legendario_regirock",
+          "criterion": "",
+          "id": "311100000000023F",
+          "type": "advancement"
+        }
+      ],
+      "x": 8,
+      "y": 34,
+      "repeatable": false
+    },
+    {
+      "icon": {
+        "id": "cobblemon:ultra_ball"
+      },
+      "id": "2211000000000241",
+      "rewards": [
+        {
+          "id": "4111000000000243",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:ultra_ball",
+            "count": 1
+          },
+          "count": 8,
+          "team_reward": false,
+          "auto": "disabled"
+        },
+        {
+          "id": "75070000000000A4",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:max_revive",
+            "count": 1
+          },
+          "count": 1,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "advancement": "migaja_guia:legendario_regice",
+          "criterion": "",
+          "id": "3111000000000242",
+          "type": "advancement"
+        }
+      ],
+      "x": 8,
+      "y": 37,
+      "repeatable": false
+    },
+    {
+      "icon": {
+        "id": "cobblemon:ultra_ball"
+      },
+      "id": "2211000000000244",
+      "rewards": [
+        {
+          "id": "4111000000000246",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:ultra_ball",
+            "count": 1
+          },
+          "count": 8,
+          "team_reward": false,
+          "auto": "disabled"
+        },
+        {
+          "id": "75070000000000A5",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:max_revive",
+            "count": 1
+          },
+          "count": 1,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "advancement": "migaja_guia:legendario_registeel",
+          "criterion": "",
+          "id": "3111000000000245",
+          "type": "advancement"
+        }
+      ],
+      "x": 8,
+      "y": 40,
+      "repeatable": false
+    },
+    {
+      "dependencies": [
+        "2211000000000313"
+      ],
+      "icon": {
+        "id": "cobblemon:ultra_ball"
+      },
+      "id": "2211000000000247",
+      "rewards": [
+        {
+          "id": "4111000000000249",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:ultra_ball",
+            "count": 1
+          },
+          "count": 12,
+          "team_reward": false,
+          "auto": "disabled"
+        },
+        {
+          "id": "75070000000000A6",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:max_revive",
+            "count": 1
+          },
+          "count": 3,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "advancement": "migaja_guia:legendario_dialga",
+          "criterion": "",
+          "id": "3111000000000248",
+          "type": "advancement"
+        }
+      ],
+      "x": 12,
+      "y": 7,
+      "repeatable": false
+    },
+    {
+      "dependencies": [
+        "2211000000000316"
+      ],
+      "icon": {
+        "id": "cobblemon:ultra_ball"
+      },
+      "id": "221100000000024A",
+      "rewards": [
+        {
+          "id": "411100000000024C",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:ultra_ball",
+            "count": 1
+          },
+          "count": 12,
+          "team_reward": false,
+          "auto": "disabled"
+        },
+        {
+          "id": "75070000000000A7",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:max_revive",
+            "count": 1
+          },
+          "count": 3,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "advancement": "migaja_guia:legendario_palkia",
+          "criterion": "",
+          "id": "311100000000024B",
+          "type": "advancement"
+        }
+      ],
+      "x": 12,
+      "y": 13,
+      "repeatable": false
+    },
+    {
+      "icon": {
+        "id": "cobblemon:ultra_ball"
+      },
+      "id": "221100000000024D",
+      "rewards": [
+        {
+          "id": "411100000000024F",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:ultra_ball",
+            "count": 1
+          },
+          "count": 12,
+          "team_reward": false,
+          "auto": "disabled"
+        },
+        {
+          "id": "75070000000000A8",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:max_revive",
+            "count": 1
+          },
+          "count": 3,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "advancement": "migaja_guia:legendario_giratina",
+          "criterion": "",
+          "id": "311100000000024E",
+          "type": "advancement"
+        }
+      ],
+      "x": 12,
+      "y": 16,
+      "repeatable": false
+    },
+    {
+      "dependencies": [
+        "2211000000000319"
+      ],
+      "icon": {
+        "id": "cobblemon:ultra_ball"
+      },
+      "id": "2211000000000250",
+      "rewards": [
+        {
+          "id": "4111000000000252",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:ultra_ball",
+            "count": 1
+          },
+          "count": 8,
+          "team_reward": false,
+          "auto": "disabled"
+        },
+        {
+          "id": "75070000000000A9",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:max_revive",
+            "count": 1
+          },
+          "count": 1,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "advancement": "migaja_guia:legendario_cresselia",
+          "criterion": "",
+          "id": "3111000000000251",
+          "type": "advancement"
+        }
+      ],
+      "x": 12,
+      "y": 22,
+      "repeatable": false
+    },
+    {
+      "dependencies": [
+        "221100000000031C"
+      ],
+      "icon": {
+        "id": "cobblemon:ultra_ball"
+      },
+      "id": "2211000000000253",
+      "rewards": [
+        {
+          "id": "4111000000000255",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:ultra_ball",
+            "count": 1
+          },
+          "count": 8,
+          "team_reward": false,
+          "auto": "disabled"
+        },
+        {
+          "id": "75070000000000AA",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:max_revive",
+            "count": 1
+          },
+          "count": 1,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "advancement": "migaja_guia:legendario_heatran",
+          "criterion": "",
+          "id": "3111000000000254",
+          "type": "advancement"
+        }
+      ],
+      "x": 12,
+      "y": 28,
+      "repeatable": false
+    },
+    {
+      "dependencies": [
+        "221100000000031F"
+      ],
+      "icon": {
+        "id": "cobblemon:ultra_ball"
+      },
+      "id": "2211000000000256",
+      "rewards": [
+        {
+          "id": "4111000000000258",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:ultra_ball",
+            "count": 1
+          },
+          "count": 10,
+          "team_reward": false,
+          "auto": "disabled"
+        },
+        {
+          "id": "75070000000000AB",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:max_revive",
+            "count": 1
+          },
+          "count": 2,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "advancement": "migaja_guia:legendario_darkrai",
+          "criterion": "",
+          "id": "3111000000000257",
+          "type": "advancement"
+        }
+      ],
+      "x": 12,
+      "y": 34,
+      "repeatable": false
+    },
+    {
+      "dependencies": [
+        "2211000000000322"
+      ],
+      "icon": {
+        "id": "cobblemon:ultra_ball"
+      },
+      "id": "2211000000000259",
+      "rewards": [
+        {
+          "id": "411100000000025B",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:ultra_ball",
+            "count": 1
+          },
+          "count": 24,
+          "team_reward": false,
+          "auto": "disabled"
+        },
+        {
+          "id": "75070000000000AC",
+          "type": "item",
+          "item": {
+            "id": "cobblemon:max_revive",
+            "count": 1
+          },
+          "count": 4,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "shape": "hexagon",
+      "size": 1.3,
+      "tasks": [
+        {
+          "advancement": "migaja_guia:legendario_arceus",
+          "criterion": "",
+          "id": "311100000000025A",
+          "type": "advancement"
+        }
+      ],
+      "x": 12,
+      "y": 40,
+      "repeatable": false
+    },
+    {
+      "icon": {
+        "id": "lumymon:ocean_core"
+      },
+      "id": "221100000000030A",
+      "rewards": [],
+      "tasks": [
+        {
+          "consume_items": false,
+          "id": "311100000000030B",
+          "item": {
+            "count": 1,
+            "id": "lumymon:ocean_core"
+          },
+          "type": "item"
+        }
+      ],
+      "x": 8,
+      "y": 4
+    },
+    {
+      "icon": {
+        "id": "lumymon:earth_core"
+      },
+      "id": "221100000000030D",
+      "rewards": [],
+      "tasks": [
+        {
+          "consume_items": false,
+          "id": "311100000000030E",
+          "item": {
+            "count": 1,
+            "id": "lumymon:earth_core"
+          },
+          "type": "item"
+        }
+      ],
+      "x": 8,
+      "y": 10
+    },
+    {
+      "icon": {
+        "id": "lumymon:sky_core"
+      },
+      "id": "2211000000000310",
+      "rewards": [],
+      "tasks": [
+        {
+          "consume_items": false,
+          "id": "3111000000000311",
+          "item": {
+            "count": 1,
+            "id": "lumymon:sky_core"
+          },
+          "type": "item"
+        }
+      ],
+      "x": 8,
+      "y": 16
+    },
+    {
+      "icon": {
+        "id": "lumymon:red_chain"
+      },
+      "id": "2211000000000313",
+      "rewards": [],
+      "tasks": [
+        {
+          "consume_items": false,
+          "id": "3111000000000314",
+          "item": {
+            "count": 1,
+            "id": "lumymon:red_chain"
+          },
+          "type": "item"
+        }
+      ],
+      "x": 12,
+      "y": 4
+    },
+    {
+      "icon": {
+        "id": "lumymon:red_chain"
+      },
+      "id": "2211000000000316",
+      "rewards": [],
+      "tasks": [
+        {
+          "consume_items": false,
+          "id": "3111000000000317",
+          "item": {
+            "count": 1,
+            "id": "lumymon:red_chain"
+          },
+          "type": "item"
+        }
+      ],
+      "x": 12,
+      "y": 10
+    },
+    {
+      "icon": {
+        "id": "lumymon:dream_catcher"
+      },
+      "id": "2211000000000319",
+      "rewards": [],
+      "tasks": [
+        {
+          "consume_items": false,
+          "id": "311100000000031A",
+          "item": {
+            "count": 1,
+            "id": "lumymon:dream_catcher"
+          },
+          "type": "item"
+        }
+      ],
+      "x": 12,
+      "y": 19
+    },
+    {
+      "icon": {
+        "id": "lumymon:magmatic_cluster"
+      },
+      "id": "221100000000031C",
+      "rewards": [],
+      "tasks": [
+        {
+          "consume_items": false,
+          "id": "311100000000031D",
+          "item": {
+            "count": 1,
+            "id": "lumymon:magmatic_cluster"
+          },
+          "type": "item"
+        }
+      ],
+      "x": 12,
+      "y": 25
+    },
+    {
+      "icon": {
+        "id": "lumymon:nightmare_weaver"
+      },
+      "id": "221100000000031F",
+      "rewards": [],
+      "tasks": [
+        {
+          "consume_items": false,
+          "id": "3111000000000320",
+          "item": {
+            "count": 1,
+            "id": "lumymon:nightmare_weaver"
+          },
+          "type": "item"
+        }
+      ],
+      "x": 12,
+      "y": 31
+    },
+    {
+      "icon": {
+        "id": "lumymon:azure_flute"
+      },
+      "id": "2211000000000322",
+      "rewards": [],
+      "tasks": [
+        {
+          "consume_items": false,
+          "id": "3111000000000323",
+          "item": {
+            "count": 1,
+            "id": "lumymon:azure_flute"
+          },
+          "type": "item"
+        }
+      ],
+      "x": 12,
+      "y": 37
+    },
+    {
+      "id": "73070000000000EB",
+      "tasks": [
+        {
+          "id": "74070000000000EC",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "shape": "gear",
+      "icon": {
+        "id": "minecraft:knowledge_book"
+      },
+      "rewards": [],
+      "x": 0,
+      "y": 44,
+      "size": 1
+    },
+    {
+      "id": "73070000000000ED",
+      "tasks": [
+        {
+          "id": "74070000000000EE",
+          "type": "checkmark"
+        }
+      ],
+      "optional": true,
+      "shape": "gear",
+      "icon": {
+        "id": "minecraft:knowledge_book"
+      },
+      "rewards": [],
+      "x": 4,
+      "y": 44,
+      "size": 1
+    }
+  ]
+}
