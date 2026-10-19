@@ -1,0 +1,518 @@
+{
+  "autofocus_id": "2211000000000146",
+  "default_hide_dependency_lines": false,
+  "default_min_width": 220,
+  "default_quest_shape": "rsquare",
+  "filename": "2111000000000009",
+  "group": "6111000000000003",
+  "icon": {
+    "id": "minecraft:bricks"
+  },
+  "id": "2111000000000009",
+  "images": [],
+  "order_index": 0,
+  "quest_links": [],
+  "quests": [
+    {
+      "dependencies": [
+        "2211000000000008"
+      ],
+      "icon": {
+        "id": "minecraft:crafting_table"
+      },
+      "id": "2211000000000146",
+      "rewards": [
+        {
+          "id": "4111000000000145",
+          "type": "item",
+          "item": {
+            "id": "minecraft:oak_planks",
+            "count": 1
+          },
+          "count": 32,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "3111000000000147",
+          "type": "advancement",
+          "advancement": "migaja_guia:fabricar_2211000000000146",
+          "criterion": ""
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "repeatable": false
+    },
+    {
+      "dependencies": [
+        "2211000000000146"
+      ],
+      "icon": {
+        "id": "minecraft:stonecutter"
+      },
+      "id": "2211000000000149",
+      "rewards": [
+        {
+          "id": "4111000000000148",
+          "type": "item",
+          "item": {
+            "id": "minecraft:stone",
+            "count": 1
+          },
+          "count": 32,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "311100000000014A",
+          "type": "advancement",
+          "advancement": "migaja_guia:fabricar_2211000000000149",
+          "criterion": ""
+        }
+      ],
+      "x": -4,
+      "y": 4,
+      "repeatable": false
+    },
+    {
+      "dependencies": [
+        "2211000000000149"
+      ],
+      "icon": {
+        "id": "minecraft:bricks"
+      },
+      "id": "221100000000014C",
+      "rewards": [
+        {
+          "id": "411100000000014B",
+          "type": "item",
+          "item": {
+            "id": "minecraft:stone",
+            "count": 1
+          },
+          "count": 32,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "311100000000014D",
+          "type": "advancement",
+          "advancement": "migaja_guia:fabricar_221100000000014c",
+          "criterion": ""
+        }
+      ],
+      "x": -4,
+      "y": 7,
+      "repeatable": false
+    },
+    {
+      "dependencies": [
+        "221100000000014C"
+      ],
+      "icon": {
+        "id": "minecraft:glass"
+      },
+      "id": "221100000000014F",
+      "rewards": [
+        {
+          "id": "411100000000014E",
+          "type": "item",
+          "item": {
+            "id": "minecraft:glass",
+            "count": 1
+          },
+          "count": 32,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "consume_items": false,
+          "id": "3111000000000150",
+          "item": {
+            "count": 1,
+            "id": "minecraft:glass"
+          },
+          "type": "item"
+        }
+      ],
+      "x": -4,
+      "y": 10,
+      "repeatable": false
+    },
+    {
+      "dependencies": [
+        "221100000000014F"
+      ],
+      "icon": {
+        "id": "rechiseled:chisel"
+      },
+      "id": "2211000000000152",
+      "rewards": [
+        {
+          "id": "4111000000000151",
+          "type": "item",
+          "item": {
+            "id": "minecraft:stone",
+            "count": 1
+          },
+          "count": 32,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "3111000000000153",
+          "type": "advancement",
+          "advancement": "migaja_guia:fabricar_2211000000000152",
+          "criterion": ""
+        }
+      ],
+      "x": -4,
+      "y": 13,
+      "repeatable": false
+    },
+    {
+      "dependencies": [
+        "2211000000000152"
+      ],
+      "icon": {
+        "id": "carved_wood:carved_oak_planks"
+      },
+      "id": "2211000000000155",
+      "rewards": [
+        {
+          "id": "4111000000000154",
+          "type": "item",
+          "item": {
+            "id": "minecraft:oak_planks",
+            "count": 1
+          },
+          "count": 32,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "3111000000000156",
+          "type": "advancement",
+          "advancement": "migaja_guia:fabricar_2211000000000155",
+          "criterion": ""
+        }
+      ],
+      "x": -4,
+      "y": 16,
+      "repeatable": false
+    },
+    {
+      "dependencies": [
+        "2211000000000146"
+      ],
+      "icon": {
+        "id": "handcrafted:oak_chair"
+      },
+      "id": "2211000000000158",
+      "rewards": [
+        {
+          "id": "4111000000000157",
+          "type": "item",
+          "item": {
+            "id": "minecraft:oak_planks",
+            "count": 1
+          },
+          "count": 32,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "3111000000000159",
+          "type": "advancement",
+          "advancement": "migaja_guia:fabricar_2211000000000158",
+          "criterion": ""
+        }
+      ],
+      "x": 0,
+      "y": 4,
+      "repeatable": false
+    },
+    {
+      "dependencies": [
+        "2211000000000158"
+      ],
+      "icon": {
+        "id": "cozyhome:oak_table"
+      },
+      "id": "221100000000015B",
+      "rewards": [
+        {
+          "id": "411100000000015A",
+          "type": "item",
+          "item": {
+            "id": "minecraft:oak_planks",
+            "count": 1
+          },
+          "count": 32,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "311100000000015C",
+          "type": "advancement",
+          "advancement": "migaja_guia:fabricar_221100000000015b",
+          "criterion": ""
+        }
+      ],
+      "x": 0,
+      "y": 7,
+      "repeatable": false
+    },
+    {
+      "dependencies": [
+        "2211000000000146"
+      ],
+      "icon": {
+        "id": "minecraft:lantern"
+      },
+      "id": "221100000000015E",
+      "rewards": [
+        {
+          "id": "411100000000015D",
+          "type": "item",
+          "item": {
+            "id": "minecraft:copper_ingot",
+            "count": 1
+          },
+          "count": 8,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "311100000000015F",
+          "type": "advancement",
+          "advancement": "migaja_guia:fabricar_221100000000015e",
+          "criterion": ""
+        }
+      ],
+      "x": 4,
+      "y": 4,
+      "repeatable": false
+    },
+    {
+      "dependencies": [
+        "221100000000015E"
+      ],
+      "icon": {
+        "id": "minecraft:painting"
+      },
+      "id": "2211000000000161",
+      "rewards": [
+        {
+          "id": "4111000000000160",
+          "type": "item",
+          "item": {
+            "id": "minecraft:white_wool",
+            "count": 1
+          },
+          "count": 16,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "3111000000000162",
+          "type": "advancement",
+          "advancement": "migaja_guia:fabricar_2211000000000161",
+          "criterion": ""
+        }
+      ],
+      "x": 4,
+      "y": 7,
+      "repeatable": false
+    },
+    {
+      "dependencies": [
+        "2211000000000161"
+      ],
+      "icon": {
+        "id": "minecraft:red_bed"
+      },
+      "id": "2211000000000164",
+      "rewards": [
+        {
+          "id": "4111000000000163",
+          "type": "item",
+          "item": {
+            "id": "minecraft:oak_planks",
+            "count": 1
+          },
+          "count": 32,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "3111000000000165",
+          "type": "advancement",
+          "advancement": "migaja_guia:fabricar_2211000000000164",
+          "criterion": ""
+        }
+      ],
+      "x": 4,
+      "y": 10,
+      "repeatable": false
+    },
+    {
+      "dependencies": [
+        "2211000000000164"
+      ],
+      "icon": {
+        "id": "minecraft:oak_fence"
+      },
+      "id": "2211000000000167",
+      "rewards": [
+        {
+          "id": "4111000000000166",
+          "type": "item",
+          "item": {
+            "id": "minecraft:oak_planks",
+            "count": 1
+          },
+          "count": 32,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "3111000000000168",
+          "type": "advancement",
+          "advancement": "migaja_guia:fabricar_2211000000000167",
+          "criterion": ""
+        }
+      ],
+      "x": 4,
+      "y": 13,
+      "repeatable": false
+    },
+    {
+      "dependencies": [
+        "221100000000015B"
+      ],
+      "icon": {
+        "id": "cobblefurnies:poke_ball_chair"
+      },
+      "id": "221100000000016A",
+      "rewards": [
+        {
+          "id": "4111000000000169",
+          "type": "item",
+          "item": {
+            "id": "minecraft:oak_planks",
+            "count": 1
+          },
+          "count": 32,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "consume_items": false,
+          "id": "311100000000016B",
+          "item": {
+            "count": 1,
+            "id": "cobblefurnies:poke_ball_chair"
+          },
+          "type": "item"
+        }
+      ],
+      "x": 0,
+      "y": 10,
+      "repeatable": false
+    },
+    {
+      "dependencies": [
+        "2211000000000167"
+      ],
+      "icon": {
+        "id": "beautify:lamp_bamboo"
+      },
+      "id": "221100000000016D",
+      "rewards": [
+        {
+          "id": "411100000000016C",
+          "type": "item",
+          "item": {
+            "id": "minecraft:copper_ingot",
+            "count": 1
+          },
+          "count": 8,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "311100000000016E",
+          "type": "advancement",
+          "advancement": "migaja_guia:fabricar_221100000000016d",
+          "criterion": ""
+        }
+      ],
+      "x": 4,
+      "y": 16,
+      "repeatable": false
+    },
+    {
+      "dependencies": [
+        "2211000000000155"
+      ],
+      "icon": {
+        "id": "moarconcrete:white_concrete_stairs"
+      },
+      "id": "2211000000000170",
+      "rewards": [
+        {
+          "id": "411100000000016F",
+          "type": "item",
+          "item": {
+            "id": "minecraft:white_concrete",
+            "count": 1
+          },
+          "count": 32,
+          "team_reward": false,
+          "auto": "disabled"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "3111000000000171",
+          "type": "advancement",
+          "advancement": "migaja_guia:fabricar_2211000000000170",
+          "criterion": ""
+        }
+      ],
+      "x": -4,
+      "y": 19,
+      "repeatable": false
+    }
+  ]
+}

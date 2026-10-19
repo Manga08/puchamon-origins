@@ -1,0 +1,8 @@
+name = "modmenu-11.0.4.jar"
+filename = "modmenu-11.0.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/v6Xx3fbU/modmenu-11.0.4.jar"
+hash-format = "sha256"
+hash = "a88e0d67c82b0434cbf56776c482587c275ed660f635d33f53ba485dfa30dcc3"

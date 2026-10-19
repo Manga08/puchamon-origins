@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "valid_base": {
+      "trigger": "cobblemon:level_up",
+      "conditions": {
+        "level": 50,
+        "has_evolved": false
+      }
+    },
+    "valid_evolved": {
+      "trigger": "cobblemon:level_up",
+      "conditions": {
+        "level": 50,
+        "has_evolved": true
+      }
+    }
+  },
+  "requirements": [
+    [
+      "valid_base",
+      "valid_evolved"
+    ]
+  ]
+}
