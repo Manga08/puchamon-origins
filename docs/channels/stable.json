@@ -1,6 +1,6 @@
 {
   "schema": 1,
   "packId": "puchamon-origins",
-  "manifest": "../releases/1.0-auto.7/manifest.json",
-  "manifestSha256": "f4c7fcd6e439bd5ba61aaf81cc81791de312a9588e9ee114189518fd0f9c517f"
+  "manifest": "../releases/1.0-auto.8/manifest.json",
+  "manifestSha256": "645b314154de4d0900414305da94fa829753caafc502f1900c1f63164207cae7"
 }
