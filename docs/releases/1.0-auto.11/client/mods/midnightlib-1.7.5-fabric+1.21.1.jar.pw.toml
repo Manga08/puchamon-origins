@@ -1,0 +1,8 @@
+name = "midnightlib-1.7.5-fabric+1.21.1.jar"
+filename = "midnightlib-1.7.5-fabric+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/codAaoxh/versions/vqqujBpd/midnightlib-1.7.5-fabric%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "b75155a638d15df61922bb635e2c5aae6102897ccaa1e226060a7f5ff4218091"
