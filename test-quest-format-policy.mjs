@@ -1,0 +1,18 @@
+import fs from 'node:fs';
+import os from 'node:os';
+import path from 'node:path';
+import crypto from 'node:crypto';
+import assert from 'node:assert/strict';
+import {assertNativeQuestFormat} from './quest-format-policy.mjs';
+const root=fs.mkdtempSync(path.join(os.tmpdir(),'puchamon-quest-policy-'));
+const sha=b=>crypto.createHash('sha256').update(b).digest('hex');
+const name='config/ftbquests/quests/chapters/qa.snbt';
+const write=(p,b)=>{fs.mkdirSync(path.dirname(p),{recursive:true});fs.writeFileSync(p,b);};
+const manifest={minecraft:'1.21.1',fabric:'0.19.5',files:[{path:name,sha256:sha('native bytes')},{path:'mods/ftb-quests-qa.jar',sha256:sha('quests')},{path:'mods/ftb-library-qa.jar',sha256:sha('library')}]};
+const proof={schema:1,minecraft:manifest.minecraft,fabric:manifest.fabric,nativeSaveReloadSave:true,chapters:{[name]:sha('native bytes')},writerFiles:Object.fromEntries(manifest.files.filter(f=>f.path.startsWith('mods/')).map(f=>[f.path,f.sha256]))};
+write(path.join(root,'manifest.json'),JSON.stringify(manifest));write(path.join(root,'client',name),'native bytes');
+assert.throws(()=>assertNativeQuestFormat(root));
+write(path.join(root,'quest-format-proof.json'),JSON.stringify(proof));assert.equal(assertNativeQuestFormat(root).chapters,1);
+write(path.join(root,'client',name),'hand edited');assert.throws(()=>assertNativeQuestFormat(root),/Capítulo editado/);
+write(path.join(root,'client',name),'native bytes');manifest.files[1].sha256=sha('upgraded quests');write(path.join(root,'manifest.json'),JSON.stringify(manifest));assert.throws(()=>assertNativeQuestFormat(root),/FTB cambió/);
+console.log('PASS: prueba nativa obligatoria; rechaza capítulos modificados y cambio de versión FTB sin revalidación.');

@@ -1,0 +1,162 @@
+{
+	autofocus_id: "7106000000000002"
+	default_hide_dependency_lines: false
+	default_min_width: 240
+	default_quest_shape: "rsquare"
+	filename: "7106000000000001"
+	group: "6111000000000003"
+	icon: {
+		id: "footblockultimate:football"
+	}
+	id: "7106000000000001"
+	images: [ ]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "footblockultimate:football"
+			}
+			id: "7106000000000002"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 32
+				id: "7106000000000004"
+				item: {
+					count: 1
+					id: "minecraft:white_concrete"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:fabricar_7106000000000002"
+				criterion: ""
+				id: "7106000000000003"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7106000000000002"]
+			icon: {
+				id: "footblockultimate:red_goal_line"
+			}
+			id: "7106000000000005"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 64
+				id: "7106000000000007"
+				item: {
+					count: 1
+					id: "minecraft:white_concrete"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:fabricar_7106000000000005"
+				criterion: ""
+				id: "7106000000000006"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "confetti_stuff:party_popper"
+			}
+			id: "7106000000000008"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 32
+				id: "710600000000000A"
+				item: {
+					count: 1
+					id: "minecraft:paper"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:fabricar_7106000000000008"
+				criterion: ""
+				id: "7106000000000009"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "beachparty:beach_chair"
+			}
+			id: "710600000000000B"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 32
+				id: "710600000000000D"
+				item: {
+					count: 1
+					id: "minecraft:oak_planks"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:fabricar_710600000000000b"
+				criterion: ""
+				id: "710600000000000C"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "beachparty:radio"
+			}
+			id: "710600000000000E"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 8
+				id: "7106000000000010"
+				item: {
+					count: 1
+					id: "minecraft:copper_ingot"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:fabricar_710600000000000e"
+				criterion: ""
+				id: "710600000000000F"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "7106000000000011"
+			optional: true
+			shape: "gear"
+			tasks: [{
+				id: "7106000000000012"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+	]
+}

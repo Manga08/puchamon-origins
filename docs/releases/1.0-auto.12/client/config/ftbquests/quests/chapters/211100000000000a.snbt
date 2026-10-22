@@ -1,0 +1,238 @@
+{
+	autofocus_id: "22110000000001F2"
+	default_hide_dependency_lines: false
+	default_min_width: 220
+	default_quest_shape: "rsquare"
+	filename: "211100000000000a"
+	group: "6111000000000003"
+	icon: {
+		id: "minecraft:chest"
+	}
+	id: "211100000000000A"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["221100000000000B"]
+			icon: {
+				id: "sophisticatedbackpacks:iron_backpack"
+			}
+			id: "22110000000001F2"
+			optional: true
+			rewards: [
+				{
+					auto: "disabled"
+					count: 32
+					id: "41110000000001F4"
+					item: {
+						count: 1
+						id: "minecraft:torch"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 12
+					id: "7507000000000092"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:fabricar_22110000000001f2"
+				criterion: ""
+				id: "31110000000001F3"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "toms_storage:inventory_connector"
+			}
+			id: "22110000000001F5"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 16
+				id: "41110000000001F7"
+				item: {
+					count: 1
+					id: "minecraft:redstone"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:fabricar_22110000000001f5"
+				criterion: ""
+				id: "31110000000001F6"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "minecraft:compass"
+			}
+			id: "22110000000001F8"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 12
+				id: "41110000000001FA"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:fabricar_22110000000001f8"
+				criterion: ""
+				id: "31110000000001F9"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			icon: {
+				id: "minecraft:iron_pickaxe"
+			}
+			id: "22110000000001FB"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 12
+				id: "41110000000001FD"
+				item: {
+					count: 1
+					id: "minecraft:torch"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:fabricar_22110000000001fb"
+				criterion: ""
+				id: "31110000000001FC"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				id: "minecraft:oak_slab"
+			}
+			id: "22110000000001FE"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 8
+				id: "4111000000000200"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:fabricar_22110000000001fe"
+				criterion: ""
+				id: "31110000000001FF"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "2211000000000201"
+			optional: true
+			shape: "gear"
+			size: 0.85d
+			tasks: [{
+				id: "3111000000000202"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 15.0d
+		}
+		{
+			icon: {
+				id: "immersive_melodies:flute"
+			}
+			id: "2211000000000203"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "4111000000000205"
+				item: {
+					count: 1
+					id: "minecraft:iron_ingot"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:fabricar_2211000000000203"
+				criterion: ""
+				id: "3111000000000204"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 18.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "73070000000000E3"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "74070000000000E4"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 22.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "73070000000000E5"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "74070000000000E6"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 22.0d
+		}
+	]
+}

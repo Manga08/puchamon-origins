@@ -1,0 +1,195 @@
+{
+	autofocus_id: "2211000000000300"
+	default_hide_dependency_lines: false
+	default_min_width: 220
+	default_quest_shape: "rsquare"
+	filename: "211100000000000b"
+	group: "6111000000000002"
+	icon: {
+		id: "cobblemon:ultra_ball"
+	}
+	id: "211100000000000B"
+	images: [ ]
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["221100000000008D"]
+			icon: {
+				id: "mega_showdown:keystone"
+			}
+			id: "2211000000000300"
+			optional: true
+			shape: "gear"
+			size: 0.85d
+			tasks: [{
+				id: "3111000000000301"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "2211000000000206"
+			optional: true
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				count: 4L
+				id: "3111000000000207"
+				item: { count: 1, id: "cobblemon:ultra_ball" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:hyper_potion"
+			}
+			id: "2211000000000209"
+			optional: true
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				count: 2L
+				id: "311100000000020A"
+				item: { count: 1, id: "cobblemon:hyper_potion" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:leftovers"
+			}
+			id: "221100000000020C"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "411100000000020E"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "311100000000020D"
+				item: { count: 1, id: "cobblemon:leftovers" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "221100000000020F"
+			optional: true
+			shape: "gear"
+			size: 0.85d
+			tasks: [{
+				id: "3111000000000210"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 12.0d
+		}
+		{
+			icon: {
+				id: "mega_showdown:keystone"
+			}
+			id: "2211000000000302"
+			optional: true
+			rewards: [
+				{
+					auto: "disabled"
+					count: 6
+					id: "4111000000000304"
+					item: {
+						count: 1
+						id: "cobblemon:hyper_potion"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 2
+					id: "7507000000000093"
+					item: {
+						count: 1
+						id: "cobblemon:revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:fabricar_2211000000000302"
+				criterion: ""
+				id: "3111000000000303"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 15.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:full_restore"
+			}
+			id: "2211000000000305"
+			optional: true
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "3111000000000306"
+				item: { count: 1, id: "cobblemon:full_restore" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 18.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "73070000000000E7"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "74070000000000E8"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 22.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "73070000000000E9"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "74070000000000EA"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 22.0d
+		}
+	]
+}

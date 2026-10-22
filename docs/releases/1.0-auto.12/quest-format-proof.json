@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "minecraft": "1.21.1",
+  "fabric": "0.19.5",
+  "nativeSaveReloadSave": true,
+  "writerFiles": {
+    "mods/ftb-library-fabric-2101.1.36.jar": "0344e19cd35c0bb6aa608343cc352c9733e400b946b52fd49beec2d7fc0406b6",
+    "mods/ftb-quests-fabric-2101.1.36.jar": "68df590b681255e11c52d1850d0dd02d3ad9a3c5d82fdb9e37312111a60ddefb"
+  },
+  "chapters": {
+    "config/ftbquests/quests/chapters/2111000000000001.snbt": "df5788bb09802da27ab043bf39accaff2a907b70185f099986cb295978b574ee",
+    "config/ftbquests/quests/chapters/2111000000000002.snbt": "f239720ce3b664c718f263ab054352357e247f77d215a231f7f58798ed08f566",
+    "config/ftbquests/quests/chapters/2111000000000003.snbt": "2b4f1ee06e88f1d7599049ccd2dadf57daee3f8fdc6d56145337bf3f8f8c140f",
+    "config/ftbquests/quests/chapters/2111000000000004.snbt": "4ddbe82ac87c4ee3542e7481add7938c6315b5f44700d9913deb2178a72ccbe5",
+    "config/ftbquests/quests/chapters/2111000000000005.snbt": "8bec864b1a2899746cf12c1ebabd58c3dbc5ffcda7276ac61e98ff320c107678",
+    "config/ftbquests/quests/chapters/2111000000000006.snbt": "6db1573250c5cd7fed26b9d7324cfd939e445c7cb3f6ae50caf0c9a5de6c839e",
+    "config/ftbquests/quests/chapters/2111000000000007.snbt": "dba12fd65543f37e3cce4c11e8f6ce281b7f05872e36ec54e461917da2b8d8e9",
+    "config/ftbquests/quests/chapters/2111000000000008.snbt": "15ae356b073f6e6dd687678a040e5bdc7fcc68a29d9aae00ac9845856c17fe10",
+    "config/ftbquests/quests/chapters/2111000000000009.snbt": "c853d4750d3f66013cc3da60046664253f1c9e6385a7dfa7c771f31bef8b5b5a",
+    "config/ftbquests/quests/chapters/211100000000000a.snbt": "4fd97f2f0dec54ed41197c47af4e3fee29f000937adb389c8fa4fd05ab89e337",
+    "config/ftbquests/quests/chapters/211100000000000b.snbt": "68cadcf4a8bc0e18584b12c29c1a7ac89e432d3d87d98c80f7a1ca42194734a2",
+    "config/ftbquests/quests/chapters/211100000000000c.snbt": "68879aa60d4cb13d6eebf25ac612f7ff4774fd57970fa677729f8c7a7a9173c0",
+    "config/ftbquests/quests/chapters/211100000000000d.snbt": "385efa7bb1ce72481fec170055db74a487bcc2bb8e3605ad9ed3c6a9f04daae4",
+    "config/ftbquests/quests/chapters/211100000000000e.snbt": "22e55d4979b79d515f6cc03873b6270588527cb1092c19a041fe3ff04e040dd5",
+    "config/ftbquests/quests/chapters/211100000000000f.snbt": "b5c681f503b1a96078e7937c0aa73392cd48aeb8b9df31a53da7f38409ecccd5",
+    "config/ftbquests/quests/chapters/7106000000000001.snbt": "b31b8746bee811e2a85cbf17d6d2ee9e334823e18de58f894dea8df997db2984",
+    "config/ftbquests/quests/chapters/7106000000000013.snbt": "d7b5a5732f70667a11f70275ad503ecbccf3ab0415b2d7084f8b708f5663e3a8",
+    "config/ftbquests/quests/chapters/710600000000001c.snbt": "da6c39ba4d1fd0ee7e0f45290fbefe6d8a223053966adc804e58f24f9cc0e53c",
+    "config/ftbquests/quests/chapters/7207000000000001.snbt": "da0c3d179ee89a1f172ccce2026786850cd08ab86184efffb1c06310e2e7e2a7",
+    "config/ftbquests/quests/chapters/7207000000000002.snbt": "bf04c1b1ba716c966d12ee1268538d1f748d84c609e1ee64a1c2a488f453d2a2",
+    "config/ftbquests/quests/chapters/7207000000000003.snbt": "1a0d35714169deae38bfdd495e46743911ffd2b90211297a62cf481ac12a2549",
+    "config/ftbquests/quests/chapters/7818000000000001.snbt": "cb672ddd936a55622b9e8fcc8047835d53fba4fd3da41ee5aab0a6a3884d2814",
+    "config/ftbquests/quests/chapters/7818000000000010.snbt": "538ddb64d5150179cb8c01f38ce76d90e538991e9995fef796064c4c0ef6a8ad"
+  }
+}

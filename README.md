@@ -1,5 +1,9 @@
 # Puchamon: Origins — instalación y actualización
 
+## Corrección del guardado de la guía — auto.12
+
+Parche preparado y probado para el bloqueo por los 23 capítulos que reescribe FTB Quests. No cambia el launcher instalado ni el progreso; mantiene hashes estrictos. Véase [causa, pruebas y protocolo para próximas guías](FTB-QUESTS-GUARDADO.md). La presencia de una release en `docs/releases` no implica que esté activa: el canal vigente siempre es `docs/channels/stable.json`.
+
 ## Estado vigente — 18 octubre 2026
 
 El canal automático está activo. La entrega nueva es `Puchamon-Origins-1.0-Automatico.zip`, con nombre interno **Puchamon: Origins 1.0**. Al pulsar Jugar comprueba `https://manga08.github.io/puchamon-origins/channels/stable.json`; no requiere BAT. Véase [estado, pruebas y migración inicial](AUTOMATICO-1.0.md). Las entregas autónomas anteriores no tenían actualizaciones por internet y necesitan una activación inicial. Las notas siguientes describen etapas históricas, no el estado actual.

@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "bca:item_groups/wool",
+          "weight": 2
+        },
+        {
+          "type": "loot_table",
+          "value": "bca:item_groups/paper_goods",
+          "weight": 2
+        },
+        {
+          "type": "loot_table",
+          "value": "puchamon:loot/common/bca/support_tables/poke_balls",
+          "weight": 5
+        },
+        {
+          "type": "loot_table",
+          "value": "puchamon:loot/common/bca/support_tables/poke_currency",
+          "weight": 3
+        },
+        {
+          "type": "loot_table",
+          "value": "puchamon:loot/common/bca/support_tables/evolution",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "minecraft:air",
+          "weight": 5
+        }
+      ]
+    }
+  ]
+}

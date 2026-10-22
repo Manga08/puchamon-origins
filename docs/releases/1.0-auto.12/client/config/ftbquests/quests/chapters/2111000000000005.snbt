@@ -1,0 +1,140 @@
+{
+	autofocus_id: "22110000000000B4"
+	default_hide_dependency_lines: false
+	default_min_width: 220
+	default_quest_shape: "rsquare"
+	filename: "2111000000000005"
+	group: "6111000000000004"
+	icon: {
+		id: "rctmod:trainer_card"
+	}
+	id: "2111000000000005"
+	images: [ ]
+	order_index: 1
+	quest_links: [
+		{
+			id: "5111000000000286"
+			linked_quest: "22110000000000B7"
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			id: "5111000000000287"
+			linked_quest: "22110000000000BA"
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			id: "5111000000000288"
+			linked_quest: "22110000000000BD"
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			id: "5111000000000289"
+			linked_quest: "22110000000000C0"
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			id: "511100000000028A"
+			linked_quest: "22110000000000C3"
+			x: 0.0d
+			y: 15.0d
+		}
+		{
+			id: "511100000000028B"
+			linked_quest: "22110000000000C6"
+			x: 0.0d
+			y: 18.0d
+		}
+		{
+			id: "511100000000028C"
+			linked_quest: "22110000000000C9"
+			x: 0.0d
+			y: 21.0d
+		}
+		{
+			id: "511100000000028D"
+			linked_quest: "22110000000000CC"
+			x: 0.0d
+			y: 24.0d
+		}
+		{
+			id: "511100000000028E"
+			linked_quest: "22110000000000CF"
+			x: 0.0d
+			y: 27.0d
+		}
+		{
+			id: "511100000000028F"
+			linked_quest: "22110000000000D2"
+			x: 0.0d
+			y: 30.0d
+		}
+		{
+			id: "5111000000000290"
+			linked_quest: "22110000000000D5"
+			x: 0.0d
+			y: 33.0d
+		}
+		{
+			id: "5111000000000291"
+			linked_quest: "22110000000000D8"
+			x: 0.0d
+			y: 36.0d
+		}
+		{
+			id: "5111000000000292"
+			linked_quest: "22110000000000DC"
+			x: 0.0d
+			y: 39.0d
+		}
+	]
+	quests: [
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "22110000000000B4"
+			optional: true
+			shape: "gear"
+			tasks: [{
+				id: "31110000000000B5"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "73070000000000C9"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "74070000000000CA"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 43.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "73070000000000CB"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "74070000000000CC"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 43.0d
+		}
+	]
+}
