@@ -1,0 +1,8 @@
+name = "ftb-library-fabric-2101.1.36.jar"
+filename = "ftb-library-fabric-2101.1.36.jar"
+side = "client"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8858/847/ftb-library-fabric-2101.1.36.jar"
+hash-format = "sha256"
+hash = "0344e19cd35c0bb6aa608343cc352c9733e400b946b52fd49beec2d7fc0406b6"

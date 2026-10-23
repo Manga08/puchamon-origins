@@ -1,0 +1,8 @@
+name = "better-pokedex-scanner-1.0.0.jar"
+filename = "better-pokedex-scanner-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lESGhLxI/versions/fvFI487Y/better-pokedex-scanner-1.0.0.jar"
+hash-format = "sha256"
+hash = "aca37fa43fe9226cf99f75f194bf6cb9ec27d71dad1ae6c732d0791636231180"

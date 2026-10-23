@@ -1,0 +1,8 @@
+name = "MonoLib"
+filename = "monolib-fabric-1.21.1-4.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9leXt4A5/versions/NnoCFK33/monolib-fabric-1.21.1-4.1.2.jar"
+hash-format = "sha256"
+hash = "0d4786064d546c8ad2c69c0de119a606c65af3357a11455596f28778906d603d"

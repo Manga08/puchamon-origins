@@ -1,0 +1,302 @@
+{
+	autofocus_id: "221100000000004F"
+	default_hide_dependency_lines: false
+	default_min_width: 220
+	default_quest_shape: "rsquare"
+	filename: "2111000000000003"
+	group: "6111000000000002"
+	icon: {
+		id: "cobblemon:great_ball"
+	}
+	id: "2111000000000003"
+	images: [ ]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["221100000000000B"]
+			icon: {
+				id: "cobblemon:great_ball"
+			}
+			id: "221100000000004F"
+			rewards: [{
+				auto: "disabled"
+				count: 6
+				id: "411100000000004E"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:capturas_10"
+				criterion: ""
+				id: "3111000000000050"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["221100000000004F"]
+			icon: {
+				id: "cobblemon:great_ball"
+			}
+			id: "2211000000000052"
+			rewards: [{
+				auto: "disabled"
+				count: 12
+				id: "4111000000000051"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:capturas_25"
+				criterion: ""
+				id: "3111000000000053"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2211000000000052"]
+			icon: {
+				id: "cobblemon:great_ball"
+			}
+			id: "2211000000000055"
+			rewards: [{
+				auto: "disabled"
+				count: 10
+				id: "4111000000000054"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:capturas_50"
+				criterion: ""
+				id: "3111000000000056"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["2211000000000055"]
+			icon: {
+				id: "cobblemon:great_ball"
+			}
+			id: "2211000000000058"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 20
+					id: "4111000000000057"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 2
+					id: "7507000000000091"
+					item: {
+						count: 1
+						id: "cobblemon:revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:capturas_100"
+				criterion: ""
+				id: "3111000000000059"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["221100000000000B"]
+			icon: {
+				id: "minecraft:amethyst_shard"
+			}
+			id: "2211000000000079"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 12
+				id: "4111000000000078"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "cobblemon:first_shiny_catch"
+				criterion: ""
+				id: "311100000000007A"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: 15.0d
+		}
+		{
+			icon: {
+				id: "minecraft:fishing_rod"
+			}
+			id: "221100000000007C"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "411100000000007B"
+				item: {
+					count: 1
+					id: "cobblemon:lure_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "cobblemon:craft_rod"
+				criterion: ""
+				id: "311100000000007D"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["221100000000007C"]
+			icon: {
+				id: "cobblemon:great_ball"
+			}
+			id: "221100000000007F"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "411100000000007E"
+				item: {
+					count: 1
+					id: "cobblemon:lure_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:pescar_pokemon"
+				criterion: ""
+				id: "3111000000000080"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:helix_fossil"
+			}
+			id: "2211000000000082"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 8
+				id: "4111000000000081"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "cobblemon:resurrect_pokemon"
+				criterion: ""
+				id: "3111000000000083"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 10.0d
+		}
+		{
+			icon: {
+				id: "minecraft:saddle"
+			}
+			id: "2211000000000085"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 12
+				id: "4111000000000084"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "cobblemon:ride_pokemon"
+				criterion: ""
+				id: "3111000000000086"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:poke_snack"
+			}
+			id: "2211000000000088"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 2
+				id: "4111000000000087"
+				item: {
+					count: 1
+					id: "minecraft:honey_bottle"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "cobblemon:cook_snack"
+				criterion: ""
+				id: "3111000000000089"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+	]
+}

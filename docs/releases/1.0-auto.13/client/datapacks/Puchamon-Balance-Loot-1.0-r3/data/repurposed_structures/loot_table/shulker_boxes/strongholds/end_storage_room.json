@@ -1,0 +1,323 @@
+{
+  "type": "minecraft:chest",
+  "random_sequence": "repurposed_structures:chests",
+  "pools": [
+    {
+      "rolls": {
+        "min": 3,
+        "max": 6,
+        "type": "minecraft:uniform"
+      },
+      "entries": [
+        {
+          "name": "minecraft:amethyst_shard",
+          "type": "minecraft:item",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 12,
+                "max": 22,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+        },
+        {
+          "name": "minecraft:chorus_fruit",
+          "type": "minecraft:item",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 12,
+                "max": 35,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 4
+        },
+        {
+          "name": "minecraft:iron_ingot",
+          "type": "minecraft:item",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 10,
+                "max": 20,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 3
+        },
+        {
+          "name": "minecraft:ender_eye",
+          "type": "minecraft:item",
+          "weight": 3
+        },
+        {
+          "name": "minecraft:suspicious_stew",
+          "type": "minecraft:item",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_stew_effect",
+              "effects": [
+                {
+                  "type": "minecraft:blindness",
+                  "duration": {
+                    "min": 30,
+                    "max": 50
+                  }
+                },
+                {
+                  "type": "minecraft:levitation",
+                  "duration": {
+                    "min": 40,
+                    "max": 60
+                  }
+                },
+                {
+                  "type": "minecraft:weakness",
+                  "duration": {
+                    "min": 40,
+                    "max": 120
+                  }
+                },
+                {
+                  "type": "minecraft:jump_boost",
+                  "duration": {
+                    "min": 60,
+                    "max": 440
+                  }
+                },
+                {
+                  "type": "minecraft:night_vision",
+                  "duration": {
+                    "min": 60,
+                    "max": 440
+                  }
+                },
+                {
+                  "type": "minecraft:saturation",
+                  "duration": {
+                    "min": 10,
+                    "max": 12
+                  }
+                },
+                {
+                  "type": "minecraft:invisibility",
+                  "duration": {
+                    "min": 60,
+                    "max": 440
+                  }
+                },
+                {
+                  "type": "minecraft:slow_falling",
+                  "duration": {
+                    "min": 60,
+                    "max": 440
+                  }
+                },
+                {
+                  "type": "minecraft:glowing",
+                  "duration": {
+                    "min": 60,
+                    "max": 500
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "minecraft:bundle",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
+          "name": "minecraft:experience_bottle",
+          "type": "minecraft:item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+        },
+        {
+          "name": "minecraft:obsidian",
+          "type": "minecraft:item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 6,
+                "max": 15,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+        },
+        {
+          "name": "minecraft:crying_obsidian",
+          "type": "minecraft:item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 12,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+        },
+        {
+          "name": "minecraft:chain",
+          "type": "minecraft:item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 5,
+                "max": 12,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "puchamon:loot/medium/repurposed_structures/chests/lucky_pool"
+        }
+      ]
+    },
+    {
+      "rolls": 0,
+      "bonus_rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 130
+        },
+        {
+          "name": "minecraft:purple_banner",
+          "type": "minecraft:item",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "minecraft:set_banner_pattern",
+              "append": true,
+              "patterns": [
+                {
+                  "pattern": "minecraft:gradient",
+                  "color": "black"
+                },
+                {
+                  "pattern": "minecraft:gradient_up",
+                  "color": "black"
+                },
+                {
+                  "pattern": "minecraft:straight_cross",
+                  "color": "magenta"
+                },
+                {
+                  "pattern": "minecraft:straight_cross",
+                  "color": "purple"
+                },
+                {
+                  "pattern": "minecraft:straight_cross",
+                  "color": "black"
+                },
+                {
+                  "pattern": "minecraft:flower",
+                  "color": "magenta"
+                },
+                {
+                  "pattern": "minecraft:flower",
+                  "color": "magenta"
+                },
+                {
+                  "pattern": "minecraft:rhombus",
+                  "color": "black"
+                },
+                {
+                  "pattern": "minecraft:circle",
+                  "color": "purple"
+                },
+                {
+                  "pattern": "minecraft:flower",
+                  "color": "black"
+                },
+                {
+                  "pattern": "minecraft:curly_border",
+                  "color": "black"
+                },
+                {
+                  "pattern": "minecraft:border",
+                  "color": "black"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "minecraft:ender_eye",
+          "type": "minecraft:item",
+          "weight": 15
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.05
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

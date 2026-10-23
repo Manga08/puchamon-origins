@@ -1,0 +1,432 @@
+{
+	autofocus_id: "22110000000002F0"
+	default_hide_dependency_lines: false
+	default_min_width: 220
+	default_quest_shape: "rsquare"
+	filename: "2111000000000008"
+	group: "6111000000000002"
+	icon: {
+		id: "cobblemon:pasture"
+	}
+	id: "2111000000000008"
+	images: [ ]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2211000000000272"]
+			icon: {
+				id: "cobblemon:pasture"
+			}
+			id: "22110000000002F0"
+			optional: true
+			shape: "gear"
+			size: 0.85d
+			tasks: [{
+				id: "31110000000002F1"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: -6.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:pasture"
+			}
+			id: "2211000000000133"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 24
+				id: "4111000000000132"
+				item: {
+					count: 1
+					id: "minecraft:oak_fence"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "cobblemon:use_pasture"
+				criterion: ""
+				id: "3111000000000134"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "2211000000000135"
+			optional: true
+			shape: "gear"
+			size: 0.85d
+			tasks: [{
+				id: "3111000000000136"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["2211000000000133"]
+			icon: {
+				id: "minecraft:hopper"
+			}
+			id: "2211000000000138"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 2
+				id: "4111000000000137"
+				item: {
+					count: 1
+					id: "minecraft:chest"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:fabricar_2211000000000138"
+				criterion: ""
+				id: "3111000000000139"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2211000000000138"]
+			icon: {
+				id: "minecraft:barrel"
+			}
+			id: "221100000000013B"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 8
+				id: "411100000000013A"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:fabricar_221100000000013b"
+				criterion: ""
+				id: "311100000000013C"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "221100000000013D"
+			optional: true
+			shape: "gear"
+			size: 0.85d
+			tasks: [{
+				id: "311100000000013E"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: -6.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:link_cable"
+			}
+			id: "2211000000000140"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 8
+				id: "411100000000013F"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "cobblemon:trade_pokemon"
+				criterion: ""
+				id: "3111000000000141"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			icon: {
+				id: "minecraft:fern"
+			}
+			id: "2211000000000143"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 16
+				id: "4111000000000142"
+				item: {
+					count: 1
+					id: "minecraft:bone_meal"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "cobblemon:obtain_mint"
+				criterion: ""
+				id: "3111000000000144"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:everstone"
+			}
+			id: "22110000000002F2"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 8
+				id: "41110000000002F4"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "31110000000002F3"
+				item: { count: 1, id: "cobblemon:everstone" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:destiny_knot"
+			}
+			id: "22110000000002F5"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 8
+				id: "41110000000002F7"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "31110000000002F6"
+				item: { count: 1, id: "cobblemon:destiny_knot" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 12.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:mirror_herb"
+			}
+			id: "22110000000002F8"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 8
+				id: "41110000000002FA"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "31110000000002F9"
+				item: { count: 1, id: "cobblemon:mirror_herb" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["2211000000000133"]
+			icon: {
+				components: {
+					"cobbreeding:version": "2.0.3"
+				}
+				id: "cobbreeding:pokemon_egg"
+			}
+			id: "22110000000002FB"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 16
+				id: "41110000000002FD"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "31110000000002FC"
+				item: { components: { "cobbreeding:version": "2.0.3" }, count: 1, id: "cobbreeding:pokemon_egg" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			icon: {
+				id: "minecraft:hopper"
+			}
+			id: "22110000000002FE"
+			optional: true
+			shape: "gear"
+			size: 0.85d
+			tasks: [{
+				id: "31110000000002FF"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "73070000000000D5"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "74070000000000D6"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 19.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "73070000000000D7"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "74070000000000D8"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 19.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "73070000000000D9"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "74070000000000DA"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 19.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "73070000000000DB"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "74070000000000DC"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 22.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "73070000000000DD"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "74070000000000DE"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 22.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "73070000000000DF"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "74070000000000E0"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 22.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "73070000000000E1"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "74070000000000E2"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 25.0d
+		}
+	]
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "disenchanting_table-merged-1.21.1-5.0.2.jar",
+    "version": "5.0.2",
+    "url": "https://cdn.modrinth.com/data/9BgYgXE4/versions/UzZnJKSR/disenchanting_table-merged-1.21.1-5.0.2.jar",
+    "sha512": "e572401caa0ac178aa1f55eec64510904aaf22924790039d9e8084e6f63bb545aa47904aa9da84e523ca44ea47a0f80440c68d94e369554261eefe58a0846dec",
+    "sha256": "bdb4f294f968b0e5bb75fe4b9bfe65563add01da2e34df81ba6c65fb7e77dc9c"
+  },
+  {
+    "name": "monolib-fabric-1.21.1-4.1.2.jar",
+    "version": "4.1.2",
+    "url": "https://cdn.modrinth.com/data/9leXt4A5/versions/NnoCFK33/monolib-fabric-1.21.1-4.1.2.jar",
+    "sha512": "5c3d3db2d8bfdbd862efdf4c1878240189007916c2dcf4eb3eaddce9e0bfe7f721ae018ced65d4f26ce46c772d368ed3e6d2efe1684bc55794c10bdb6a6594dd",
+    "sha256": "0d4786064d546c8ad2c69c0de119a606c65af3357a11455596f28778906d603d"
+  }
+]
