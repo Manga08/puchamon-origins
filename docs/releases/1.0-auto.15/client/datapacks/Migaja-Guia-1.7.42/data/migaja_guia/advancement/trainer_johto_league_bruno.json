@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "elite_defeated": {
+      "conditions": {
+        "trainer_ids": [
+          "johto_league_bruno"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "elite_defeated"
+    ]
+  ]
+}

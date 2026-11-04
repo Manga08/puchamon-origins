@@ -1,0 +1,18 @@
+{
+  "guiTheme": "DYNAMIC",
+  "catchCardPosition": "BOTTOM",
+  "baseBeltMinSlots": 4,
+  "baseBeltMaxSlots": 24,
+  "greatBeltMinSlots": 6,
+  "greatBeltMaxSlots": 36,
+  "ultraBeltMinSlots": 8,
+  "ultraBeltMaxSlots": 48,
+  "catchMilestoneStep": 10,
+  "beltOffsetX": 0,
+  "beltOffsetY": 0,
+  "shiftClickToBelt": true,
+  "enableCatchMultiplier": false,
+  "enableGuiAnimations": true,
+  "enableIdleFade": false,
+  "hudSizePixels": 36
+}

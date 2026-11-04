@@ -1,0 +1,6 @@
+# Perfil probado para Puchamon. Todavia no instalado en produccion.
+automatic_disenchanting = false
+resets_repair_cost = false
+requires_experience = true
+uses_points = false
+experience_cost = 5

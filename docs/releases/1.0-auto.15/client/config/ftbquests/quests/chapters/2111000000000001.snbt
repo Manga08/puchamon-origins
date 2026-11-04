@@ -1,0 +1,98 @@
+{
+	autofocus_id: "2211000000000011"
+	default_hide_dependency_lines: false
+	default_min_width: 220
+	default_quest_shape: "rsquare"
+	filename: "2111000000000001"
+	group: "6111000000000002"
+	icon: {
+		id: "cobblemon:pokedex_red"
+	}
+	id: "2111000000000001"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "cobblemon:red_apricorn"
+			}
+			id: "2211000000000011"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "4111000000000010"
+				item: {
+					count: 1
+					id: "minecraft:copper_ingot"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "cobblemon:harvest_apricorn"
+				criterion: ""
+				id: "3111000000000012"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "2211000000000014"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "4111000000000013"
+				item: {
+					count: 1
+					id: "cobblemon:oran_berry"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "cobblemon:craft_poke_ball"
+				criterion: ""
+				id: "3111000000000015"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:oran_berry"
+			}
+			id: "2211000000000017"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 8
+				id: "4111000000000016"
+				item: {
+					count: 1
+					id: "minecraft:bone_meal"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "cobblemon:obtain_berry"
+				criterion: ""
+				id: "3111000000000018"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+	]
+}

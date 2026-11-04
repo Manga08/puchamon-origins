@@ -1,0 +1,8 @@
+name = "youre-in-grave-danger-fabric-2.4.18.jar"
+filename = "youre-in-grave-danger-fabric-2.4.18.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HnD1GX6e/versions/T3grMjgj/youre-in-grave-danger-fabric-2.4.18.jar"
+hash-format = "sha256"
+hash = "4ae15574b52062f1cb3524138cde0a8e2fe537061186a9e31c0847b423aafbf9"

@@ -1,0 +1,8 @@
+name = "c2me-fabric-mc1.21.1-0.4.0-alpha.0.23.jar"
+filename = "c2me-fabric-mc1.21.1-0.4.0-alpha.0.23.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VSNURh3q/versions/h8ey5B7D/c2me-fabric-mc1.21.1-0.4.0-alpha.0.23.jar"
+hash-format = "sha256"
+hash = "6a77c69140f3da10e20b25ee8a75da039c5835b73f9c7a03615fbd968b574e5e"

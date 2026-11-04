@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "valid": {
+      "trigger": "cobblemon:battles_won",
+      "conditions": {
+        "count": 25,
+        "battle_types": [
+          "pvw"
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "valid"
+    ]
+  ]
+}

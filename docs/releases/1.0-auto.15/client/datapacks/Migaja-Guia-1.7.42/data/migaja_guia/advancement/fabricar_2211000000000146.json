@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "receta_0": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "carved_wood:oak_crafting_table"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "receta_0"
+    ]
+  ]
+}

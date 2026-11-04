@@ -1,0 +1,8 @@
+name = "Immersive Melodies in Backpacks"
+filename = "bpmelodies-fabric-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FxP3shKB/versions/1ifuG5of/bpmelodies-fabric-1.21.1-1.0.1.jar"
+hash-format = "sha256"
+hash = "6e04281e0eac5eed1e0f4d4133ceac54ed8d7481b10f4cd823a9663a563a935e"

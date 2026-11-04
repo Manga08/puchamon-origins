@@ -1,0 +1,8 @@
+name = "Cobblemon: Trainers Backpack"
+filename = "cobblemon_trainers_backpack-fabric-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7m9uI5ma/versions/P5dS2bL1/cobblemon_trainers_backpack-fabric-1.0.2.jar"
+hash-format = "sha256"
+hash = "547b4bc99f86a13cde199bb02e3fedeb34a81e2ed7e9512b2b12d69d379e88a9"

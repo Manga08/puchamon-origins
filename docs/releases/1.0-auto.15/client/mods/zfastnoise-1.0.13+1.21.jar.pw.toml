@@ -1,0 +1,8 @@
+name = "zfastnoise-1.0.13+1.21.jar"
+filename = "zfastnoise-1.0.13+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OnlVIpq5/versions/tss0FueO/zfastnoise-1.0.13%2B1.21.jar"
+hash-format = "sha256"
+hash = "da1b8702dfbdbea125aca0c0b1b3da5f8c3eb483977dff6482f32178fd007684"

@@ -1,0 +1,8 @@
+name = "ftb-ultimine-fabric-2101.1.15.jar"
+filename = "ftb-ultimine-fabric-2101.1.15.jar"
+side = "client"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8231/401/ftb-ultimine-fabric-2101.1.15.jar"
+hash-format = "sha256"
+hash = "7fe31bbc7193a90b500feed23c7dd689d501ae9bba4668b4a0926cb022373523"

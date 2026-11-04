@@ -1,0 +1,1722 @@
+{
+  "revision": "20261024-r3",
+  "songs": {
+    "puchamon_amigos:melody/a_whole_new_world_-_aladdin.midi": {
+      "immersive_melodies:flute": [
+        3
+      ],
+      "immersive_melodies:bagpipe": [
+        3
+      ],
+      "immersive_melodies:trumpet": [
+        3
+      ],
+      "immersive_melodies:lute": [
+        4
+      ],
+      "immersive_melodies:vielle": [
+        2
+      ],
+      "immersive_melodies:ender_bass": [
+        1
+      ],
+      "immersive_melodies:didgeridoo": [
+        1
+      ],
+      "immersive_melodies:handpan": [
+        0
+      ],
+      "immersive_melodies:piano": [
+        3,
+        0,
+        4,
+        1
+      ],
+      "immersive_melodies:tiny_drum": [
+        9,
+        12
+      ],
+      "immersive_melodies:triangle": [
+        12
+      ]
+    },
+    "puchamon_amigos:melody/highway_to_hell_-_ac-dc.midi": {
+      "immersive_melodies:flute": [
+        2
+      ],
+      "immersive_melodies:bagpipe": [
+        2
+      ],
+      "immersive_melodies:trumpet": [
+        2
+      ],
+      "immersive_melodies:lute": [
+        0
+      ],
+      "immersive_melodies:vielle": [
+        2
+      ],
+      "immersive_melodies:ender_bass": [
+        3
+      ],
+      "immersive_melodies:didgeridoo": [
+        3
+      ],
+      "immersive_melodies:handpan": [
+        0
+      ],
+      "immersive_melodies:piano": [
+        2,
+        0,
+        1,
+        3
+      ],
+      "immersive_melodies:tiny_drum": [
+        4
+      ],
+      "immersive_melodies:triangle": [
+        4
+      ]
+    },
+    "puchamon_amigos:melody/barbie_girl_-_aqua.midi": {
+      "immersive_melodies:flute": [
+        3
+      ],
+      "immersive_melodies:bagpipe": [
+        3
+      ],
+      "immersive_melodies:trumpet": [
+        3
+      ],
+      "immersive_melodies:lute": [
+        5
+      ],
+      "immersive_melodies:vielle": [
+        2
+      ],
+      "immersive_melodies:ender_bass": [
+        1
+      ],
+      "immersive_melodies:didgeridoo": [
+        1
+      ],
+      "immersive_melodies:handpan": [
+        5
+      ],
+      "immersive_melodies:piano": [
+        3,
+        5,
+        6,
+        1
+      ],
+      "immersive_melodies:tiny_drum": [
+        0,
+        10
+      ],
+      "immersive_melodies:triangle": [
+        10
+      ]
+    },
+    "puchamon_amigos:melody/cali_pachanguero_-_grupo_niche_fragmento.midi": {
+      "immersive_melodies:flute": [
+        5
+      ],
+      "immersive_melodies:bagpipe": [
+        5
+      ],
+      "immersive_melodies:trumpet": [
+        2
+      ],
+      "immersive_melodies:lute": [
+        1
+      ],
+      "immersive_melodies:vielle": [
+        2
+      ],
+      "immersive_melodies:ender_bass": [
+        0
+      ],
+      "immersive_melodies:didgeridoo": [
+        0
+      ],
+      "immersive_melodies:handpan": [
+        1
+      ],
+      "immersive_melodies:piano": [
+        5,
+        1,
+        0
+      ],
+      "immersive_melodies:tiny_drum": [
+        6
+      ],
+      "immersive_melodies:triangle": [
+        6
+      ]
+    },
+    "puchamon_amigos:melody/chan_chan_-_buena_vista_social_club_fragmento.midi": {
+      "immersive_melodies:flute": [
+        6
+      ],
+      "immersive_melodies:bagpipe": [
+        6
+      ],
+      "immersive_melodies:trumpet": [
+        4
+      ],
+      "immersive_melodies:lute": [
+        0
+      ],
+      "immersive_melodies:vielle": [
+        3
+      ],
+      "immersive_melodies:ender_bass": [
+        1
+      ],
+      "immersive_melodies:didgeridoo": [
+        1
+      ],
+      "immersive_melodies:handpan": [
+        0
+      ],
+      "immersive_melodies:piano": [
+        6,
+        0,
+        2,
+        1
+      ],
+      "immersive_melodies:tiny_drum": [
+        7
+      ],
+      "immersive_melodies:triangle": [
+        7
+      ]
+    },
+    "puchamon_amigos:melody/viva_la_vida_-_coldplay_fragmento.midi": {
+      "immersive_melodies:flute": [
+        0
+      ],
+      "immersive_melodies:bagpipe": [
+        0
+      ],
+      "immersive_melodies:trumpet": [
+        0
+      ],
+      "immersive_melodies:lute": [
+        0
+      ],
+      "immersive_melodies:vielle": [
+        0
+      ],
+      "immersive_melodies:ender_bass": [
+        0
+      ],
+      "immersive_melodies:didgeridoo": [
+        0
+      ],
+      "immersive_melodies:handpan": [
+        0
+      ],
+      "immersive_melodies:piano": [
+        0
+      ],
+      "immersive_melodies:tiny_drum": [
+        -1
+      ],
+      "immersive_melodies:triangle": [
+        -1
+      ]
+    },
+    "puchamon_amigos:melody/around_the_world_-_daft_punk_fragmento.midi": {
+      "immersive_melodies:flute": [
+        1
+      ],
+      "immersive_melodies:bagpipe": [
+        1
+      ],
+      "immersive_melodies:trumpet": [
+        1
+      ],
+      "immersive_melodies:lute": [
+        2
+      ],
+      "immersive_melodies:vielle": [
+        1
+      ],
+      "immersive_melodies:ender_bass": [
+        0
+      ],
+      "immersive_melodies:didgeridoo": [
+        0
+      ],
+      "immersive_melodies:handpan": [
+        2
+      ],
+      "immersive_melodies:piano": [
+        1,
+        2,
+        0
+      ],
+      "immersive_melodies:tiny_drum": [
+        -1
+      ],
+      "immersive_melodies:triangle": [
+        -1
+      ]
+    },
+    "puchamon_amigos:melody/tema_de_tapion_-_dragon_ball_z_fragmento.midi": {
+      "immersive_melodies:flute": [
+        0
+      ],
+      "immersive_melodies:bagpipe": [
+        0
+      ],
+      "immersive_melodies:trumpet": [
+        0
+      ],
+      "immersive_melodies:lute": [
+        0
+      ],
+      "immersive_melodies:vielle": [
+        0
+      ],
+      "immersive_melodies:ender_bass": [
+        1
+      ],
+      "immersive_melodies:didgeridoo": [
+        1
+      ],
+      "immersive_melodies:handpan": [
+        0
+      ],
+      "immersive_melodies:piano": [
+        0,
+        1
+      ],
+      "immersive_melodies:tiny_drum": [
+        -1
+      ],
+      "immersive_melodies:triangle": [
+        -1
+      ]
+    },
+    "puchamon_amigos:melody/dtmf_-_bad_bunny.midi": {
+      "immersive_melodies:flute": [
+        5
+      ],
+      "immersive_melodies:bagpipe": [
+        5
+      ],
+      "immersive_melodies:trumpet": [
+        3
+      ],
+      "immersive_melodies:lute": [
+        4
+      ],
+      "immersive_melodies:vielle": [
+        3
+      ],
+      "immersive_melodies:ender_bass": [
+        1
+      ],
+      "immersive_melodies:didgeridoo": [
+        1
+      ],
+      "immersive_melodies:handpan": [
+        2
+      ],
+      "immersive_melodies:piano": [
+        5,
+        2,
+        4,
+        1
+      ],
+      "immersive_melodies:tiny_drum": [
+        0
+      ],
+      "immersive_melodies:triangle": [
+        0
+      ]
+    },
+    "puchamon_amigos:melody/el_preso_-_fruko_y_sus_tesos_fragmento.midi": {
+      "immersive_melodies:flute": [
+        2
+      ],
+      "immersive_melodies:bagpipe": [
+        2
+      ],
+      "immersive_melodies:trumpet": [
+        3
+      ],
+      "immersive_melodies:lute": [
+        1
+      ],
+      "immersive_melodies:vielle": [
+        3
+      ],
+      "immersive_melodies:ender_bass": [
+        0
+      ],
+      "immersive_melodies:didgeridoo": [
+        0
+      ],
+      "immersive_melodies:handpan": [
+        1
+      ],
+      "immersive_melodies:piano": [
+        2,
+        1,
+        0
+      ],
+      "immersive_melodies:tiny_drum": [
+        5
+      ],
+      "immersive_melodies:triangle": [
+        5
+      ]
+    },
+    "puchamon_amigos:melody/ella_baila_sola_-_eslabon_armado_y_peso_pluma_fragmento.midi": {
+      "immersive_melodies:flute": [
+        3
+      ],
+      "immersive_melodies:bagpipe": [
+        3
+      ],
+      "immersive_melodies:trumpet": [
+        2
+      ],
+      "immersive_melodies:lute": [
+        0
+      ],
+      "immersive_melodies:vielle": [
+        0
+      ],
+      "immersive_melodies:ender_bass": [
+        1
+      ],
+      "immersive_melodies:didgeridoo": [
+        1
+      ],
+      "immersive_melodies:handpan": [
+        0
+      ],
+      "immersive_melodies:piano": [
+        3,
+        1
+      ],
+      "immersive_melodies:tiny_drum": [
+        8
+      ],
+      "immersive_melodies:triangle": [
+        8
+      ]
+    },
+    "puchamon_amigos:melody/entre_nosotros_remix_-_tiago_pzk_lit_killah_maria_becerra_y_nicki_nicole_fragmento.midi": {
+      "immersive_melodies:flute": [
+        3
+      ],
+      "immersive_melodies:bagpipe": [
+        3
+      ],
+      "immersive_melodies:trumpet": [
+        3
+      ],
+      "immersive_melodies:lute": [
+        0
+      ],
+      "immersive_melodies:vielle": [
+        3
+      ],
+      "immersive_melodies:ender_bass": [
+        1
+      ],
+      "immersive_melodies:didgeridoo": [
+        1
+      ],
+      "immersive_melodies:handpan": [
+        0
+      ],
+      "immersive_melodies:piano": [
+        3,
+        0,
+        2,
+        1
+      ],
+      "immersive_melodies:tiny_drum": [
+        5
+      ],
+      "immersive_melodies:triangle": [
+        5
+      ]
+    },
+    "puchamon_amigos:melody/feliz_cumpleanos_ferxxo_-_feid_fragmento.midi": {
+      "immersive_melodies:flute": [
+        2
+      ],
+      "immersive_melodies:bagpipe": [
+        2
+      ],
+      "immersive_melodies:trumpet": [
+        2
+      ],
+      "immersive_melodies:lute": [
+        0
+      ],
+      "immersive_melodies:vielle": [
+        5
+      ],
+      "immersive_melodies:ender_bass": [
+        -1
+      ],
+      "immersive_melodies:didgeridoo": [
+        -1
+      ],
+      "immersive_melodies:handpan": [
+        0
+      ],
+      "immersive_melodies:piano": [
+        2,
+        0,
+        1
+      ],
+      "immersive_melodies:tiny_drum": [
+        -1
+      ],
+      "immersive_melodies:triangle": [
+        -1
+      ]
+    },
+    "puchamon_amigos:melody/frozen_-_madonna.midi": {
+      "immersive_melodies:flute": [
+        6
+      ],
+      "immersive_melodies:bagpipe": [
+        6
+      ],
+      "immersive_melodies:trumpet": [
+        7
+      ],
+      "immersive_melodies:lute": [
+        4
+      ],
+      "immersive_melodies:vielle": [
+        9
+      ],
+      "immersive_melodies:ender_bass": [
+        1
+      ],
+      "immersive_melodies:didgeridoo": [
+        1
+      ],
+      "immersive_melodies:handpan": [
+        2
+      ],
+      "immersive_melodies:piano": [
+        6,
+        2,
+        4,
+        1
+      ],
+      "immersive_melodies:tiny_drum": [
+        0
+      ],
+      "immersive_melodies:triangle": [
+        0
+      ]
+    },
+    "puchamon_amigos:melody/musica_del_menu_-_halo_2_fragmento.midi": {
+      "immersive_melodies:flute": [
+        0
+      ],
+      "immersive_melodies:bagpipe": [
+        0
+      ],
+      "immersive_melodies:trumpet": [
+        0
+      ],
+      "immersive_melodies:lute": [
+        0
+      ],
+      "immersive_melodies:vielle": [
+        0
+      ],
+      "immersive_melodies:ender_bass": [
+        0
+      ],
+      "immersive_melodies:didgeridoo": [
+        0
+      ],
+      "immersive_melodies:handpan": [
+        0
+      ],
+      "immersive_melodies:piano": [
+        0
+      ],
+      "immersive_melodies:tiny_drum": [
+        -1
+      ],
+      "immersive_melodies:triangle": [
+        -1
+      ]
+    },
+    "puchamon_amigos:melody/main_theme_-_halo.midi": {
+      "immersive_melodies:flute": [
+        0
+      ],
+      "immersive_melodies:bagpipe": [
+        0
+      ],
+      "immersive_melodies:trumpet": [
+        0
+      ],
+      "immersive_melodies:lute": [
+        10
+      ],
+      "immersive_melodies:vielle": [
+        2
+      ],
+      "immersive_melodies:ender_bass": [
+        13
+      ],
+      "immersive_melodies:didgeridoo": [
+        13
+      ],
+      "immersive_melodies:handpan": [
+        1
+      ],
+      "immersive_melodies:piano": [
+        0,
+        1,
+        3,
+        13
+      ],
+      "immersive_melodies:tiny_drum": [
+        14
+      ],
+      "immersive_melodies:triangle": [
+        14
+      ]
+    },
+    "puchamon_amigos:melody/cumpleanos_feliz_-_version_sencilla.midi": {
+      "immersive_melodies:flute": [
+        0
+      ],
+      "immersive_melodies:bagpipe": [
+        0
+      ],
+      "immersive_melodies:trumpet": [
+        0
+      ],
+      "immersive_melodies:lute": [
+        0
+      ],
+      "immersive_melodies:vielle": [
+        0
+      ],
+      "immersive_melodies:ender_bass": [
+        0
+      ],
+      "immersive_melodies:didgeridoo": [
+        0
+      ],
+      "immersive_melodies:handpan": [
+        0
+      ],
+      "immersive_melodies:piano": [
+        0
+      ],
+      "immersive_melodies:tiny_drum": [
+        -1
+      ],
+      "immersive_melodies:triangle": [
+        -1
+      ]
+    },
+    "puchamon_amigos:melody/cumpleanos_feliz_-_version_orquestal.midi": {
+      "immersive_melodies:flute": [
+        4
+      ],
+      "immersive_melodies:bagpipe": [
+        4
+      ],
+      "immersive_melodies:trumpet": [
+        4
+      ],
+      "immersive_melodies:lute": [
+        0
+      ],
+      "immersive_melodies:vielle": [
+        1
+      ],
+      "immersive_melodies:ender_bass": [
+        2
+      ],
+      "immersive_melodies:didgeridoo": [
+        2
+      ],
+      "immersive_melodies:handpan": [
+        0
+      ],
+      "immersive_melodies:piano": [
+        4,
+        0,
+        3,
+        2
+      ],
+      "immersive_melodies:tiny_drum": [
+        5
+      ],
+      "immersive_melodies:triangle": [
+        5
+      ]
+    },
+    "puchamon_amigos:melody/jingle_bells_-_james_lord_pierpont.midi": {
+      "immersive_melodies:flute": [
+        5
+      ],
+      "immersive_melodies:bagpipe": [
+        5
+      ],
+      "immersive_melodies:trumpet": [
+        5
+      ],
+      "immersive_melodies:lute": [
+        3
+      ],
+      "immersive_melodies:vielle": [
+        0
+      ],
+      "immersive_melodies:ender_bass": [
+        1
+      ],
+      "immersive_melodies:didgeridoo": [
+        1
+      ],
+      "immersive_melodies:handpan": [
+        3
+      ],
+      "immersive_melodies:piano": [
+        5,
+        3,
+        4,
+        1
+      ],
+      "immersive_melodies:tiny_drum": [
+        8
+      ],
+      "immersive_melodies:triangle": [
+        8
+      ]
+    },
+    "puchamon_amigos:melody/la_bachata_-_manuel_turizo_fragmento.midi": {
+      "immersive_melodies:flute": [
+        2
+      ],
+      "immersive_melodies:bagpipe": [
+        2
+      ],
+      "immersive_melodies:trumpet": [
+        2
+      ],
+      "immersive_melodies:lute": [
+        0
+      ],
+      "immersive_melodies:vielle": [
+        1
+      ],
+      "immersive_melodies:ender_bass": [
+        -1
+      ],
+      "immersive_melodies:didgeridoo": [
+        -1
+      ],
+      "immersive_melodies:handpan": [
+        0
+      ],
+      "immersive_melodies:piano": [
+        2,
+        0,
+        4
+      ],
+      "immersive_melodies:tiny_drum": [
+        5
+      ],
+      "immersive_melodies:triangle": [
+        5
+      ]
+    },
+    "puchamon_amigos:melody/la_vida_es_un_carnaval_-_celia_cruz_fragmento.midi": {
+      "immersive_melodies:flute": [
+        2
+      ],
+      "immersive_melodies:bagpipe": [
+        2
+      ],
+      "immersive_melodies:trumpet": [
+        4
+      ],
+      "immersive_melodies:lute": [
+        0
+      ],
+      "immersive_melodies:vielle": [
+        3
+      ],
+      "immersive_melodies:ender_bass": [
+        1
+      ],
+      "immersive_melodies:didgeridoo": [
+        1
+      ],
+      "immersive_melodies:handpan": [
+        0
+      ],
+      "immersive_melodies:piano": [
+        2,
+        0,
+        1
+      ],
+      "immersive_melodies:tiny_drum": [
+        6,
+        7
+      ],
+      "immersive_melodies:triangle": [
+        7
+      ]
+    },
+    "puchamon_amigos:melody/numb_-_linkin_park.midi": {
+      "immersive_melodies:flute": [
+        8
+      ],
+      "immersive_melodies:bagpipe": [
+        8
+      ],
+      "immersive_melodies:trumpet": [
+        8
+      ],
+      "immersive_melodies:lute": [
+        3
+      ],
+      "immersive_melodies:vielle": [
+        1
+      ],
+      "immersive_melodies:ender_bass": [
+        5
+      ],
+      "immersive_melodies:didgeridoo": [
+        5
+      ],
+      "immersive_melodies:handpan": [
+        3
+      ],
+      "immersive_melodies:piano": [
+        8,
+        3,
+        4,
+        5
+      ],
+      "immersive_melodies:tiny_drum": [
+        2
+      ],
+      "immersive_melodies:triangle": [
+        2
+      ]
+    },
+    "puchamon_amigos:melody/me_libere_-_el_gran_combo_de_puerto_rico_fragmento.midi": {
+      "immersive_melodies:flute": [
+        2
+      ],
+      "immersive_melodies:bagpipe": [
+        2
+      ],
+      "immersive_melodies:trumpet": [
+        3
+      ],
+      "immersive_melodies:lute": [
+        1
+      ],
+      "immersive_melodies:vielle": [
+        3
+      ],
+      "immersive_melodies:ender_bass": [
+        0
+      ],
+      "immersive_melodies:didgeridoo": [
+        0
+      ],
+      "immersive_melodies:handpan": [
+        1
+      ],
+      "immersive_melodies:piano": [
+        2,
+        1,
+        0
+      ],
+      "immersive_melodies:tiny_drum": [
+        7
+      ],
+      "immersive_melodies:triangle": [
+        7
+      ]
+    },
+    "puchamon_amigos:melody/master_of_puppets_-_metallica.midi": {
+      "immersive_melodies:flute": [
+        0
+      ],
+      "immersive_melodies:bagpipe": [
+        0
+      ],
+      "immersive_melodies:trumpet": [
+        0
+      ],
+      "immersive_melodies:lute": [
+        2
+      ],
+      "immersive_melodies:vielle": [
+        0
+      ],
+      "immersive_melodies:ender_bass": [
+        6
+      ],
+      "immersive_melodies:didgeridoo": [
+        6
+      ],
+      "immersive_melodies:handpan": [
+        1
+      ],
+      "immersive_melodies:piano": [
+        0,
+        1,
+        2,
+        6
+      ],
+      "immersive_melodies:tiny_drum": [
+        8
+      ],
+      "immersive_melodies:triangle": [
+        8
+      ]
+    },
+    "puchamon_amigos:melody/billie_jean_-_michael_jackson.midi": {
+      "immersive_melodies:flute": [
+        0
+      ],
+      "immersive_melodies:bagpipe": [
+        0
+      ],
+      "immersive_melodies:trumpet": [
+        0
+      ],
+      "immersive_melodies:lute": [
+        2
+      ],
+      "immersive_melodies:vielle": [
+        3
+      ],
+      "immersive_melodies:ender_bass": [
+        6
+      ],
+      "immersive_melodies:didgeridoo": [
+        6
+      ],
+      "immersive_melodies:handpan": [
+        1
+      ],
+      "immersive_melodies:piano": [
+        0,
+        1,
+        2,
+        6
+      ],
+      "immersive_melodies:tiny_drum": [
+        7
+      ],
+      "immersive_melodies:triangle": [
+        7
+      ]
+    },
+    "puchamon_amigos:melody/never_gonna_give_you_up_-_rick_astley.midi": {
+      "immersive_melodies:flute": [
+        3
+      ],
+      "immersive_melodies:bagpipe": [
+        3
+      ],
+      "immersive_melodies:trumpet": [
+        8
+      ],
+      "immersive_melodies:lute": [
+        2
+      ],
+      "immersive_melodies:vielle": [
+        10
+      ],
+      "immersive_melodies:ender_bass": [
+        1
+      ],
+      "immersive_melodies:didgeridoo": [
+        1
+      ],
+      "immersive_melodies:handpan": [
+        0
+      ],
+      "immersive_melodies:piano": [
+        3,
+        0,
+        2,
+        1
+      ],
+      "immersive_melodies:tiny_drum": [
+        5,
+        6,
+        9
+      ],
+      "immersive_melodies:triangle": [
+        9
+      ]
+    },
+    "puchamon_amigos:melody/neverita_-_bad_bunny_fragmento.midi": {
+      "immersive_melodies:flute": [
+        3
+      ],
+      "immersive_melodies:bagpipe": [
+        3
+      ],
+      "immersive_melodies:trumpet": [
+        3
+      ],
+      "immersive_melodies:lute": [
+        0
+      ],
+      "immersive_melodies:vielle": [
+        4
+      ],
+      "immersive_melodies:ender_bass": [
+        1
+      ],
+      "immersive_melodies:didgeridoo": [
+        1
+      ],
+      "immersive_melodies:handpan": [
+        0
+      ],
+      "immersive_melodies:piano": [
+        3,
+        0,
+        2,
+        1
+      ],
+      "immersive_melodies:tiny_drum": [
+        6
+      ],
+      "immersive_melodies:triangle": [
+        6
+      ]
+    },
+    "puchamon_amigos:melody/pedro_navaja_-_ruben_blades_y_willie_colon_fragmento.midi": {
+      "immersive_melodies:flute": [
+        1
+      ],
+      "immersive_melodies:bagpipe": [
+        1
+      ],
+      "immersive_melodies:trumpet": [
+        1
+      ],
+      "immersive_melodies:lute": [
+        0
+      ],
+      "immersive_melodies:vielle": [
+        1
+      ],
+      "immersive_melodies:ender_bass": [
+        -1
+      ],
+      "immersive_melodies:didgeridoo": [
+        -1
+      ],
+      "immersive_melodies:handpan": [
+        0
+      ],
+      "immersive_melodies:piano": [
+        1,
+        0
+      ],
+      "immersive_melodies:tiny_drum": [
+        2
+      ],
+      "immersive_melodies:triangle": [
+        2
+      ]
+    },
+    "puchamon_amigos:melody/he_is_a_pirate_-_pirates_of_the_caribbean.midi": {
+      "immersive_melodies:flute": [
+        0
+      ],
+      "immersive_melodies:bagpipe": [
+        0
+      ],
+      "immersive_melodies:trumpet": [
+        0
+      ],
+      "immersive_melodies:lute": [
+        0
+      ],
+      "immersive_melodies:vielle": [
+        0
+      ],
+      "immersive_melodies:ender_bass": [
+        1
+      ],
+      "immersive_melodies:didgeridoo": [
+        1
+      ],
+      "immersive_melodies:handpan": [
+        0
+      ],
+      "immersive_melodies:piano": [
+        0,
+        1
+      ],
+      "immersive_melodies:tiny_drum": [
+        -1
+      ],
+      "immersive_melodies:triangle": [
+        -1
+      ]
+    },
+    "puchamon_amigos:melody/centro_pokemon_-_pokemon_fragmento.midi": {
+      "immersive_melodies:flute": [
+        1
+      ],
+      "immersive_melodies:bagpipe": [
+        1
+      ],
+      "immersive_melodies:trumpet": [
+        1
+      ],
+      "immersive_melodies:lute": [
+        1
+      ],
+      "immersive_melodies:vielle": [
+        0
+      ],
+      "immersive_melodies:ender_bass": [
+        2
+      ],
+      "immersive_melodies:didgeridoo": [
+        2
+      ],
+      "immersive_melodies:handpan": [
+        0
+      ],
+      "immersive_melodies:piano": [
+        1,
+        2
+      ],
+      "immersive_melodies:tiny_drum": [
+        -1
+      ],
+      "immersive_melodies:triangle": [
+        -1
+      ]
+    },
+    "puchamon_amigos:melody/combate_salvaje_-_pokemon_rojo_azul_amarillo.midi": {
+      "immersive_melodies:flute": [
+        0
+      ],
+      "immersive_melodies:bagpipe": [
+        0
+      ],
+      "immersive_melodies:trumpet": [
+        0
+      ],
+      "immersive_melodies:lute": [
+        0
+      ],
+      "immersive_melodies:vielle": [
+        0
+      ],
+      "immersive_melodies:ender_bass": [
+        0
+      ],
+      "immersive_melodies:didgeridoo": [
+        0
+      ],
+      "immersive_melodies:handpan": [
+        0
+      ],
+      "immersive_melodies:piano": [
+        0
+      ],
+      "immersive_melodies:tiny_drum": [
+        -1
+      ],
+      "immersive_melodies:triangle": [
+        -1
+      ]
+    },
+    "puchamon_amigos:melody/quedate_-_bizarrap_y_quevedo_-_session_52_fragmento.midi": {
+      "immersive_melodies:flute": [
+        3
+      ],
+      "immersive_melodies:bagpipe": [
+        3
+      ],
+      "immersive_melodies:trumpet": [
+        3
+      ],
+      "immersive_melodies:lute": [
+        6
+      ],
+      "immersive_melodies:vielle": [
+        4
+      ],
+      "immersive_melodies:ender_bass": [
+        1
+      ],
+      "immersive_melodies:didgeridoo": [
+        1
+      ],
+      "immersive_melodies:handpan": [
+        6
+      ],
+      "immersive_melodies:piano": [
+        3,
+        6,
+        1
+      ],
+      "immersive_melodies:tiny_drum": [
+        7
+      ],
+      "immersive_melodies:triangle": [
+        7
+      ]
+    },
+    "puchamon_amigos:melody/bohemian_rhapsody_-_queen.midi": {
+      "immersive_melodies:flute": [
+        5
+      ],
+      "immersive_melodies:bagpipe": [
+        5
+      ],
+      "immersive_melodies:trumpet": [
+        0
+      ],
+      "immersive_melodies:lute": [
+        8
+      ],
+      "immersive_melodies:vielle": [
+        4
+      ],
+      "immersive_melodies:ender_bass": [
+        3
+      ],
+      "immersive_melodies:didgeridoo": [
+        3
+      ],
+      "immersive_melodies:handpan": [
+        2
+      ],
+      "immersive_melodies:piano": [
+        5,
+        2,
+        8,
+        3
+      ],
+      "immersive_melodies:tiny_drum": [
+        11
+      ],
+      "immersive_melodies:triangle": [
+        11
+      ]
+    },
+    "puchamon_amigos:melody/quimbara_-_celia_cruz_y_johnny_pacheco_fragmento.midi": {
+      "immersive_melodies:flute": [
+        2
+      ],
+      "immersive_melodies:bagpipe": [
+        2
+      ],
+      "immersive_melodies:trumpet": [
+        3
+      ],
+      "immersive_melodies:lute": [
+        1
+      ],
+      "immersive_melodies:vielle": [
+        3
+      ],
+      "immersive_melodies:ender_bass": [
+        0
+      ],
+      "immersive_melodies:didgeridoo": [
+        0
+      ],
+      "immersive_melodies:handpan": [
+        1
+      ],
+      "immersive_melodies:piano": [
+        2,
+        1,
+        0
+      ],
+      "immersive_melodies:tiny_drum": [
+        5
+      ],
+      "immersive_melodies:triangle": [
+        5
+      ]
+    },
+    "puchamon_amigos:melody/californication_-_red_hot_chili_peppers.midi": {
+      "immersive_melodies:flute": [
+        6
+      ],
+      "immersive_melodies:bagpipe": [
+        6
+      ],
+      "immersive_melodies:trumpet": [
+        6
+      ],
+      "immersive_melodies:lute": [
+        0
+      ],
+      "immersive_melodies:vielle": [
+        5
+      ],
+      "immersive_melodies:ender_bass": [
+        4
+      ],
+      "immersive_melodies:didgeridoo": [
+        4
+      ],
+      "immersive_melodies:handpan": [
+        0
+      ],
+      "immersive_melodies:piano": [
+        6,
+        0,
+        1,
+        4
+      ],
+      "immersive_melodies:tiny_drum": [
+        2,
+        3
+      ],
+      "immersive_melodies:triangle": [
+        3
+      ]
+    },
+    "puchamon_amigos:melody/si_antes_te_hubiera_conocido_-_karol_g_fragmento.midi": {
+      "immersive_melodies:flute": [
+        3
+      ],
+      "immersive_melodies:bagpipe": [
+        3
+      ],
+      "immersive_melodies:trumpet": [
+        3
+      ],
+      "immersive_melodies:lute": [
+        0
+      ],
+      "immersive_melodies:vielle": [
+        4
+      ],
+      "immersive_melodies:ender_bass": [
+        1
+      ],
+      "immersive_melodies:didgeridoo": [
+        1
+      ],
+      "immersive_melodies:handpan": [
+        0
+      ],
+      "immersive_melodies:piano": [
+        3,
+        0,
+        2,
+        1
+      ],
+      "immersive_melodies:tiny_drum": [
+        7
+      ],
+      "immersive_melodies:triangle": [
+        7
+      ]
+    },
+    "puchamon_amigos:melody/all_star_-_smash_mouth.midi": {
+      "immersive_melodies:flute": [
+        8
+      ],
+      "immersive_melodies:bagpipe": [
+        8
+      ],
+      "immersive_melodies:trumpet": [
+        8
+      ],
+      "immersive_melodies:lute": [
+        0
+      ],
+      "immersive_melodies:vielle": [
+        8
+      ],
+      "immersive_melodies:ender_bass": [
+        3
+      ],
+      "immersive_melodies:didgeridoo": [
+        3
+      ],
+      "immersive_melodies:handpan": [
+        0
+      ],
+      "immersive_melodies:piano": [
+        8,
+        0,
+        1,
+        3
+      ],
+      "immersive_melodies:tiny_drum": [
+        5,
+        6
+      ],
+      "immersive_melodies:triangle": [
+        6
+      ]
+    },
+    "puchamon_amigos:melody/tema_principal_-_star_wars_-_john_williams_fragmento.midi": {
+      "immersive_melodies:flute": [
+        2
+      ],
+      "immersive_melodies:bagpipe": [
+        2
+      ],
+      "immersive_melodies:trumpet": [
+        1
+      ],
+      "immersive_melodies:lute": [
+        2
+      ],
+      "immersive_melodies:vielle": [
+        3
+      ],
+      "immersive_melodies:ender_bass": [
+        0
+      ],
+      "immersive_melodies:didgeridoo": [
+        0
+      ],
+      "immersive_melodies:handpan": [
+        3
+      ],
+      "immersive_melodies:piano": [
+        2,
+        0
+      ],
+      "immersive_melodies:tiny_drum": [
+        7
+      ],
+      "immersive_melodies:triangle": [
+        7
+      ]
+    },
+    "puchamon_amigos:melody/suavemente_-_elvis_crespo_fragmento.midi": {
+      "immersive_melodies:flute": [
+        2
+      ],
+      "immersive_melodies:bagpipe": [
+        2
+      ],
+      "immersive_melodies:trumpet": [
+        4
+      ],
+      "immersive_melodies:lute": [
+        0
+      ],
+      "immersive_melodies:vielle": [
+        3
+      ],
+      "immersive_melodies:ender_bass": [
+        1
+      ],
+      "immersive_melodies:didgeridoo": [
+        1
+      ],
+      "immersive_melodies:handpan": [
+        0
+      ],
+      "immersive_melodies:piano": [
+        2,
+        0,
+        1
+      ],
+      "immersive_melodies:tiny_drum": [
+        9
+      ],
+      "immersive_melodies:triangle": [
+        9
+      ]
+    },
+    "puchamon_amigos:melody/medley_-_super_mario_64.midi": {
+      "immersive_melodies:flute": [
+        0
+      ],
+      "immersive_melodies:bagpipe": [
+        0
+      ],
+      "immersive_melodies:trumpet": [
+        0
+      ],
+      "immersive_melodies:lute": [
+        1
+      ],
+      "immersive_melodies:vielle": [
+        0
+      ],
+      "immersive_melodies:ender_bass": [
+        -1
+      ],
+      "immersive_melodies:didgeridoo": [
+        -1
+      ],
+      "immersive_melodies:handpan": [
+        1
+      ],
+      "immersive_melodies:piano": [
+        0,
+        1
+      ],
+      "immersive_melodies:tiny_drum": [
+        -1
+      ],
+      "immersive_melodies:triangle": [
+        -1
+      ]
+    },
+    "puchamon_amigos:melody/my_heart_will_go_on_-_celine_dion_-_titanic.midi": {
+      "immersive_melodies:flute": [
+        5
+      ],
+      "immersive_melodies:bagpipe": [
+        5
+      ],
+      "immersive_melodies:trumpet": [
+        2
+      ],
+      "immersive_melodies:lute": [
+        12
+      ],
+      "immersive_melodies:vielle": [
+        14
+      ],
+      "immersive_melodies:ender_bass": [
+        18
+      ],
+      "immersive_melodies:didgeridoo": [
+        18
+      ],
+      "immersive_melodies:handpan": [
+        12
+      ],
+      "immersive_melodies:piano": [
+        5,
+        12,
+        13,
+        18
+      ],
+      "immersive_melodies:tiny_drum": [
+        19,
+        20,
+        21
+      ],
+      "immersive_melodies:triangle": [
+        21
+      ]
+    },
+    "puchamon_amigos:melody/todo_de_ti_-_rauw_alejandro_fragmento.midi": {
+      "immersive_melodies:flute": [
+        10
+      ],
+      "immersive_melodies:bagpipe": [
+        10
+      ],
+      "immersive_melodies:trumpet": [
+        3
+      ],
+      "immersive_melodies:lute": [
+        0
+      ],
+      "immersive_melodies:vielle": [
+        4
+      ],
+      "immersive_melodies:ender_bass": [
+        1
+      ],
+      "immersive_melodies:didgeridoo": [
+        1
+      ],
+      "immersive_melodies:handpan": [
+        0
+      ],
+      "immersive_melodies:piano": [
+        10,
+        0,
+        5,
+        1
+      ],
+      "immersive_melodies:tiny_drum": [
+        8
+      ],
+      "immersive_melodies:triangle": [
+        8
+      ]
+    },
+    "puchamon_amigos:melody/unravel_-_tk_from_ling_tosite_sigure_-_tokyo_ghoul.midi": {
+      "immersive_melodies:flute": [
+        0
+      ],
+      "immersive_melodies:bagpipe": [
+        0
+      ],
+      "immersive_melodies:trumpet": [
+        0
+      ],
+      "immersive_melodies:lute": [
+        0
+      ],
+      "immersive_melodies:vielle": [
+        0
+      ],
+      "immersive_melodies:ender_bass": [
+        0
+      ],
+      "immersive_melodies:didgeridoo": [
+        0
+      ],
+      "immersive_melodies:handpan": [
+        0
+      ],
+      "immersive_melodies:piano": [
+        0
+      ],
+      "immersive_melodies:tiny_drum": [
+        -1
+      ],
+      "immersive_melodies:triangle": [
+        -1
+      ]
+    },
+    "puchamon_amigos:melody/tu_eres_ajena_-_eddy_herrera_fragmento.midi": {
+      "immersive_melodies:flute": [
+        2
+      ],
+      "immersive_melodies:bagpipe": [
+        2
+      ],
+      "immersive_melodies:trumpet": [
+        3
+      ],
+      "immersive_melodies:lute": [
+        1
+      ],
+      "immersive_melodies:vielle": [
+        3
+      ],
+      "immersive_melodies:ender_bass": [
+        0
+      ],
+      "immersive_melodies:didgeridoo": [
+        0
+      ],
+      "immersive_melodies:handpan": [
+        1
+      ],
+      "immersive_melodies:piano": [
+        2,
+        1,
+        0
+      ],
+      "immersive_melodies:tiny_drum": [
+        8
+      ],
+      "immersive_melodies:triangle": [
+        8
+      ]
+    },
+    "puchamon_amigos:melody/un_x100to_-_grupo_frontera_y_bad_bunny_fragmento.midi": {
+      "immersive_melodies:flute": [
+        3
+      ],
+      "immersive_melodies:bagpipe": [
+        3
+      ],
+      "immersive_melodies:trumpet": [
+        3
+      ],
+      "immersive_melodies:lute": [
+        0
+      ],
+      "immersive_melodies:vielle": [
+        0
+      ],
+      "immersive_melodies:ender_bass": [
+        1
+      ],
+      "immersive_melodies:didgeridoo": [
+        1
+      ],
+      "immersive_melodies:handpan": [
+        5
+      ],
+      "immersive_melodies:piano": [
+        3,
+        5,
+        6,
+        1
+      ],
+      "immersive_melodies:tiny_drum": [
+        9
+      ],
+      "immersive_melodies:triangle": [
+        9
+      ]
+    },
+    "puchamon_amigos:melody/yo_perreo_sola_-_bad_bunny_fragmento.midi": {
+      "immersive_melodies:flute": [
+        3
+      ],
+      "immersive_melodies:bagpipe": [
+        3
+      ],
+      "immersive_melodies:trumpet": [
+        3
+      ],
+      "immersive_melodies:lute": [
+        4
+      ],
+      "immersive_melodies:vielle": [
+        2
+      ],
+      "immersive_melodies:ender_bass": [
+        1
+      ],
+      "immersive_melodies:didgeridoo": [
+        1
+      ],
+      "immersive_melodies:handpan": [
+        4
+      ],
+      "immersive_melodies:piano": [
+        3,
+        4,
+        1
+      ],
+      "immersive_melodies:tiny_drum": [
+        5,
+        6
+      ],
+      "immersive_melodies:triangle": [
+        6
+      ]
+    }
+  }
+}

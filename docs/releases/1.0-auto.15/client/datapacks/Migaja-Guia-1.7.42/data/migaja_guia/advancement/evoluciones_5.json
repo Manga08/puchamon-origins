@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "valid": {
+      "trigger": "cobblemon:pokemon_evolved",
+      "conditions": {
+        "species": "any",
+        "evolution": "any",
+        "count": 5
+      }
+    }
+  },
+  "requirements": [
+    [
+      "valid"
+    ]
+  ]
+}

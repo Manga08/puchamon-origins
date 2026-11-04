@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "receta_0": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "mcwbridges:iron_bridge_stair_recycle"
+      }
+    },
+    "receta_1": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "mcwbridges:iron_bridge_middle"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "receta_0",
+      "receta_1"
+    ]
+  ]
+}

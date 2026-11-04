@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "elite_defeated": {
+      "conditions": {
+        "trainer_ids": [
+          "hoenn_league_drake"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "elite_defeated"
+    ]
+  ]
+}

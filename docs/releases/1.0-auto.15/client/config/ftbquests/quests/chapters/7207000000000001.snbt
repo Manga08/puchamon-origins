@@ -1,0 +1,302 @@
+{
+	autofocus_id: "7307000000000001"
+	default_hide_dependency_lines: false
+	default_min_width: 200
+	default_quest_shape: "rsquare"
+	filename: "7207000000000001"
+	group: "6111000000000001"
+	icon: {
+		id: "minecraft:book"
+	}
+	id: "7207000000000001"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "minecraft:book"
+			}
+			id: "7307000000000001"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000002"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:crafting_table"
+			}
+			id: "7307000000000003"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000004"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:spyglass"
+			}
+			id: "7307000000000005"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000006"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "7307000000000007"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000008"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:pokedex_red"
+			}
+			id: "7307000000000009"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "740700000000000A"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "minecraft:carrot_on_a_stick"
+			}
+			id: "730700000000000B"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "740700000000000C"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:oran_berry"
+			}
+			id: "730700000000000D"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "740700000000000E"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			icon: {
+				id: "minecraft:saddle"
+			}
+			id: "730700000000000F"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000010"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			icon: {
+				id: "minecraft:feather"
+			}
+			id: "7307000000000011"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000012"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 6.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:pc"
+			}
+			id: "7307000000000013"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000014"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				id: "minecraft:map"
+			}
+			id: "7307000000000015"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000016"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				id: "minecraft:chest"
+			}
+			id: "7307000000000017"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000018"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				id: "minecraft:barrel"
+			}
+			id: "7307000000000019"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "740700000000001A"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			icon: {
+				id: "minecraft:iron_pickaxe"
+			}
+			id: "730700000000001B"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "740700000000001C"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 12.0d
+		}
+		{
+			icon: {
+				id: "minecraft:note_block"
+			}
+			id: "730700000000001D"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "740700000000001E"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 12.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:great_ball"
+			}
+			id: "730700000000001F"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000020"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 15.0d
+		}
+		{
+			icon: {
+				id: "minecraft:glowstone_dust"
+			}
+			id: "7307000000000021"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000022"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 15.0d
+		}
+		{
+			icon: {
+				id: "minecraft:jukebox"
+			}
+			id: "7307000000000023"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000024"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 15.0d
+		}
+		{
+			icon: {
+				id: "minecraft:comparator"
+			}
+			id: "7307000000000025"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000026"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 18.0d
+		}
+	]
+}
