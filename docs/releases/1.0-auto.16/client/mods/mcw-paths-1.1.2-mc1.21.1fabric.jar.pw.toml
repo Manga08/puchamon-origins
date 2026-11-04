@@ -1,0 +1,8 @@
+name = "mcw-paths-1.1.2-mc1.21.1fabric.jar"
+filename = "mcw-paths-1.1.2-mc1.21.1fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VRLhWB91/versions/eINOtRRK/mcw-paths-1.1.2-mc1.21.1fabric.jar"
+hash-format = "sha256"
+hash = "f382b057bc62d5ef324021cbcd372f47ee068aa4930e0e14da6863df33081455"

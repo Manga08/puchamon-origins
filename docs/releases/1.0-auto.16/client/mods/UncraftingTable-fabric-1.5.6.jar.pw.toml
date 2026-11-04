@@ -1,0 +1,8 @@
+name = "Simple Uncrafting Table"
+filename = "UncraftingTable-fabric-1.5.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/d0f1a75r/versions/Tv5AwjFD/UncraftingTable-fabric-1.5.6.jar"
+hash-format = "sha256"
+hash = "21e9f883549f0f89a6f71dd13676e6d272783ac74ba2f20e711e26f8d8678022"

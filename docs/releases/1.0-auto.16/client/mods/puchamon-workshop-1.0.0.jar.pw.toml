@@ -1,0 +1,8 @@
+name = "puchamon-workshop-1.0.0.jar"
+filename = "puchamon-workshop-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://manga08.github.io/puchamon-origins/releases/1.0-auto.15/blobs/6cf0c01e602b650eb917b938df2aee1b75229d3baa20e9af219835f2d9def786.jar"
+hash-format = "sha256"
+hash = "6cf0c01e602b650eb917b938df2aee1b75229d3baa20e9af219835f2d9def786"

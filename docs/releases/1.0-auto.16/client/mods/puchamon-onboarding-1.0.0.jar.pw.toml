@@ -1,0 +1,8 @@
+name = "puchamon-onboarding-1.0.0.jar"
+filename = "puchamon-onboarding-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://manga08.github.io/puchamon-origins/releases/1.0-auto.1/blobs/e4e524f7060105963c18504d3c3aa6be15630d2bef6e30b4bc293fc23b83b77f.jar"
+hash-format = "sha256"
+hash = "e4e524f7060105963c18504d3c3aa6be15630d2bef6e30b4bc293fc23b83b77f"

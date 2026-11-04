@@ -1,0 +1,8 @@
+name = "neruina-3.3.3+1.21.1-fabric.jar"
+filename = "neruina-3.3.3+1.21.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1s5x833P/versions/S3RKG9zF/neruina-3.3.3%2B1.21.1-fabric.jar"
+hash-format = "sha256"
+hash = "a3a49320128920256b43857e5254e5cd2a481417da61d0999a249aceb6125b20"

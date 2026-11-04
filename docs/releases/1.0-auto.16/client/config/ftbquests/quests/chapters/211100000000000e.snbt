@@ -1,0 +1,2130 @@
+{
+	autofocus_id: "2211000000000001"
+	default_hide_dependency_lines: false
+	default_min_width: 220
+	default_quest_shape: "rsquare"
+	filename: "211100000000000e"
+	group: "6111000000000001"
+	icon: {
+		id: "minecraft:nether_star"
+	}
+	id: "211100000000000E"
+	images: [ ]
+	order_index: 0
+	quest_links: [
+		{
+			id: "5111000000000325"
+			linked_quest: "22110000000002B7"
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			id: "5111000000000326"
+			linked_quest: "22110000000002D3"
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			id: "5111000000000327"
+			linked_quest: "22110000000002F0"
+			x: -5.0d
+			y: 15.0d
+		}
+		{
+			id: "5111000000000328"
+			linked_quest: "2211000000000146"
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			id: "5111000000000329"
+			linked_quest: "22110000000001F2"
+			x: -5.0d
+			y: 3.0d
+		}
+		{
+			id: "511100000000032A"
+			linked_quest: "2211000000000308"
+			x: 5.0d
+			y: 6.0d
+		}
+		{
+			id: "511100000000032B"
+			linked_quest: "2211000000000300"
+			x: -5.0d
+			y: 24.0d
+		}
+		{
+			id: "511100000000032C"
+			linked_quest: "221100000000025C"
+			x: 5.0d
+			y: 15.0d
+		}
+		{
+			id: "7607000000000107"
+			linked_quest: "7307000000000001"
+			x: -9.0d
+			y: -3.0d
+		}
+		{
+			id: "7607000000000108"
+			linked_quest: "7307000000000027"
+			x: 9.0d
+			y: -3.0d
+		}
+		{
+			id: "7607000000000109"
+			linked_quest: "730700000000004D"
+			x: 9.0d
+			y: 0.0d
+		}
+	]
+	quests: [
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "2211000000000001"
+			optional: true
+			shape: "gear"
+			size: 0.9d
+			tasks: [{
+				id: "3111000000000002"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "2211000000000003"
+			optional: true
+			shape: "gear"
+			size: 0.9d
+			tasks: [{
+				id: "3111000000000004"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "2211000000000005"
+			optional: true
+			shape: "gear"
+			size: 0.9d
+			tasks: [{
+				id: "3111000000000006"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:pokedex_red"
+			}
+			id: "2211000000000008"
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "4111000000000007"
+				item: {
+					count: 1
+					id: "cobblemon:oran_berry"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "cobblemon:root"
+				criterion: ""
+				id: "3111000000000009"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2211000000000008"]
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "221100000000000B"
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "411100000000000A"
+				item: {
+					count: 1
+					id: "cobblemon:poke_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "cobblemon:first_catch"
+				criterion: ""
+				id: "311100000000000C"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["221100000000000B"]
+			icon: {
+				id: "cobblemon:healing_machine"
+			}
+			id: "221100000000001A"
+			rewards: [{
+				auto: "disabled"
+				count: 2
+				id: "4111000000000019"
+				item: {
+					count: 1
+					id: "cobblemon:potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "cobblemon:healing_machine"
+				criterion: ""
+				id: "311100000000001B"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["221100000000001A"]
+			icon: {
+				id: "cobblemon:potion"
+			}
+			id: "2211000000000026"
+			rewards: [{
+				auto: "disabled"
+				count: 2
+				id: "4111000000000025"
+				item: {
+					count: 1
+					id: "cobblemon:potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:victoria_salvaje"
+				criterion: ""
+				id: "3111000000000027"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["2211000000000026"]
+			icon: {
+				id: "cobblemon:pc"
+			}
+			id: "221100000000000E"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 2
+				id: "411100000000000D"
+				item: {
+					count: 1
+					id: "cobblemon:potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "cobblemon:full_party"
+				criterion: ""
+				id: "311100000000000F"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2211000000000026"]
+			icon: {
+				id: "cobblemon:pc"
+			}
+			id: "221100000000001D"
+			optional: true
+			rewards: [
+				{
+					auto: "disabled"
+					count: 8
+					id: "411100000000001C"
+					item: {
+						count: 1
+						id: "minecraft:redstone"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 8
+					id: "75070000000000AD"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "migaja_guia:fabricar_221100000000001d"
+				criterion: ""
+				id: "311100000000001E"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["2211000000000026"]
+			icon: {
+				id: "cobblemon:pokedex_red"
+			}
+			id: "2211000000000020"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "411100000000001F"
+				item: {
+					count: 1
+					id: "cobblemon:poke_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "cobblemon:craft_pokedex"
+				criterion: ""
+				id: "3111000000000021"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["2211000000000026"]
+			icon: {
+				id: "rctmod:trainer_card"
+			}
+			id: "2211000000000023"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 16
+					id: "4111000000000022"
+					item: {
+						count: 1
+						id: "minecraft:paper"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 8
+					id: "75070000000000AE"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "3111000000000024"
+				item: { count: 1, id: "rctmod:trainer_card" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["2211000000000026"]
+			icon: {
+				id: "cobblemon:potion"
+			}
+			id: "221100000000002C"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 2
+				id: "411100000000002B"
+				item: {
+					count: 1
+					id: "cobblemon:super_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:victoria_npc"
+				criterion: ""
+				id: "311100000000002D"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["2211000000000026"]
+			icon: {
+				id: "cobblemon:exp_candy_s"
+			}
+			id: "2211000000000038"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 3
+				id: "4111000000000037"
+				item: {
+					count: 1
+					id: "cobblemon:super_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:nivel_20"
+				criterion: ""
+				id: "3111000000000039"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["2211000000000023"]
+			icon: {
+				id: "cobblemon:potion"
+			}
+			id: "2211000000000272"
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "3111000000000273"
+				item: { count: 1, id: "cobblemon:potion" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["2211000000000272"]
+			icon: {
+				id: "rctmod:trainer_card"
+			}
+			id: "2211000000000275"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "3111000000000276"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["2211000000000272"]
+			icon: {
+				id: "cobbleversebadges:kanto_boulder_badge"
+			}
+			id: "221100000000008D"
+			rewards: [{
+				auto: "disabled"
+				count: 2
+				id: "411100000000008C"
+				item: {
+					count: 1
+					id: "cobblemon:super_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_kanto_brock"
+				criterion: ""
+				id: "311100000000008E"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 21.0d
+		}
+		{
+			dependencies: ["221100000000008D"]
+			icon: {
+				id: "cobbleversebadges:kanto_cascade_badge"
+			}
+			id: "2211000000000090"
+			rewards: [{
+				auto: "disabled"
+				count: 2
+				id: "411100000000008F"
+				item: {
+					count: 1
+					id: "cobblemon:super_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_kanto_misty"
+				criterion: ""
+				id: "3111000000000091"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 24.0d
+		}
+		{
+			dependencies: ["2211000000000090"]
+			icon: {
+				id: "cobbleversebadges:kanto_thunder_badge"
+			}
+			id: "2211000000000093"
+			rewards: [{
+				auto: "disabled"
+				count: 3
+				id: "4111000000000092"
+				item: {
+					count: 1
+					id: "cobblemon:super_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_kanto_ltsurge"
+				criterion: ""
+				id: "3111000000000094"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 27.0d
+		}
+		{
+			dependencies: ["2211000000000093"]
+			icon: {
+				id: "cobbleversebadges:kanto_rainbow_badge"
+			}
+			id: "2211000000000096"
+			rewards: [{
+				auto: "disabled"
+				count: 3
+				id: "4111000000000095"
+				item: {
+					count: 1
+					id: "cobblemon:super_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_kanto_erika"
+				criterion: ""
+				id: "3111000000000097"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 30.0d
+		}
+		{
+			dependencies: ["2211000000000096"]
+			icon: {
+				id: "cobbleversebadges:kanto_soul_badge"
+			}
+			id: "2211000000000099"
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "4111000000000098"
+				item: {
+					count: 1
+					id: "cobblemon:super_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_kanto_koga"
+				criterion: ""
+				id: "311100000000009A"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 33.0d
+		}
+		{
+			dependencies: ["2211000000000099"]
+			icon: {
+				id: "cobbleversebadges:kanto_marsh_badge"
+			}
+			id: "221100000000009C"
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "411100000000009B"
+				item: {
+					count: 1
+					id: "cobblemon:super_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_kanto_sabrina"
+				criterion: ""
+				id: "311100000000009D"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 36.0d
+		}
+		{
+			dependencies: ["221100000000009C"]
+			icon: {
+				id: "cobbleversebadges:kanto_volcano_badge"
+			}
+			id: "221100000000009F"
+			rewards: [{
+				auto: "disabled"
+				count: 5
+				id: "411100000000009E"
+				item: {
+					count: 1
+					id: "cobblemon:super_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_kanto_blaine"
+				criterion: ""
+				id: "31110000000000A0"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 39.0d
+		}
+		{
+			dependencies: ["221100000000009F"]
+			icon: {
+				id: "cobbleversebadges:kanto_earth_badge"
+			}
+			id: "22110000000000A2"
+			rewards: [{
+				auto: "disabled"
+				count: 5
+				id: "41110000000000A1"
+				item: {
+					count: 1
+					id: "cobblemon:super_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_kanto_giovanni"
+				criterion: ""
+				id: "31110000000000A3"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 42.0d
+		}
+		{
+			dependencies: ["22110000000000A2"]
+			icon: {
+				id: "cobblemon:never_melt_ice"
+			}
+			id: "22110000000000A5"
+			rewards: [{
+				auto: "disabled"
+				count: 3
+				id: "41110000000000A4"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_kanto_league_lorelei"
+				criterion: ""
+				id: "31110000000000A6"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 45.0d
+		}
+		{
+			dependencies: ["22110000000000A5"]
+			icon: {
+				id: "cobblemon:punching_glove"
+			}
+			id: "22110000000000A8"
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "41110000000000A7"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_kanto_league_bruno"
+				criterion: ""
+				id: "31110000000000A9"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 48.0d
+		}
+		{
+			dependencies: ["22110000000000A8"]
+			icon: {
+				id: "cobblemon:spell_tag"
+			}
+			id: "22110000000000AB"
+			rewards: [{
+				auto: "disabled"
+				count: 5
+				id: "41110000000000AA"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_kanto_league_agatha"
+				criterion: ""
+				id: "31110000000000AC"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 51.0d
+		}
+		{
+			dependencies: ["22110000000000AB"]
+			icon: {
+				id: "cobblemon:dragon_scale"
+			}
+			id: "22110000000000AE"
+			rewards: [{
+				auto: "disabled"
+				count: 6
+				id: "41110000000000AD"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_kanto_league_lance"
+				criterion: ""
+				id: "31110000000000AF"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 54.0d
+		}
+		{
+			dependencies: ["22110000000000AE"]
+			icon: {
+				id: "cobbleversebadges:kanto_league_trophy"
+			}
+			id: "22110000000000B2"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 8
+					id: "41110000000000B0"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 2
+					id: "41110000000000B1"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 4
+					id: "75070000000000AF"
+					item: {
+						count: 1
+						id: "cobblemon:full_restore"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 1.3d
+			tasks: [{
+				advancement: "migaja_guia:trainer_kanto_champion_blue"
+				criterion: ""
+				id: "31110000000000B3"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 57.0d
+		}
+		{
+			dependencies: ["22110000000000B2"]
+			icon: {
+				id: "rctmod:trainer_card"
+			}
+			id: "2211000000000284"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "3111000000000285"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: 60.0d
+		}
+		{
+			dependencies: ["22110000000000B2"]
+			icon: {
+				id: "cobbleversebadges:johto_zephyr_badge"
+			}
+			id: "22110000000000B7"
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "41110000000000B6"
+				item: {
+					count: 1
+					id: "cobblemon:super_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_johto_valerio"
+				criterion: ""
+				id: "31110000000000B8"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 63.0d
+		}
+		{
+			dependencies: ["22110000000000B7"]
+			icon: {
+				id: "cobbleversebadges:johto_hive_badge"
+			}
+			id: "22110000000000BA"
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "41110000000000B9"
+				item: {
+					count: 1
+					id: "cobblemon:super_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_johto_raffaello"
+				criterion: ""
+				id: "31110000000000BB"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 66.0d
+		}
+		{
+			dependencies: ["22110000000000BA"]
+			icon: {
+				id: "cobbleversebadges:johto_plain_badge"
+			}
+			id: "22110000000000BD"
+			rewards: [{
+				auto: "disabled"
+				count: 5
+				id: "41110000000000BC"
+				item: {
+					count: 1
+					id: "cobblemon:super_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_johto_chiara"
+				criterion: ""
+				id: "31110000000000BE"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 69.0d
+		}
+		{
+			dependencies: ["22110000000000BD"]
+			icon: {
+				id: "cobbleversebadges:johto_fog_badge"
+			}
+			id: "22110000000000C0"
+			rewards: [{
+				auto: "disabled"
+				count: 5
+				id: "41110000000000BF"
+				item: {
+					count: 1
+					id: "cobblemon:super_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_johto_angelo"
+				criterion: ""
+				id: "31110000000000C1"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 72.0d
+		}
+		{
+			dependencies: ["22110000000000C0"]
+			icon: {
+				id: "cobbleversebadges:johto_storm_badge"
+			}
+			id: "22110000000000C3"
+			rewards: [{
+				auto: "disabled"
+				count: 6
+				id: "41110000000000C2"
+				item: {
+					count: 1
+					id: "cobblemon:super_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_johto_furio"
+				criterion: ""
+				id: "31110000000000C4"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 75.0d
+		}
+		{
+			dependencies: ["22110000000000C3"]
+			icon: {
+				id: "cobbleversebadges:johto_mineral_badge"
+			}
+			id: "22110000000000C6"
+			rewards: [{
+				auto: "disabled"
+				count: 6
+				id: "41110000000000C5"
+				item: {
+					count: 1
+					id: "cobblemon:super_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_johto_jasmine"
+				criterion: ""
+				id: "31110000000000C7"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 78.0d
+		}
+		{
+			dependencies: ["22110000000000C6"]
+			icon: {
+				id: "cobbleversebadges:johto_glacier_badge"
+			}
+			id: "22110000000000C9"
+			rewards: [{
+				auto: "disabled"
+				count: 7
+				id: "41110000000000C8"
+				item: {
+					count: 1
+					id: "cobblemon:super_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_johto_alfredo"
+				criterion: ""
+				id: "31110000000000CA"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 81.0d
+		}
+		{
+			dependencies: ["22110000000000C9"]
+			icon: {
+				id: "cobbleversebadges:johto_rising_badge"
+			}
+			id: "22110000000000CC"
+			rewards: [{
+				auto: "disabled"
+				count: 7
+				id: "41110000000000CB"
+				item: {
+					count: 1
+					id: "cobblemon:super_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_johto_sandra"
+				criterion: ""
+				id: "31110000000000CD"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 84.0d
+		}
+		{
+			dependencies: ["22110000000000CC"]
+			icon: {
+				id: "cobblemon:power_lens"
+			}
+			id: "22110000000000CF"
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "41110000000000CE"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_johto_league_pino"
+				criterion: ""
+				id: "31110000000000D0"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 87.0d
+		}
+		{
+			dependencies: ["22110000000000CF"]
+			icon: {
+				id: "cobblemon:loaded_dice"
+			}
+			id: "22110000000000D2"
+			rewards: [{
+				auto: "disabled"
+				count: 5
+				id: "41110000000000D1"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_johto_league_koga"
+				criterion: ""
+				id: "31110000000000D3"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 90.0d
+		}
+		{
+			dependencies: ["22110000000000D2"]
+			icon: {
+				id: "cobblemon:muscle_band"
+			}
+			id: "22110000000000D5"
+			rewards: [{
+				auto: "disabled"
+				count: 6
+				id: "41110000000000D4"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_johto_league_bruno"
+				criterion: ""
+				id: "31110000000000D6"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 93.0d
+		}
+		{
+			dependencies: ["22110000000000D5"]
+			icon: {
+				id: "cobblemon:razor_claw"
+			}
+			id: "22110000000000D8"
+			rewards: [{
+				auto: "disabled"
+				count: 7
+				id: "41110000000000D7"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_johto_league_karen"
+				criterion: ""
+				id: "31110000000000D9"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 96.0d
+		}
+		{
+			dependencies: ["22110000000000D8"]
+			icon: {
+				id: "cobbleversebadges:johto_league_trophy"
+			}
+			id: "22110000000000DC"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 12
+					id: "41110000000000DA"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 3
+					id: "41110000000000DB"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 6
+					id: "75070000000000B0"
+					item: {
+						count: 1
+						id: "cobblemon:full_restore"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 1.3d
+			tasks: [{
+				advancement: "migaja_guia:trainer_johto_champion_lance"
+				criterion: ""
+				id: "31110000000000DD"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 99.0d
+		}
+		{
+			dependencies: ["22110000000000DC"]
+			icon: {
+				id: "rctmod:trainer_card"
+			}
+			id: "2211000000000293"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "3111000000000294"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: 102.0d
+		}
+		{
+			dependencies: ["22110000000000DC"]
+			icon: {
+				id: "cobbleversebadges:hoenn_stone_badge"
+			}
+			id: "22110000000000E1"
+			rewards: [{
+				auto: "disabled"
+				count: 3
+				id: "41110000000000E0"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_hoenn_petra"
+				criterion: ""
+				id: "31110000000000E2"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 105.0d
+		}
+		{
+			dependencies: ["22110000000000E1"]
+			icon: {
+				id: "cobbleversebadges:hoenn_knuckle_badge"
+			}
+			id: "22110000000000E4"
+			rewards: [{
+				auto: "disabled"
+				count: 3
+				id: "41110000000000E3"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_hoenn_rudi"
+				criterion: ""
+				id: "31110000000000E5"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 108.0d
+		}
+		{
+			dependencies: ["22110000000000E4"]
+			icon: {
+				id: "cobbleversebadges:hoenn_dynamo_badge"
+			}
+			id: "22110000000000E7"
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "41110000000000E6"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_hoenn_walter"
+				criterion: ""
+				id: "31110000000000E8"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 111.0d
+		}
+		{
+			dependencies: ["22110000000000E7"]
+			icon: {
+				id: "cobbleversebadges:hoenn_heat_badge"
+			}
+			id: "22110000000000EA"
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "41110000000000E9"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_hoenn_fiammetta"
+				criterion: ""
+				id: "31110000000000EB"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 114.0d
+		}
+		{
+			dependencies: ["22110000000000EA"]
+			icon: {
+				id: "cobbleversebadges:hoenn_balance_badge"
+			}
+			id: "22110000000000ED"
+			rewards: [{
+				auto: "disabled"
+				count: 5
+				id: "41110000000000EC"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_hoenn_norman"
+				criterion: ""
+				id: "31110000000000EE"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 117.0d
+		}
+		{
+			dependencies: ["22110000000000ED"]
+			icon: {
+				id: "cobbleversebadges:hoenn_feather_badge"
+			}
+			id: "22110000000000F0"
+			rewards: [{
+				auto: "disabled"
+				count: 5
+				id: "41110000000000EF"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_hoenn_alice"
+				criterion: ""
+				id: "31110000000000F1"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 120.0d
+		}
+		{
+			dependencies: ["22110000000000F0"]
+			icon: {
+				id: "cobbleversebadges:hoenn_mind_badge"
+			}
+			id: "22110000000000F3"
+			rewards: [{
+				auto: "disabled"
+				count: 6
+				id: "41110000000000F2"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_hoenn_tell"
+				criterion: ""
+				id: "31110000000000F4"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 123.0d
+		}
+		{
+			dependencies: ["22110000000000F3"]
+			icon: {
+				id: "cobbleversebadges:hoenn_rain_badge"
+			}
+			id: "22110000000000F6"
+			rewards: [{
+				auto: "disabled"
+				count: 6
+				id: "41110000000000F5"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_hoenn_adriano"
+				criterion: ""
+				id: "31110000000000F7"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 126.0d
+		}
+		{
+			dependencies: ["22110000000000F6"]
+			icon: {
+				id: "lumymon:dark_bass"
+			}
+			id: "22110000000000F9"
+			rewards: [{
+				auto: "disabled"
+				count: 5
+				id: "41110000000000F8"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_hoenn_league_fosco"
+				criterion: ""
+				id: "31110000000000FA"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 129.0d
+		}
+		{
+			dependencies: ["22110000000000F9"]
+			icon: {
+				id: "lumymon:ghost_bloom"
+			}
+			id: "22110000000000FC"
+			rewards: [{
+				auto: "disabled"
+				count: 6
+				id: "41110000000000FB"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_hoenn_league_ester"
+				criterion: ""
+				id: "31110000000000FD"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 132.0d
+		}
+		{
+			dependencies: ["22110000000000FC"]
+			icon: {
+				id: "lumymon:ice_necklace"
+			}
+			id: "22110000000000FF"
+			rewards: [{
+				auto: "disabled"
+				count: 7
+				id: "41110000000000FE"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_hoenn_league_frida"
+				criterion: ""
+				id: "3111000000000100"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 135.0d
+		}
+		{
+			dependencies: ["22110000000000FF"]
+			icon: {
+				id: "lumymon:dragon_cap"
+			}
+			id: "2211000000000102"
+			rewards: [{
+				auto: "disabled"
+				count: 8
+				id: "4111000000000101"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_hoenn_league_drake"
+				criterion: ""
+				id: "3111000000000103"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 138.0d
+		}
+		{
+			dependencies: ["2211000000000102"]
+			icon: {
+				id: "cobbleversebadges:hoenn_league_trophy"
+			}
+			id: "2211000000000106"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 16
+					id: "4111000000000104"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 4
+					id: "4111000000000105"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 8
+					id: "75070000000000B1"
+					item: {
+						count: 1
+						id: "cobblemon:full_restore"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 1.3d
+			tasks: [{
+				advancement: "migaja_guia:trainer_hoenn_champion_rocco"
+				criterion: ""
+				id: "3111000000000107"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 141.0d
+		}
+		{
+			dependencies: ["2211000000000106"]
+			icon: {
+				id: "rctmod:trainer_card"
+			}
+			id: "22110000000002A2"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "31110000000002A3"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: 144.0d
+		}
+		{
+			dependencies: ["2211000000000106"]
+			icon: {
+				id: "cobbleversebadges:sinnoh_coal_badge"
+			}
+			id: "221100000000010B"
+			rewards: [{
+				auto: "disabled"
+				count: 5
+				id: "411100000000010A"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_sinnoh_pedro"
+				criterion: ""
+				id: "311100000000010C"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 147.0d
+		}
+		{
+			dependencies: ["221100000000010B"]
+			icon: {
+				id: "cobbleversebadges:sinnoh_forest_badge"
+			}
+			id: "221100000000010E"
+			rewards: [{
+				auto: "disabled"
+				count: 5
+				id: "411100000000010D"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_sinnoh_gardenia"
+				criterion: ""
+				id: "311100000000010F"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 150.0d
+		}
+		{
+			dependencies: ["221100000000010E"]
+			icon: {
+				id: "cobbleversebadges:sinnoh_cobble_badge"
+			}
+			id: "2211000000000111"
+			rewards: [{
+				auto: "disabled"
+				count: 6
+				id: "4111000000000110"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_sinnoh_marzia"
+				criterion: ""
+				id: "3111000000000112"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 153.0d
+		}
+		{
+			dependencies: ["2211000000000111"]
+			icon: {
+				id: "cobbleversebadges:sinnoh_fen_badge"
+			}
+			id: "2211000000000114"
+			rewards: [{
+				auto: "disabled"
+				count: 6
+				id: "4111000000000113"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_sinnoh_omar"
+				criterion: ""
+				id: "3111000000000115"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 156.0d
+		}
+		{
+			dependencies: ["2211000000000114"]
+			icon: {
+				id: "cobbleversebadges:sinnoh_relic_badge"
+			}
+			id: "2211000000000117"
+			rewards: [{
+				auto: "disabled"
+				count: 7
+				id: "4111000000000116"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_sinnoh_fannie"
+				criterion: ""
+				id: "3111000000000118"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 159.0d
+		}
+		{
+			dependencies: ["2211000000000117"]
+			icon: {
+				id: "cobbleversebadges:sinnoh_mine_badge"
+			}
+			id: "221100000000011A"
+			rewards: [{
+				auto: "disabled"
+				count: 7
+				id: "4111000000000119"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_sinnoh_ferruccio"
+				criterion: ""
+				id: "311100000000011B"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 162.0d
+		}
+		{
+			dependencies: ["221100000000011A"]
+			icon: {
+				id: "cobbleversebadges:sinnoh_icicle_badge"
+			}
+			id: "221100000000011D"
+			rewards: [{
+				auto: "disabled"
+				count: 8
+				id: "411100000000011C"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_sinnoh_bianca"
+				criterion: ""
+				id: "311100000000011E"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 165.0d
+		}
+		{
+			dependencies: ["221100000000011D"]
+			icon: {
+				id: "cobbleversebadges:sinnoh_beacon_badge"
+			}
+			id: "2211000000000120"
+			rewards: [{
+				auto: "disabled"
+				count: 8
+				id: "411100000000011F"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_sinnoh_corrado"
+				criterion: ""
+				id: "3111000000000121"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 168.0d
+		}
+		{
+			dependencies: ["2211000000000120"]
+			icon: {
+				id: "lumymon:bug_net"
+			}
+			id: "2211000000000123"
+			rewards: [{
+				auto: "disabled"
+				count: 6
+				id: "4111000000000122"
+				item: {
+					count: 1
+					id: "cobblemon:full_restore"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_sinnoh_league_aaron"
+				criterion: ""
+				id: "3111000000000124"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 171.0d
+		}
+		{
+			dependencies: ["2211000000000123"]
+			icon: {
+				id: "lumymon:ground_shawl"
+			}
+			id: "2211000000000126"
+			rewards: [{
+				auto: "disabled"
+				count: 7
+				id: "4111000000000125"
+				item: {
+					count: 1
+					id: "cobblemon:full_restore"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_sinnoh_league_terrie"
+				criterion: ""
+				id: "3111000000000127"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 174.0d
+		}
+		{
+			dependencies: ["2211000000000126"]
+			icon: {
+				id: "lumymon:fire_flint"
+			}
+			id: "2211000000000129"
+			rewards: [{
+				auto: "disabled"
+				count: 8
+				id: "4111000000000128"
+				item: {
+					count: 1
+					id: "cobblemon:full_restore"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_sinnoh_league_vulcano"
+				criterion: ""
+				id: "311100000000012A"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 177.0d
+		}
+		{
+			dependencies: ["2211000000000129"]
+			icon: {
+				id: "lumymon:psychic_volume"
+			}
+			id: "221100000000012C"
+			rewards: [{
+				auto: "disabled"
+				count: 9
+				id: "411100000000012B"
+				item: {
+					count: 1
+					id: "cobblemon:full_restore"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:trainer_sinnoh_league_luciano"
+				criterion: ""
+				id: "311100000000012D"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 180.0d
+		}
+		{
+			dependencies: ["221100000000012C"]
+			icon: {
+				id: "cobbleversebadges:sinnoh_league_trophy"
+			}
+			id: "2211000000000130"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 20
+					id: "411100000000012E"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 5
+					id: "411100000000012F"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 10
+					id: "75070000000000B2"
+					item: {
+						count: 1
+						id: "cobblemon:full_restore"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 1.3d
+			tasks: [{
+				advancement: "migaja_guia:trainer_sinnoh_champion_camilla"
+				criterion: ""
+				id: "3111000000000131"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 183.0d
+		}
+		{
+			dependencies: ["2211000000000130"]
+			icon: {
+				id: "minecraft:nether_star"
+			}
+			id: "22110000000002B1"
+			rewards: [
+				{
+					auto: "disabled"
+					id: "41110000000002B3"
+					item: {
+						count: 1
+						id: "cobblemon:master_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 32
+					id: "41110000000002B4"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 8
+					id: "41110000000002B5"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 8
+					id: "41110000000002B6"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				advancement: "migaja_guia:trainer_sinnoh_champion_camilla"
+				criterion: ""
+				id: "31110000000002B2"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 186.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "73070000000000F3"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "74070000000000F4"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 190.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "73070000000000F5"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "74070000000000F6"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 190.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "73070000000000F7"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "74070000000000F8"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 190.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "73070000000000F9"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "74070000000000FA"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 193.0d
+		}
+	]
+}

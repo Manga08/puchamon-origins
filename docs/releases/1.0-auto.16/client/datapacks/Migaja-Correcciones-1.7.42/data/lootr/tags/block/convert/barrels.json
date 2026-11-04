@@ -1,0 +1,7 @@
+{
+ "replace":false,
+ "values":[
+  {"id":"cobblefurnies:dark_oak_cabinet","required":false},
+  {"id":"handcrafted:spruce_side_table","required":false}
+ ]
+}

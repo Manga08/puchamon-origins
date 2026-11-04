@@ -1,0 +1,8 @@
+name = "1.21.1.SecurityCraft-fabric-V0.6.1.jar"
+filename = "1.21.1.SecurityCraft-fabric-V0.6.1.jar"
+side = "client"
+
+[download]
+url = "https://github.com/VerkoSK/SecurityCraftFabric/releases/download/v0.6.1/1.21.1.SecurityCraft-fabric-V0.6.1.jar"
+hash-format = "sha256"
+hash = "7ea8a8a37615c5a7eeb95a3db5b0ea71e566f147c7422f1e9898b051bf6375b1"

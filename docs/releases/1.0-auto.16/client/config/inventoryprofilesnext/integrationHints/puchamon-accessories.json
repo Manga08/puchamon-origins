@@ -1,0 +1,6 @@
+{
+  "io.wispforest.accessories.client.gui.AccessoriesScreen": {"ignore": true, "force": true},
+  "io.wispforest.accessories.client.gui.AccessoriesExperimentalScreen": {"ignore": true, "force": true},
+  "io.wispforest.accessories.menu.variants.AccessoriesMenu": {"ignore": true, "force": true},
+  "io.wispforest.accessories.menu.variants.AccessoriesExperimentalMenu": {"ignore": true, "force": true}
+}

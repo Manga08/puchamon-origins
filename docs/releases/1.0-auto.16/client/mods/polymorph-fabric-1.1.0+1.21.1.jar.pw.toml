@@ -1,0 +1,8 @@
+name = "polymorph-fabric-1.1.0+1.21.1.jar"
+filename = "polymorph-fabric-1.1.0+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tagwiZkJ/versions/Ng5Y6KVo/polymorph-fabric-1.1.0%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "bc47b33c864b463167998680c296f513e6d06b42de6db03db0f274ae1f2ee671"

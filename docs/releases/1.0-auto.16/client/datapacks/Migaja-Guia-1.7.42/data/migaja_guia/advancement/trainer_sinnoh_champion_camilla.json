@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "champion_defeated": {
+      "conditions": {
+        "trainer_ids": [
+          "sinnoh_champion_camilla"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "champion_defeated"
+    ]
+  ]
+}

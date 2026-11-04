@@ -1,0 +1,8 @@
+name = "puchamon-quest-guard-1.0.0.jar"
+filename = "puchamon-quest-guard-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://manga08.github.io/puchamon-origins/releases/1.0-auto.1/blobs/140c3b662ba54839903832f8075c92214f3bd36ea393228b6dfc41b5c3e61e1b.jar"
+hash-format = "sha256"
+hash = "140c3b662ba54839903832f8075c92214f3bd36ea393228b6dfc41b5c3e61e1b"

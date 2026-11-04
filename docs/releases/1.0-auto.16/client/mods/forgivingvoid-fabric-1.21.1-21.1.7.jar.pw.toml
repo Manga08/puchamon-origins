@@ -1,0 +1,8 @@
+name = "forgivingvoid-fabric-1.21.1-21.1.7.jar"
+filename = "forgivingvoid-fabric-1.21.1-21.1.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1vkzEZjE/versions/HGbKoEgt/forgivingvoid-fabric-1.21.1-21.1.7.jar"
+hash-format = "sha256"
+hash = "ee45266cc7c10b0a17d9a87b021a57fb8616529e4c33af0fff5a506de71960b1"

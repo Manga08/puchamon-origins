@@ -1,0 +1,8 @@
+name = "Ping-Wheel-1.12.2-fabric-1.21.1.jar"
+filename = "Ping-Wheel-1.12.2-fabric-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QQXAdCzh/versions/S05ir9dj/Ping-Wheel-1.12.2-fabric-1.21.1.jar"
+hash-format = "sha256"
+hash = "9ba63ca5f33c86d0ce3aec2b04fafcc2fbcb8e705e46a7be20ff66382331c3e3"

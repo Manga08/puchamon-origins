@@ -1,0 +1,8 @@
+name = "configurable-3.5.2+1.21.1-fabric.jar"
+filename = "configurable-3.5.2+1.21.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lGffrQ3O/versions/4IO3KqeL/configurable-3.5.2%2B1.21.1-fabric.jar"
+hash-format = "sha256"
+hash = "70f7728d67ff8c420a53ef3c08ec73732517882317ab20a084b273773aa1e5e2"

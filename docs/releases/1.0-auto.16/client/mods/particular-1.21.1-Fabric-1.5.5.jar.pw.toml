@@ -1,0 +1,8 @@
+name = "particular-1.21.1-Fabric-1.5.5.jar"
+filename = "particular-1.21.1-Fabric-1.5.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pYFUU6cq/versions/PASRyKTR/particular-1.21.1-Fabric-1.5.5.jar"
+hash-format = "sha256"
+hash = "47d724637888227d18e4bc49a11f67b50f0e39d21f4d494cf92215be96f8873c"

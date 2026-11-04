@@ -1,0 +1,8 @@
+name = "MCPitanLib"
+filename = "mcpitanlib-4.0.9-1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uNRoUnGT/versions/Ivo3fq78/mcpitanlib-4.0.9-1.21.1-fabric.jar"
+hash-format = "sha256"
+hash = "e149164128deaad137a14ecbc211e66d54c79343d885e2a78cee498e34e3cd45"

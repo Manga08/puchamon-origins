@@ -1,0 +1,8 @@
+name = "soundcontroller-1.2.3-mc1.20.5.jar"
+filename = "soundcontroller-1.2.3-mc1.20.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uY9zbflw/versions/Vej3tvcx/soundcontroller-1.2.3-mc1.20.5.jar"
+hash-format = "sha256"
+hash = "31619a26ea7b712c5c8fa22aa730b1c957179ff023adc270a955d151cb991254"

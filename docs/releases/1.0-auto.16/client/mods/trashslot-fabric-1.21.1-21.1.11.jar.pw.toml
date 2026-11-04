@@ -1,0 +1,8 @@
+name = "trashslot-fabric-1.21.1-21.1.11.jar"
+filename = "trashslot-fabric-1.21.1-21.1.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vRYk0bv7/versions/apJG54CW/trashslot-fabric-1.21.1-21.1.11.jar"
+hash-format = "sha256"
+hash = "28b1ed22a2968e9d1b2760ef8dfeb2a95ab89036d13968182f4d8c326e3763fd"
