@@ -1,0 +1,700 @@
+{
+	autofocus_id: "22110000000002D3"
+	default_hide_dependency_lines: false
+	default_min_width: 220
+	default_quest_shape: "rsquare"
+	filename: "2111000000000002"
+	group: "6111000000000002"
+	icon: {
+		id: "cobblemon:potion"
+	}
+	id: "2111000000000002"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["221100000000000B"]
+			icon: {
+				id: "cobblemon:potion"
+			}
+			id: "22110000000002D3"
+			optional: true
+			shape: "gear"
+			size: 0.85d
+			tasks: [{
+				id: "31110000000002D4"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: -6.0d
+		}
+		{
+			icon: {
+				id: "minecraft:iron_sword"
+			}
+			id: "22110000000002D5"
+			optional: true
+			shape: "gear"
+			size: 0.85d
+			tasks: [{
+				id: "31110000000002D6"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:full_heal"
+			}
+			id: "22110000000002D7"
+			optional: true
+			shape: "gear"
+			size: 0.85d
+			tasks: [{
+				id: "31110000000002D8"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: -6.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:pc"
+			}
+			id: "22110000000002D9"
+			optional: true
+			shape: "gear"
+			size: 0.85d
+			tasks: [{
+				id: "31110000000002DA"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:potion"
+			}
+			id: "2211000000000029"
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "4111000000000028"
+				item: {
+					count: 1
+					id: "cobblemon:potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:victorias_10"
+				criterion: ""
+				id: "311100000000002A"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:link_cable"
+			}
+			id: "221100000000002F"
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "411100000000002E"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "cobblemon:first_evolution"
+				criterion: ""
+				id: "3111000000000030"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["221100000000002F"]
+			icon: {
+				id: "cobblemon:link_cable"
+			}
+			id: "2211000000000032"
+			rewards: [{
+				auto: "disabled"
+				count: 6
+				id: "4111000000000031"
+				item: {
+					count: 1
+					id: "cobblemon:super_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:evoluciones_5"
+				criterion: ""
+				id: "3111000000000033"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:exp_candy_s"
+			}
+			id: "2211000000000035"
+			rewards: [{
+				auto: "disabled"
+				count: 3
+				id: "4111000000000034"
+				item: {
+					count: 1
+					id: "cobblemon:potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:nivel_10"
+				criterion: ""
+				id: "3111000000000036"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2211000000000035"]
+			icon: {
+				id: "cobblemon:exp_candy_s"
+			}
+			id: "221100000000003B"
+			rewards: [{
+				auto: "disabled"
+				count: 5
+				id: "411100000000003A"
+				item: {
+					count: 1
+					id: "cobblemon:super_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:nivel_30"
+				criterion: ""
+				id: "311100000000003C"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["221100000000003B"]
+			icon: {
+				id: "cobblemon:exp_candy_s"
+			}
+			id: "221100000000003E"
+			rewards: [{
+				auto: "disabled"
+				count: 5
+				id: "411100000000003D"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:nivel_50"
+				criterion: ""
+				id: "311100000000003F"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["221100000000003E"]
+			icon: {
+				id: "cobblemon:exp_candy_s"
+			}
+			id: "2211000000000041"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 8
+					id: "4111000000000040"
+					item: {
+						count: 1
+						id: "cobblemon:hyper_potion"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 2
+					id: "750700000000008E"
+					item: {
+						count: 1
+						id: "cobblemon:revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "migaja_guia:nivel_75"
+				criterion: ""
+				id: "3111000000000042"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["2211000000000041"]
+			icon: {
+				id: "cobblemon:exp_candy_s"
+			}
+			id: "2211000000000044"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 6
+					id: "4111000000000043"
+					item: {
+						count: 1
+						id: "cobblemon:full_restore"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 3
+					id: "750700000000008F"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "migaja_guia:nivel_100"
+				criterion: ""
+				id: "3111000000000045"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: 15.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:potion"
+			}
+			id: "2211000000000047"
+			rewards: [{
+				auto: "disabled"
+				count: 8
+				id: "4111000000000046"
+				item: {
+					count: 1
+					id: "minecraft:glass_bottle"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "cobblemon:brew_potion"
+				criterion: ""
+				id: "3111000000000048"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:revival_herb"
+			}
+			id: "221100000000004A"
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "4111000000000049"
+				item: {
+					count: 1
+					id: "cobblemon:super_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "cobblemon:obtain_revival_herb"
+				criterion: ""
+				id: "311100000000004B"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 12.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "221100000000004C"
+			optional: true
+			shape: "gear"
+			size: 0.85d
+			tasks: [{
+				id: "311100000000004D"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:antidote"
+			}
+			id: "22110000000002DB"
+			rewards: [{
+				auto: "disabled"
+				count: 2
+				id: "41110000000002DD"
+				item: {
+					count: 1
+					id: "cobblemon:full_heal"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "31110000000002DC"
+				item: { count: 1, id: "cobblemon:antidote" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 15.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:paralyze_heal"
+			}
+			id: "22110000000002DE"
+			rewards: [{
+				auto: "disabled"
+				count: 2
+				id: "41110000000002E0"
+				item: {
+					count: 1
+					id: "cobblemon:full_heal"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "31110000000002DF"
+				item: { count: 1, id: "cobblemon:paralyze_heal" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 18.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:awakening"
+			}
+			id: "22110000000002E1"
+			rewards: [{
+				auto: "disabled"
+				count: 2
+				id: "41110000000002E3"
+				item: {
+					count: 1
+					id: "cobblemon:potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "31110000000002E2"
+				item: { count: 1, id: "cobblemon:awakening" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 21.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:ether"
+			}
+			id: "22110000000002E4"
+			rewards: [{
+				auto: "disabled"
+				count: 2
+				id: "41110000000002E6"
+				item: {
+					count: 1
+					id: "cobblemon:ether"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "31110000000002E5"
+				item: { count: 1, id: "cobblemon:ether" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 24.0d
+		}
+		{
+			dependencies: ["2211000000000029"]
+			icon: {
+				id: "cobblemon:potion"
+			}
+			id: "22110000000002E7"
+			rewards: [{
+				auto: "disabled"
+				count: 6
+				id: "41110000000002E9"
+				item: {
+					count: 1
+					id: "cobblemon:super_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:victorias_25"
+				criterion: ""
+				id: "31110000000002E8"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["22110000000002E7"]
+			icon: {
+				id: "cobblemon:potion"
+			}
+			id: "22110000000002EA"
+			rewards: [{
+				auto: "disabled"
+				count: 8
+				id: "41110000000002EC"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:victorias_50"
+				criterion: ""
+				id: "31110000000002EB"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["22110000000002EA"]
+			icon: {
+				id: "cobblemon:great_ball"
+			}
+			id: "22110000000002ED"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 6
+					id: "41110000000002EF"
+					item: {
+						count: 1
+						id: "cobblemon:hyper_potion"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 2
+					id: "7507000000000090"
+					item: {
+						count: 1
+						id: "cobblemon:revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "migaja_guia:npc_10"
+				criterion: ""
+				id: "31110000000002EE"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "73070000000000B3"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "74070000000000B4"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 28.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "73070000000000B5"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "74070000000000B6"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 28.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "73070000000000B7"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "74070000000000B8"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 28.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "73070000000000B9"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "74070000000000BA"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 31.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "73070000000000BB"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "74070000000000BC"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 31.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "73070000000000BD"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "74070000000000BE"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 31.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "73070000000000BF"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "74070000000000C0"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 34.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "73070000000000C1"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "74070000000000C2"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 34.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "73070000000000C3"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "74070000000000C4"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 34.0d
+		}
+	]
+}

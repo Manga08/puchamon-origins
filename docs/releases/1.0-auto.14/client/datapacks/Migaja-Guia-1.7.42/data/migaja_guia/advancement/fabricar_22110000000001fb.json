@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "receta_0": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "minecraft:iron_pickaxe"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "receta_0"
+    ]
+  ]
+}

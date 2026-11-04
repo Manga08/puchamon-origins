@@ -1,0 +1,8 @@
+name = "libjf-3.17.5.jar"
+filename = "libjf-3.17.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WKwQAwke/versions/WRFFw4eh/libjf-3.17.5.jar"
+hash-format = "sha256"
+hash = "93789892f45d03bec95894ab644f9f909868e84f1a0755a61bdf22ae378629f5"

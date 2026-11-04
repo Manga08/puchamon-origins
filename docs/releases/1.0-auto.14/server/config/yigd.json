@@ -1,0 +1,18 @@
+{
+ "inventoryConfig":{"itemLoss":{"enabled":false}},
+ "expConfig":{"dropBehaviour":"PERCENTAGE","dropPercentage":100,"keepPercentage":0},
+ "graveConfig":{
+  "enabled":true,"storeItems":true,"storeXp":true,"informGraveLocation":true,
+  "requireItem":false,"requireShovelToLoot":false,
+  "retrieveMethods":{"onClick":true,"onBreak":false,"onSneak":false,"onStand":false},
+  "mergeStacksOnRetrieve":true,"dropOnRetrieve":"IN_INVENTORY","claimPriority":"INVENTORY",
+  "graveRobbing":{"enabled":false},"graveTimeout":{"enabled":false},
+  "generateEmptyGraves":false,"generateGraveInVoid":true,"tryGenerateOnGround":true,
+  "generateOnlyWithinBorder":true,"persistentGraves":{"enabled":false},
+  "maxBackupsPerPerson":100,"dropFromOldestWhenDeleted":true,
+  "sellOutOfflinePeople":false,"randomSpawn":{"percentSpawnChance":0}
+ },
+ "compatConfig":{"enableAccessoriesCompat":true,"enableTrinketsCompat":true},
+ "commandConfig":{"basePermissionLevel":0,"viewLatestPermissionLevel":0,"viewSelfPermissionLevel":0,"viewUserPermissionLevel":2,"viewAllPermissionLevel":2,"restorePermissionLevel":2,"robPermissionLevel":2,"deletePermissionLevel":3,"unlockPermissionLevel":0},
+ "extraFeatures":{"enableSoulbound":false,"deathSightEnchant":{"enabled":false},"graveKeys":{"enabled":false},"deathScroll":{"enabled":false},"graveCompass":{"receiveOnRespawn":true}}
+}

@@ -1,0 +1,8 @@
+name = "catchindicator-fabric-1.7.0.jar"
+filename = "catchindicator-fabric-1.7.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tpTcu2PM/versions/PMZ87iqE/catchindicator-fabric-1.7.0.jar"
+hash-format = "sha256"
+hash = "bcebcfa5692f93de8d8aff33973510517a7434d48656c5ad167d33df841bc122"

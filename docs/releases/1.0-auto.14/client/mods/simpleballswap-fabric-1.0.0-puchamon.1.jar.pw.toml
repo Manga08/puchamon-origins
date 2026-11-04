@@ -1,0 +1,8 @@
+name = "simpleballswap-fabric-1.0.0-puchamon.1.jar"
+filename = "simpleballswap-fabric-1.0.0-puchamon.1.jar"
+side = "both"
+
+[download]
+url = "https://manga08.github.io/puchamon-origins/releases/1.0-auto.14/blobs/100c7ce77ef2d70dbea9acae6e52135553988d3a086a9f98db90f57ba669925a.jar"
+hash-format = "sha256"
+hash = "100c7ce77ef2d70dbea9acae6e52135553988d3a086a9f98db90f57ba669925a"

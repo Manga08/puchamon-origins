@@ -1,0 +1,172 @@
+{
+	default_hide_dependency_lines: false
+	default_min_width: 200
+	default_quest_shape: "rsquare"
+	filename: "7818000000000001"
+	group: "6111000000000001"
+	icon: {
+		id: "modid:pokebelt"
+	}
+	id: "7818000000000001"
+	images: [ ]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "modid:pokebelt"
+			}
+			id: "7918000000000001"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7918000000000002"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "modid:pokebelt"
+			}
+			id: "7918000000000003"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "7918000000000005"
+				item: {
+					count: 1
+					id: "cobblemon:poke_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:fabricar_base_pokebelt"
+				criterion: ""
+				id: "7918000000000004"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:leather"
+			}
+			id: "7918000000000006"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7918000000000007"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "7918000000000008"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7918000000000009"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "minecraft:chest"
+			}
+			id: "791800000000000A"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "791800000000000B"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "modid:pokebelt"
+			}
+			id: "791800000000000C"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "791800000000000E"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:fabricar_great_pokebelt"
+				criterion: ""
+				id: "791800000000000D"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "modid:pokebelt"
+			}
+			id: "791800000000000F"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "7918000000000011"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:fabricar_ultra_pokebelt"
+				criterion: ""
+				id: "7918000000000010"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			icon: {
+				id: "minecraft:orange_dye"
+			}
+			id: "7918000000000012"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7918000000000013"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+	]
+}

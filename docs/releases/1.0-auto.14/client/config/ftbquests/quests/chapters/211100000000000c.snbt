@@ -1,0 +1,1139 @@
+{
+	autofocus_id: "2211000000000308"
+	default_hide_dependency_lines: false
+	default_min_width: 220
+	default_quest_shape: "rsquare"
+	filename: "211100000000000c"
+	group: "6111000000000002"
+	icon: {
+		id: "cobblemon:ancient_origin_ball"
+	}
+	id: "211100000000000C"
+	images: [ ]
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["221100000000001A"]
+			icon: {
+				id: "minecraft:ender_eye"
+			}
+			id: "2211000000000308"
+			optional: true
+			shape: "gear"
+			tasks: [{
+				id: "3111000000000309"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "2211000000000211"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 10
+					id: "4111000000000213"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 2
+					id: "7507000000000094"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "migaja_guia:legendario_mew"
+				criterion: ""
+				id: "3111000000000212"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "2211000000000214"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 12
+					id: "4111000000000216"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 3
+					id: "7507000000000095"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "migaja_guia:legendario_mewtwo"
+				criterion: ""
+				id: "3111000000000215"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "2211000000000217"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 8
+					id: "4111000000000219"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					id: "7507000000000096"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "migaja_guia:legendario_articuno"
+				criterion: ""
+				id: "3111000000000218"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 10.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "221100000000021A"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 8
+					id: "411100000000021C"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					id: "7507000000000097"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "migaja_guia:legendario_zapdos"
+				criterion: ""
+				id: "311100000000021B"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 13.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "221100000000021D"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 8
+					id: "411100000000021F"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					id: "7507000000000098"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "migaja_guia:legendario_moltres"
+				criterion: ""
+				id: "311100000000021E"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 16.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "2211000000000220"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 10
+					id: "4111000000000222"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 2
+					id: "7507000000000099"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "migaja_guia:legendario_hooh"
+				criterion: ""
+				id: "3111000000000221"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "2211000000000223"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 10
+					id: "4111000000000225"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 2
+					id: "750700000000009A"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "migaja_guia:legendario_lugia"
+				criterion: ""
+				id: "3111000000000224"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 7.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "2211000000000226"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 10
+					id: "4111000000000228"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 2
+					id: "750700000000009B"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "migaja_guia:legendario_celebi"
+				criterion: ""
+				id: "3111000000000227"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["221100000000030A"]
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "2211000000000229"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 12
+					id: "411100000000022B"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 3
+					id: "750700000000009C"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "migaja_guia:legendario_kyogre"
+				criterion: ""
+				id: "311100000000022A"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["221100000000030D"]
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "221100000000022C"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 12
+					id: "411100000000022E"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 3
+					id: "750700000000009D"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "migaja_guia:legendario_groudon"
+				criterion: ""
+				id: "311100000000022D"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["2211000000000310"]
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "221100000000022F"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 12
+					id: "4111000000000231"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 3
+					id: "750700000000009E"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "migaja_guia:legendario_rayquaza"
+				criterion: ""
+				id: "3111000000000230"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 19.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "2211000000000232"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 8
+					id: "4111000000000234"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					id: "750700000000009F"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "migaja_guia:legendario_latias"
+				criterion: ""
+				id: "3111000000000233"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 22.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "2211000000000235"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 8
+					id: "4111000000000237"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					id: "75070000000000A0"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "migaja_guia:legendario_latios"
+				criterion: ""
+				id: "3111000000000236"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 25.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "2211000000000238"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 10
+					id: "411100000000023A"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 2
+					id: "75070000000000A1"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "migaja_guia:legendario_jirachi"
+				criterion: ""
+				id: "3111000000000239"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 28.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "221100000000023B"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 10
+					id: "411100000000023D"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 2
+					id: "75070000000000A2"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "migaja_guia:legendario_deoxys"
+				criterion: ""
+				id: "311100000000023C"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 31.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "221100000000023E"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 8
+					id: "4111000000000240"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					id: "75070000000000A3"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "migaja_guia:legendario_regirock"
+				criterion: ""
+				id: "311100000000023F"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 34.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "2211000000000241"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 8
+					id: "4111000000000243"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					id: "75070000000000A4"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "migaja_guia:legendario_regice"
+				criterion: ""
+				id: "3111000000000242"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 37.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "2211000000000244"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 8
+					id: "4111000000000246"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					id: "75070000000000A5"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "migaja_guia:legendario_registeel"
+				criterion: ""
+				id: "3111000000000245"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 40.0d
+		}
+		{
+			dependencies: ["2211000000000313"]
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "2211000000000247"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 12
+					id: "4111000000000249"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 3
+					id: "75070000000000A6"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "migaja_guia:legendario_dialga"
+				criterion: ""
+				id: "3111000000000248"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["2211000000000316"]
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "221100000000024A"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 12
+					id: "411100000000024C"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 3
+					id: "75070000000000A7"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "migaja_guia:legendario_palkia"
+				criterion: ""
+				id: "311100000000024B"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 13.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "221100000000024D"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 12
+					id: "411100000000024F"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 3
+					id: "75070000000000A8"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "migaja_guia:legendario_giratina"
+				criterion: ""
+				id: "311100000000024E"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["2211000000000319"]
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "2211000000000250"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 8
+					id: "4111000000000252"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					id: "75070000000000A9"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "migaja_guia:legendario_cresselia"
+				criterion: ""
+				id: "3111000000000251"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 22.0d
+		}
+		{
+			dependencies: ["221100000000031C"]
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "2211000000000253"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 8
+					id: "4111000000000255"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					id: "75070000000000AA"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "migaja_guia:legendario_heatran"
+				criterion: ""
+				id: "3111000000000254"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 28.0d
+		}
+		{
+			dependencies: ["221100000000031F"]
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "2211000000000256"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 10
+					id: "4111000000000258"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 2
+					id: "75070000000000AB"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "migaja_guia:legendario_darkrai"
+				criterion: ""
+				id: "3111000000000257"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 34.0d
+		}
+		{
+			dependencies: ["2211000000000322"]
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "2211000000000259"
+			rewards: [
+				{
+					auto: "disabled"
+					count: 24
+					id: "411100000000025B"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					count: 4
+					id: "75070000000000AC"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 1.3d
+			tasks: [{
+				advancement: "migaja_guia:legendario_arceus"
+				criterion: ""
+				id: "311100000000025A"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 40.0d
+		}
+		{
+			icon: {
+				id: "lumymon:ocean_core"
+			}
+			id: "221100000000030A"
+			tasks: [{
+				consume_items: false
+				id: "311100000000030B"
+				item: { count: 1, id: "lumymon:ocean_core" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 4.0d
+		}
+		{
+			icon: {
+				id: "lumymon:earth_core"
+			}
+			id: "221100000000030D"
+			tasks: [{
+				consume_items: false
+				id: "311100000000030E"
+				item: { count: 1, id: "lumymon:earth_core" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 10.0d
+		}
+		{
+			icon: {
+				id: "lumymon:sky_core"
+			}
+			id: "2211000000000310"
+			tasks: [{
+				consume_items: false
+				id: "3111000000000311"
+				item: { count: 1, id: "lumymon:sky_core" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 16.0d
+		}
+		{
+			icon: {
+				id: "lumymon:red_chain"
+			}
+			id: "2211000000000313"
+			tasks: [{
+				consume_items: false
+				id: "3111000000000314"
+				item: { count: 1, id: "lumymon:red_chain" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 4.0d
+		}
+		{
+			icon: {
+				id: "lumymon:red_chain"
+			}
+			id: "2211000000000316"
+			tasks: [{
+				consume_items: false
+				id: "3111000000000317"
+				item: { count: 1, id: "lumymon:red_chain" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 10.0d
+		}
+		{
+			icon: {
+				id: "lumymon:dream_catcher"
+			}
+			id: "2211000000000319"
+			tasks: [{
+				consume_items: false
+				id: "311100000000031A"
+				item: { count: 1, id: "lumymon:dream_catcher" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 19.0d
+		}
+		{
+			icon: {
+				id: "lumymon:magmatic_cluster"
+			}
+			id: "221100000000031C"
+			tasks: [{
+				consume_items: false
+				id: "311100000000031D"
+				item: { count: 1, id: "lumymon:magmatic_cluster" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 25.0d
+		}
+		{
+			icon: {
+				id: "lumymon:nightmare_weaver"
+			}
+			id: "221100000000031F"
+			tasks: [{
+				consume_items: false
+				id: "3111000000000320"
+				item: { count: 1, id: "lumymon:nightmare_weaver" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 31.0d
+		}
+		{
+			icon: {
+				id: "lumymon:azure_flute"
+			}
+			id: "2211000000000322"
+			tasks: [{
+				consume_items: false
+				id: "3111000000000323"
+				item: { count: 1, id: "lumymon:azure_flute" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 37.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "73070000000000EB"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "74070000000000EC"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 44.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "73070000000000ED"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "74070000000000EE"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 44.0d
+		}
+	]
+}

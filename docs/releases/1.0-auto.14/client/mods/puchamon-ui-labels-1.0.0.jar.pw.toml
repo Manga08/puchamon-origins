@@ -1,0 +1,8 @@
+name = "puchamon-ui-labels-1.0.0.jar"
+filename = "puchamon-ui-labels-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://manga08.github.io/puchamon-origins/releases/1.0-auto.1/blobs/21d4dde212510b8f15c9d6b030cdd8e588fe15dfd89d05381645b45668a39d89.jar"
+hash-format = "sha256"
+hash = "21d4dde212510b8f15c9d6b030cdd8e588fe15dfd89d05381645b45668a39d89"

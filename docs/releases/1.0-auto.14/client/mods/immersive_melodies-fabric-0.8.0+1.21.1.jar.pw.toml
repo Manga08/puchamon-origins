@@ -1,0 +1,8 @@
+name = "immersive_melodies-fabric-0.8.0+1.21.1.jar"
+filename = "immersive_melodies-fabric-0.8.0+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TaSmHw8V/versions/pW6wIhCC/immersive_melodies-fabric-0.8.0%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "d811350c2fc3d01a2cdb194a44de9e226c5a191e2c50f7e59e81fd31d052f7ac"

@@ -1,0 +1,8 @@
+name = "Effortless Building: Sophisticated"
+filename = "sophisticatedbuilding-fabric-v2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Nw3rEYBH/versions/LkfTejmP/sophisticatedbuilding-fabric-v2.0.0.jar"
+hash-format = "sha256"
+hash = "a5beb851bd6d426dd0703b55c2a466a804feef69bc1963be919087e3149047cd"

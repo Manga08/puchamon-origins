@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "champion_defeated": {
+      "conditions": {
+        "trainer_ids": [
+          "kanto_champion_blue"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "champion_defeated"
+    ]
+  ]
+}

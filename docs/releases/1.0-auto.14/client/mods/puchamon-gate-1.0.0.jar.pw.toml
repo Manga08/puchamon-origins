@@ -1,0 +1,8 @@
+name = "puchamon-gate-1.0.0.jar"
+filename = "puchamon-gate-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://manga08.github.io/puchamon-origins/releases/1.0-auto.1/blobs/0e1635d88beb2e94d7a3f0758434c05010a43c0898337388377ab634697a1244.jar"
+hash-format = "sha256"
+hash = "0e1635d88beb2e94d7a3f0758434c05010a43c0898337388377ab634697a1244"
