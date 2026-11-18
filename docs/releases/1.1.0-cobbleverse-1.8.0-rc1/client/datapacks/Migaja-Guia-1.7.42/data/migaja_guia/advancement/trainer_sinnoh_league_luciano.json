@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "elite_defeated": {
+      "conditions": {
+        "trainer_ids": [
+          "sinnoh_league_luciano"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "elite_defeated"
+    ]
+  ]
+}

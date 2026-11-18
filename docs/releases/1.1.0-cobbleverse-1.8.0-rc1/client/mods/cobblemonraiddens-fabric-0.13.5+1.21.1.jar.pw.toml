@@ -1,0 +1,8 @@
+name = "cobblemonraiddens-fabric-0.13.5+1.21.1.jar"
+filename = "cobblemonraiddens-fabric-0.13.5+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GebWh45l/versions/q12LeWnP/cobblemonraiddens-fabric-0.13.5%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "d4adbdc89f7b94111cfdb8506a0c123762abaabdfdf4b4e40027bc735146bd6d"

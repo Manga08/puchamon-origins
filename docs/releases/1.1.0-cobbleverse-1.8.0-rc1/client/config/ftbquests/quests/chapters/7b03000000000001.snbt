@@ -1,0 +1,178 @@
+{
+	default_hide_dependency_lines: false
+	default_min_width: 240
+	default_quest_shape: "rsquare"
+	filename: "7b03000000000001"
+	group: "6111000000000003"
+	icon: {
+		id: "sophisticatedbackpacks:backpack"
+	}
+	id: "7B03000000000001"
+	images: [ ]
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "sophisticatedbackpacks:backpack"
+			}
+			id: "7B03000000000100"
+			optional: true
+			shape: "gear"
+			tasks: [{
+				id: "7B03000000000200"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7B03000000000100"]
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "7B03000000000101"
+			optional: true
+			shape: "gear"
+			tasks: [{
+				id: "7B03000000000201"
+				type: "checkmark"
+			}]
+			x: -8.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7B03000000000100"]
+			icon: {
+				id: "uncraftingtable76:uncraftingtable"
+			}
+			id: "7B03000000000102"
+			optional: true
+			shape: "gear"
+			tasks: [{
+				id: "7B03000000000202"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7B03000000000102"]
+			icon: {
+				id: "minecraft:shield"
+			}
+			id: "7B03000000000103"
+			optional: true
+			shape: "gear"
+			tasks: [{
+				id: "7B03000000000203"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7B03000000000100"]
+			icon: {
+				id: "cobblemon_trainers_backpack:heal_upgrade"
+			}
+			id: "7B03000000000104"
+			optional: true
+			shape: "gear"
+			tasks: [{
+				id: "7B03000000000204"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7B03000000000104"]
+			icon: {
+				id: "cobblemon_trainers_backpack:campfire_pot_upgrade"
+			}
+			id: "7B03000000000105"
+			optional: true
+			shape: "gear"
+			tasks: [{
+				id: "7B03000000000205"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7B03000000000100"]
+			icon: {
+				id: "sophisticatedbackpacks:jukebox_upgrade"
+			}
+			id: "7B03000000000106"
+			optional: true
+			shape: "gear"
+			tasks: [{
+				id: "7B03000000000206"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7B03000000000100"]
+			icon: {
+				id: "sophisticatedbuilding:building_upgrade_1"
+			}
+			id: "7B03000000000107"
+			optional: true
+			shape: "gear"
+			tasks: [{
+				id: "7B03000000000207"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7B03000000000107"]
+			icon: {
+				id: "minecraft:bricks"
+			}
+			id: "7B03000000000108"
+			optional: true
+			shape: "gear"
+			tasks: [{
+				id: "7B03000000000208"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 6.0d
+		}
+		{
+			icon: {
+				id: "cobblemonraiddens:raid_pouch"
+			}
+			id: "7B04000000000001"
+			optional: true
+			shape: "gear"
+			tasks: [{
+				id: "7B04000000000101"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: 10.0d
+		}
+		{
+			icon: {
+				id: "mega_showdown:ash_cap"
+			}
+			id: "7B04000000000002"
+			optional: true
+			shape: "gear"
+			tasks: [{
+				id: "7B04000000000102"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 10.0d
+		}
+	]
+}

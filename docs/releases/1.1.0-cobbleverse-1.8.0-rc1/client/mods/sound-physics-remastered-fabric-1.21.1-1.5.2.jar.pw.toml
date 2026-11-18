@@ -1,0 +1,8 @@
+name = "sound-physics-remastered-fabric-1.21.1-1.5.2.jar"
+filename = "sound-physics-remastered-fabric-1.21.1-1.5.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qyVF9oeo/versions/BYhL3BDk/sound-physics-remastered-fabric-1.21.1-1.5.2.jar"
+hash-format = "sha256"
+hash = "ace731943db3a02c375e401d18bab3756be4582015066643db9b4a9dead87fbb"

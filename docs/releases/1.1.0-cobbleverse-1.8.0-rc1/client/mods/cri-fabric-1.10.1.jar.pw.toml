@@ -1,0 +1,8 @@
+name = "cri-fabric-1.10.1.jar"
+filename = "cri-fabric-1.10.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ou0WNFNa/versions/D5OvVs5P/cri-fabric-1.10.1.jar"
+hash-format = "sha256"
+hash = "1458b229741c00966432e429a8bdbded856102b9aa698db743d71152da4e5ee4"

@@ -1,0 +1,53 @@
+{
+	default_hide_dependency_lines: true
+	default_min_width: 240
+	default_quest_shape: ""
+	filename: "7b17000000000001"
+	group: "6111000000000001"
+	icon: {
+		id: "cobblemon:tm_machine"
+	}
+	id: "7B17000000000001"
+	images: [ ]
+	order_index: 5
+	quest_links: [
+		{
+			id: "7B17000000003005"
+			linked_quest: "7B17000000000101"
+			x: -6.0d
+			y: 3.0d
+		}
+		{
+			id: "7B17000000003006"
+			linked_quest: "7B17000000000102"
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			id: "7B17000000003007"
+			linked_quest: "7B1700000000010B"
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			id: "7B17000000003008"
+			linked_quest: "7B17000000000103"
+			x: 6.0d
+			y: 3.0d
+		}
+	]
+	quests: [{
+		icon: {
+			id: "cobblemon:pokedex_red"
+		}
+		id: "7B17000000000100"
+		optional: true
+		shape: "gear"
+		tasks: [{
+			id: "7B17000000000200"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}

@@ -1,0 +1,8 @@
+name = "architectury-13.0.11-fabric.jar"
+filename = "architectury-13.0.11-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Pzc2FP5K/architectury-13.0.11-fabric.jar"
+hash-format = "sha256"
+hash = "ab17d5c7d8d8c93cc713437ed426f0ff0d6f802a48fff0c579a9bd3aaa833efd"

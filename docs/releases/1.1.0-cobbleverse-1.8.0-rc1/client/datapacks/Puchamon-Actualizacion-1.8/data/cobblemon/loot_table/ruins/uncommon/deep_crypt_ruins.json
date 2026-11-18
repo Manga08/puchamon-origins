@@ -1,0 +1,42 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 6,
+          "conditions": []
+        },
+        {
+          "name": "cobblemon:throat_spray",
+          "type": "minecraft:item",
+          "weight": 3
+        },
+        {
+          "name": "cobblemon:spell_tag",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:ring_target",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:bygone_sherd",
+          "type": "minecraft:item",
+          "weight": 3
+        },
+        {
+          "name": "cobblemon:suspicious_sherd",
+          "type": "minecraft:item",
+          "weight": 3
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "cobblemon:ruins/uncommon/deep_crypt_ruins",
+  "type": "minecraft:archaeology"
+}

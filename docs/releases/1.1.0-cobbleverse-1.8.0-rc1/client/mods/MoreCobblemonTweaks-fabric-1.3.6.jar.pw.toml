@@ -1,0 +1,8 @@
+name = "MoreCobblemonTweaks-fabric-1.3.6.jar"
+filename = "MoreCobblemonTweaks-fabric-1.3.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5KWlJ2HC/versions/g4m18yE2/MoreCobblemonTweaks-fabric-1.3.6.jar"
+hash-format = "sha256"
+hash = "5beac508ab5b873d51496b31957a84c347df503b95abbb9b30a4368b2120658b"

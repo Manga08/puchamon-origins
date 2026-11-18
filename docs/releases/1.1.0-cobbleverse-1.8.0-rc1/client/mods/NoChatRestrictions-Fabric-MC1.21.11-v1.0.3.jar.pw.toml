@@ -1,0 +1,8 @@
+name = "NoChatRestrictions-Fabric-MC1.21.11-v1.0.3.jar"
+filename = "NoChatRestrictions-Fabric-MC1.21.11-v1.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/z440MEwJ/versions/J95EIHAC/NoChatRestrictions-Fabric-MC1.21.11-v1.0.3.jar"
+hash-format = "sha256"
+hash = "3102b0d19ccc4cea3aeb57fef61b52e728ef8ea7ca4d0aaf560c2151b47fbc3f"

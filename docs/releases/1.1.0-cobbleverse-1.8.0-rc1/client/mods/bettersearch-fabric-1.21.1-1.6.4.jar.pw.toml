@@ -1,0 +1,8 @@
+name = "bettersearch-fabric-1.21.1-1.6.4.jar"
+filename = "bettersearch-fabric-1.21.1-1.6.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/URxm65AM/versions/OItGJPzu/bettersearch-fabric-1.21.1-1.6.4.jar"
+hash-format = "sha256"
+hash = "21141ec8505cab36cd7775c12a998be76e9bac2164dee91322e05cdea8a014f0"

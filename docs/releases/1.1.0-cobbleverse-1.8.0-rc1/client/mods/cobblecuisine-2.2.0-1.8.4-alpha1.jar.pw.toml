@@ -1,0 +1,8 @@
+name = "cobblecuisine-2.2.0-1.8.4-alpha1.jar"
+filename = "cobblecuisine-2.2.0-1.8.4-alpha1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dlx62Wp3/versions/TrpdaPfQ/cobblecuisine-2.2.0-1.8.4-alpha1.jar"
+hash-format = "sha256"
+hash = "34a4131de8398b783403941b90789b3711f90999b1268efa6df6fe836c7d72ce"

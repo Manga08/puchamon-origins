@@ -1,0 +1,8 @@
+name = "Platform-fabric-1.21.1-1.4.2.jar"
+filename = "Platform-fabric-1.21.1-1.4.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/i6fiqm5y/versions/UBpoaJQa/Platform-fabric-1.21.1-1.4.2.jar"
+hash-format = "sha256"
+hash = "77dbfbdb7cbb661f5187f7941f4ffc9657daf8676e252996b7980650aaf5100a"

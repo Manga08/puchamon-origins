@@ -1,0 +1,8 @@
+name = "Carved Wood-fabric-1.21.1-1.9.8-B.jar"
+filename = "Carved Wood-fabric-1.21.1-1.9.8-B.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WuwijfrW/versions/LdlaVUmN/Carved%20Wood-fabric-1.21.1-1.9.8-B.jar"
+hash-format = "sha256"
+hash = "cb4072f9687aa096392e5eff9220e6de27b3a92c22949a65426a3e6086c2d5e3"

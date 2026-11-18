@@ -1,0 +1,8 @@
+name = "Jade-1.21.1-Fabric-15.10.6.jar"
+filename = "Jade-1.21.1-Fabric-15.10.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/adpNvTZS/Jade-1.21.1-Fabric-15.10.6.jar"
+hash-format = "sha256"
+hash = "fb834cc77804a6f509690c54b4af56305ce7a7f3171f8616310710f0af1f673a"

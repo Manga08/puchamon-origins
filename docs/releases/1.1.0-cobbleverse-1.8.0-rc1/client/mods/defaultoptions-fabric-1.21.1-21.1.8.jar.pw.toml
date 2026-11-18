@@ -1,0 +1,8 @@
+name = "defaultoptions-fabric-1.21.1-21.1.8.jar"
+filename = "defaultoptions-fabric-1.21.1-21.1.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WEg59z5b/versions/54JaBQkk/defaultoptions-fabric-1.21.1-21.1.8.jar"
+hash-format = "sha256"
+hash = "4241d1a9f95d656b018a42ab4d51fe5893de5891b36fcc0d74b8c27eae07de14"

@@ -1,0 +1,8 @@
+name = "fightorflight-fabric-0.11.3.jar"
+filename = "fightorflight-fabric-0.11.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cTdIg5HZ/versions/FALL8mct/fightorflight-fabric-0.11.3.jar"
+hash-format = "sha256"
+hash = "36c0ae8c84a6f9980bd28e7088d3db66069ba3f4556bf6f38d975625f7eae1ab"

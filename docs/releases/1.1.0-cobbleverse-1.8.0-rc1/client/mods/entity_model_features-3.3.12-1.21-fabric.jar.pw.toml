@@ -1,0 +1,8 @@
+name = "entity_model_features-3.3.12-1.21-fabric.jar"
+filename = "entity_model_features-3.3.12-1.21-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/90RfzkYP/entity_model_features-3.3.12-1.21-fabric.jar"
+hash-format = "sha256"
+hash = "d089852c2b554165568ac786047a45efdc0f1141c607eca03f9e7e7e66524022"

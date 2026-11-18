@@ -1,0 +1,8 @@
+{
+  "criteria": {
+    "use_pasture": {
+      "trigger": "cobblemon:pasture_use"
+    }
+  },
+  "sends_telemetry_event": false
+}

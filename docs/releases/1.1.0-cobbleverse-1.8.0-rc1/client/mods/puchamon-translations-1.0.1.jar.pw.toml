@@ -1,0 +1,8 @@
+name = "puchamon-translations-1.0.1.jar"
+filename = "puchamon-translations-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://manga08.github.io/puchamon-origins/releases/1.0-auto.1/blobs/33c4fa476a04443432ebe69c7c55876193a04361ab2eddbfd548ac8ff4a85d34.jar"
+hash-format = "sha256"
+hash = "33c4fa476a04443432ebe69c7c55876193a04361ab2eddbfd548ac8ff4a85d34"

@@ -1,0 +1,592 @@
+{
+	autofocus_id: "22110000000002B7"
+	default_hide_dependency_lines: false
+	default_min_width: 220
+	default_quest_shape: "rsquare"
+	filename: "211100000000000f"
+	group: "6111000000000002"
+	icon: {
+		id: "cobblemon:poke_ball"
+	}
+	id: "211100000000000F"
+	images: [ ]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2211000000000008"]
+			icon: {
+				id: "cobblemon:pokedex_red"
+			}
+			id: "22110000000002B7"
+			optional: true
+			shape: "gear"
+			tasks: [{
+				id: "31110000000002B8"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:compass"
+			}
+			id: "22110000000002B9"
+			optional: true
+			shape: "gear"
+			tasks: [{
+				id: "31110000000002BA"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["221100000000000B"]
+			icon: {
+				id: "cobblemon:normal_gem"
+			}
+			id: "22110000000002BB"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "41110000000002BD"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:captura_normal"
+				criterion: ""
+				id: "31110000000002BC"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["221100000000000B"]
+			icon: {
+				id: "cobblemon:fire_gem"
+			}
+			id: "221100000000005E"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "411100000000005D"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:captura_fire"
+				criterion: ""
+				id: "311100000000005F"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["221100000000000B"]
+			icon: {
+				id: "cobblemon:water_gem"
+			}
+			id: "221100000000005B"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "411100000000005A"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:captura_water"
+				criterion: ""
+				id: "311100000000005C"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["221100000000000B"]
+			icon: {
+				id: "cobblemon:grass_gem"
+			}
+			id: "2211000000000061"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "4111000000000060"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:captura_grass"
+				criterion: ""
+				id: "3111000000000062"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["221100000000000B"]
+			icon: {
+				id: "cobblemon:electric_gem"
+			}
+			id: "2211000000000064"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "4111000000000063"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:captura_electric"
+				criterion: ""
+				id: "3111000000000065"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["221100000000000B"]
+			icon: {
+				id: "cobblemon:ice_gem"
+			}
+			id: "22110000000002BE"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "41110000000002C0"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:captura_ice"
+				criterion: ""
+				id: "31110000000002BF"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["221100000000000B"]
+			icon: {
+				id: "cobblemon:fighting_gem"
+			}
+			id: "22110000000002C1"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "41110000000002C3"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:captura_fighting"
+				criterion: ""
+				id: "31110000000002C2"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["221100000000000B"]
+			icon: {
+				id: "cobblemon:poison_gem"
+			}
+			id: "22110000000002C4"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "41110000000002C6"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:captura_poison"
+				criterion: ""
+				id: "31110000000002C5"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["221100000000000B"]
+			icon: {
+				id: "cobblemon:ground_gem"
+			}
+			id: "2211000000000067"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "4111000000000066"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:captura_ground"
+				criterion: ""
+				id: "3111000000000068"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["221100000000000B"]
+			icon: {
+				id: "cobblemon:flying_gem"
+			}
+			id: "221100000000006A"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "4111000000000069"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:captura_flying"
+				criterion: ""
+				id: "311100000000006B"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["221100000000000B"]
+			icon: {
+				id: "cobblemon:psychic_gem"
+			}
+			id: "221100000000006D"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "411100000000006C"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:captura_psychic"
+				criterion: ""
+				id: "311100000000006E"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["221100000000000B"]
+			icon: {
+				id: "cobblemon:bug_gem"
+			}
+			id: "22110000000002C7"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "41110000000002C9"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:captura_bug"
+				criterion: ""
+				id: "31110000000002C8"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["221100000000000B"]
+			icon: {
+				id: "cobblemon:rock_gem"
+			}
+			id: "22110000000002CA"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "41110000000002CC"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:captura_rock"
+				criterion: ""
+				id: "31110000000002CB"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["221100000000000B"]
+			icon: {
+				id: "cobblemon:ghost_gem"
+			}
+			id: "2211000000000070"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "411100000000006F"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:captura_ghost"
+				criterion: ""
+				id: "3111000000000071"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["221100000000000B"]
+			icon: {
+				id: "cobblemon:dragon_gem"
+			}
+			id: "2211000000000073"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "4111000000000072"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:captura_dragon"
+				criterion: ""
+				id: "3111000000000074"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["221100000000000B"]
+			icon: {
+				id: "cobblemon:dark_gem"
+			}
+			id: "22110000000002CD"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "41110000000002CF"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:captura_dark"
+				criterion: ""
+				id: "31110000000002CE"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 19.0d
+		}
+		{
+			dependencies: ["221100000000000B"]
+			icon: {
+				id: "cobblemon:steel_gem"
+			}
+			id: "22110000000002D0"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "41110000000002D2"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:captura_steel"
+				criterion: ""
+				id: "31110000000002D1"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 19.0d
+		}
+		{
+			dependencies: ["221100000000000B"]
+			icon: {
+				id: "cobblemon:fairy_gem"
+			}
+			id: "2211000000000076"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "4111000000000075"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:captura_fairy"
+				criterion: ""
+				id: "3111000000000077"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 19.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "73070000000000FB"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "74070000000000FC"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 23.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "73070000000000FD"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "74070000000000FE"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 23.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "73070000000000FF"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000100"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 23.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "7307000000000101"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000102"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 26.0d
+		}
+	]
+}

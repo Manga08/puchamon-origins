@@ -1,0 +1,8 @@
+name = "musicnotification-fabric-3.4.0+mc1.21.1.jar"
+filename = "musicnotification-fabric-3.4.0+mc1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/A4YQgwzz/versions/DN5i43CB/musicnotification-fabric-3.4.0%2Bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "89a89637631f085286ce2bc79350d3e7c13d39cf7caaff9d08bf85da43822200"

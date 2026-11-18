@@ -1,0 +1,8 @@
+name = "Cobbreeding-fabric-2.4.1.jar"
+filename = "Cobbreeding-fabric-2.4.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ItmVb4zY/versions/QEX1BKMf/Cobbreeding-fabric-2.4.1.jar"
+hash-format = "sha256"
+hash = "25c512ea59891c5873e54c4606e71324314017eb9233d670ae23d0f12fb9f63d"

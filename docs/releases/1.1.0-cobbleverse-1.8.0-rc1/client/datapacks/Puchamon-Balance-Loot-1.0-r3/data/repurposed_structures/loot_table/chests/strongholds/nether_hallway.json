@@ -1,0 +1,365 @@
+{
+  "type": "minecraft:chest",
+  "random_sequence": "repurposed_structures:chests",
+  "pools": [
+    {
+      "rolls": {
+        "min": 3,
+        "max": 6,
+        "type": "minecraft:uniform"
+      },
+      "entries": [
+        {
+          "name": "minecraft:gold_ingot",
+          "type": "minecraft:item",
+          "weight": 8,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 5,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 5
+        },
+        {
+          "name": "minecraft:iron_ingot",
+          "type": "minecraft:item",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 7,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+        },
+        {
+          "name": "minecraft:nether_wart",
+          "type": "minecraft:item",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 4,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+        },
+        {
+          "name": "minecraft:chain",
+          "type": "minecraft:item",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 6,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+        },
+        {
+          "name": "minecraft:ender_pearl",
+          "type": "minecraft:item",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+        },
+        {
+          "name": "minecraft:ender_eye",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
+          "name": "minecraft:saddle",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
+          "name": "minecraft:iron_horse_armor",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
+          "name": "minecraft:golden_horse_armor",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 2
+        },
+        {
+          "name": "minecraft:obsidian",
+          "type": "minecraft:item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 6,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+        },
+        {
+          "name": "minecraft:golden_sword",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "minecraft:golden_chestplate",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "minecraft:golden_boots",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "minecraft:golden_helmet",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "minecraft:golden_leggings",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "minecraft:golden_sword",
+          "type": "minecraft:item",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "options": "#minecraft:on_random_loot"
+            }
+          ]
+        },
+        {
+          "name": "minecraft:golden_chestplate",
+          "type": "minecraft:item",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "options": "#minecraft:on_random_loot"
+            }
+          ]
+        },
+        {
+          "name": "minecraft:golden_boots",
+          "type": "minecraft:item",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "options": "#minecraft:on_random_loot"
+            }
+          ]
+        },
+        {
+          "name": "minecraft:golden_helmet",
+          "type": "minecraft:item",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "options": "#minecraft:on_random_loot"
+            }
+          ]
+        },
+        {
+          "name": "minecraft:golden_leggings",
+          "type": "minecraft:item",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "options": "#minecraft:on_random_loot"
+            }
+          ]
+        },
+        {
+          "name": "minecraft:flint_and_steel",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
+          "name": "minecraft:lodestone",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "minecraft:music_disc_pigstep",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:music_disc_otherside"
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 1
+        },
+        {
+          "name": "minecraft:book",
+          "type": "minecraft:item",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "options": "#minecraft:on_random_loot",
+              "levels": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 9
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:eye_armor_trim_smithing_template"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "puchamon:loot/medium/repurposed_structures/chests/lucky_pool"
+        }
+      ]
+    },
+    {
+      "rolls": 0,
+      "bonus_rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 130
+        },
+        {
+          "name": "minecraft:red_banner",
+          "type": "minecraft:item",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "minecraft:set_banner_pattern",
+              "append": true,
+              "patterns": [
+                {
+                  "pattern": "minecraft:square_bottom_left",
+                  "color": "black"
+                },
+                {
+                  "pattern": "minecraft:square_top_right",
+                  "color": "black"
+                },
+                {
+                  "pattern": "minecraft:bricks",
+                  "color": "black"
+                },
+                {
+                  "pattern": "minecraft:bricks",
+                  "color": "red"
+                },
+                {
+                  "pattern": "minecraft:gradient_up",
+                  "color": "red"
+                },
+                {
+                  "pattern": "minecraft:border",
+                  "color": "black"
+                },
+                {
+                  "pattern": "minecraft:triangles_top",
+                  "color": "black"
+                },
+                {
+                  "pattern": "minecraft:triangles_bottom",
+                  "color": "black"
+                },
+                {
+                  "pattern": "minecraft:stripe_center",
+                  "color": "black"
+                },
+                {
+                  "pattern": "minecraft:rhombus",
+                  "color": "black"
+                },
+                {
+                  "pattern": "minecraft:circle",
+                  "color": "red"
+                },
+                {
+                  "pattern": "minecraft:circle",
+                  "color": "black"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "minecraft:ender_eye",
+          "type": "minecraft:item",
+          "weight": 15
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.05
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "type": "minecraft:chest",
+  "random_sequence": "repurposed_structures:chests",
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 3,
+        "type": "minecraft:uniform"
+      },
+      "entries": [
+        {
+          "name": "minecraft:saddle",
+          "type": "minecraft:item",
+          "weight": 20
+        },
+        {
+          "name": "minecraft:glistering_melon_slice",
+          "type": "minecraft:item",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 2
+        },
+        {
+          "name": "minecraft:music_disc_far",
+          "type": "minecraft:item",
+          "weight": 15
+        },
+        {
+          "name": "minecraft:music_disc_cat",
+          "type": "minecraft:item",
+          "weight": 15
+        },
+        {
+          "name": "minecraft:name_tag",
+          "type": "minecraft:item",
+          "weight": 20
+        },
+        {
+          "name": "minecraft:writable_book",
+          "type": "minecraft:item",
+          "weight": 10
+        },
+        {
+          "name": "minecraft:fishing_rod",
+          "type": "minecraft:item",
+          "weight": 10
+        },
+        {
+          "name": "minecraft:shears",
+          "type": "minecraft:item",
+          "weight": 10
+        },
+        {
+          "name": "minecraft:iron_hoe",
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": -10,
+                "max": 5,
+                "type": "minecraft:uniform"
+              },
+              "options": "#minecraft:on_random_loot"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 5
+        },
+        {
+          "name": "minecraft:book",
+          "type": "minecraft:item",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "options": "#minecraft:on_random_loot"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "min": 1,
+        "max": 4,
+        "type": "minecraft:uniform"
+      },
+      "entries": [
+        {
+          "name": "minecraft:iron_ingot",
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 4,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+        },
+        {
+          "name": "minecraft:emerald",
+          "type": "minecraft:item",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+        },
+        {
+          "name": "minecraft:bread",
+          "type": "minecraft:item",
+          "weight": 20
+        },
+        {
+          "name": "minecraft:wheat",
+          "type": "minecraft:item",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 4,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+        },
+        {
+          "name": "minecraft:bucket",
+          "type": "minecraft:item",
+          "weight": 10
+        },
+        {
+          "name": "minecraft:redstone",
+          "type": "minecraft:item",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 4,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+        },
+        {
+          "name": "minecraft:torch",
+          "type": "minecraft:item",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 8,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+        },
+        {
+          "name": "minecraft:melon_seeds",
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 8,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+        },
+        {
+          "name": "minecraft:melon",
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+        },
+        {
+          "name": "minecraft:potato",
+          "type": "minecraft:item",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+        },
+        {
+          "name": "minecraft:cocoa_beans",
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 4,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 3,
+      "entries": [
+        {
+          "name": "minecraft:bone",
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 8,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+        },
+        {
+          "name": "minecraft:gunpowder",
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 4,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+        },
+        {
+          "name": "minecraft:bamboo",
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 8,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+        },
+        {
+          "name": "minecraft:rotten_flesh",
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 8,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+        },
+        {
+          "name": "minecraft:poisonous_potato",
+          "type": "minecraft:item",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "puchamon:loot/medium/repurposed_structures/chests/lucky_pool"
+        }
+      ]
+    },
+    {
+      "rolls": 0,
+      "bonus_rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 130
+        },
+        {
+          "name": "minecraft:black_banner",
+          "type": "minecraft:item",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "minecraft:set_banner_pattern",
+              "append": true,
+              "patterns": [
+                {
+                  "pattern": "minecraft:rhombus",
+                  "color": "lime"
+                },
+                {
+                  "pattern": "minecraft:flower",
+                  "color": "lime"
+                },
+                {
+                  "pattern": "minecraft:flower",
+                  "color": "black"
+                },
+                {
+                  "pattern": "minecraft:triangles_top",
+                  "color": "black"
+                },
+                {
+                  "pattern": "minecraft:triangles_top",
+                  "color": "black"
+                },
+                {
+                  "pattern": "minecraft:triangles_top",
+                  "color": "lime"
+                },
+                {
+                  "pattern": "minecraft:triangles_bottom",
+                  "color": "black"
+                },
+                {
+                  "pattern": "minecraft:triangles_bottom",
+                  "color": "black"
+                },
+                {
+                  "pattern": "minecraft:triangles_bottom",
+                  "color": "lime"
+                },
+                {
+                  "pattern": "minecraft:curly_border",
+                  "color": "gray"
+                },
+                {
+                  "pattern": "minecraft:border",
+                  "color": "lime"
+                },
+                {
+                  "pattern": "minecraft:curly_border",
+                  "color": "black"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "minecraft:music_disc_11",
+          "type": "minecraft:item",
+          "weight": 10
+        },
+        {
+          "name": "minecraft:name_tag",
+          "type": "minecraft:item",
+          "weight": 10
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.05
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

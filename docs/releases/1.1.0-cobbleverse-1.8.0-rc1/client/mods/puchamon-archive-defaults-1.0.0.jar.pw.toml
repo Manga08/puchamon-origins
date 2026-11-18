@@ -1,0 +1,8 @@
+name = "Puchamon Archive Defaults"
+filename = "puchamon-archive-defaults-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://manga08.github.io/puchamon-origins/releases/1.1.0-cobbleverse-1.8.0-rc1/blobs/a186345bc052da5e062de4ae7cefdef8defaba1599670e3138c2297356ec0ef2.jar"
+hash-format = "sha256"
+hash = "a186345bc052da5e062de4ae7cefdef8defaba1599670e3138c2297356ec0ef2"

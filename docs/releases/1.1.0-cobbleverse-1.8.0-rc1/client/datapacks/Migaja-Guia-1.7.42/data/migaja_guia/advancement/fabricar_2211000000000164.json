@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "receta_0": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "minecraft:red_bed"
+      }
+    },
+    "receta_1": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "minecraft:dye_red_bed"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "receta_0",
+      "receta_1"
+    ]
+  ]
+}

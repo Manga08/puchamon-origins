@@ -1,0 +1,8 @@
+name = "os-cobblemon-library-fabric-1.5.2.jar"
+filename = "os-cobblemon-library-fabric-1.5.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8hdkMUPs/versions/hT3yLdDC/os-cobblemon-library-fabric-1.5.2.jar"
+hash-format = "sha256"
+hash = "1cf0b5f2fdd8661f0d8532641727b1f7d89bd5e379d7f6fe78152ac70217d1a3"

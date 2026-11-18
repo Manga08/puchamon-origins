@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "leader_defeated": {
+      "conditions": {
+        "trainer_ids": [
+          "kanto_giovanni"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "leader_defeated"
+    ]
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "champion_defeated": {
+      "conditions": {
+        "trainer_ids": [
+          "hoenn_champion_rocco"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "champion_defeated"
+    ]
+  ]
+}

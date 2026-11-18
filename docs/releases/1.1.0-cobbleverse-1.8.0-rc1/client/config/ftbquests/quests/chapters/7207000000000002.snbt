@@ -1,0 +1,302 @@
+{
+	autofocus_id: "7307000000000027"
+	default_hide_dependency_lines: false
+	default_min_width: 200
+	default_quest_shape: "rsquare"
+	filename: "7207000000000002"
+	group: "6111000000000001"
+	icon: {
+		id: "minecraft:compass"
+	}
+	id: "7207000000000002"
+	images: [ ]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "minecraft:compass"
+			}
+			id: "7307000000000027"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000028"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:potion"
+			}
+			id: "7307000000000029"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "740700000000002A"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:iron_sword"
+			}
+			id: "730700000000002B"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "740700000000002C"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "730700000000002D"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "740700000000002E"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:great_ball"
+			}
+			id: "730700000000002F"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000030"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:pc"
+			}
+			id: "7307000000000031"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000032"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:link_cable"
+			}
+			id: "7307000000000033"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000034"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			icon: {
+				id: "minecraft:experience_bottle"
+			}
+			id: "7307000000000035"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000036"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			icon: {
+				id: "minecraft:filled_map"
+			}
+			id: "7307000000000037"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000038"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 6.0d
+		}
+		{
+			icon: {
+				id: "minecraft:bread"
+			}
+			id: "7307000000000039"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "740700000000003A"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:pasture"
+			}
+			id: "730700000000003B"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "740700000000003C"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				id: "minecraft:chest"
+			}
+			id: "730700000000003D"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "740700000000003E"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				id: "minecraft:red_bed"
+			}
+			id: "730700000000003F"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000040"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			icon: {
+				id: "minecraft:white_wool"
+			}
+			id: "7307000000000041"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000042"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 12.0d
+		}
+		{
+			icon: {
+				id: "minecraft:player_head"
+			}
+			id: "7307000000000043"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000044"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 12.0d
+		}
+		{
+			icon: {
+				id: "minecraft:note_block"
+			}
+			id: "7307000000000045"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000046"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 15.0d
+		}
+		{
+			icon: {
+				id: "minecraft:crafting_table"
+			}
+			id: "7307000000000047"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000048"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 15.0d
+		}
+		{
+			icon: {
+				id: "minecraft:redstone"
+			}
+			id: "7307000000000049"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "740700000000004A"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 15.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "730700000000004B"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "740700000000004C"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 18.0d
+		}
+	]
+}

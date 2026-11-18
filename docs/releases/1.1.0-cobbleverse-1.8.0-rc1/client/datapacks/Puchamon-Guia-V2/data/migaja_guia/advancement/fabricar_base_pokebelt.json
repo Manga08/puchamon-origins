@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "crafted": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "modid:base_pokebelt"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "crafted"
+    ]
+  ]
+}

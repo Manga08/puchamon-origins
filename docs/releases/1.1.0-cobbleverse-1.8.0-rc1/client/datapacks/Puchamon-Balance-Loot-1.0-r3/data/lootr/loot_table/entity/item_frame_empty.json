@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:chest",
+  "random_sequence": "lootr:entity/item_frame_empty",
+  "pools": []
+}

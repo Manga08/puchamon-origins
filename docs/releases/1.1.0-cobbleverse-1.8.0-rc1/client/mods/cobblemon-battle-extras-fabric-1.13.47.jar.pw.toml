@@ -1,0 +1,8 @@
+name = "cobblemon-battle-extras-fabric-1.13.47.jar"
+filename = "cobblemon-battle-extras-fabric-1.13.47.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2iY8VFqL/versions/ZMERSNGG/cobblemon-battle-extras-fabric-1.13.47.jar"
+hash-format = "sha256"
+hash = "8c489add554a5c9c08a2bf0e19f619d0b4d5def928f1206f58fcbd6c067ef24f"

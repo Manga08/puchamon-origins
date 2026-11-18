@@ -1,0 +1,8 @@
+name = "timcore-fabric-1.8.4-1.38.0.jar"
+filename = "timcore-fabric-1.8.4-1.38.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lVP9aUaY/versions/zeMnK5yC/timcore-fabric-1.8.4-1.38.0.jar"
+hash-format = "sha256"
+hash = "c274b5d836b439b6de1969bc33a0ef91c28d4374c3144085558967d8ea446655"

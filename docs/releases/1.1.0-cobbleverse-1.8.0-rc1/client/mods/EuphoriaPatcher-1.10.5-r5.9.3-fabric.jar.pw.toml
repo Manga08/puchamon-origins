@@ -1,0 +1,8 @@
+name = "EuphoriaPatcher-1.10.5-r5.9.3-fabric.jar"
+filename = "EuphoriaPatcher-1.10.5-r5.9.3-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4H6sumDB/versions/YYczPGkW/EuphoriaPatcher-1.10.5-r5.9.3-fabric.jar"
+hash-format = "sha256"
+hash = "f6be638d63462d765004d08f912a105db981dc6a24ba2dd6b5e22b5fab416589"

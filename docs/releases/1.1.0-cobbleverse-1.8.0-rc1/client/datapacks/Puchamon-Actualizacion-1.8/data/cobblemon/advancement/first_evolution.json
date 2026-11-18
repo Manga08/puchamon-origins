@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "evolve": {
+      "trigger": "cobblemon:pokemon_evolved",
+      "conditions": {
+        "species": "any",
+        "evolution": "any",
+        "times": 1
+      }
+    }
+  },
+  "sends_telemetry_event": false
+}

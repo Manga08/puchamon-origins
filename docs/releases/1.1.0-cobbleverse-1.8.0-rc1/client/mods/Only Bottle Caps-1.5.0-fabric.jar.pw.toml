@@ -1,0 +1,8 @@
+name = "Only Bottle Caps-1.5.0-fabric.jar"
+filename = "Only Bottle Caps-1.5.0-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tDRRddpZ/versions/l7Gi3yRs/Only%20Bottle%20Caps-1.5.0-fabric.jar"
+hash-format = "sha256"
+hash = "9a47d157c94d9617c0aa19a82cf56a5388afcbe02ee6a81b3f544374b2323cf6"

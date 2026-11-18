@@ -1,0 +1,8 @@
+name = "Confetti-1.3.3+1.21.jar"
+filename = "Confetti-1.3.3+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5s9W6kVl/versions/PUmxivnQ/Confetti-1.3.3%2B1.21.jar"
+hash-format = "sha256"
+hash = "c0066733f18fd26a6d767a7bd55501c121e30dea6eecb7d84d672a8583129bc3"

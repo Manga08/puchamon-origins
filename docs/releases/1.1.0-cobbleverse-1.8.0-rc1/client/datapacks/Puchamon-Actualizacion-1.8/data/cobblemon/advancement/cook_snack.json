@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "cook_snack": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "cobblemon:poke_snack"
+          }
+        ]
+      }
+    }
+  }
+}

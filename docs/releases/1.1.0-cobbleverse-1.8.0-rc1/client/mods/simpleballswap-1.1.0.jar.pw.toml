@@ -1,0 +1,8 @@
+name = "simpleballswap-1.1.0.jar"
+filename = "simpleballswap-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://manga08.github.io/puchamon-origins/releases/1.1.0-cobbleverse-1.8.0-rc1/blobs/0c56fcddfeea018d69f930ef2bf198bfe038dd681fc9bee2c08bae483522c87a.jar"
+hash-format = "sha256"
+hash = "0c56fcddfeea018d69f930ef2bf198bfe038dd681fc9bee2c08bae483522c87a"

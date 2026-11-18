@@ -1,0 +1,8 @@
+name = "confetti_stuff-1.2.3+1.21.jar"
+filename = "confetti_stuff-1.2.3+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6yBwpkox/versions/WMgOdN5R/confetti_stuff-1.2.3%2B1.21.jar"
+hash-format = "sha256"
+hash = "cef17c878e8bcc9b77c473d758fdfae55a088186318179cc06947c563ed94c0a"

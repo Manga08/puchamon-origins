@@ -1,0 +1,8 @@
+name = "balm-fabric-1.21.1-21.0.67.jar"
+filename = "balm-fabric-1.21.1-21.0.67.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MBAkmtvl/versions/HY6fKMHC/balm-fabric-1.21.1-21.0.67.jar"
+hash-format = "sha256"
+hash = "8384e1df572784dc969802cc75dd28a1c8f194bb2cb17aef4271c564e59b6d61"
