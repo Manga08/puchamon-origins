@@ -1,6 +1,6 @@
 {
   "schema": 1,
   "packId": "puchamon-origins",
-  "manifest": "../releases/1.1.0-cobbleverse-1.8.0-rc1/manifest.json",
-  "manifestSha256": "1288722e046af313cbd28fdd3820a5b914b00190a59b1be9bc5cdb82be2fc303"
+  "manifest": "../releases/1.1.0-hotfix-recursos.1/manifest.json",
+  "manifestSha256": "9a055ef67155b55eef596c10bac45bb3f313a2f01880c43265f2943c52ce4067"
 }
