@@ -1,6 +1,6 @@
 {
   "schema": 1,
   "packId": "puchamon-origins",
-  "manifest": "../releases/1.0-auto.16/manifest.json",
-  "manifestSha256": "ea6f8f43f3ac854f3a118106cbc96f01eda117e38f6ceb106403225e1eadc076"
+  "manifest": "../releases/1.1.0-cobbleverse-1.8.0-rc1/manifest.json",
+  "manifestSha256": "1288722e046af313cbd28fdd3820a5b914b00190a59b1be9bc5cdb82be2fc303"
 }
