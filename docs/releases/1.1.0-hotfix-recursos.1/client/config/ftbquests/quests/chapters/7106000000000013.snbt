@@ -1,0 +1,99 @@
+{
+	autofocus_id: "7106000000000014"
+	default_hide_dependency_lines: false
+	default_min_width: 240
+	default_quest_shape: "rsquare"
+	filename: "7106000000000013"
+	group: "6111000000000003"
+	icon: {
+		id: "immersive_paintings:painting"
+	}
+	id: "7106000000000013"
+	images: [ ]
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "immersive_paintings:painting"
+			}
+			id: "7106000000000014"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 16
+				id: "7106000000000016"
+				item: {
+					count: 1
+					id: "minecraft:white_wool"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:fabricar_7106000000000014"
+				criterion: ""
+				id: "7106000000000015"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7106000000000014"]
+			icon: {
+				id: "immersive_paintings:glow_painting"
+			}
+			id: "7106000000000017"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 4
+				id: "7106000000000019"
+				item: {
+					count: 1
+					id: "minecraft:glow_ink_sac"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:fabricar_7106000000000017"
+				criterion: ""
+				id: "7106000000000018"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "710600000000001A"
+			optional: true
+			shape: "gear"
+			tasks: [{
+				id: "710600000000001B"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "7307000000000103"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000104"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 7.0d
+		}
+	]
+}

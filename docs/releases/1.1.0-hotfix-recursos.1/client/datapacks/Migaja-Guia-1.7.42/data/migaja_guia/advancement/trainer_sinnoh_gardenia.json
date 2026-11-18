@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "leader_defeated": {
+      "conditions": {
+        "trainer_ids": [
+          "sinnoh_gardenia"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "leader_defeated"
+    ]
+  ]
+}

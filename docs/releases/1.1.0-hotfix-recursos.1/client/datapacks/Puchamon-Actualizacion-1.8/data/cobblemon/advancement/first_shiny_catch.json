@@ -1,0 +1,11 @@
+{
+  "criteria": {
+    "catch": {
+      "trigger": "cobblemon:catch_shiny_pokemon",
+      "conditions": {
+        "count": 1
+      }
+    }
+  },
+  "sends_telemetry_event": false
+}

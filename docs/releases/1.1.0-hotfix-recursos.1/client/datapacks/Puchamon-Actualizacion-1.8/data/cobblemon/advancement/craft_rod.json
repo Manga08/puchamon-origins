@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "craft_rod": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#cobblemon:poke_rods"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+enablePcUpgrade = false
+enableCampfirePotUpgrade = true
+[HealUpgrade]
+enableHealUpgrade = true
+enableHealCooldown = true
+healCooldownSeconds = 300
+[HealUpgrade.HealUpgradeTier]
+enableUpgradeTiers = true
+reduceTimeToHealTier1 = 10
+reduceTimeToHealTier2 = 20
+reduceTimeToHealTier3 = 30
+reduceTimeToHealTier4 = 40

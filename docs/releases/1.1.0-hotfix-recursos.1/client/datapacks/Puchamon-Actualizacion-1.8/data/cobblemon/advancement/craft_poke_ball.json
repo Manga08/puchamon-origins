@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#cobblemon:poke_balls"
+          }
+        ]
+      }
+    }
+  },
+  "sends_telemetry_event": false
+}

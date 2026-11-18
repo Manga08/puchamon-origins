@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "full_party": {
+      "trigger": "cobblemon:party",
+      "conditions": {
+        "party": [
+          "any",
+          "any",
+          "any",
+          "any",
+          "any",
+          "any"
+        ]
+      }
+    }
+  }
+}

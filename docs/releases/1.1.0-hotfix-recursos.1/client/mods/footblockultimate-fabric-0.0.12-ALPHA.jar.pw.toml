@@ -1,0 +1,8 @@
+name = "footblockultimate-fabric-0.0.12-ALPHA.jar"
+filename = "footblockultimate-fabric-0.0.12-ALPHA.jar"
+side = "client"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8445/383/footblockultimate-fabric-0.0.12-ALPHA.jar"
+hash-format = "sha256"
+hash = "1f13d055acd31cc8ad1d8d055272e343ec3bb11ab34e28c3651b1329400436e7"

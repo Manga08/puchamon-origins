@@ -1,0 +1,8 @@
+name = "puchamon-workshop-1.1.0.jar"
+filename = "puchamon-workshop-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://manga08.github.io/puchamon-origins/releases/1.1.0-cobbleverse-1.8.0-rc1/blobs/367eba5d776b2720e672639feddb4b886b3c4fe453a8097eb5d09ebfc7a07bf8.jar"
+hash-format = "sha256"
+hash = "367eba5d776b2720e672639feddb4b886b3c4fe453a8097eb5d09ebfc7a07bf8"

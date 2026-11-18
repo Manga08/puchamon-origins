@@ -1,0 +1,8 @@
+name = "tmcraft-1.4.19+1.8.4.jar"
+filename = "tmcraft-1.4.19+1.8.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HU6mkUZs/versions/aZiPJqde/tmcraft-1.4.19%2B1.8.4.jar"
+hash-format = "sha256"
+hash = "276974718932e5dfb21873e49049e7f66cbe052f35f3abd69a5c4d8c67002e38"

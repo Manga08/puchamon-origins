@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "check_inv": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#cobblemon:berries"
+          }
+        ]
+      }
+    }
+  }
+}

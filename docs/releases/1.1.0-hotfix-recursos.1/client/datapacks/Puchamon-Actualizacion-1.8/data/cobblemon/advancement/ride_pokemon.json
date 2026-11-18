@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "check_inv": {
+      "trigger": "minecraft:started_riding",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "vehicle": {
+                "type": "cobblemon:pokemon"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

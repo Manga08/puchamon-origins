@@ -1,0 +1,8 @@
+name = "cobblenav-fabric-2.4.2.jar"
+filename = "cobblenav-fabric-2.4.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bI8Nt3uA/versions/wq3mHFqw/cobblenav-fabric-2.4.2.jar"
+hash-format = "sha256"
+hash = "ed8bd66e590e4716b8ff327835a646214129ef477c9c526c57df3c04e0b266f9"

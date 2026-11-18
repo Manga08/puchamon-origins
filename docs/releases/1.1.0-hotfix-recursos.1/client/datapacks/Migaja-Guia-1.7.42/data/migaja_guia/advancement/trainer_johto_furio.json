@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "leader_defeated": {
+      "conditions": {
+        "trainer_ids": [
+          "johto_furio"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "leader_defeated"
+    ]
+  ]
+}

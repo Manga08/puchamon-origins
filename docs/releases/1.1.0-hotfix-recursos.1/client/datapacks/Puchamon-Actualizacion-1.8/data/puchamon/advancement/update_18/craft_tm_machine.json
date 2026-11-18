@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "craft_0": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "cobblemon:tm_machine"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "craft_0"
+    ]
+  ]
+}

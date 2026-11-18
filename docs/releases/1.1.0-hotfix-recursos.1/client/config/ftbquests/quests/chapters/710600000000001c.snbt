@@ -1,0 +1,153 @@
+{
+	autofocus_id: "710600000000001D"
+	default_hide_dependency_lines: false
+	default_min_width: 240
+	default_quest_shape: "rsquare"
+	filename: "710600000000001c"
+	group: "6111000000000003"
+	icon: {
+		id: "securitycraft:keypad_door"
+	}
+	id: "710600000000001C"
+	images: [ ]
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "securitycraft:universal_block_reinforcer_lvl1"
+			}
+			id: "710600000000001D"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 8
+				id: "710600000000001F"
+				item: {
+					count: 1
+					id: "minecraft:iron_ingot"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:fabricar_710600000000001d"
+				criterion: ""
+				id: "710600000000001E"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["710600000000001D"]
+			icon: {
+				id: "securitycraft:keypad_door"
+			}
+			id: "7106000000000020"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 16
+				id: "7106000000000022"
+				item: {
+					count: 1
+					id: "minecraft:redstone"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:fabricar_7106000000000020"
+				criterion: ""
+				id: "7106000000000021"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["710600000000001D"]
+			icon: {
+				id: "securitycraft:keypad_chest"
+			}
+			id: "7106000000000023"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 12
+				id: "7106000000000025"
+				item: {
+					count: 1
+					id: "minecraft:iron_ingot"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "7106000000000024"
+				item: { count: 1, id: "securitycraft:keypad_chest" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["710600000000001D"]
+			icon: {
+				id: "securitycraft:wire_cutters"
+			}
+			id: "7106000000000026"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 8
+				id: "7106000000000028"
+				item: {
+					count: 1
+					id: "minecraft:iron_ingot"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "migaja_guia:fabricar_7106000000000026"
+				criterion: ""
+				id: "7106000000000027"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "7106000000000029"
+			optional: true
+			shape: "gear"
+			tasks: [{
+				id: "710600000000002A"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "7307000000000105"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000106"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 7.0d
+		}
+	]
+}

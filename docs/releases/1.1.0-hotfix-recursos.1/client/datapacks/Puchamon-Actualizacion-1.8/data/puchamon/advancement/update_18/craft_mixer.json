@@ -1,0 +1,57 @@
+{
+  "criteria": {
+    "craft_0": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "cobblecuisine:mixer_red"
+      }
+    },
+    "craft_1": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "cobblecuisine:mixer_blue"
+      }
+    },
+    "craft_2": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "cobblecuisine:mixer_green"
+      }
+    },
+    "craft_3": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "cobblecuisine:mixer_yellow"
+      }
+    },
+    "craft_4": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "cobblecuisine:mixer_pink"
+      }
+    },
+    "craft_5": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "cobblecuisine:mixer_white"
+      }
+    },
+    "craft_6": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "cobblecuisine:mixer_black"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "craft_0",
+      "craft_1",
+      "craft_2",
+      "craft_3",
+      "craft_4",
+      "craft_5",
+      "craft_6"
+    ]
+  ]
+}

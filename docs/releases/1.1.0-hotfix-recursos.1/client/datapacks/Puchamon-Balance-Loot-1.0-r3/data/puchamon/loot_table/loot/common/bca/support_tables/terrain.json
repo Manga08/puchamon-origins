@@ -1,0 +1,55 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "puchamon:loot/common/bca/item_groups/ingots",
+          "weight": 1
+        },
+        {
+          "type": "loot_table",
+          "value": "puchamon:loot/common/bca/item_groups/ore",
+          "weight": 1
+        },
+        {
+          "type": "loot_table",
+          "value": "bca:item_groups/nuggets",
+          "weight": 2
+        },
+        {
+          "type": "loot_table",
+          "value": "puchamon:loot/common/bca/item_groups/minerals",
+          "weight": 1
+        },
+        {
+          "type": "loot_table",
+          "value": "bca:item_groups/terrain",
+          "weight": 7
+        },
+        {
+          "type": "loot_table",
+          "value": "bca:item_groups/raw_minerals",
+          "weight": 2
+        },
+        {
+          "type": "loot_table",
+          "value": "bca:item_groups/gems",
+          "weight": 2
+        },
+        {
+          "type": "loot_table",
+          "value": "bca:item_groups/scraps",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "minecraft:air",
+          "weight": 4
+        }
+      ]
+    }
+  ]
+}

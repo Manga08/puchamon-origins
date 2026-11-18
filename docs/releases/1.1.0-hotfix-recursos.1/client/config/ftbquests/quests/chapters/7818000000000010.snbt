@@ -1,0 +1,106 @@
+{
+	default_hide_dependency_lines: false
+	default_min_width: 200
+	default_quest_shape: "rsquare"
+	filename: "7818000000000010"
+	group: "6111000000000001"
+	icon: {
+		id: "yigd:grave"
+	}
+	id: "7818000000000010"
+	images: [ ]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "yigd:grave"
+			}
+			id: "7918000000000014"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7918000000000015"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:compass"
+			}
+			id: "7918000000000016"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7918000000000017"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:chest"
+			}
+			id: "7918000000000018"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7918000000000019"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "modid:pokebelt"
+			}
+			id: "791800000000001A"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "791800000000001B"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "minecraft:shield"
+			}
+			id: "791800000000001C"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "791800000000001D"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "minecraft:lava_bucket"
+			}
+			id: "791800000000001E"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "791800000000001F"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 3.0d
+		}
+	]
+}

@@ -1,0 +1,8 @@
+name = "Stoneworks-v21.1.0-1.21.1-Fabric.jar"
+filename = "Stoneworks-v21.1.0-1.21.1-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FzyTKtVF/versions/62fUqsGs/Stoneworks-v21.1.0-1.21.1-Fabric.jar"
+hash-format = "sha256"
+hash = "461fa8d46e14c72e08bd0a263f2578beff810c5860ce1a313fb189a79d69f0b3"

@@ -1,0 +1,8 @@
+name = "zamega-fabric-1.8.2+1.8.2.jar"
+filename = "zamega-fabric-1.8.2+1.8.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2V1Y86sc/versions/CBalGwUD/zamega-fabric-1.8.2%2B1.8.2.jar"
+hash-format = "sha256"
+hash = "816bdfad0324472535202f257b0aca9171432178766860ca5842904e817e65d4"

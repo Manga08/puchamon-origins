@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "puchamon:loot/common/bca/item_groups/food",
+          "weight": 1
+        },
+        {
+          "type": "loot_table",
+          "value": "puchamon:loot/common/bca/item_groups/candies",
+          "weight": 1
+        },
+        {
+          "type": "loot_table",
+          "value": "puchamon:loot/common/bca/item_groups/cobblefood",
+          "weight": 5
+        },
+        {
+          "type": "loot_table",
+          "value": "bca:item_groups/pokefood",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "minecraft:air",
+          "weight": 10
+        }
+      ]
+    }
+  ]
+}

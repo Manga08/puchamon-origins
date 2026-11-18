@@ -1,0 +1,8 @@
+name = "SafePastures(Fabric)-1.1.2+1.21.1.jar"
+filename = "SafePastures(Fabric)-1.1.2+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qpe01spE/versions/gHHJ8bPf/SafePastures%28Fabric%29-1.1.2%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "c923f7cf8f7762b551aacb1e87eca483e99acf7f99cba2ee5796ed1746e06ef0"

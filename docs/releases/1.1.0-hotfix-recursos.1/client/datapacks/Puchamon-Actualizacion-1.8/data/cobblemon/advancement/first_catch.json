@@ -1,0 +1,12 @@
+{
+  "criteria": {
+    "catch": {
+      "trigger": "cobblemon:catch_pokemon",
+      "conditions": {
+        "count": 1,
+        "species": "any"
+      }
+    }
+  },
+  "sends_telemetry_event": false
+}

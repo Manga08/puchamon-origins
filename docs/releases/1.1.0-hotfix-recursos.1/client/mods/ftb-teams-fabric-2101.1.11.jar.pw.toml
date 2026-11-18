@@ -1,0 +1,8 @@
+name = "ftb-teams-fabric-2101.1.11.jar"
+filename = "ftb-teams-fabric-2101.1.11.jar"
+side = "client"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8724/781/ftb-teams-fabric-2101.1.11.jar"
+hash-format = "sha256"
+hash = "39e34b438e0232a614a8cf1269fcff2705b85fde8b930a03d558bc66a03c7cf6"

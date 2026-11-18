@@ -1,0 +1,8 @@
+name = "customsplashscreen-2.2.2.jar"
+filename = "customsplashscreen-2.2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BwFQLeCh/versions/LspxE3dn/customsplashscreen-2.2.2.jar"
+hash-format = "sha256"
+hash = "5f3db7d5109c6e5ec690c134ce2feb0d6cc131220d330520e77ea649bf912298"

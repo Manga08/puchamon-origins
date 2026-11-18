@@ -1,0 +1,8 @@
+name = "puchamon-ui-labels-1.1.0.jar"
+filename = "puchamon-ui-labels-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://manga08.github.io/puchamon-origins/releases/1.1.0-cobbleverse-1.8.0-rc1/blobs/1ef24bc780595d078af3518a7653f3f331cd9ee948f63cada2cacae09b3b9eb8.jar"
+hash-format = "sha256"
+hash = "1ef24bc780595d078af3518a7653f3f331cd9ee948f63cada2cacae09b3b9eb8"

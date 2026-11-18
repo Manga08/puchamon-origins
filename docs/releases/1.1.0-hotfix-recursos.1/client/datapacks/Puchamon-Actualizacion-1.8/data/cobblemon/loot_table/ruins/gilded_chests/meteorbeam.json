@@ -1,0 +1,238 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "cobblemon:sets/any_ancient_held_item",
+          "weight": 1
+        }
+      ],
+      "rolls": {
+        "max": 1.0,
+        "min": 0.0,
+        "type": "minecraft:uniform"
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "cobblemon:sets/any_evo_stone",
+          "weight": 1
+        }
+      ],
+      "rolls": {
+        "max": 1.0,
+        "min": 0.0,
+        "type": "minecraft:uniform"
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "puchamon:loot_18/ruins_candy",
+          "weight": 1
+        }
+      ],
+      "rolls": {
+        "max": 1.0,
+        "min": 1.0,
+        "type": "minecraft:uniform"
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "cobblemon:sets/any_type_gem",
+          "weight": 1
+        }
+      ],
+      "rolls": {
+        "max": 1.0,
+        "min": 0.0,
+        "type": "minecraft:uniform"
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "cobblemon:sets/any_natural_heal_item",
+          "weight": 1
+        }
+      ],
+      "rolls": {
+        "max": 1.0,
+        "min": 0.0,
+        "type": "minecraft:uniform"
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 10,
+          "conditions": []
+        }
+      ],
+      "rolls": {
+        "max": 1.0,
+        "min": 0.0,
+        "type": "minecraft:uniform"
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 20,
+                "min": 10
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "cobblemon:relic_coin",
+          "type": "minecraft:item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 2,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "minecraft:glass_bottle",
+          "type": "minecraft:item",
+          "weight": 2
+        }
+      ],
+      "rolls": {
+        "max": 3.0,
+        "min": 2.0,
+        "type": "minecraft:uniform"
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "name": "cobblemon:link_cable",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            }
+          ],
+          "name": "minecraft:book",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            }
+          ],
+          "name": "minecraft:stone_axe",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            }
+          ],
+          "name": "minecraft:stone_pickaxe",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            }
+          ],
+          "name": "minecraft:stone_shovel",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            }
+          ],
+          "name": "minecraft:stone_sword",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            }
+          ],
+          "name": "minecraft:stone_shovel",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
+          "name": "cobblemon:automaton_armor_trim_smithing_template",
+          "type": "minecraft:item",
+          "weight": 1
+        }
+      ],
+      "rolls": {
+        "max": 1.0,
+        "min": 0.0,
+        "type": "minecraft:uniform"
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "functions": [
+            {
+              "components": {
+                "cobblemon:tm_move": {
+                  "move": "meteorbeam"
+                }
+              },
+              "function": "minecraft:set_components"
+            }
+          ],
+          "name": "cobblemon:technical_machine",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": {
+        "max": 1.0,
+        "min": 1.0,
+        "type": "minecraft:uniform"
+      }
+    }
+  ],
+  "random_sequence": "cobblemon:ruins/gilded_chests/ruins",
+  "type": "minecraft:chest"
+}

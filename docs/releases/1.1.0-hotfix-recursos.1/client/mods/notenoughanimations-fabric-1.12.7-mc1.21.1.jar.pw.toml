@@ -1,0 +1,8 @@
+name = "notenoughanimations-fabric-1.12.7-mc1.21.1.jar"
+filename = "notenoughanimations-fabric-1.12.7-mc1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/pPdRjl6T/notenoughanimations-fabric-1.12.7-mc1.21.1.jar"
+hash-format = "sha256"
+hash = "bb80a203642110f110188cca5de0700a04c9004238b58594f3b43394283180c5"

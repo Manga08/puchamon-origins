@@ -1,0 +1,8 @@
+name = "mcw-trapdoors-1.1.5-mc1.21.1fabric.jar"
+filename = "mcw-trapdoors-1.1.5-mc1.21.1fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/n2fvCDlM/versions/Nr24HhRK/mcw-trapdoors-1.1.5-mc1.21.1fabric.jar"
+hash-format = "sha256"
+hash = "b32ff007aa60c90a1293d52fd3f58b04e97b3c783034376ce830fd5b7359f001"

@@ -1,0 +1,8 @@
+name = "Puchamon Archive Defaults"
+filename = "puchamon-archive-defaults-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://manga08.github.io/puchamon-origins/releases/1.1.0-hotfix-recursos.1/blobs/0ab03bfb3181cea86321b7e3ef2d2070eadd3c1c80c471bb26fb2af486b0e6fc.jar"
+hash-format = "sha256"
+hash = "0ab03bfb3181cea86321b7e3ef2d2070eadd3c1c80c471bb26fb2af486b0e6fc"

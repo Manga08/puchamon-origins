@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "receta_0": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "sophisticatedbackpacks:iron_backpack"
+      }
+    },
+    "receta_1": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "sophisticatedbackpacks:iron_backpack_from_copper"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "receta_0",
+      "receta_1"
+    ]
+  ]
+}

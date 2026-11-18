@@ -1,0 +1,8 @@
+name = "puchamon-radar-1.1.0.jar"
+filename = "puchamon-radar-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://manga08.github.io/puchamon-origins/releases/1.1.0-cobbleverse-1.8.0-rc1/blobs/21abb94689a315547e748b7ef9976ba643a0d701e9d676832c8ac4008ff3248a.jar"
+hash-format = "sha256"
+hash = "21abb94689a315547e748b7ef9976ba643a0d701e9d676832c8ac4008ff3248a"

@@ -1,0 +1,563 @@
+{
+	autofocus_id: "730700000000004D"
+	default_hide_dependency_lines: false
+	default_min_width: 200
+	default_quest_shape: "rsquare"
+	filename: "7207000000000003"
+	group: "6111000000000003"
+	icon: {
+		id: "minecraft:stonecutter"
+	}
+	id: "7207000000000003"
+	images: [ ]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "stoneworks:stone_tiles"
+			}
+			id: "730700000000004D"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "740700000000004E"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "stoneworks:stone_tiles"
+			}
+			id: "730700000000004F"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 32
+				id: "7507000000000051"
+				item: {
+					count: 1
+					id: "minecraft:stone"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "7407000000000050"
+				item: { count: 1, id: "stoneworks:stone_tiles" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "mcwroofs:oak_roof"
+			}
+			id: "7307000000000052"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000053"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "mcwroofs:oak_roof"
+			}
+			id: "7307000000000054"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 32
+				id: "7507000000000056"
+				item: {
+					count: 1
+					id: "minecraft:stone"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:fabricar_7307000000000054"
+				criterion: ""
+				id: "7407000000000055"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "mcwwindows:oak_window"
+			}
+			id: "7307000000000057"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000058"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "mcwwindows:oak_window"
+			}
+			id: "7307000000000059"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 32
+				id: "750700000000005B"
+				item: {
+					count: 1
+					id: "minecraft:stone"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:fabricar_7307000000000059"
+				criterion: ""
+				id: "740700000000005A"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "mcwdoors:oak_japanese_door"
+			}
+			id: "730700000000005C"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "740700000000005D"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			icon: {
+				id: "mcwdoors:oak_japanese_door"
+			}
+			id: "730700000000005E"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 32
+				id: "7507000000000060"
+				item: {
+					count: 1
+					id: "minecraft:stone"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:fabricar_730700000000005e"
+				criterion: ""
+				id: "740700000000005F"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			icon: {
+				id: "mcwtrpdoors:oak_barn_trapdoor"
+			}
+			id: "7307000000000061"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000062"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 6.0d
+		}
+		{
+			icon: {
+				id: "mcwtrpdoors:oak_barn_trapdoor"
+			}
+			id: "7307000000000063"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 32
+				id: "7507000000000065"
+				item: {
+					count: 1
+					id: "minecraft:stone"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:fabricar_7307000000000063"
+				criterion: ""
+				id: "7407000000000064"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				id: "mcwbridges:iron_bridge"
+			}
+			id: "7307000000000066"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000067"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				id: "mcwbridges:iron_bridge"
+			}
+			id: "7307000000000068"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 32
+				id: "750700000000006A"
+				item: {
+					count: 1
+					id: "minecraft:stone"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:fabricar_7307000000000068"
+				criterion: ""
+				id: "7407000000000069"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				id: "mcwstairs:oak_terrace_stairs"
+			}
+			id: "730700000000006B"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "740700000000006C"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			icon: {
+				id: "mcwstairs:oak_terrace_stairs"
+			}
+			id: "730700000000006D"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 32
+				id: "750700000000006F"
+				item: {
+					count: 1
+					id: "minecraft:stone"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:fabricar_730700000000006d"
+				criterion: ""
+				id: "740700000000006E"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 12.0d
+		}
+		{
+			icon: {
+				id: "mcwfences:oak_picket_fence"
+			}
+			id: "7307000000000070"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000071"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 12.0d
+		}
+		{
+			icon: {
+				id: "mcwfences:oak_picket_fence"
+			}
+			id: "7307000000000072"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 32
+				id: "7507000000000074"
+				item: {
+					count: 1
+					id: "minecraft:stone"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:fabricar_7307000000000072"
+				criterion: ""
+				id: "7407000000000073"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 15.0d
+		}
+		{
+			icon: {
+				id: "mcwpaths:oak_planks_path"
+			}
+			id: "7307000000000075"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000076"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 15.0d
+		}
+		{
+			icon: {
+				id: "mcwpaths:oak_planks_path"
+			}
+			id: "7307000000000077"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 32
+				id: "7507000000000079"
+				item: {
+					count: 1
+					id: "minecraft:stone"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:fabricar_7307000000000077"
+				criterion: ""
+				id: "7407000000000078"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 15.0d
+		}
+		{
+			icon: {
+				id: "mcwlights:white_lamp"
+			}
+			id: "730700000000007A"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "740700000000007B"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 18.0d
+		}
+		{
+			icon: {
+				id: "mcwlights:white_lamp"
+			}
+			id: "730700000000007C"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 8
+				id: "750700000000007E"
+				item: {
+					count: 1
+					id: "minecraft:copper_ingot"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:fabricar_730700000000007c"
+				criterion: ""
+				id: "740700000000007D"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 18.0d
+		}
+		{
+			icon: {
+				id: "chipped:botanist_workbench"
+			}
+			id: "730700000000007F"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000080"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 18.0d
+		}
+		{
+			icon: {
+				id: "chipped:botanist_workbench"
+			}
+			id: "7307000000000081"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 32
+				id: "7507000000000083"
+				item: {
+					count: 1
+					id: "minecraft:stone"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:fabricar_7307000000000081"
+				criterion: ""
+				id: "7407000000000082"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 21.0d
+		}
+		{
+			icon: {
+				id: "supplementaries:crank"
+			}
+			id: "7307000000000084"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7407000000000085"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 21.0d
+		}
+		{
+			icon: {
+				id: "supplementaries:crank"
+			}
+			id: "7307000000000086"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 32
+				id: "7507000000000088"
+				item: {
+					count: 1
+					id: "minecraft:stone"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "migaja_guia:fabricar_7307000000000086"
+				criterion: ""
+				id: "7407000000000087"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 21.0d
+		}
+		{
+			icon: {
+				id: "blockus:cobblestone_bricks"
+			}
+			id: "7307000000000089"
+			optional: true
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "740700000000008A"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 24.0d
+		}
+		{
+			icon: {
+				id: "blockus:cobblestone_bricks"
+			}
+			id: "730700000000008B"
+			optional: true
+			rewards: [{
+				auto: "disabled"
+				count: 32
+				id: "750700000000008D"
+				item: {
+					count: 1
+					id: "minecraft:stone"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "740700000000008C"
+				item: { count: 1, id: "blockus:cobblestone_bricks" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 24.0d
+		}
+	]
+}

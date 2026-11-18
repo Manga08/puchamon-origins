@@ -1,0 +1,8 @@
+name = "repurposed_structures-7.5.22+1.21.1-fabric.jar"
+filename = "repurposed_structures-7.5.22+1.21.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/muf0XoRe/versions/JRMMCb1O/repurposed_structures-7.5.22%2B1.21.1-fabric.jar"
+hash-format = "sha256"
+hash = "a029476f4d90428e09c8631d3cee8be8c989f349800b933fa7975f145327c6e6"

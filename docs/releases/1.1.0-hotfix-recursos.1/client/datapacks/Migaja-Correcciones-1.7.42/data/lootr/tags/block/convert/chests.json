@@ -1,0 +1,12 @@
+{
+ "replace":false,
+ "values":[
+  {"id":"cobblemon:gilded_chest","required":false},
+  {"id":"cobblemon:black_gilded_chest","required":false},
+  {"id":"cobblemon:blue_gilded_chest","required":false},
+  {"id":"cobblemon:green_gilded_chest","required":false},
+  {"id":"cobblemon:pink_gilded_chest","required":false},
+  {"id":"cobblemon:white_gilded_chest","required":false},
+  {"id":"cobblemon:yellow_gilded_chest","required":false}
+ ]
+}

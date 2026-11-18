@@ -1,0 +1,8 @@
+name = "LegendaryMonuments-Cobbleverse.jar"
+filename = "LegendaryMonuments-Cobbleverse.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/m6RyHSbV/versions/RtYJBrxd/LegendaryMonuments-Cobbleverse.jar"
+hash-format = "sha256"
+hash = "34901d7c95bff58242384c44abc6acc50c2e06310b85f7e80bcd70f7c7e5b0b6"

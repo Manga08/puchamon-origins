@@ -1,0 +1,112 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "min": 7,
+        "max": 11
+      },
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "bca:support_tables/weapons",
+          "weight": 5
+        },
+        {
+          "type": "loot_table",
+          "value": "puchamon:loot/common/bca/support_tables/tools",
+          "weight": 3
+        },
+        {
+          "type": "loot_table",
+          "value": "puchamon:loot/common/bca/item_groups/evolution_stones",
+          "weight": 2
+        },
+        {
+          "type": "loot_table",
+          "value": "bca:item_groups/gems",
+          "weight": 3
+        },
+        {
+          "type": "loot_table",
+          "value": "bca:item_groups/nuggets",
+          "weight": 5
+        },
+        {
+          "type": "loot_table",
+          "value": "puchamon:loot/common/bca/item_groups/minerals",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "minecraft:air",
+          "weight": 10
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.01
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:fire_stone",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:water_stone",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:leaf_stone",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:thunder_stone",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:moon_stone",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:sun_stone",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:link_cable",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.01
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

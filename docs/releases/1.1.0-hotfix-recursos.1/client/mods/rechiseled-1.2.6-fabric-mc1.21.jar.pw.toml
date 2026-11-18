@@ -1,0 +1,8 @@
+name = "rechiseled-1.2.6-fabric-mc1.21.jar"
+filename = "rechiseled-1.2.6-fabric-mc1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/B0g2vT6l/versions/7411ZFAs/rechiseled-1.2.6-fabric-mc1.21.jar"
+hash-format = "sha256"
+hash = "f3a6eb838abe405c056226ad9b1d7a2778633dffc0c22ac81c19f17e0d27083d"

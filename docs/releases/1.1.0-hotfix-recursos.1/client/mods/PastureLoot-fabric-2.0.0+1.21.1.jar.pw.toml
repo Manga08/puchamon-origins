@@ -1,0 +1,8 @@
+name = "PastureLoot-fabric-2.0.0+1.21.1.jar"
+filename = "PastureLoot-fabric-2.0.0+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XP2jcAo0/versions/catyYgS1/PastureLoot-fabric-2.0.0%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "97fafa45204fd79f6d850d60cb35a2b795d29fcf97a7dc5d6845ed83733a3175"

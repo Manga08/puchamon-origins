@@ -1,0 +1,8 @@
+name = "Debugify-1.21.1+1.1.jar"
+filename = "Debugify-1.21.1+1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QwxR6Gcd/versions/pyIdu3f1/Debugify-1.21.1%2B1.1.jar"
+hash-format = "sha256"
+hash = "aa087f91939542c9de12260302e514222287e1c7f49b686e3e2a7fb034461c0e"

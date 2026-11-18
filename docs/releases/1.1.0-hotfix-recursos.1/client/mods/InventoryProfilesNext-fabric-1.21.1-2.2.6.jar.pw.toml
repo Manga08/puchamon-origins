@@ -1,0 +1,8 @@
+name = "InventoryProfilesNext-fabric-1.21.1-2.2.6.jar"
+filename = "InventoryProfilesNext-fabric-1.21.1-2.2.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/h1db7jG7/InventoryProfilesNext-fabric-1.21.1-2.2.6.jar"
+hash-format = "sha256"
+hash = "b69ac6f98e99042d6edd755242bf76d35eea4342559d2b1d88160e556c629177"

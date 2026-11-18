@@ -1,0 +1,8 @@
+name = "pokebelt-0.1.6.jar"
+filename = "pokebelt-0.1.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kgst0RnJ/versions/EYkSCLO8/pokebelt-0.1.6.jar"
+hash-format = "sha256"
+hash = "5b0e5b33013d6a0f8f0092a281f5d104aa5ed9c36af9765f12211d4332f4c2ef"
